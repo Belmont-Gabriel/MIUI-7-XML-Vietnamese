@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ngày "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d giờ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d phút "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ứng dụng có thể tự khởi chạy</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ứng dụng không được phép tự khởi chạy</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d quyền</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ứng dụng có quyền root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ứng dụng không có quyền root</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
+    </plurals>
+</resources>
