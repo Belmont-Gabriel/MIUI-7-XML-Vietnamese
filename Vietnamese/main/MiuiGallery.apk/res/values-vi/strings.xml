@@ -524,9 +524,6 @@
     <string name="moman_camera_icon">Biểu tượng cảm xúc Máy ảnh Moman</string>
     <string name="yunyi_pocket_camera">Máy ảnh Thể thao</string>
     <string name="picker_tab_photo">Ảnh</string>
-    <string name="picker_tab_local">@string/home_page_tab_local</string>
-    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
-    <string name="picker_tab_face">@string/home_page_tab_face</string>
     <string name="picker_no_items_selected">Không có mục nào được chọn</string>
     <string name="picker_select_album_title_empty">Chọn một album</string>
     <string name="picker_no_album_selected">Không có album nào được chọn</string>
