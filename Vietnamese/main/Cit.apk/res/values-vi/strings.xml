@@ -31,7 +31,7 @@
     <string name="cit_audio_loopback_dualmic_earpiece_title">Kiểm tra giảm ồn xung quanh</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Kiểm tra phản hồi loa micrô sau</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Kiểm tra phản hồi loa micrô chính</string>
-    <string name="cit_x5_audio_lb_top_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
+    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
     <string name="cit_audio_lb_phonecall_title">Kiểm tra cuộc gọi mô phỏng</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
     <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Kiểm tra phản hồi micrô trước</string>
@@ -55,6 +55,7 @@
     <string name="cit_tool_modem_offline_log">Mở/Đóng Nhật ký Ngoại tuyến</string>
     <string name="cit_tool_modem_exit_ftm">Thoát chế độ FTM</string>
     <string name="cit_tool_modem_bugreport">Bắt buộc kết suất bộ nhớ MODEM</string>
+    <string name="cit_tool_modem_mbn">Thay đổi cấu hình môđem</string>
     <string name="cit_tool_nfc">Công cụ kiểm tra NFC</string>
     <string name="cit_tool_nfc_st">Nfc ST: </string>
     <string name="cit_tool_nfc_st_confreq">tần số:</string>

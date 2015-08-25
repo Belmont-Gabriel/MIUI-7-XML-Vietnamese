@@ -39,7 +39,7 @@
         <item>7</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Chỉ màn hình chính</item>
+        <item>Trong nước</item>
         <item>Tự động</item>
     </string-array>
     <string-array name="cdma_subscription_choices">

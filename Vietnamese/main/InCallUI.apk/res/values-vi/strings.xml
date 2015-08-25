@@ -149,7 +149,7 @@
     <string name="response_error">Phản hồi không mong muốn từ mạng.</string>
     <string name="exception_error">Mạng hoặc SIM bị lỗi.</string>
     <string name="fdn_check_failure">Ứng dụng Cài đặt Số quay Cố định của điện thoại được bật. Kết quả là, một số tính năng liên quan đến cuộc gọi không làm việc.</string>
-    <string name="radio_off_error">Bật radio trước khi xem các cài đặt.</string>
+    <string name="radio_off_error">Bật sóng radio trước khi xem các cài đặt.</string>
     <string name="close_dialog">OK</string>
     <string name="enable">Bật</string>
     <string name="disable">Tắt</string>
@@ -196,8 +196,8 @@ Chuyển sang nhà cung cấp mới không?"</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Chế độ mạng ưu tiên: CDMA+LTE/EVDO</string>
     <string name="preferred_network_mode_global_summary">Chế độ mạng ưu tiên: Toàn cầu</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Chế độ mạng ưu tiên: LTE / WCDMA</string>
-    <string name="data_enabled">Đã bật dữ liệu</string>
-    <string name="data_enable_summary">Cho phép truy cập dữ liệu qua mạng Di động</string>
+    <string name="data_enabled">Dữ liệu di động</string>
+    <string name="data_enable_summary">Truy cập dữ liệu qua mạng Di động</string>
     <string name="roaming">Chuyển vùng dữ liệu</string>
     <string name="roaming_enable">Sử dụng dữ liệu di động khi chuyển vùng</string>
     <string name="roaming_disable">Sử dụng dữ liệu di động khi chuyển vùng</string>
@@ -424,7 +424,7 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày ( %3$s )"</string>
     <string name="onscreenHoldText">Giữ</string>
     <string name="onscreenEndCallText">Kết thúc</string>
     <string name="onscreenModifyCallText">Sửa Cuộc gọi</string>
-    <string name="onscreenShowDialpadText">Bàn phím quay số</string>
+    <string name="onscreenShowDialpadText">Bàn phím</string>
     <string name="onscreenMuteText">Tắt tiếng</string>
     <string name="onscreenAddCallText">Thêm cuộc gọi</string>
     <string name="onscreenMergeCallsText">Gộp cuộc gọi</string>
@@ -448,7 +448,7 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày ( %3$s )"</string>
 
 Sau khi nhấn “Activate”, nghe các hướng dẫn được cung cấp để kích hoạt điện thoại của bạn."</string>
     <string name="ota_skip_activation_dialog_title">Bỏ qua kích hoạt?</string>
-    <string name="ota_skip_activation_dialog_message">Nếu bạn bỏ qua kích hoạt, bạn không thể thực hiện cuộc gọi hoặc kết nối với mạng dữ liệu di động (mặc dù bạn có thể kết nối với mạng Wi-Fi). Cho đến khi bạn kích hoạt điện thoại của bạn, bạn được yêu cầu để kích hoạt nó mỗi khi bạn bật nó.</string>
+    <string name="ota_skip_activation_dialog_message">Nếu bạn bỏ qua kích hoạt, bạn không thể thực hiện cuộc gọi hoặc kết nối với mạng dữ liệu di động (mặc dù bạn có thể kết nối với mạng Wi-Fi). Cho đến khi bạn kích hoạt, bạn được yêu cầu kích hoạt mỗi khi bạn bật điện thoại.</string>
     <string name="ota_skip_activation_dialog_skip_label">Bỏ qua</string>
     <string name="ota_activate">Kích hoạt</string>
     <string name="ota_title_activate_success">Điện thoại đã được kích hoạt.</string>
@@ -623,4 +623,12 @@ Thử lại hoặc gọi cho dịch vụ khách hàng để có thêm lựa ch�
     <string name="jeejen_card_title_incoming_call">Cuộc gọi đến</string>
     <string name="jeejen_card_title_call_cancel">Hủy cuộc gọi</string>
     <string name="jeejen_card_title_call_ended">Cuộc gọi kết thúc</string>
+    <string name="miprofile_stranger_card">Danh thiếp người lạ</string>
+    <string name="description_image_button_answer">Trượt lên để trả lời</string>
+    <string name="description_image_button_reject">Trượt lên để từ chối</string>
+    <string name="description_image_button_message_enter">Trượt lên để trả lời tin nhắn</string>
+    <string name="description_image_button_message_exit">Ẩn tin nhắn</string>
+    <string name="description_image_button_hangup">Kết thúc</string>
+    <string name="description_image_button_dialpad">Bàn phím</string>
+    <string name="description_image_button_tools">Tùy chọn</string>
 </resources>

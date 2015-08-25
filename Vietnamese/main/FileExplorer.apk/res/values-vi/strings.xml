@@ -15,8 +15,8 @@
     <string name="menu_item_sort_size">Kích thước</string>
     <string name="menu_item_sort_date">Ngày chỉnh sửa</string>
     <string name="menu_item_sort_type">Loại</string>
-    <string name="operation_favorite">Gắn dấu sao</string>
-    <string name="operation_unfavorite">Bỏ gắn dấu sao</string>
+    <string name="operation_favorite">Yêu thích</string>
+    <string name="operation_unfavorite">Hủy yêu thích</string>
     <string name="operation_copy">Sao chép</string>
     <string name="operation_paste">Dán</string>
     <string name="operation_move">Cắt</string>
@@ -31,12 +31,13 @@
     <string name="operation_hide_sys">Không hiển thị các tập tin ẩn</string>
     <string name="cancel">Hủy</string>
     <string name="tab_expand">Mở rộng</string>
-    <string name="mi_router_label">Bộ định tuyến Mi</string>
+    <string name="mi_router_label">Bộ định tuyến</string>
     <string name="usb_label">USB</string>
     <string name="background">Ẩn</string>
     <string name="no_file">Trống</string>
     <string name="tab_category">Phân loại</string>
     <string name="tab_path">THƯ MỤC</string>
+    <string name="tab_storage">LƯU TRỮ</string>
     <string name="category_all">Tất cả</string>
     <string name="category_music">Nhạc</string>
     <string name="category_video">Video</string>
@@ -46,9 +47,9 @@
     <string name="category_zip">Lưu trữ</string>
     <string name="category_apk">APK</string>
     <string name="category_other">Khác</string>
-    <string name="category_favorite">Đã gắn dấu sao</string>
+    <string name="category_favorite">Yêu thích</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Nhật ký</string>
+    <string name="category_recent">Gần đây</string>
     <string name="operation_rename_message">Đổi tên thư mục</string>
     <string name="operation_create_folder_message">Tên thư mục</string>
     <string name="operation_delete_confirm_message">Xóa?</string>
@@ -56,7 +57,7 @@
     <string name="delete_dialog_button">Xóa</string>
     <string name="new_folder_name">Chưa đặt tên thư mục</string>
     <string name="sd_card_size">Thẻ SD: %1$s</string>
-    <string name="sd_card_available">Khả dụng: %1$s</string>
+    <string name="sd_card_available">Trống: %1$s</string>
     <string name="file_info_location">Vị trí:</string>
     <string name="file_info_size">Kích thước:</string>
     <string name="file_info_modified">Thay đổi lần cuối vào:</string>
@@ -102,8 +103,8 @@
     <string name="show_message">Bạn cần phải tải xuống trước khi có thể mở tập tin này.</string>
     <string name="ui_main_progress_txt_open_file">Đang tải xuống…</string>
     <string name="networkView_notConnected">Không thể kết nối mạng</string>
-    <string name="ui_main_toast_favorite_removed">Đã bỏ gắn sao</string>
-    <string name="ui_main_toast_operation_failed">Không thể bỏ gắn sao %1$s</string>
+    <string name="ui_main_toast_favorite_removed">Đã hủy yêu thích</string>
+    <string name="ui_main_toast_operation_failed">Không thể hủy yêu thích %1$s</string>
     <string name="user_guide">Tìm hiểu thêm về KuaiPan</string>
     <string name="user_guide_summary">Hướng dẫn nhanh</string>
     <string name="rename_failed">Không thể đổi tên %1$s</string>
@@ -137,7 +138,7 @@
     <string name="user_guide_kuaipan_copy">Sao chép tập tin từ điện thoại, sau đó dán vào KuaiPan</string>
     <string name="user_guide_upload_to_kuaipan">Lưu trữ dữ liệu lên Kuaipan từ điện thoại của bạn</string>
     <string name="user_guide_download_other_version">Tải lên tập tin từ máy tính</string>
-    <string name="user_guide_other_version">Đăng nhập bằng Tài khoản Mi của bạn (%1$s) và tải xuống tại mi.kuaipan.cn.</string>
+    <string name="user_guide_other_version">Đăng nhập bằng Tài khoản Mi (%1$s) của bạn và tải xuống tại mi.kuaipan.cn.</string>
     <string name="user_guide_kuaipan_lable">KuaiPan thuộc về bạn</string>
     <string name="user_guide_continue_use">OK</string>
     <string name="upload_file_toolarge_message">Không thể tải lên %1$d: bạn không thể tải lên tập tin lớn hơn 300Mb.</string>
@@ -145,11 +146,11 @@
     <string name="clean_trash_box">Dọn sạch thùng rác</string>
     <string name="trash_box_link">Để dọn sạch thùng rác của bạn, hãy truy cập <b>pan.xiaomi.com.</b></string>
     <string name="clean_title">Xóa tập tin được lưu hơn 30 ngày.</string>
-    <string name="clean_message">Còn trống %1$s dung lượng.</string>
+    <string name="clean_message">Đã làm trống %1$s.</string>
     <string name="trash_box_message1">Xóa tập tin không cần thiết để có thêm dung lượng.</string>
     <string name="trash_box_message2">Dọn sạch thùng rác để giải phóng dung lượng.</string>
     <string name="close">Đóng</string>
-    <string name="space_info">KuaiPan: %1$s khả dụng, tổng số %2$s</string>
+    <string name="space_info">KuaiPan: Trống %1$s | Tổng %2$s</string>
     <string name="trash_box_capacity">Thùng rác %1$s</string>
     <string name="data_capacity">Dữ liệu %1$s</string>
     <string name="send_to_midrive">KuaiPan</string>
@@ -163,6 +164,7 @@
     <string name="operation_decompressing">Đang giải nén…</string>
     <string name="decompress_success">Giải nén hoàn tất</string>
     <string name="decompress_fail">Giải nén thất bại: một tập tin có cùng tên tồn tại hoặc kho lưu trữ bị hỏng.</string>
+    <string name="decompress_destination_error">Giải nén thất bại: Không thể giải nén đến vị trí này.</string>
     <string name="decompress_to_here">Giải nén ở đây;</string>
     <string name="decompress_to">Giải nén tới…</string>
     <string name="decompress_confirm">Giải nén</string>
@@ -179,7 +181,7 @@
     <string name="sign_description">Đang đăng nhập…</string>
     <string name="signin_error">Không kết nối được với máy chủ. Kiểm tra kết nối mạng của bạn.</string>
     <string name="signin_success">"Bạn đã đăng ký!
-Dung lượng miễn phí đã thêm%1$s"</string>
+Dung lượng miễn phí đã thêm %1$s"</string>
     <string name="already_signin_description">Bạn đã đăng ký hôm nay.</string>
     <string name="pull_to_signin">Trượt xuống để đăng ký.</string>
     <string name="release_to_signin">Thả ra để đăng ký</string>
@@ -229,7 +231,7 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="operating">Đang xử lý…</string>
     <string name="trans_task">Chuyển mạng</string>
     <string name="des_running_trans">%1$d tập tin chưa được chuyển.</string>
-    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Chạm&lt;/a>vào thùng rác</string>
+    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Chạm&lt;/a> để vào thùng rác</string>
     <string name="storage_internal">Bộ nhớ trong</string>
     <string name="storage_sd_card">Thẻ SD</string>
     <string name="storage_usb">Bộ nhớ USB</string>
@@ -245,7 +247,7 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="operation_moving_detail">Đang chuyển (%1$d/%2$d)</string>
     <string name="operation_copying">Đang sao chép…</string>
     <string name="operation_copying_detail">Đang sao chép (%1$d/%2$d)</string>
-    <string name="name_illegal">Bạn phải nhập một tên.</string>
+    <string name="name_empty">Bạn phải nhập một tên.</string>
     <string name="open_changed_file_title">Đã áp dụng thay đổi.</string>
     <string name="open_changed_file_message">"Tập tin mà bạn đang cố gắng mở đã được thay đổi. Xin vui lòng:
 1. Tải xuống lần nữa để cập nhật tập tin.
@@ -253,6 +255,7 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="ui_filechange_btn_upload">Tải lên các tập tin</string>
     <string name="folder_exist">Thư mục đã tồn tại</string>
     <string name="folder_name_illegal">Tên thư mục không hợp lệ</string>
+    <string name="folder_name_empty">Tên thư mục không được để trống</string>
     <string name="unmount_inform_text">Ngắt kết nối bộ nhớ USB?</string>
     <string name="dlg_error_unmount_text">Ngắt kết nối lưu trữ USB bị lỗi.</string>
     <string name="byteShort">B</string>
@@ -261,9 +264,9 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="tab_local">Trên máy</string>
-    <string name="sys_size_enable">" khả dụng"</string>
+    <string name="sys_size_enable">" trống"</string>
     <string name="menu_list_name">Menu</string>
     <string name="tools">CÔNG CỤ</string>
     <string name="category_type_meida">Phương tiện</string>
@@ -272,7 +275,6 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="phone">Điện thoại</string>
     <string name="category">Phân loại</string>
     <string name="my_app">Dữ liệu ứng dụng</string>
-    <string name="my_app_desc" />
     <string name="my_bak">Bản sao lưu</string>
     <string name="my_doc">Tài liệu</string>
     <string name="my_music">Nhạc</string>
@@ -310,8 +312,8 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="no_display_file">Không thể hiển thị %1$s</string>
     <string name="delete_selected_tasks">Xóa mục đã chọn?</string>
     <string name="kuaipan_delete_guide_des">Xóa hướng dẫn?</string>
-    <string name="kuaipan_data_formater_with_year">ngày d tháng M năm YYYY</string>
-    <string name="kuaipan_data_formater_without_year">d ngày M tháng</string>
+    <string name="kuaipan_data_formater_with_year">Ngày d tháng M năm YYYY</string>
+    <string name="kuaipan_data_formater_without_year">Ngày d tháng M</string>
     <string name="kuaipan_photo_locate">Vị trí %1$s</string>
     <string name="kuaipan_photo_folder_divider">,</string>
     <string name="kuaipan_photo_more_folder_count">%1$s</string>
@@ -324,4 +326,71 @@ Dung lượng miễn phí đã thêm%1$s"</string>
     <string name="operation_agree">Cho phép</string>
     <string name="never_notify_network_connect">Nhớ tùy chọn</string>
     <string name="connect_network_setting_des">Nhắc nhở kết nối internet</string>
+    <string name="tab_source">Ứng dụng</string>
+    <string name="tab_more">Khác</string>
+    <string name="title_recent">Gần đây</string>
+    <string name="title_more_source">Ứng dụng khác</string>
+    <string name="expand_all">Tất cả</string>
+    <string name="group_title">%2$s từ %1$s</string>
+    <string name="sdcard">Thẻ SD</string>
+    <string name="category_file">Tập tin</string>
+    <string name="category_photo">Ảnh</string>
+    <string name="sdcard_total">Tổng: %1$s</string>
+    <string name="sdcard_available">Trống: %1$s</string>
+    <string name="archive_send_to">Gửi đến…</string>
+    <string name="wechat_video">%s video</string>
+    <string name="load_more">Xem thêm</string>
+    <string name="no_app_tags">Trống</string>
+    <string name="no_recent_files">Không có tập tin gần đây</string>
+    <string name="storage_info">Trống %1$s</string>
+    <string name="kuaipan_info">Tập tin KuaiPan</string>
+    <string name="just_now">Vừa xong</string>
+    <string name="yesterday">Hôm qua</string>
+    <string name="month_day_format">dd MMM</string>
+    <string name="year_month_day_format">dd MMM, yyyy</string>
+    <string name="operation_del_fav">Đang xóa khỏi yêu thích…</string>
+    <string name="operation_add_fav">Đang thêm vào yêu thích…</string>
+    <string name="port_range">Số cổng phải trong khoảng từ 1024–65535</string>
+    <string name="file_name_invalid">Tên tập tin không được bao gồm các ký tự sau: /\\:*?&lt;></string>
+    <string name="rename_alert">Nếu bạn thay đổi định dạng tập tin, bạn sẽ không thể mở.</string>
+    <string name="search_file_type_picture">Ảnh</string>
+    <string name="search_file_type_video">Video</string>
+    <string name="search_file_type_music">Nhạc</string>
+    <string name="search_file_type_apk">Apk</string>
+    <string name="search_file_type_doc">Tài liệu</string>
+    <string name="search_file_type_other">Khác</string>
+    <string name="search_activity_hint">Nhập từ khóa</string>
+    <string name="search_title_hint">Tìm kiếm</string>
+    <string name="search_category">Loại</string>
+    <string name="search_keyword">Thẻ</string>
+    <string name="search_app">Nguồn</string>
+    <string name="search_keyword_im">Trò chuyện</string>
+    <string name="search_keyword_buy">Mua sắm</string>
+    <string name="search_keyword_game">Trò chơi</string>
+    <string name="search_keyword_news">Tin tức</string>
+    <string name="search_keyword_wallet">Ví tiền</string>
+    <string name="search_keyword_messge">Tin nhanh</string>
+    <string name="search_app_more">Khác</string>
+    <string name="search_result_hint1">Liên quan</string>
+    <string name="search_result_hint2">Tất cả</string>
+    <string name="search_result_hint3">" "</string>
+    <string name="search_result_hint4" />
+    <string name="search_result_hint5" />
+    <string name="search_result_hint6">(%d mục)</string>
+    <string name="search_result_hint7">(%d)</string>
+    <string name="dialog_confirm">OK</string>
+    <string name="search_empty_view_hint">Không có kết quả nào</string>
+    <string name="search_result_more">Khác</string>
+    <string name="search_error_hint">Nhập từ khóa để tìm kiếm</string>
+    <string name="rlv_pull_to_refresh">Kéo để làm mới</string>
+    <string name="rlv_release_to_refresh">Thả để làm mới</string>
+    <string name="rlv_refreshing">Đang quét tập tin…</string>
+    <string name="rlv_last_refreshing_time">Quét lần cuối: %1$s</string>
+    <string name="rlv_loading_more">Vui lòng chờ…</string>
+    <string name="notification_setting">Thông báo</string>
+    <string name="notification_title">Thông báo khi có tập tin mới được thêm vào %1$s</string>
+    <string name="notification_summary">%1$s chưa hỗ trợ tính năng này</string>
+    <string name="notification_dialog_title">Thông báo</string>
+    <string name="notification_dialog_content">Tự động thông báo và sắp xếp khi tập tin được thêm hoặc thay đổi trong %1$s.</string>
+    <string name="notification_dialog_confirm">OK</string>
 </resources>

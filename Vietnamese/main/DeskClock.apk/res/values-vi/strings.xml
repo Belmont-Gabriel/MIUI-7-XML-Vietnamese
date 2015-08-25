@@ -33,7 +33,7 @@
     <string name="dialog_confirm_abort">Hủy thay đổi?</string>
     <string name="confirm_abort">OK</string>
     <string name="remind_ringtone">Nhạc chuông</string>
-    <string name="keep_screen_on">Giữ màn hình luôn mở</string>
+    <string name="keep_screen_on">Giữ màn hình luôn bật</string>
     <string name="vibrate_when_ringing">Rung khi báo thức</string>
     <string name="start_up">Bắt đầu</string>
     <string name="cancel">Hủy</string>
@@ -49,7 +49,7 @@
     <string name="workday_alarm_clock">Báo thức ngày làm việc</string>
     <string name="system_time_setting">Cài đặt</string>
     <string name="lap_num" />
-    <string name="hour_unit">Hr +</string>
+    <string name="hour_unit">Giờ +</string>
     <string name="alarm_label_hint">Nhãn báo thức</string>
     <string name="legal_workday">Ngày làm việc</string>
     <string name="legal_workday_invalidate">Dữ liệu đã hết hạn (Báo thức đổ chuông từ Thứ hai đến Thứ sáu)</string>
@@ -63,6 +63,8 @@
     <string name="snooze_confirm_cancel">Hủy báo lại</string>
     <string name="menu_item_sort_by_gmt_offset">Sắp xếp theo thời gian</string>
     <string name="menu_item_sort_by_name">Sắp xếp theo tên</string>
+    <string name="birthday_alarm">Báo thức sinh nhật</string>
+    <string name="birthday_alarm_summary">Phát bài hát \"Chúc mừng sinh nhật\" thay cho âm báo thức mặc định trong ngày sinh nhật của bạn</string>
     <string name="app_label">Đồng hồ</string>
     <string name="alarm_list_title">Báo thức</string>
     <string name="add_alarm">Thêm báo thức</string>
