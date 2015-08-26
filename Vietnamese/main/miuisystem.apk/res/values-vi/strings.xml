@@ -110,4 +110,7 @@
     <string name="policy_name">Chính sách: %s</string>
     <string name="mibi_license">Điều khoản Dịch vụ Mi Credit</string>
     <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, vào %s"</string>
+    <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đã tắt</string>
+    <string name="cloud_state_finished">Đã đồng bộ với Mi Cloud</string>
+    <string name="cloud_state_syncing">Đã đồng bộ với Mi Cloud</string>
 </resources>

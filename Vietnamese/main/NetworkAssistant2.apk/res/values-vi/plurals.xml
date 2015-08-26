@@ -6,6 +6,12 @@
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Theo dõi sử dụng dữ liệu của %d ứng dụng</item>
     </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Đã tối ưu hóa %d ứng dụng</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Có thể tối ưu hóa %d ứng dụng</item>
+    </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d ứng dụng đang sử dụng Tiết kiệm Dữ liệu</item>
     </plurals>
@@ -19,10 +25,10 @@
         <item quantity="other">Tìm kiếm %d ứng dụng</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d ứng dụng có thể sử dụng dữ liệu di động khi chuyển vùng</item>
+        <item quantity="other">%d ứng dụng có thể sử dụng dữ liệu di động</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d ứng dụng không thể sử dụng dữ liệu di động khi chuyển vùng</item>
+        <item quantity="other">%d ứng dụng không thể sử dụng dữ liệu di động</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d ứng dụng được tìm thấy</item>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="browser_scan_history_desc">Lịch sử trình duyệt</string>
+    <string name="browser_search_history_desc">Các mục đã tìm kiếm</string>
+    <string name="call_log">Nhật ký cuộc gọi</string>
+    <string name="clip_board_history_desc">Nội dung đã cắt/sao chép</string>
+    <string name="clipboard">Khay nhớ tạm</string>
+    <string name="phone_search">Tìm kiếm Google</string>
+    <string name="privacy_appdata_chrome_history_des">Trang web đã truy cập</string>
+    <string name="search_history">Lịch sử tìm kiếm</string>
+    <string name="sms">SMS/MMS</string>
+</resources>

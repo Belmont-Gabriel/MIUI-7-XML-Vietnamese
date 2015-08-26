@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="user_query_highlight">#ffc71818</color>
+    <color name="title_primary_text_light">@miui:color/normal_text_light</color>
+    <color name="title_secondary_text_light">#73000000</color>
+    <color name="title_primary_text_dark">@miui:color/normal_text_dark</color>
+    <color name="title_secondary_text_dark">#73ffffff</color>
+    <color name="list_primary_text_light">#e6000000</color>
+    <color name="list_secondary_text_light">#66000000</color>
+    <color name="snippet_text">#ff000000</color>
+    <color name="info_text">#ff000000</color>
+    <color name="widget_text">@color/snippet_text</color>
+    <color name="editor_text">#ff666666</color>
+    <color name="link_text">#ff0000ff</color>
+    <color name="header_text_dark">#ff2e2e2e</color>
+    <color name="missed_image_background">#ffe4e4e4</color>
+    <color name="list_item_bg_color_green">#66c4d576</color>
+    <color name="list_item_bg_color_blue">#669cb2b8</color>
+    <color name="list_item_bg_color_red">#66eaa595</color>
+    <color name="list_item_bg_color_white">#66f7af48</color>
+    <color name="list_item_bg_color_yellow">#66f6c425</color>
+    <color name="list_item_line_color">#33000000</color>
+    <color name="list_scroll_color">@color/list_item_bg_color_yellow</color>
+    <color name="search_hint_color">#80000000</color>
+    <color name="note_tip_bgcolor">#d8000000</color>
+    <color name="toggle_style_text_p">@android:color/white</color>
+    <color name="toggle_style_text_n">@android:color/black</color>
+    <color name="sns_preview_bg_color">#fff8f8f8</color>
+</resources>

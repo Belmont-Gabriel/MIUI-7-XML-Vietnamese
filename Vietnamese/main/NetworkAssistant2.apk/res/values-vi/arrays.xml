@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_uints">
-        <item>MB</item>
-        <item>GB</item>
-    </string-array>
     <string-array name="date_of_traffic">
         <item>"Hôm qua "</item>
         <item>"Hôm nay "</item>
@@ -51,20 +47,21 @@
         <item>"Đã tiết kiệm dữ liệu "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Lấy tin nhắn mẫu tự động</item>
-        <item>Đặt tin nhắn mẫu thủ công</item>
+        <item>Nhận tự động</item>
+        <item>Thiết lập thủ công</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Hiển thị cảnh báo</item>
         <item>Cảnh báo và tắt dữ liệu di động</item>
     </string-array>
-    <string-array name="min_limit_pkg_default">
-        <item>1 MB</item>
-        <item>2 MB</item>
-        <item>3 MB</item>
-    </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Thường dùng</item>
         <item>Tên</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Không</item>
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
     </string-array>
 </resources>

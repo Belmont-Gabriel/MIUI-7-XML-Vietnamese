@@ -8,7 +8,7 @@
     <string name="outbound_me_profile_text">Chạm để gửi cho người này thông tin liên hệ của bạn.</string>
     <string name="accessibility_nfc_enabled">Đã bật NFC.</string>
     <string name="touch">Chạm để truyền</string>
-    <string name="beam_progress">Tia đến...</string>
+    <string name="beam_progress">Tia đến…</string>
     <string name="beam_complete">Hoàn tất chiếu</string>
     <string name="beam_failed">Chiếu chưa hoàn tất</string>
     <string name="beam_canceled">Chiếu bị hủy</string>

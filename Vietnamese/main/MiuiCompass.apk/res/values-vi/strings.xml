@@ -18,7 +18,8 @@
     <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">m</string>
-    <string name="dialog_title_no_network">Không thể kết nối mạng</string>
+    <string name="dialog_title_no_network">Bật mạng</string>
+    <string name="dialog_body_no_network">Không thể kết nối mạng</string>
     <string name="dialog_calibrat_altitude">Đang đo…</string>
     <string name="latitude">Vĩ độ</string>
     <string name="longitude">Kinh độ</string>
@@ -48,4 +49,10 @@
     <string name="calibrate_title">Cân chỉnh la bàn</string>
     <string name="calibrate_tip">Nghiêng thiết bị để lăn viên bi quanh vòng tròn</string>
     <string name="calibrate_rotate_again">Thử lại</string>
+    <string name="error_camera_unavailable_title">Lỗi máy ảnh</string>
+    <string name="error_camera_unavailable">Kiểm tra lại nếu ứng dụng khác đang sử dụng Máy ảnh.</string>
+    <string name="altitude_uncalibrate_tip">Không thể hiệu chỉnh độ cao</string>
+    <string name="altitude_uncalibrate_msg">Không thể hiệu chỉnh độ cao một cách chính xác nếu không bật GPS hoặc kết nối dữ liệu di động.</string>
+    <string name="altitude_uncalibrate_refresh">Thử lại</string>
+    <string name="altitude_uncalibrate_cancel">Hủy</string>
 </resources>

@@ -35,7 +35,7 @@
     <string name="progress_title_checking">Đang kiểm tra cập nhật…</string>
     <string name="menu_title_download_current_rom">Tải xuống bản cập nhật</string>
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
-    <string name="menu_title_recovery">Khởi động lại vào chế độ Khôi phục</string>
+    <string name="menu_title_recovery">Khởi động lại vào Recovery</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
     <string name="check_update_policy">Cài đặt</string>
     <string name="check_update_when_wifi_available">Chỉ kiểm tra bằng Wi-Fi</string>
@@ -43,7 +43,7 @@
     <string name="apply_update_dialog_update_button">Cập nhật</string>
     <string name="apply_update_dialog_cancel_button">Hủy</string>
     <string name="cancel_download_buton_text">Hủy</string>
-    <string name="boot_recovery">Khởi động lại vào chế độ Khôi phục?</string>
+    <string name="boot_recovery">Vào Recovery?</string>
     <string name="cancel_download">Dừng tải xuống bản cập nhật?</string>
     <string name="update_success_reboot_immediately">Cập nhật thành công</string>
     <string name="download_success_reboot_immediately">Khởi động lại để áp dụng cập nhật</string>
@@ -82,22 +82,22 @@
     <string name="repeat">Thử lại</string>
     <string name="user_begin">Tải xuống</string>
     <string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống của bạn</string>
-    <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào chế độ Khôi phục và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
+    <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào Recovery và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
-    <string name="recovery_failed_notification_msg">Không thể vào chế độ Khôi phục</string>
+    <string name="recovery_failed_notification_msg">Không thể vào Recovery</string>
     <string name="validate_pkg_failed_title">Không thể xác minh bản cập nhật</string>
     <string name="validate_pkg_failed_msg">Không thể xác minh nguồn gốc của bản cập nhật này. Thử tải xuống lần nữa.</string>
     <string name="user_intertup_download_title">Tải xuống đã tạm dừng</string>
     <string name="user_intertup_download_msg">Đã tạm dừng tải xuống bản cập nhật. Bạn có thể hủy tạm dừng bất cứ lúc nào trong ứng dụng Cập nhật.</string>
     <string name="check_update_when_wifi_available_sum">Chỉ kiểm tra cập nhật khi bạn kết nối Wi-Fi</string>
-    <string name="important_suggestion">Chính sách Bảo mật đã thay đổi</string>
-    <string name="auto_dialog_msg">"Chúng tôi đã cập nhật Chính sách Bảo mật. Vui lòng đọc nó một cách cẩn thận trước khi cập nhật hệ thống của bạn. "</string>
+    <string name="important_suggestion">Chính sách Riêng tư đã thay đổi</string>
+    <string name="auto_dialog_msg">"Chúng tôi đã cập nhật Chính sách Riêng tư. Vui lòng đọc nó một cách cẩn thận trước khi cập nhật hệ thống của bạn. "</string>
     <string name="auto_button_examine">Xem</string>
     <string name="auto_check_clause_button">Xem</string>
-    <string name="auto_agree_clause">Đã cập nhật Chính sách Bảo mật</string>
+    <string name="auto_agree_clause">Đã cập nhật Chính sách Riêng tư</string>
     <string name="auto_dialog_title_check_again">Hủy cập nhật?</string>
-    <string name="auto_dialog_msg_check_again">"Bạn phải đồng ý với Chính sách Bảo mật đã được cập nhật của chúng tôi trước khi bạn có thể cập nhật hệ thống. "</string>
+    <string name="auto_dialog_msg_check_again">"Bạn phải đồng ý với Chính sách Riêng tư đã được cập nhật của chúng tôi trước khi bạn có thể cập nhật hệ thống. "</string>
     <string name="auto_button_examine_immediately">Xem</string>
     <string name="auto_button_sure_cancel">Hủy</string>
     <string name="auto_update_sum">Tải xuống bản cập nhật tự động khi kết nối Wi-Fi</string>
@@ -113,19 +113,19 @@ http://zhushou.xiaomi.com"</string>
     <string name="monthly_build">Hàng tháng</string>
     <string name="weekly_build">Hàng tuần</string>
     <string name="daily_build">Hàng ngày</string>
-    <string name="experimental_build">Bản thử nghiệm</string>
+    <string name="experimental_build">Thử nghiệm</string>
     <string name="internal_build">Nội bộ</string>
     <string name="top_secret_build">Tuyệt mật</string>
     <string name="stable_build">Ổn định</string>
     <string name="unstable_build">Không ổn định</string>
-    <string name="particular_build">Bản đặc biệt</string>
+    <string name="particular_build">Đặc biệt</string>
     <string name="about_device">Thông tin điện thoại</string>
     <string name="emegency_build">"Phiên bản "</string>
     <string name="loading">Đang yêu cầu…</string>
     <string name="share_update">Chia sẻ thông tin cập nhật</string>
     <string name="share">Chia sẻ</string>
-    <string name="share_update_content_unsign">Đã cập nhật MIUI đến%1$s! Để xem chi tiết, vui lòng truy cập %2$s\"</string>
-    <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s\"</string>
+    <string name="share_update_content_unsign">Đã cập nhật MIUI đến %1$s! Để xem chi tiết, vui lòng truy cập %2$s</string>
+    <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s</string>
     <string name="share_sina">Đăng qua Sina Weibo</string>
     <string name="share_qq">Đăng qua Tencent Weibo</string>
     <string name="install_qq">Cài đặt ứng dụng QQ</string>
@@ -151,15 +151,15 @@ http://zhushou.xiaomi.com"</string>
     <string name="title_toast_auto">Bản cập nhật sẽ tự động tải xuống</string>
     <string name="update_feedback">Đánh giá bản cập nhật này</string>
     <string name="update_feedback_end">Bạn đã bỏ lỡ bình chọn tuần này</string>
-    <string name="update_feedback_end_sum">Bạn có thể tham gia vào các ngày Thứ Ba.</string>
+    <string name="update_feedback_end_sum">Bạn có thể tham gia vào các ngày Thứ hai.</string>
     <string name="update_feedback_need_update">Bạn cần cập nhật hệ thống của mình lên phiên bản mới nhất trước.</string>
     <string name="update_feedback_expired">"Bạn đã bỏ lỡ bình chọn tuần này.
-Bạn có thể tham gia vào thứ Ba tuần tới."</string>
+Bạn có thể tham gia vào Thứ hai tuần tới."</string>
     <string name="update_feedback_need_account">Bạn cần phải đăng nhập vào Tài khoản Mi trước</string>
     <string name="update_feedback_need_network">Kết nối mạng trước</string>
-    <string name="update_happy">Tuyệt vời!</string>
-    <string name="update_general">Tàm tạm!</string>
-    <string name="update_sad">Thất vọng!</string>
+    <string name="update_happy">Hài lòng!</string>
+    <string name="update_general">Tàm tạm</string>
+    <string name="update_sad">Thất vọng</string>
     <string name="update_feel">Bạn cảm thấy thế nào?</string>
     <string name="best_update">Cập nhật tốt nhất cho đến nay</string>
     <string name="worst_update">Cập nhật tệ nhất cho đến nay</string>
@@ -199,7 +199,8 @@ Bạn có thể tham gia vào thứ Ba tuần tới."</string>
     <string name="vote_recommend">Đề nghị cập nhật</string>
     <string name="vote_not_recommend">Không khuyến khích</string>
     <string name="vote_error_nonetwork">Không thể kết nối mạng</string>
-    <string name="vote_error1">"Dường như bạn không phải là thành viên của Chương trình Trải nghiệm Người dùng"</string>
+    <string name="vote_error1">"Dường như bạn không phải là thành viên
+ của Chương trình Trải nghiệm Người dùng"</string>
     <string name="vote_error2">"Không thể gửi phản hồi.
 Cập nhật thiết bị và thử lại"</string>
     <string name="vote_hint">Nhận 20 điểm kinh nghiệm cho diễn đàn MIUI khi bình chọn</string>
@@ -211,7 +212,11 @@ Thử đăng nhập Tài khoản Mi lần nữa."</string>
     <string name="vote_error5">"Lỗi
 Không thể gửi phản hồi"</string>
     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Truy cập diễn đàn MIUI</a>" "</string>
-    <string name="welcom_title">Chào mừng đến với MIUI 6</string>
+    <string name="welcom_title">Chào mừng đến với MIUI 7</string>
     <string name="welcom_message">Xin chào</string>
     <string name="welcom_button">OK</string>
+    <string name="sogou_uninstall_title">Bàn phím tương thích</string>
+    <string name="sogou_uninstall_msg">Bàn phím Sogou (Phiên bản dành cho điện thoại Mi) không tương thích với MIUI 7. Hãy sử dụng bàn phím khác hoặc cập nhật phiên bản mới hơn.</string>
+    <string name="sogou_uninstall_positive_button">Chuyển đổi bàn phím</string>
+    <string name="sogou_uninstall_negative_button">Cập nhật Sogou</string>
 </resources>

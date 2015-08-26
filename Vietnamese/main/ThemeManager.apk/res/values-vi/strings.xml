@@ -77,7 +77,7 @@
     <string name="resource_failed_to_load_list">Không thể tải chủ đề.</string>
     <string name="resource_search_list_empty">Không tìm thấy.</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
-    <string name="resource_network_diagnostics"><u>Chuẩn đoán mạng</u></string>
+    <string name="resource_network_diagnostics"><u>Chẩn đoán Mạng</u></string>
     <string name="resource_list_title">Đã chọn gần đây</string>
     <string name="resource_get_auth_checking">Đang xác minh…</string>
     <string name="resource_get_auth_retrieving">Đang nhận thông tin…</string>
@@ -109,7 +109,7 @@
     <string name="resource_select_ringtone_audio_confirm">Chọn nhạc chuông này?</string>
     <string name="resource_select_notification_audio_confirm">Chọn âm báo thức này?</string>
     <string name="resource_select_alarm_audio_confirm">Chọn âm thông báo này?</string>
-    <string name="resource_select_boot_audio_confirm">Chọn nhạc chuông khởi động này?</string>
+    <string name="resource_select_boot_audio_confirm">Chọn âm khởi động này?</string>
     <string name="resource_select_audio_confirm_picker">Chọn âm thanh này?</string>
     <string name="loading_resource_detail_info">Đang tải…</string>
     <string name="loading_resource_detail_fail">Không thể tải tài nguyên</string>
@@ -195,7 +195,7 @@
     <string name="resource_download_notification_title_one">Chủ đề đã tải xuống</string>
     <string name="resource_download_notification_title_many">%1$s chủ đề đã tải xuống</string>
     <string name="resource_tab_to_view">Chạm để xem.</string>
-    <string name="resource_search_color">Chọn một màu để tìm kiếm</string>
+    <string name="resource_search_color">Chạm vào màu để tìm kiếm</string>
     <string name="resource_search_color_hint_red">Đỏ</string>
     <string name="resource_search_color_hint_blue">Lam</string>
     <string name="resource_search_color_hint_cyan">Chàm</string>
@@ -245,7 +245,7 @@
     <string name="theme_component_title_photo_frame">Khung ảnh</string>
     <string name="theme_component_title_others">Khác</string>
     <string name="theme_component_title_all">Chủ đề</string>
-    <string name="theme_import_from_sdcard">Nhập từ thẻ SD</string>
+    <string name="theme_import_from_sdcard">Nhập</string>
     <string name="theme_select_others">Duyệt</string>
     <string name="third_party_pickers_activity_title">Đặt %1$s</string>
     <string name="lockstyle_personal_settings">Tùy chỉnh</string>
@@ -271,7 +271,7 @@
     <string name="wallpaper_set_as_destop">Đặt làm Hình nền</string>
     <string name="wallpaper_set_as_lockscreen">Đặt làm màn hình khóa</string>
     <string name="wallpaper_crop">Cắt</string>
-    <string name="wallpaper_loading_text">Đang tải…</string>
+    <string name="wallpaper_loading_text">Vui lòng chờ…</string>
     <string name="wallpaper_decoded_error">Không thể tải hình nền</string>
     <string name="close">Đóng</string>
     <string name="download_success">Tải xuống hoàn tất</string>
@@ -302,8 +302,8 @@
     <string name="theme_user_agreement_content1">"Bằng cách sử dụng tính năng này, bạn đang đồng ý với "</string>
     <string name="theme_user_agreement_content2">Thỏa thuận Người dùng</string>
     <string name="theme_user_agreement_content3">" và "</string>
-    <string name="theme_user_agreement_content4">Chính sách Bảo mật</string>
-    <string name="theme_user_agreement_content5">". Ứng dụng này cần phải kết nối Internet để làm việc bình thường. "</string>
+    <string name="theme_user_agreement_content4">Chính sách Riêng tư</string>
+    <string name="theme_user_agreement_content5">" .Ứng dụng này cần phải kết nối Internet để làm việc bình thường. "</string>
     <string name="theme_user_agreement_title">Điều khoản Sử dụng</string>
     <string name="theme_user_agreement_allow">Đồng ý</string>
     <string name="theme_user_agreement_exit">Thoát</string>
@@ -343,7 +343,7 @@
     <string name="gift_present_dlg_no_fee">Nhà cung cấp sẽ không tính phí khi bạn gửi quà</string>
     <string name="gift_present_dlg_anonymous">Tặng ẩn danh</string>
     <string name="gift_present_dlg_share">Tạo mã và chia sẻ món quà</string>
-    <string name="gift_present_dlg_present_max_limit">Chủ đề không thể được tặng nhiều hơn %$1s lần.</string>
+    <string name="gift_present_dlg_present_max_limit">Chủ đề không thể được tặng nhiều hơn %1$s lần.</string>
     <string name="gift_use_confirmation_dlg_title">Sử dụng món quà này?</string>
     <string name="gift_use_fail_dlg_title">Lỗi</string>
     <string name="gift_unbind_fail_dlg_title">Không thể tạo mã</string>
@@ -355,6 +355,20 @@
     <string name="gift_received_list_empty">Bạn chưa nhận bất kỳ món quà nào.</string>
     <string name="gift_received_notification_title">%s đã tặng bạn 1 chủ đề.</string>
     <string name="vip_level_value">Cấp %d</string>
-    <string name="resource_select_ringtone_confirm">Chọn âm thanh này?</string>
-    <string name="resource_select_ringtone_confirm_picker">Chọn âm thanh này?</string>
+    <string name="present_online_themes">Trực tuyến</string>
+    <string name="present_local_themes">Đã tải xuống</string>
+    <string name="choose_new_themes">Chủ đề mới</string>
+    <string name="lockscreen_magazine_title">Màn hình khóa hàng ngày</string>
+    <string name="lockscreen_magazine_summary">Nhận hình nền được gửi thẳng vào màn hình khóa của bạn hàng ngày.</string>
+    <string name="lockscreen_magazine_subscribe">%1$s người theo dõi</string>
+    <string name="lockscreen_magazine_system_title">Mặc định</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s hình nền</string>
+    <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
+    <string name="theme_apply_failured">Không thể áp dụng hình nền màn hình khóa</string>
+    <string name="theme_applying">Đang áp dụng…</string>
+    <string name="theme_provision_loading_tips">Vui lòng chờ…</string>
+    <string name="theme_provision_title">Chọn chủ đề</string>
+    <string name="theme_provision_default_theme_title">Bình thường</string>
+    <string name="theme_precast_update_notification_title">Đã cập nhật lên MIUI 7</string>
+    <string name="theme_precast_update_notification_content">Chạm để xem chủ đề mới.</string>
 </resources>

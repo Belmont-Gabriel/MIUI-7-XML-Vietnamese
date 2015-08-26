@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_default_size">14.0sp</dimen>
+    <dimen name="text_font_size">17.0sp</dimen>
+    <dimen name="text_font_spacing">14.0dip</dimen>
+    <dimen name="text_title_size_large">24.0sp</dimen>
+    <dimen name="text_title_size_small">13.0sp</dimen>
+    <dimen name="list_item_time_width">54.0dip</dimen>
+    <dimen name="notes_edit_header_padding_size">0.0dip</dimen>
+    <dimen name="notes_edit_header_height">56.0dip</dimen>
+    <dimen name="notes_edit_horizontal_space">23.0dip</dimen>
+    <dimen name="edit_header_margin_bottom">12.0dip</dimen>
+    <dimen name="rich_edit_extra_padding_top">22.0dip</dimen>
+    <dimen name="action_padding_size">8.0dip</dimen>
+    <item type="dimen" name="action_font_size">@dimen/text_default_size</item>
+    <dimen name="popup_view_min_height_edit">44.0dip</dimen>
+    <dimen name="popup_view_min_height_icon">38.0dip</dimen>
+    <dimen name="color_bar_layout_padding">0.0dip</dimen>
+    <dimen name="color_bar_item_margin">13.0dip</dimen>
+    <dimen name="call_note_title_margin">0.0dip</dimen>
+    <dimen name="widget_layout_margin_horizontal">0.0dip</dimen>
+    <dimen name="widget_layout_margin_vertical">4.0dip</dimen>
+    <dimen name="widget_image_margin_bottom">10.0dip</dimen>
+    <dimen name="widget_title_text_size">15.0sp</dimen>
+    <dimen name="widget_text_size">13.0sp</dimen>
+    <dimen name="icon_panel_width">287.32812dip</dimen>
+    <dimen name="icon_panel_edit_height">246.66998dip</dimen>
+    <dimen name="sns_preview_width">80.0dip</dimen>
+    <dimen name="sns_preview_height">80.0dip</dimen>
+    <dimen name="sns_description_font_size">10.0sp</dimen>
+    <dimen name="sns_title_font_size_max">21.0sp</dimen>
+    <dimen name="sns_title_font_size_min">17.0sp</dimen>
+    <dimen name="sns_content_width">0.0dip</dimen>
+    <dimen name="sns_content_font_size">14.0sp</dimen>
+    <dimen name="sns_footer_font_size">10.0sp</dimen>
+    <dimen name="sns_header_layout_margin_vertical">33.0dip</dimen>
+    <dimen name="sns_footer_layout_height">67.0dip</dimen>
+    <dimen name="text_drawable_padding">10.0dip</dimen>
+    <item type="dimen" name="lineSpacingMultiplier">1.15</item>
+</resources>

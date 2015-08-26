@@ -3,7 +3,7 @@
     <string name="passport_app_name">Tài khoản Mi</string>
     <string name="passport_account_hint_text">Email hoặc số điện thoại</string>
     <string name="passport_phone_num_hint_text">Số điện thoại</string>
-    <string name="passport_login">Đăng nhập</string>
+    <string name="passport_login">Đăng nhập vào tài khoản hiện tại</string>
     <string name="passport_login_with_email_or_id"><u>Đăng nhập bằng địa chỉ email hoặc ID Tài khoản Mi</u></string>
     <string name="passport_email_or_id_hint_text">Địa chỉ email hoặc ID Tài khoản Mi</string>
     <string name="passport_verify">Xác minh</string>
@@ -19,8 +19,8 @@
     <string name="passport_welcome_skip_login"><u>Bỏ qua bước này</u></string>
     <string name="passport_dspt_provision">"Sử dụng tài khoản Mi của bạn để đăng nhập Mi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
     <string name="passport_dspt_provision2">Tìm hiểu thêm</string>
-    <string name="passport_provision_skip_login"><u>Bỏ qua</u></string>
-    <string name="passport_reg_new">Tạo Tài khoản Mi</string>
+    <string name="passport_provision_skip_login"><u>Bỏ qua bước này</u></string>
+    <string name="passport_reg_new">Tạo Tài khoản Mi miễn phí</string>
     <string name="passport_error_empty_username">Nhập tên người dùng</string>
     <string name="passport_error_empty_pwd">Nhập mật khẩu của bạn</string>
     <string name="passport_error_invalid_phone_num">Số điện thoại không hợp lệ</string>
@@ -88,7 +88,7 @@
     <string name="passport_reg_success_summary">%1$s đã được liên kết với tài khoản của bạn. Bạn có thể dùng để đăng nhập hoặc đặt lại mật khẩu.</string>
     <string name="passport_email_reg_success_summary">%1$s đã được liên kết với tài khoản của bạn. Bạn có thể dùng để đăng nhập hoặc đặt lại mật khẩu.</string>
     <string name="passport_area_code_title">Mã quốc gia</string>
-    <string name="passport_area_code_hot">Thường dùng</string>
+    <string name="passport_area_code_hot">THƯỜNG SỬ DỤNG</string>
     <string name="passport_user_agreement_p1">Đồng ý với </string>
     <string name="passport_user_agreement_p2">Thỏa thuận Người dùng</string>
     <string name="passport_user_agreement_p3"> và </string>
@@ -100,6 +100,7 @@
     <string name="passport_skip_setup_account_title">Bỏ qua cài đặt</string>
     <string name="passport_skip_setup_account_msg">Bạn có thể cài đặt Tài khoản Mi sau ở phần Cài đặt.</string>
     <string name="passport_xiaomi_account_dspt">Sử dụng tài khoản Mi của bạn để đăng nhập Mi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
+    <string name="passport_xiaomi_account_sec_dspt2">Để đăng nhập vào Tài khoản Mi, bạn cần phải kết nối internet. Ngoài ra, truy cập vị trí, Mi Cloud, và Mi VIP sẽ được bật tự động.</string>
     <string name="passport_remove_unactivated_account_notice">Tài khoản của bạn chưa được kích hoạt.</string>
     <string name="passport_remove_confirm">Đăng xuất</string>
     <string name="passport_find_password_on_web_msg">Truy cập vào account.mi.com để đặt lại mật khẩu của bạn.</string>
@@ -130,11 +131,30 @@
     <string name="passport_notification_title">Lỗi đăng nhập %1$s</string>
     <string name="passport_sim_index_info">Thẻ SIM %1$d - %2$s</string>
     <string name="passport_choose_which_one_sim">Chọn một số điện thoại</string>
+    <string name="passport_send_too_many_code">Quá nhiều mã xác minh được gửi đến số điện thoại này. Vui lòng chờ sau 24 giờ và thử lại.</string>
+    <string name="passport_register_restricted_title">Không thể sử dụng số điện thoại này</string>
+    <string name="passport_register_restricted">Quá nhiều tài khoản có liên quan với số này, hãy thử một cái khác</string>
+    <string name="passport_change_phone_number">Đổi số</string>
+    <string name="passport_recycle_account_prompt">Tài khoản Mi này là của bạn?</string>
+    <string name="passport_confirm_recycle_account">Đúng</string>
+    <string name="passport_reject_recycle_account">Không phải</string>
+    <string name="passport_input_password_for_login">Số này được liên kết với một tài khoản hiện có, hãy nhập mật khẩu của bạn</string>
+    <string name="passport_wrong_password">Mật khẩu không đúng</string>
+    <string name="passport_account_identity_title">Xác minh danh tính của bạn</string>
+    <string name="passport_reset_password_prompt">Mật khẩu không đúng</string>
+    <string name="passport_setting">Đang cài đặt…</string>
+    <string name="passport_reset_password_title">Đặt lại mật khẩu</string>
+    <string name="passport_reset_fail_title">Không thể thiết lập lại</string>
+    <string name="passport_identitfication_expired">Mã xác nhận đã hết hạn, bắt đầu lại</string>
+    <string name="passport_restart">Bắt đầu lại</string>
+    <string name="passport_restart_register_title">Tạo tài khoản Mi</string>
+    <string name="passport_restart_register_prompt">Một tin nhắn xác minh có thể được yêu cầu để tạo tài khoản của bạn.</string>
+    <string name="passport_wait_for_sms_prompt">Bắt đầu lại bây giờ? Có thể mất tới 10 phút để nhận được tin nhắn xác minh khi điện thoại của bạn ở trong vùng phủ sóng.</string>
     <string name="app_name">Tài khoản Mi</string>
     <string name="account">Tài khoản</string>
     <string name="login">Đăng nhập</string>
     <string name="login_with_email_or_id"><u>Đăng nhập bằng tài khoản khác</u></string>
-    <string name="email_or_id_hint_text">ID Email hoặc Tài khoản Mi</string>
+    <string name="email_or_id_hint_text">Email hoặc ID Tài khoản Mi</string>
     <string name="verify">Xác minh</string>
     <string name="register">Tạo Tài khoản Mi</string>
     <string name="register_by_email"><u>Dùng phương pháp khác để tạo tài khoản</u></string>
@@ -189,7 +209,7 @@
     <string name="user_agreement_p6">Đồng ý với </string>
     <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="user_agreement">Điều khoản Dịch vụ</string>
-    <string name="loading">Đang tải…</string>
+    <string name="loading">Vui lòng chờ…</string>
     <string name="license_host_unreachable">Không thể kết nối mạng. Bạn có thể xem trang này tại %s.</string>
     <string name="find_password_on_web_msg">Truy cập vào account.mi.com để đặt lại mật khẩu của bạn.</string>
     <string name="relogin">Đăng nhập lại</string>
@@ -197,12 +217,8 @@
     <string name="checking_account">Đang kiểm tra mật khẩu…</string>
     <string name="button_cancel">Hủy</string>
     <string name="mili_center">Mi Credit</string>
-    <string name="mibi_balance">%s Mi Credit</string>
-    <string name="loading_mili_center">Đang tải…</string>
-    <string name="hide_mibi_info">Đã ẩn thông tin Mi Credit</string>
-    <string name="failed_get_mibi_info">Không có số dư</string>
     <string name="mipay_center">Mi Wallet</string>
-    <string name="mi_support_service">Hỗ trợ</string>
+    <string name="mi_pass">Mi Pass</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Kết nối đến Tài khoản Sina Weibo</string>
     <string name="bind_weibo_description">Thêm bạn bè của bạn từ Sina Weibo</string>
@@ -237,8 +253,8 @@
     <string name="account_none">Không</string>
     <string name="account_no_set">Không</string>
     <string name="account_none_user_name">Không</string>
-    <string name="account_user_base_info">Thông tin người dùng</string>
-    <string name="account_user_secure_info">Thông tin bảo mật</string>
+    <string name="account_user_base_info">Thông tin cá nhân</string>
+    <string name="account_user_secure_info">Điện thoại &amp; email</string>
     <string name="account_user_email">Email</string>
     <string name="account_user_phone">Số điện thoại</string>
     <string name="account_user_recovery_phone">Số điện thoại khôi phục</string>
@@ -249,7 +265,7 @@
     <string name="account_user_gender_male">Nam</string>
     <string name="account_user_birthday">Sinh nhật</string>
     <string name="account_user_id">ID Tài khoản Mi</string>
-    <string name="account_user_details">Thông tin người dùng</string>
+    <string name="account_user_details">Thông tin cá nhân</string>
     <string name="account_user_name_dialog_title">Nhập tên người dùng</string>
     <string name="account_user_using_weibo_avatar">Sử dụng ảnh hồ sơ Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Sử dụng ảnh hồ sơ QQ</string>
@@ -300,7 +316,7 @@ Vui lòng nhập mã xác minh trong email"</string>
     <string name="get_phone_verifycode_exceed_limit">Quá nhiều mã xác minh được gửi đến số điện thoại này. Vui lòng chờ sau 24 giờ và thử lại.</string>
     <string name="get_email_verifycode_exceed_limit">Quá nhiều mã xác minh được gửi đến địa chỉ email này. Vui lòng chờ sau 24 giờ và thử lại.</string>
     <string name="mi_account_identity_title">Xác minh danh tính của bạn</string>
-    <string name="exceed_binded_phone_times_notice">Số này đã liên kết với quá nhiều tài khoản Mi, hãy thay đổi một số khác và thử lại.</string>
+    <string name="exceed_binded_phone_times_notice">Số điện thoại này đã được liên kết với Tài khoản Mi khác.</string>
     <string name="bind_settings">Tài khoản</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Tài khoản</string>
@@ -320,7 +336,7 @@ Vui lòng nhập mã xác minh trong email"</string>
     <string name="micloud_sync_state_stop">Đã dừng lại</string>
     <string name="micloud_sync_state_pending">Đang chờ</string>
     <string name="micloud_sync_state_need_wifi">Sử dụng Wi-Fi để đồng bộ</string>
-    <string name="micloud_space_info">%s khả dụng</string>
+    <string name="micloud_space_info">%s trống</string>
     <string name="loading_micloud_sync_data">Đang tải…</string>
     <string name="account_learn_more_title">Tạo một Tài khoản Mi miễn phí</string>
     <string name="cloud_service_dspt">Đồng bộ ảnh, liên hệ, ghi chú, ứng dụng và nhiều thứ khác giữa các thiết bị của bạn.</string>
@@ -354,4 +370,7 @@ Vui lòng nhập mã xác minh trong email"</string>
     <string name="get_device_list_failed">Không thể nhận thiết bị</string>
     <string name="delete_device_failed">Không thể xóa thiết bị</string>
     <string name="empty_device_list_notice">Không có thiết bị</string>
+    <string name="account_vip_level">Tài khoản</string>
+    <string name="account_vip_task">Nhiệm vụ</string>
+    <string name="vip_level_value">Cấp %d</string>
 </resources>

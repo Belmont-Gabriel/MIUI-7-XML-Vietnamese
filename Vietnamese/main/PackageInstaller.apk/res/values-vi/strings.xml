@@ -42,6 +42,11 @@
     <string name="virus_scan_caller_unknown">Không xác định</string>
     <string name="lift_ban_once">Cho phép một lần</string>
     <string name="dlg_appstore_notice">Chúng tôi không thể xác minh tính xác thực hay an toàn của các ứng dụng từ các nguồn bên ngoài &lt;u>&lt;font color=#91c727> Chợ Ứng dụng &lt;/font>&lt;/u>.</string>
+    <string name="app_store_missing_title">Chợ Ứng dụng chưa được cài đặt</string>
+    <string name="reboot_time">Sẵn sàng để khởi động lại…(%1$s)</string>
+    <string name="app_store_missing_message">Có vẻ như bạn chưa cài đặt Chợ Ứng dụng chính thức của chúng tôi. Cài đặt ngay?</string>
+    <string name="app_store_install_hint">Cài đặt ngay</string>
+    <string name="app_store_installing_message">Đang cài đặt…</string>
     <string name="app_name">Trình cài đặt gói</string>
     <string name="install">Cài đặt</string>
     <string name="done">Xong</string>
@@ -87,7 +92,7 @@ Tất cả dữ liệu người dùng trước đây sẽ được lưu."</strin
     <string name="uninstall_activity_text">%1$s là một phần của ứng dụng sau:</string>
     <string name="uninstall_application_text">Ứng dụng này sẽ bị gỡ cài đặt.</string>
     <string name="uninstall_update_text">Ứng dụng sẽ được thay bằng phiên bản tại nhà máy.</string>
-    <string name="uninstalling">Đang gỡ cài đặt...</string>
+    <string name="uninstalling">Đang gỡ cài đặt…</string>
     <string name="uninstall_done">Gỡ cài đặt đã hoàn tất</string>
     <string name="uninstall_failed">Gỡ cài đặt không thành công</string>
     <string name="uninstall_failed_device_policy_manager">Không thể cài đặt: gói này là của quản trị viên điện thoại hoạt động.</string>
