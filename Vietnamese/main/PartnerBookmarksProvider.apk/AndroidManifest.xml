@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.providers.partnerbookmarks">
-    <application>
-        <provider android:authorities="com.android.partnerbookmarks" android:name="PartnerBookmarksProvider"/>
-    </application>
-</manifest>
