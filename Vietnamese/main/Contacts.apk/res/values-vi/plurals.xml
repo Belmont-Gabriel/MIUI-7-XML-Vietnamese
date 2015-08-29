@@ -61,7 +61,7 @@
         <item quantity="other">%1$d liên hệ gần đây</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">"Đã thêm %1$d liên hệ"</item>
+        <item quantity="other">"Đã thêm  %1$d  liên hệ"</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Xóa %d liên hệ</item>
@@ -76,7 +76,7 @@
         <item quantity="other">Xóa %d liên hệ?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">"Đã chọn %1$d "</item>
+        <item quantity="other">"Đã chọn  %1$d "</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Chặn %1$d số điện thoại này?</item>
@@ -86,5 +86,11 @@
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Đổ chuông %d lần</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d liên hệ</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d liên hệ vẫn chưa được đồng bộ</item>
     </plurals>
 </resources>

@@ -44,7 +44,7 @@
         <item>1 tuần</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Ngôn ngữ mặc định</item>
+        <item>Theo địa phương</item>
         <item>Thứ bảy</item>
         <item>Chủ nhật</item>
         <item>Thứ hai</item>
@@ -204,6 +204,25 @@
         <item>2 ngày</item>
         <item>1 tuần</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Không nhắc nhở</item>
+        <item>0 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>1 ngày</item>
+        <item>2 ngày</item>
+        <item>1 tuần</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 giờ</item>
+        <item>4 giờ</item>
+        <item>5 giờ</item>
+        <item>6 giờ</item>
+        <item>1 ngày</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>ngày</item>
         <item>tuần</item>
@@ -250,7 +269,7 @@
         <item>Th 5</item>
         <item>Th 6</item>
         <item>Th 7</item>
-        <item>Cn</item>
+        <item>CN</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Thg 1</item>
@@ -267,11 +286,11 @@
         <item>Thg 12</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>lần thứ nhất</item>
-        <item>lần thứ 2</item>
-        <item>lần thứ 3</item>
-        <item>lần thứ 4</item>
-        <item>lần cuối</item>
+        <item>tuần đầu tiên</item>
+        <item>tuần thứ 2</item>
+        <item>tuần thứ 3</item>
+        <item>tuần thứ 4</item>
+        <item>tuần cuối</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Thứ hai - Thứ sáu</item>

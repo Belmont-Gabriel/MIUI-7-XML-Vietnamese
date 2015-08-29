@@ -25,6 +25,16 @@
     <string name="notification_download_failed">Không thể tải xuống</string>
     <string name="notification_download_success_more">Đã tải xuống %1$d</string>
     <string name="notification_download_failed_more">Không thể tải xuống %1$d mục</string>
+    <string name="insufficient_space">Không đủ dung lượng trống trên bộ nhớ trong thiết bị</string>
+    <string name="enter_garbage_clean">Dọn dẹp bộ nhớ trong.</string>
+    <string name="recommended_file_one_in_mobile">Dùng kết nối dữ liệu di động để tải xuống tập tin này (%s ) sẽ làm tăng sử dụng dữ liệu di động của bạn.</string>
+    <string name="recommended_file_more_in_mobile" formatted="false">Dùng kết nối dữ liệu di động để tải xuống %s tập tin này (%s ) sẽ làm tăng sử dụng dữ liệu di động của bạn.</string>
+    <string name="recommended_file_size_download_in_mobile" formatted="false">"Hiện tại bạn chưa kết nối Wi-Fi. %s
+
+Không thể nhận thông tin kích thước tập tin. Sử dụng kết nối dữ liệu di động để tải xuống tập tin này, chạm%s. Để chờ và tải xuống tập tin này khi có kết nối Wi-Fi, chạm %s."</string>
+    <string name="recommended_no_file_size_download_in_mobile" formatted="false">Không thể nhận thông tin kích thước tập tin. Sử dụng kết nối di động để tải xuống tập tin này, chạm %s. Để chờ và tải xuống tập tin này khi có kết nối Wi-Fi, chạm %s.</string>
+    <string name="button_wait_for_wifi">Chờ</string>
+    <string name="button_download_now">Tải xuống ngay</string>
     <string name="app_label">Trình quản lý Tải xuống</string>
     <string name="permlab_downloadManager">Truy cập trình quản lý tải xuống.</string>
     <string name="permdesc_downloadManager">"Cho phép ứng dụng truy cập trình quản lý tải xuống và sử dụng  trình này để tải xuống tệp. Ứng dụng độc hại có thể lợi dụng điều này để làm gián đoạn quá trình tải xuống và truy cập thông tin riêng tư."</string>
@@ -32,7 +42,7 @@
     <string name="permdesc_downloadManagerAdvanced">Cho phép ứng dụng truy cập các chức năng nâng cao của trình quản lý tải xuống. Ứng dụng độc hại có thể lợi dụng điều này để làm gián đoạn quá trình tải xuống và truy cập thông tin riêng tư.</string>
     <string name="permlab_downloadCompletedIntent">Gửi thông báo tải xuống.</string>
     <string name="permdesc_downloadCompletedIntent">Cho phép ứng dụng gửi thông báo về các bản tải xuống đã hoàn tất. Ứng dụng độc hại có thể lợi dụng điều này để gây nhầm lẫn cho các ứng dụng khác tải xuống tệp.</string>
-    <string name="permlab_seeAllExternal">Xem tất cả nội dung tải xuống về thẻ SD</string>
+    <string name="permlab_seeAllExternal">Xem t.cả t.xuống trong b.nhớ USB</string>
     <string name="permdesc_seeAllExternal">Cho phép ứng dụng xem tất cả các bản tải xuống thẻ SD, bất kể ứng dụng đã tải xuống chúng là ứng dụng gì.</string>
     <string name="permlab_downloadCacheNonPurgeable">Giữ lại dung lượng trong bộ nhớ cache tải xuống</string>
     <string name="permdesc_downloadCacheNonPurgeable">Cho phép ứng dụng tải tệp xuống bộ nhớ cache, không thể tự động xóa bộ nhớ này khi trình quản lý tải xuống cần thêm dung lượng.</string>

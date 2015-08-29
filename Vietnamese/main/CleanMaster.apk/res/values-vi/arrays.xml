@@ -24,8 +24,25 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Nhắc nhở bằng thông báo</item>
-        <item>Dọn dẹp trong nền</item>
-        <item>Hiển thị thông báo sau khi dọn dẹp</item>
+        <item>Hiển thị</item>
+        <item>Không hiển thị</item>
+        <item>Hiển thị sau</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Dọn dẹp</item>
+        <item>Tập tin</item>
+        <item>Danh sách ngoại lệ</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Dọn dẹp</item>
+        <item>Tập tin</item>
+        <item>Danh sách ngoại lệ</item>
+        <item>Cài đặt</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Chi tiết</item>
+        <item>Tập tin</item>
+        <item>Sao lưu và gỡ cài đặt</item>
+        <item>Gỡ cài đặt</item>
     </string-array>
 </resources>
