@@ -15,7 +15,7 @@
     <string name="alphabet">Bảng chữ cái</string>
     <string name="digits">Chữ số (0-9, *, #, +)</string>
     <string name="default_call_setup_msg">Cuộc gọi đang diễn ra…</string>
-    <string name="default_setup_call_msg">Call being setup</string>
+    <string name="default_setup_call_msg">Cuộc gọi thiết lập…</string>
     <string name="stk_app_state">Trạng thái ứng dụng</string>
     <string name="enable_app">Đã bật</string>
     <string name="disable_app">Đã vô hiệu hóa</string>
