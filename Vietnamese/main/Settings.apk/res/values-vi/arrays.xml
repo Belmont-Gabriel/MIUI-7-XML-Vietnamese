@@ -41,9 +41,10 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>Nhỏ</item>
-        <item>Bình thường</item>
+        <item>Trung bình</item>
         <item>Lớn</item>
         <item>Rất lớn</item>
+        <item>Cực lớn</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Rất chậm</item>
@@ -107,7 +108,7 @@
         <item>Đã mời</item>
         <item>Không thành công</item>
         <item>Có sẵn</item>
-        <item>Ngoài phạm vi</item>
+        <item>Ngoài vùng phủ sóng</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 phút</item>
@@ -123,7 +124,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Luôn luôn</item>
-        <item>Chỉ khi cắm vào nguồn điện</item>
+        <item>Chỉ khi cắm sạc</item>
         <item>Không bao giờ (tăng mức sử dụng dữ liệu)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
@@ -215,8 +216,8 @@
         <item>vị trí chính xác</item>
         <item>GPS</item>
         <item>rung</item>
-        <item>đọc danh bạ</item>
-        <item>sửa đổi danh bạ</item>
+        <item>đọc danh sách liên hệ</item>
+        <item>sửa đổi danh sách liên hệ</item>
         <item>đọc nhật ký cuộc gọi</item>
         <item>sửa đổi nhật ký cuộc gọi</item>
         <item>đọc lịch</item>
@@ -260,8 +261,8 @@
         <item>Vị trí</item>
         <item>Vị trí</item>
         <item>Rung</item>
-        <item>Đọc danh bạ</item>
-        <item>Sửa đổi danh bạ</item>
+        <item>Đọc danh sách liên hệ</item>
+        <item>Sửa đổi danh sách liên hệ</item>
         <item>Đọc nhật ký cuộc gọi</item>
         <item>Sửa đổi nhật ký cuộc gọi</item>
         <item>Đọc lịch</item>
@@ -334,7 +335,7 @@
         <item>Chữ trắng trên nền đen</item>
         <item>Chữ đen trên nền trắng</item>
         <item>Chữ vàng trên nền đen</item>
-        <item>Chữ vàng trên nền xanh lam</item>
+        <item>Chữ vàng trên nền lam</item>
         <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="select_runtime_titles">
@@ -507,15 +508,11 @@
         <item>Tía</item>
     </string-array>
     <string-array name="pink_panel_led_color_entries">
-        <item>Tím</item>
-        <item>Đỏ</item>
-        <item>Cam</item>
-        <item>Lam</item>
-        <item>Tía</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI thập lục phân</item>
+        <item>Thạch anh tím</item>
+        <item>Hồng ngọc</item>
+        <item>Hoàng ngọc</item>
+        <item>Ngọc lục bảo</item>
+        <item>Ngọc hồng lựu</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Hiển thị nhiệm vụ gần đây</item>
@@ -525,14 +522,14 @@
         <item>Không</item>
         <item>Hiển thị nhiệm vụ gần đây</item>
         <item>Khởi động trình Trợ lý</item>
-        <item>Khởi động Google ngay</item>
+        <item>Khởi động Google Now</item>
         <item>Đóng ứng dụng hiện tại</item>
         <item>Hiển thị menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 giây</item>
+        <item>0,5 giây</item>
         <item>1 giây</item>
-        <item>1.5 giây</item>
+        <item>1,5 giây</item>
         <item>2 giây</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -541,7 +538,7 @@
         <item>5 giây</item>
         <item>10 giây</item>
         <item>20 giây</item>
-        <item>Luôn luôn</item>
+        <item>Luôn bật</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Bắt đầu dịch vụ…</item>
@@ -567,13 +564,31 @@
         <item></item>
         <item></item>
     </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>Lưu trữ USB sẽ tự động mở khi kết nối với máy tính.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Cài đặt lại Trình quản lý MiPhone.</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Cài đặt công cụ: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Tạo một thư mục: mkdir/media/mtp</item>
         <item>Xác nhận quyền nhóm người dùng ở nhóm người dùng fuse hiện tại</item>
         <item>Đăng nhập lại</item>
-        <item>Dùng trình tập tin để truy cập liên kết thiết bị: mtpfs /media/mtp via file explorer; Cùng một mục trên máy</item>
-        <item>"Gỡ cài đặt thiết bị: mtpfs /media/mtp via file explorer; 
+        <item>Dùng trình tập tin để truy cập liên kết thiết bị: mtpfs /media/mtp qua Tập tin; Cùng một mục trên máy</item>
+        <item>"Gỡ cài đặt thiết bị: mtpfs /media/mtp qua Tập tin; 
 Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
@@ -593,7 +608,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_summary">
         <item>Tối ưu hóa độ tương phản màn hình với ánh sáng môi trường</item>
         <item>Tăng độ tương phản của màn hình</item>
-        <item>Độ tương phản màn hình tiêu chuẩn</item>
+        <item>Độ tương phản sẽ không thay đổi</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Cho phép</item>
@@ -639,6 +654,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Thư viện</item>
         <item>Nhạc</item>
         <item>E-mail</item>
+        <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Mạng chậm do quá nhiều lưu lượng truy cập</item>
@@ -667,15 +683,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>4.0 inch</item>
         <item>3.5 inch</item>
     </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Mạng cục bộ</item>
         <item>Tất cả mạng</item>
@@ -684,18 +691,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>NÓNG</item>
@@ -723,11 +721,26 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Hiển thị ảnh động hệ thống</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Để tăng hiệu suất của thiết bị, ẩn ảnh động hệ thống</item>
-        <item>Hiển thị ảnh động hệ thống có thể làm giảm hiệu suất của thiết bị</item>
+        <item>Tăng hiệu suất thiết bị</item>
+        <item>Có thể làm giảm hiệu suất thiết bị</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
         <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Mỗi ngày</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Mỗi ngày</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Giảm độ trễ</item>
+        <item>Chuẩn</item>
+        <item>Chất lượng tốt hơn</item>
     </string-array>
 </resources>

@@ -27,7 +27,7 @@
     <string name="download">Tải xuống</string>
     <string name="downloading">Đang tải xuống</string>
     <string name="insufficient_drm_rights">Quyền DRM không đủ để phát hiện.</string>
-    <string name="copy_message_text">Sao chép văn bản</string>
+    <string name="copy_message_text">Sao chép</string>
     <string name="copy_message_text_success">Đã sao chép văn bản</string>
     <string name="done">Hoàn tất</string>
     <string name="move_up">Chuyển lên</string>
@@ -57,6 +57,7 @@
     <string name="unsupported_media_format">Định dạng %1$s không được hỗ trợ.</string>
     <string name="select_different_media">Chọn một %1$s khác.</string>
     <string name="exceed_message_size_limitation">Kích thước thư đã đạt đến giới hạn.</string>
+    <string name="exceed_message_text_limitation">Độ dài văn bản tin nhắn đã đạt đến giới hạn.</string>
     <string name="message_too_big_for_video">Tin nhắn quá lớn để có thể đính kèm video.</string>
     <string name="failed_to_add_media">Bạn không thể thêm %1$s vào tin nhắn của bạn.</string>
     <string name="failed_to_resize_image">Ảnh chưa được sửa lại kích thước.</string>
@@ -141,7 +142,7 @@
     <string name="unsticked_conversation">Cuộc hội thoại đã được gỡ</string>
     <string name="invalid_conversation">Cuộc hội thoại không hợp lệ</string>
     <string name="no_conversations">Không có cuộc hội thoại</string>
-    <string name="loading_conversations">Đang tải cuộc hội thoại…</string>
+    <string name="loading_conversations">Vui lòng chờ…</string>
     <string name="cannot_get_details">Không thể lấy được thông tin.</string>
     <string name="message_details_title">Chi tiết tin nhắn</string>
     <string name="message_type_label">"Loại: "</string>
@@ -156,7 +157,7 @@
     <string name="saved_label">"Đã lưu: "</string>
     <string name="subject_label">"Chủ đề: "</string>
     <string name="message_size_label">"Kích thước tin nhắn: "</string>
-    <string name="priority_label">"Mức độ ưu tiên: "</string>
+    <string name="priority_label">Mức độ ưu tiên:…</string>
     <string name="priority_high">Cao</string>
     <string name="priority_normal">Bình thường</string>
     <string name="priority_low">Thấp</string>
@@ -264,7 +265,7 @@
     <string name="refresh">Làm mới</string>
     <string name="refresh_failed">Cập nhật thất bại</string>
     <string name="database_corruption">Đang sửa…</string>
-    <string name="send_to">"Tới: "</string>
+    <string name="send_to">Tới: </string>
     <string name="send_to_count">Đã gửi %1$s tin nhắn</string>
     <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="message_received">Đã nhận</string>
@@ -288,10 +289,11 @@
     <string name="context_menu_add_contact">Thêm vào liên hệ</string>
     <string name="context_menu_view_contact">Xem liên hệ</string>
     <string name="context_menu_contact">Liên hệ: %1$s</string>
-    <string name="context_menu_add_calendar">Hiển thị trong Lịch</string>
+    <string name="context_menu_add_calendar">Thêm vào Lịch</string>
     <string name="pref_sms_theme_title">Hiển thị</string>
     <string name="pref_time_auto_group_title">Phân nhóm theo thời gian</string>
     <string name="pref_time_auto_group_summary">Tin nhắn nhóm là các tin nhắn được nhận trong vòng một phút được đưa vào cùng chủ đề</string>
+    <string name="pref_time_auto_group_disabled_summary">Không hỗ trợ kích cỡ phông chữ hiện tại</string>
     <string name="bookmark_list_title">Đã gắn dấu sao</string>
     <string name="delete_bookmark">Xóa khỏi dấu sao</string>
     <string name="view_bookmark">Xem tin nhắn gốc</string>
@@ -323,7 +325,7 @@
     <string name="pref_title_allow_si_sl_push">Cho phép WAP push</string>
     <string name="pref_summary_allow_si_sl_push">Cho phép tin nhắn WAP push (SI/SL)</string>
     <string name="pref_title_show_recent_contacts">Hiển thị liên hệ gần đây</string>
-    <string name="pref_summary_show_recent_contacts">Hiển thị liên hệ gần đây khi soạn văn bản mới</string>
+    <string name="pref_summary_show_recent_contacts">Hiển thị liên hệ gần đây khi soạn tin nhắn mới</string>
     <string name="pref_title_hide_festival">Ẩn tính năng tiếng Trung</string>
     <string name="pref_summary_hide_festival">Ẩn tính năng chỉ tiếng Trung khi hệ thống được thiết lập một ngôn ngữ không phải tiếng Trung</string>
     <string name="send_signature_confirm_dialog_title">Gửi tin nhắn</string>
@@ -365,6 +367,7 @@
     <string name="title_date_type">Nhãn thời gian</string>
     <string name="mx_msg">Tin nhắn Mi</string>
     <string name="mx_enable">Tin nhắn Mi</string>
+    <string name="mx_enable_ex">Tin nhắn Mi &amp; Hội thoại</string>
     <string name="mx_on_sim_1">Tin nhắn Mi trên SIM 1</string>
     <string name="mx_on_sim_2">Tin nhắn Mi trên SIM 2</string>
     <string name="mx_btn_enable">Kích hoạt</string>
@@ -379,6 +382,9 @@
     <string name="mx_auto_resend_mms_summary">Dùng kết nối dữ liệu di động để gửi tin nhắn đa phương tiện như MMS khi bạn không có kết nối Wi-Fi. Bạn sẽ phải trả phí thông thường cho nhà mạng.</string>
     <string name="msg_type_hint_sms">Tin nhắn văn bản</string>
     <string name="msg_type_hint_mms">Tin nhắn đa phương tiện (MMS)</string>
+    <string name="msg_type_hint_sms_omit">SMS</string>
+    <string name="msg_type_hint_mms_omit">MMS</string>
+    <string name="msg_type_hint_mx_omit">Tin nhắn Mi</string>
     <string name="msg_type_hint_mx">Tin nhắn Mi</string>
     <string name="mx_reactivate">Kích hoạt lại Tin nhắn Mi</string>
     <string name="mx_activate_error_title">Không thể kích hoạt</string>
@@ -393,12 +399,12 @@
     <string name="mx_activate_int_hint_server">Nhà cung cấp dịch vụ có thể tính phí tin nhắn SMS quốc tế dùng để kích hoạt Tin nhắn Mi.</string>
     <string name="need_download">Đang đồng bộ…</string>
     <string name="found_wild_messages_title">Đồng bộ tin nhắn SMS từ Mi Cloud</string>
-    <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Cloud in Messaging Settings.</string>
-    <string name="found_wild_messages_guide_cloud_desc">Để đồng bộ tin nhắn từ Mi Cloud, đăng nhập vào Tài khoản Mi của bạn và bật đồng bộ SMS.</string>
+    <string name="found_wild_messages_guide_settings_desc">Đồng bộ tin nhắn SMS từ Mi Cloud trong Cài đặt Tin nhắn.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Để đồng bộ tin nhắn từ Mi Cloud, đăng nhập vào Tài khoản Mi của bạn và bật đồng bộ tin nhắn SMS.</string>
     <string name="found_old_messages_title">Tải lên các tin nhắn từ thẻ SIM khác của bạn?</string>
     <string name="found_old_messages">Tải lên các tin nhắn từ %1$s đến %2$s?</string>
     <string name="show_all_messages">Hiển thị tất cả tin nhắn</string>
-    <string name="loading_all_messages">Đang tải tin nhắn…</string>
+    <string name="loading_all_messages">Vui lòng chờ…</string>
     <string name="mx_online">Trực tuyến</string>
     <string name="mx_offline">Ngoại tuyến</string>
     <string name="mx_enable_popup_msg">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí SMS.</string>
@@ -411,7 +417,7 @@
     <string name="hint_search_sms">%d tin nhắn</string>
     <string name="cloud_state_sync_finished">Đã đồng bộ với Mi Cloud</string>
     <string name="cloud_state_syncing">Đang đồng bộ với Mi Cloud…</string>
-    <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đang tắt</string>
+    <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đã tắt</string>
     <string name="search_show_more_results">Hiển thị thêm</string>
     <string name="add_private_contact">Thêm liên hệ cá nhân</string>
     <string name="private_settings">Cài đặt tin nhắn cá nhân</string>
@@ -450,7 +456,7 @@
     <string name="restore_all_button_msg">Khôi phục tất cả các tin nhắn được gửi từ số này</string>
     <string name="no_block_button_msg">Bỏ chặn</string>
     <string name="reply_button_msg">Trả lời</string>
-    <string name="restore_blocked_message">Khôi phục tin nhắn</string>
+    <string name="restore_blocked_message">Khôi phục</string>
     <string name="overwrite_edited_content">Nội dung mà bạn đã chỉnh sửa sẽ được ghi đè.</string>
     <string name="back_to_message_list">Quay lại danh sách tin nhắn</string>
     <string name="select_recipient">Chọn người nhận</string>
@@ -466,6 +472,8 @@
     <string name="sp_conversation_title">Thông báo</string>
     <string name="title_show_sms_template">Bật chức năng nhận biết thông minh</string>
     <string name="pref_show_sms_template_summary">Tự động sao chép và điền mã xác minh</string>
+    <string name="title_show_sms_template_in">Kiểm tra tin nhắn OTP</string>
+    <string name="pref_show_sms_template_in_summary">Tự động nhận biết mã xác thực OTP trong tin nhắn SMS</string>
     <string name="title_show_blocked_messages">Hiển thị SMS bị chặn</string>
     <string name="pref_show_blocked_messages_summary">Hiển thị SMS bị chặn trong danh sách cuộc hội thoại</string>
     <string name="sp_mark_as_read_title">Đánh dấu tất cả là đã đọc</string>
@@ -535,8 +543,10 @@
     <string name="view_hms_attachment_fail">Không thể tải ảnh</string>
     <string name="mx_type_guide">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí SMS</string>
     <string name="mx_dspt_provision">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác mà không phát sinh chi phí SMS. Nhà cung cấp có thể tính phí một tin nhắn SMS được dùng để kích hoạt dịch vụ này.</string>
-    <string name="mx_activate_user_agreement_p1">"Bằng cách sử dụng dịch vụ này, bạn đồng ý với Tin nhắn Mi về "</string>
+    <string name="mx_dspt_provision_ex">Gửi tin nhắn hoặc gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
+    <string name="mx_dspt_provision_ex2">Chính sách Riêng tư</string>
     <string name="mx_activate_dlg_title">Kích hoạt Tin nhắn Mi</string>
+    <string name="mx_activate_dlg_title_ex">Kích hoạt Tin nhắn Mi &amp; Hội thoại</string>
     <string name="resource_price_free">Miễn phí</string>
     <string name="menu_send_as_common">Gửi như tin nhắn SMS</string>
     <string name="message_sent">Đã gửi</string>
@@ -545,7 +555,7 @@
     <string name="release_cancel">Thả ra để hủy</string>
     <string name="press_recording">Bấm &amp; giữ biểu tượng Micro để ghi âm</string>
     <string name="warning_show">Gửi sau %d giây</string>
-    <string name="audio_playing_seconds">%d\"</string>
+    <string name="audio_playing_seconds">%d giây</string>
     <string name="playing_failed">Không thể phát</string>
     <string name="cannot_resend_audio">Không thể gửi bản ghi</string>
     <string name="recording_failed">Không thể ghi âm</string>
@@ -560,6 +570,7 @@
     <string name="pref_title_mms_validity_period">Thời gian hiệu lực MMS</string>
     <string name="open_url_with_web">Mở URL này trong Trình duyệt?</string>
     <string name="block_messaging_entry_title">SMS bị chặn</string>
+    <string name="mipub_messaging_entry_title">Tin nhắn Mi</string>
     <string name="message_contact">Liên hệ:</string>
     <string name="message_number">Số điện thoại:</string>
     <string name="storage_dialog_mms">MMS: %d</string>
@@ -567,11 +578,19 @@
     <string name="storage_dialog_attachments">Đính kèm MMS:</string>
     <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_dialog_database">Cơ sở dữ liệu:</string>
-    <string name="storage_dialog_available_space">Dung lượng khả dụng:</string>
+    <string name="storage_dialog_available_space">Dung lượng trống:</string>
     <string name="storage_unavailable">Không đủ dung lượng trống</string>
-    <string name="security_alert_desc">Người gửi không có trong liên hệ của bạn. <font color="red"><u>Báo cáo số này</u></font></string>
+    <string name="security_alert_desc"><font color="#7f000000">"Người gửi không có trong danh sách liên hệ của bạn\"
+\" "</font></string>
+    <string name="security_alert_desc_highlight">Báo cáo số này</string>
     <string name="security_alert_dialog_title">Báo cáo</string>
-    <string name="security_alert_dialog_desc">Báo cáo số (%s) và tin nhắn này bằng cách gửi đến Xiaomi để phân tích.</string>
+    <string name="security_alert_dialog_desc">Gửi số này (%s) và tin nhắn đến Xiaomi để phân tích.</string>
     <string name="sms_report_failed">Không thể gửi báo cáo</string>
     <string name="sms_report_success">Báo cáo đã gửi</string>
+    <string name="voip_enable">Tin nhắn Mi và Mi VoIP</string>
+    <string name="voip_enable_popup_msg">Gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. Mi VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
+    <string name="voip_enable_popup_msg2">Chính sách Riêng tư</string>
+    <string name="mx_and_voip_enable">Tin nhắn Mi &amp; Mi VoIP</string>
+    <string name="mx_and_voip_enable_popup_msg">Gửi tin nhắn hoặc gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
+    <string name="mx_and_voip_enable_popup_msg2">Chính sách Bảo mật</string>
 </resources>

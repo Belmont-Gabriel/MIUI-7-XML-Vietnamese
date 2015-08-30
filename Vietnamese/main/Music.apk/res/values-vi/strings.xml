@@ -21,7 +21,7 @@
     <string name="error_forbidden">Đồng bộ đã bị tắt do vấn đề với Tài khoản Mi của bạn.</string>
     <string name="error_not_acceptable">Đồng bộ đã bị tắt.</string>
     <string name="impunity_declaration_title">Điều khoản Dịch vụ</string>
-    <string name="impunity_declaration">Nội dung trực tuyến được cung cấp bởi Dịch vụ Âm nhạc Trực tuyến Baidu. Bằng cách sử dụng dịch vụ này, bạn đang đồng ý với <a href="http://music.baidu.com/doc/agreement"> Điều khoản Dịch vụ</a> của Baidu.</string>
+    <string name="impunity_declaration">Ứng dụng này cần kết nối internet.</string>
     <string name="impunity_declaration_ignore">Không hiển thị lại</string>
     <string name="impunity_declaration_settings">Hiển thị Điều khoản Dịch vụ</string>
     <string name="impunity_declaration_summary">Hiển thị Điều khoản Dịch vụ của Dịch vụ Âm nhạc Trực tuyến Baidu mỗi khi mở ứng dụng Âm nhạc</string>
@@ -187,7 +187,7 @@
     <string name="my_account">Tài khoản Mi</string>
     <string name="quit_warining">Trình nghe nhạc sẽ ngừng phát sau %d phút</string>
     <string name="sleep_mode">Hẹn giờ tắt</string>
-    <string name="close_music_time">Thời gian còn lại:</string>
+    <string name="close_music_time">"Thời gian còn lại: "</string>
     <string name="sleep_mode_title">Hẹn giờ tắt</string>
     <string name="sleep_mode_summary">Hẹn giờ tắt nhạc</string>
     <string name="auto_download_in_wifi">Bài hát yêu thích sẽ được tải xuống tự động bằng mạng Wi-Fi</string>
@@ -207,7 +207,7 @@
     <string name="metered_disallow">Hủy</string>
     <string name="metered_play_toast">Sử dụng mạng di động để phát nhạc</string>
     <string name="no_results_return">Không có kết quả tìm kiếm</string>
-    <string name="list_item_play_FM_radio">Chạm để phát đài FM</string>
+    <string name="list_item_play_FM_radio">Chạm để bật đài FM</string>
     <string name="baidu_music">Âm nhạc Baidu</string>
     <string name="local_music">Ngoại tuyến</string>
     <string name="local_tracks_short">Ngoại tuyến</string>
@@ -280,7 +280,7 @@
     <string name="delete_file_end">Xóa vĩnh viễn</string>
     <string name="no_song">Không có bài hát nào</string>
     <string name="recommend_fragment_title">Đặc sắc</string>
-    <string name="channel_list_fragment_title">Radio</string>
+    <string name="channel_list_fragment_title">Đài FM</string>
     <string name="bill_list_fragment_title">Bảng xếp hạng</string>
     <string name="nowplaying_menu_item_delete">Xóa</string>
     <string name="similar_songs">Bài hát tương tự</string>
@@ -308,4 +308,10 @@
     <string name="upgrade_waringing">Bạn sẽ chỉ có thể nghe nhạc được lưu trữ trên máy.</string>
     <string name="upgrade_immediate">Cập nhật ngay</string>
     <string name="i_know_it">OK</string>
+    <string name="atmd_music">Ultimate</string>
+    <string name="atmd_copyright_info">Dịch vụ streaming được cung cấp bởi Ultimate Inc.</string>
+    <string name="atmd_mail">service1@ultimobi.com</string>
+    <string name="online_music_enabled_title">Free streaming is here</string>
+    <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
+    <string name="online_music_enabled_summary">Listen and download your favorite songs. View billboard charts and curated playlists wherever you go!</string>
 </resources>

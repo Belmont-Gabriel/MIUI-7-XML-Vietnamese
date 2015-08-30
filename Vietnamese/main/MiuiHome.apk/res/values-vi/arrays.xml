@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Trượt cổ điển</item>
+        <item>Cổ điển</item>
         <item>Trượt</item>
         <item>Mờ dần</item>
         <item>Lăn</item>
@@ -29,7 +29,7 @@
         <item>Cổ điển</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Quang đãng</item>
+        <item>Quang</item>
         <item>Nhiều mây</item>
         <item>Sương mù</item>
         <item>Sương mù</item>
