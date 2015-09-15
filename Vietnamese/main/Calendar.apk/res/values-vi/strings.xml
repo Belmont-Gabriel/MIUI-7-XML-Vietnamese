@@ -30,12 +30,12 @@
     <string name="hide_controls">Ẩn các điều khiển</string>
     <string name="show_controls">Hiển thị các điều khiển</string>
     <string name="select_visible_calendars_title">Lịch hiển thị</string>
-    <string name="synced">đã đồng bộ hóa</string>
-    <string name="not_synced">chưa được đồng bộ hóa</string>
-    <string name="acct_not_synced">Tài khoản này hiện không được đồng bộ hóa và lịch của bạn có thể không cập nhật.</string>
-    <string name="accounts">Tài khoản &amp; đồng bộ hóa</string>
-    <string name="select_synced_calendars_title">Lịch để đồng bộ hóa</string>
-    <string name="select_synced_calendars_button">Lịch để đồng bộ hóa</string>
+    <string name="synced">đã đồng bộ</string>
+    <string name="not_synced">chưa được đồng bộ</string>
+    <string name="acct_not_synced">Tài khoản này hiện không được đồng bộ và lịch của bạn có thể không cập nhật.</string>
+    <string name="accounts">Tài khoản &amp; đồng bộ</string>
+    <string name="select_synced_calendars_title">Lịch để đồng bộ</string>
+    <string name="select_synced_calendars_button">Lịch để đồng bộ</string>
     <string name="hint_what">Tên sự kiện</string>
     <string name="hint_where">Vị trí</string>
     <string name="hint_description">Mô tả</string>
@@ -58,7 +58,7 @@
     <string name="privacy_label">Bảo mật</string>
     <string name="reminders_label">Thêm lời nhắc</string>
     <string name="no_syncable_calendars">Không có lịch</string>
-    <string name="no_calendars_found">Trước khi có thể thêm sự kiện, bạn phải thêm ít nhất một tài khoản Lịch vào thiết bị của bạn và đặt lịch ở chế độ hiển thị. Chạm Thêm tài khoản để thêm tài khoản (nếu bạn vừa mới thêm tài khoản, hãy đợi tài khoản đó kết thúc đồng bộ hóa và thử lại). Hoặc chạm vào Hủy và đảm bảo ít nhất một lịch được hiển thị.</string>
+    <string name="no_calendars_found">Trước khi có thể thêm sự kiện, bạn phải thêm ít nhất một tài khoản Lịch vào thiết bị của bạn và đặt lịch ở chế độ hiển thị. Chạm Thêm tài khoản để thêm tài khoản (nếu bạn vừa mới thêm tài khoản, hãy đợi tài khoản đó kết thúc đồng bộ và thử lại). Hoặc chạm vào Hủy và đảm bảo ít nhất một lịch được hiển thị.</string>
     <string name="create_an_account_desc">"Lịch hoạt động tốt hơn với Tài khoản Google.
 
 • Truy cập Lịch từ bất kỳ trình duyệt web nào
@@ -78,7 +78,7 @@
     <string name="quick_response_settings_edit_title">Trả lời nhanh</string>
     <string name="quick_response_dialog_title">Chọn trả lời nhanh</string>
     <string name="quick_response_email_failed">Không thể tìm được chương trình email</string>
-    <string name="quick_response_custom_msg">Thông báo tùy chỉnh...</string>
+    <string name="quick_response_custom_msg">Thông báo tùy chỉnh…</string>
     <string name="event_info_organizer">Người t.chức</string>
     <string name="event_info_reminders_label">Lời nhắc</string>
     <string name="agenda_today">HÔM NAY, %1$s</string>
@@ -152,7 +152,7 @@
     <string name="accessibility_add_reminder">Thêm lời nhắc</string>
     <string name="accessibility_remove_reminder">Xóa lời nhắc</string>
     <string name="accessibility_add_attendee">Thêm người tham dự</string>
-    <string name="accessibility_sync_cal">Đồng bộ hóa lịch</string>
+    <string name="accessibility_sync_cal">Đồng bộ lịch</string>
     <string name="accessibility_all_day">Sự kiện cả ngày</string>
     <string name="accessibility_repeats">Lặp lại</string>
     <string name="accessibility_reminder_time">Thời gian nhắc</string>
@@ -278,7 +278,7 @@
     <string name="alert_reminder_expired">Đã hết hạn</string>
     <string name="travel_local">Điểm đến</string>
     <string name="travel_loading">Vui lòng chờ…</string>
-    <string name="travel_loaded">Được hỗ trợ bởi Veryzhun</string>
+    <string name="travel_loaded">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="travel_load_failed">Không tải được</string>
     <string name="travel_item_trafic">Giao thông</string>
     <string name="travel_item_weather_forecast">Dự báo thời thiết điểm đến</string>
