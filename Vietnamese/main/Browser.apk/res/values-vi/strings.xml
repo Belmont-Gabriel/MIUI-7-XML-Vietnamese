@@ -29,9 +29,9 @@
     <string name="color_picker_dialog_title">Chọn màu</string>
     <string name="color_picker_button_red">Đỏ</string>
     <string name="color_picker_button_cyan">Chàm</string>
-    <string name="color_picker_button_blue">Lam</string>
-    <string name="color_picker_button_green">Lục</string>
-    <string name="color_picker_button_magenta">Tía</string>
+    <string name="color_picker_button_blue">Xanh lam</string>
+    <string name="color_picker_button_green">Xanh lá cây</string>
+    <string name="color_picker_button_magenta">Đỏ sậm</string>
     <string name="color_picker_button_yellow">Vàng</string>
     <string name="color_picker_button_black">Đen</string>
     <string name="color_picker_button_white">Trắng</string>
@@ -99,22 +99,6 @@ Rời khỏi trang này?"</string>
     <string name="miuichromium_error_page_diagnostic">Chẩn đoán mạng</string>
     <string name="loading_tips">Kéo xuống để làm mới</string>
     <string name="up_to_loading_tips">Thả để làm mới</string>
-    <string name="miuishare_app_name">Chia sẻ Miui</string>
-    <string name="miuishare_title_more">Thêm</string>
-    <string name="miuishare_title_share">Chia sẻ</string>
-    <string name="miuishare_account_login_ok">Đăng nhập</string>
-    <string name="miuishare_account_activate_ok">Kích hoạt</string>
-    <string name="miuishare_account_login_cancel">Hủy</string>
-    <string name="miuishare_account_login_confirmation">Yêu cầu đăng nhập</string>
-    <string name="miuishare_account_activate_confirmation">Yêu cầu kích hoạt</string>
-    <string name="miuishare_account_need_login">Chia sẻ Weibo yêu cầu tài khoản Weibo của bạn phải được liên kết với tài khoản Mi (hiện đã được đăng nhập). Đăng nhập để chia sẻ ngay?</string>
-    <string name="miuishare_account_need_activate">Chia sẻ Weibo yêu cầu tài khoản Weibo của bạn phải được liên kết với tài khoản Mi (hiện chưa được kích hoạt). Kích hoạt tài khoản của bạn?</string>
-    <string name="miuishare_wechat_timeline_title">Dòng thời gian Wechat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuishare_publish">Chia sẻ</string>
-    <string name="miuishare_share_done">Đã chia sẻ nội dung.</string>
-    <string name="miuishare_share_editor_title">Chia sẻ</string>
-    <string name="miuishare_no_network">Không có mạng để chia sẻ</string>
     <string name="delete">Xóa</string>
     <string name="video_activity_name">Yêu thích</string>
     <string name="video_fragment_name_collections">Yêu thích</string>
@@ -184,7 +168,7 @@ Rời khỏi trang này?"</string>
     <string name="save_image_success">Đã lưu ảnh</string>
     <string name="save_image_failed">Không thể lưu ảnh</string>
     <string name="browserFrameNetworkErrorLabel">Vấn đề kết nối</string>
-    <string name="browserFrameFileErrorLabel">Vấn đề tập tino/string>
+    <string name="browserFrameFileErrorLabel">Vấn đề tập tin</string>
     <string name="browserFrameFormResubmitMessage">Trang web mà bạn đang cố xem chứa dữ liệu đã được gửi. Nếu bạn bạn gửi lại dữ liệu, các thao tác trước đó (như tìm kiếm hoặc thanh toán trực tuyến) sẽ được lặp lại.</string>
     <string name="have_sent_bookmark_to_home_screen">Đã thêm vào Màn hình chính</string>
     <string name="in_incognito">Bạn đang ẩn danh! Các trang web bạn xem trong thẻ này sẽ không xuất hiện trong lịch sử trình duyệt của bạn.</string>
@@ -599,4 +583,4 @@ Rời khỏi trang này?"</string>
     <string name="version_dialog_buttion_update">Cập nhật</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="secure_download_in_xiaomi_market">Tải xuống trong Chợ Ứng dụng</string>
-</resources>
+</resources>
