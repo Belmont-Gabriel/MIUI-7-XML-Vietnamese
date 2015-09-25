@@ -322,6 +322,7 @@
     <string name="hints_last_virus_scan_risk">Quét %d ngày trước: Đáng ngờ</string>
     <string name="hints_last_virus_scan_virus">Quét %d ngày trước: Nguy hiểm</string>
     <string name="hints_need_quick_scan">Đề nghị quét nhanh</string>
+    <string name="hints_need_regular_scan">Quét thiết bị thường xuyên</string>
     <string name="hints_handle_item_text_safe">An toàn</string>
     <string name="hints_handle_item_text_risk">Nguy cơ: %d</string>
     <string name="hints_handle_item_text_virus">Virus: %d</string>
@@ -359,7 +360,7 @@
     <string name="title_install_virus_yes">Giám sát cài đặt mở</string>
     <string name="summary_install_virus">Kiểm tra virus trước khi cài đặt ứng dụng</string>
     <string name="button_text_fix">Sửa</string>
-    <string name="button_text_view">Tối ưu hóa</string>
+    <string name="button_text_view">Tối ưu</string>
     <string name="button_text_security">Bảo mật</string>
     <string name="item_virus">Virus</string>
     <string name="item_usb_debug">Gỡ lỗi USB</string>

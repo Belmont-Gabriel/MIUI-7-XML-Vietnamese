@@ -4,6 +4,7 @@
         <item>Trong 1 phút</item>
         <item>Trong 5 phút</item>
         <item>Trong 10 phút</item>
+        <item>Trong 30 phút</item>
         <item>Không bao giờ</item>
     </string-array>
     <string-array name="preferred_app_entries">
