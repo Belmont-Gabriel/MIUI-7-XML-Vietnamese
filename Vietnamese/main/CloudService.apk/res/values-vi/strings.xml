@@ -151,9 +151,9 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="micloud_space_soundrecorder_title">Ghi âm</string>
     <string name="micloud_space_soundrecorder_detail">Quản lý ghi âm được lưu trữ trên thiết bị của bạn</string>
     <string name="micloud_space_full_influence"><u>Điều gì sẽ xảy ra khi tôi hết dung lượng lưu trữ?</u></string>
-    <string name="micloud_storage_usage" formatted="false">Đã dùng %s/Tổng dung lượng %s</string>
+    <string name="micloud_storage_usage" formatted="false">Đã dùng: %s | Tổng: %s</string>
     <string name="micloud_title_dspt" formatted="false">"Tổng %s 
- đã dùng %s | còn lại %s"</string>
+ Đã dùng: %s | Còn lại: %s"</string>
     <string name="micloud_title_dspt_remain">Còn lại %s</string>
     <string name="micloud_title_full_dspt">Bạn đã đạt đến giới hạn lưu trữ!</string>
     <string name="micloud_user_space_usage">Dung lượng lưu trữ</string>

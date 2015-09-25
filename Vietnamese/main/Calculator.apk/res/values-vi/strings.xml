@@ -12,16 +12,8 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
-    <string name="del">XOÁ</string>
+    <string name="del">XÓA</string>
     <string name="clear">CLR</string>
-    <string name="sin">sin</string>
-    <string name="cos">cos</string>
-    <string name="tan">tan</string>
-    <string name="e">e</string>
-    <string name="ln">ln</string>
-    <string name="lg">ghi</string>
-    <string name="leftParen">(</string>
-    <string name="rightParen">)</string>
     <string name="clear_history">Xóa lịch sử</string>
     <string name="text_copied_toast">Đã sao chép văn bản.</string>
     <string name="leftParenDesc">dấu ngoặc trái</string>

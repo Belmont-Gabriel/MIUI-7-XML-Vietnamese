@@ -2,5 +2,6 @@
 <resources>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d nhóm</item>
+        <item quantity="one">%d nhóm</item>
     </plurals>
 </resources>

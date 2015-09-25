@@ -150,7 +150,7 @@
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>

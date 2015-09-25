@@ -20,7 +20,7 @@
     <string name="activity_title_apk">Gói</string>
     <string name="activity_title_residual">Rác</string>
     <string name="btn_text_quick_scan">Quét</string>
-    <string name="optimizecenter_data_support">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="optimizecenter_data_support">๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="hints_app_uninstall_residual">Dọn dẹp tập tin rác sau khi gỡ ứng dụng?</string>
     <string name="button_text_cancel">Hủy</string>
     <string name="button_text_known">OK</string>
@@ -156,6 +156,7 @@
     <string name="apps_sort_type_item_size">Kích thước</string>
     <string name="hints_install_apps_today">Đã dùng hôm nay</string>
     <string name="hints_install_apps_interval">Đã sử dụng %d ngày trước đây</string>
+    <string name="hints_install_apps_else">Đã sử dụng %s</string>
     <string name="hints_install_apps_new">Chưa bao giờ mở</string>
     <string name="hints_install_apps_virus">phát hiện virus</string>
     <string name="hints_install_apps_risk">phát hiện nguy cơ</string>
@@ -239,4 +240,7 @@
     <string name="hints_cleanfinish">Hoàn thành dọn dẹp</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Dọn dẹp %s</string>
+    <string name="pref_title_open_optimizer_memory_scan">Dọn dẹp bộ nhớ</string>
+    <string name="pref_summary_open_optimizer_memory_scan">Tự động chọn ứng dụng để làm sạch</string>
+    <string name="toast_select_white_need_remove">Chọn mục để loại bỏ</string>
 </resources>
