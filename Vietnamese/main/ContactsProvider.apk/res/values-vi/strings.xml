@@ -9,6 +9,8 @@
     <string name="upgrade_out_of_memory_notification_text">Chạm để hoàn tất nâng cấp.</string>
     <string name="default_directory">Danh bạ</string>
     <string name="local_invisible_directory">Khác</string>
+    <string name="read_write_all_voicemail_label">Truy cập tất cả thư thoại</string>
+    <string name="read_write_all_voicemail_description">Cho phép ứng dụng lưu trữ và lấy tất cả thư thoại mà thiết bị này có thể truy cập.</string>
     <string name="voicemail_from_column">"Thư thoại từ "</string>
     <string name="debug_dump_title">Sao chép cơ sở dữ liệu người liên hệ</string>
     <string name="debug_dump_database_message">Bạn sắp 1) thực hiện sao chép cơ sở dữ liệu của mình bao gồm tất cả thông tin liên quan đến địa chỉ liên hệ và tất cả nhật ký cuộc gọi sang bộ nhớ trong, và 2) gửi bản sao đó qua email. Hãy nhớ xóa bản sao khỏi thiết bị hoặc email nhận được ngay khi bạn đã sao chép thành công.</string>

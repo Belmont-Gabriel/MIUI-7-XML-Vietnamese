@@ -9,7 +9,7 @@
     <string name="abc_searchview_description_search">Tìm kiếm</string>
     <string name="abc_searchview_description_submit">Gửi truy vấn</string>
     <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
-    <string name="account_duplicate_dlg_message_fmt">        Bạn đã sử dụng tên người dùng này cho tài khoản \"%s\".</string>
+    <string name="account_duplicate_dlg_message_fmt"> Bạn đã sử dụng tên người dùng này cho tài khoản \"%s\".</string>
     <string name="account_duplicate_dlg_title">Tài khoản bị trùng</string>
     <string name="account_name_toast">Một tài khoản có cùng tên đã tồn tại</string>
     <string name="account_options_sync_title">Đồng bộ</string>
@@ -152,6 +152,7 @@
     <string name="archive">Lưu trữ</string>
     <string name="archived">Đã lưu trữ</string>
     <string name="att_download_failed_content">Không thể tải xuống tập tin đính kèm cho thư này.</string>
+    <string name="att_download_failed_title">Không thể tải xuống tập tin đính kèm</string>
     <string name="att_file_not_exists">Không tìm thấy tập tin %s!</string>
     <string name="att_mgr_no_attachment">Không có tập tin đính kèm.</string>
     <string name="att_mgr_title_order_mime">Định dạng</string>
@@ -169,6 +170,7 @@
     <string name="attachment_decoding">Tập tin đính kèm đã hoàn tất tải xuống và đang được giải mã, vui lòng chờ trong giây lát.</string>
     <string name="attachment_download_all">Tải xuống tất cả</string>
     <string name="attachment_image">Ảnh</string>
+    <string name="attachment_list_search_hint">Tìm tệp đính kèm</string>
     <string name="attachment_mgr_name">Tập tin đính kèm</string>
     <string name="attachment_not_exists">Tập tin đính kèm là không khả dụng!</string>
     <string name="attachment_open_SecurityException_hint">Kiểm tra quyền truy cập, tập tin có lỗi hay không...</string>
@@ -216,6 +218,8 @@
     <string name="collapse_recipient_details">Thu gọn chi tiết người nhận</string>
     <string name="colon">:</string>
     <string name="compose">Soạn</string>
+    <string name="compose_attachment_number_limit">Số lượng tập tin đính kèm không được vượt quá 10!</string>
+    <string name="compose_picturesexceedlimits">Số lượng hình ảnh nội dòng không được vượt quá 5!</string>
     <string name="compose_send">Gửi</string>
     <string name="compose_sent">Đã gửi thư</string>
     <string name="confirm">OK</string>
@@ -234,6 +238,8 @@
     <string name="contact_edit_set_black_list_receive_summary">Xóa thư bao gồm người nhận này trong trường Đến hoặc Cc</string>
     <string name="contact_edit_set_phone_contact">Sửa liên hệ điện thoại</string>
     <string name="contact_edit_title_phone_contact">Danh sách liên hệ điện thoại</string>
+    <string name="contact_in_filter_call_phone_str">Gọi: %s</string>
+    <string name="contact_in_filter_title">Xuất phát từ anh ấy (cô ấy).</string>
     <string name="contact_info_string">Hiển thị thông tin liên hệ cho %1$s</string>
     <string name="contact_info_string_default">Hiển thị thông tin liên hệ</string>
     <string name="contact_list_add_btn">Thêm</string>
@@ -472,7 +478,6 @@
     <string name="mibill_privacy_policy_title">Quản lý hóa đơn tự động</string>
     <string name="more_atts_remaining">Còn lại hơn %1$d</string>
     <string name="more_context">Thêm</string>
-    <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">Chuyển sang thư mục khác</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Tắt tiếng</string>
@@ -482,7 +487,6 @@
     <string name="new_messages">%1$d thư mới</string>
     <string name="next_action">Tiếp theo</string>
     <string name="no">Không</string>
-    <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Không tìm thấy ứng dụng để mở tập tin đính kèm này.</string>
     <string name="no_application_found_title">Mở tập tin đính kèm này.</string>
     <string name="no_contacts">Không có liên hệ.</string>
@@ -511,6 +515,8 @@
     <string name="outbox_alert_certificate_error">Liên hệ quản trị hệ thống email và cập nhật chứng nhận của bạn.</string>
     <string name="outbox_alert_description_auth_error">Lỗi ủy quyền máy chủ khi đồng bộ hộp thư đi.</string>
     <string name="outbox_alert_description_cannot_authenticate">Không thể xác thực %s.</string>
+    <string name="outbox_alert_description_email_size_error">Đã đạt được kích thước tối đa của Email.</string>
+    <string name="outbox_alert_description_fail_authentication">Tên đăng nhập hoặc mật khẩu không chính xác.</string>
     <string name="outbox_alert_description_http_error">Lỗi HTTP khi đồng bộ hộp thư đi.</string>
     <string name="outbox_alert_description_insufficient_storage_error">Không đủ không gian lưu trữ trên máy chủ email</string>
     <string name="outbox_alert_description_provision_error">Lỗi thiết lập máy chủ khi đồng bộ hộp thư đi.</string>
@@ -631,6 +637,10 @@
     <string name="reply_all">Trả lời tất cả</string>
     <string name="reply_attribution" formatted="false">Vào %s, %s đã viết:</string>
     <string name="report_phishing">Báo cáo lừa đảo</string>
+    <string name="report_rendering_improvement">Trông ổn đấy</string>
+    <string name="report_rendering_improvement_desc">Thư này trông ổn đấy.</string>
+    <string name="report_rendering_problem">Trông tệ quá</string>
+    <string name="report_rendering_problem_desc">Thư này trông tệ quá.</string>
     <string name="report_spam">Báo cáo thư rác</string>
     <string name="request_entity_large">Tập tin quá lớn</string>
     <string name="respond_inline">Phản hồi trực tiếp</string>
@@ -648,6 +658,7 @@
     <string name="search_tabs_name_recipient">Người nhận</string>
     <string name="search_tabs_name_sender">Người gửi</string>
     <string name="search_tabs_name_subject">Chủ đề</string>
+    <string name="search_title">Email hợp nhất</string>
     <string name="search_txt_size_limit_prompt">Từ tìm kiếm phải lớn hơn 3 ký tự</string>
     <string name="security_changed_ticker_fmt">Tài khoản \"%s\" đã thay đổi cài đặt bảo mật, không có hành động người dùng được yêu cầu.</string>
     <string name="security_needed_ticker_fmt">Tài khoản \"%s\" yêu cầu cập nhật cài đặt bảo mật.</string>
@@ -672,7 +683,6 @@
     <string name="ser_resp_err_map_serclosed">Máy chủ đã đóng</string>
     <string name="ser_resp_err_map_ssl">Chọn \"SSL/TLS (Chấp nhận tất cả chứng nhận)\" trong \"Loại bảo mật\"</string>
     <string name="set_network">Thiết lập mạng</string>
-    <string name="setting_default_lable" />
     <string name="settings_activity_title">Cài đặt</string>
     <string name="share_choose">Please choose</string>
     <string name="sharing">Chia sẻ</string>
@@ -727,7 +737,7 @@
     <string name="unread_string">Hội thoại chưa đọc</string>
     <string name="unsent_messages_in_outbox">%1$s chưa gửi trong %2$s</string>
     <string name="unzip_file_failed">Không thể giải nén tập tin</string>
-    <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+    <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
     <string name="updated_at">Cập nhật lần cuối: %1$s</string>
     <string name="upload_log">Tải lên bản ghi</string>
     <string name="upload_log_failed">Không thể gửi nhật ký</string>
