@@ -637,10 +637,6 @@
     <string name="reply_all">Trả lời tất cả</string>
     <string name="reply_attribution" formatted="false">Vào %s, %s đã viết:</string>
     <string name="report_phishing">Báo cáo lừa đảo</string>
-    <string name="report_rendering_improvement">Trông ổn đấy</string>
-    <string name="report_rendering_improvement_desc">Thư này trông ổn đấy.</string>
-    <string name="report_rendering_problem">Trông tệ quá</string>
-    <string name="report_rendering_problem_desc">Thư này trông tệ quá.</string>
     <string name="report_spam">Báo cáo thư rác</string>
     <string name="request_entity_large">Tập tin quá lớn</string>
     <string name="respond_inline">Phản hồi trực tiếp</string>
