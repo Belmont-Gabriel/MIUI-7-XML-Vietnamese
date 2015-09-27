@@ -100,6 +100,10 @@
     <string name="pref_camera_whitebalance_entry_manual">Thủ công</string>
     <string name="pref_camera_whitebalance_entry_measure">Thước đo</string>
     <string name="pref_camera_coloreffect_title">Bộ lọc</string>
+    <string name="pref_camera_coloreffect_entry_sepia">Hoài cổ</string>
+    <string name="pref_camera_coloreffect_entry_negative">Âm bản</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Áp phích</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Xanh biển</string>
     <string name="pref_camera_coloreffect_entry_none">Bình thường</string>
     <string name="pref_camera_coloreffect_entry_mono">Đen trắng</string>
     <string name="pref_camera_coloreffect_entry_vivid">Sinh động</string>
@@ -157,9 +161,9 @@
     <string name="pref_camera_antibanding_entry_3">Tự động</string>
     <string name="dialog_ok">OK</string>
     <string name="spaceIsLow_content">Lưu trữ USB sắp đầy</string>
-    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
-    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
+    <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Kích thước đã đạt tới giới hạn.</string>
     <string name="pref_camera_hfr_entry_off">Tắt</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
@@ -189,9 +193,8 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">Đo ánh sáng trung bình</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Đo trung tâm</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Đo điểm sáng</string>
-    <string name="pref_camera_audio_capture_title">Gọi để chụp</string>
-    <string name="pref_audio_indicator_entry_off">Tắt</string>
-    <string name="pref_audio_indicator_entry_on">Bật</string>
+    <string name="pref_camera_audio_capture_title">Nói để chụp</string>
+    <string name="simple_mode_button_text_audio_capture">Tắt tính năng chụp bằng giọng nói</string>
     <string name="pref_camera_video_duration_entry_mms">30 giây(MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 phút</string>
     <string name="pref_camera_video_duration_entry_30">30 phút</string>
@@ -339,4 +342,8 @@
     <string name="camera_snap_mode_title_detail">Chạm để xem chi tiết</string>
     <string name="pref_camera_snap_enable_title">Chế độ chụp nhanh</string>
     <string name="pref_camera_snap_enable_summary">Khi màn hình tắt, bấm &amp; giữ phím Giảm âm lượng để vào chế độ Chụp nhanh. Và bấm thêm lần nữa để chụp ảnh.</string>
+    <string name="pref_camera_tilt_shift_title">Thay đổi độ nghiêng</string>
+    <string name="simple_mode_button_text_tilt_shift">Tắt thay đổi độ nghiêng</string>
+    <string name="pref_camera_fisheye_title">Mắt cá</string>
+    <string name="simple_mode_button_text_fisheye">Tắt mắt cá</string>
 </resources>

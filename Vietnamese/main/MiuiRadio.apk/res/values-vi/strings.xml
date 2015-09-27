@@ -95,7 +95,7 @@
     <string name="tone_high_quality_summary">Sử dụng kết nối dữ liệu di động để phát âm thanh chất lượng cao</string>
     <string name="dialog_title_tone_quality">Chất lượng phát</string>
     <string name="share">Chia sẻ</string>
-    <string name="qingting_logo"> | Qingting FM</string>
+    <string name="qingting_logo"> | %1$s </string>
     <string name="channel_off">Chương trình này không tồn tại</string>
     <string name="action_item_delete">Xóa</string>
     <string name="confirm_delete_history_text">Xóa mục đã chọn?</string>
