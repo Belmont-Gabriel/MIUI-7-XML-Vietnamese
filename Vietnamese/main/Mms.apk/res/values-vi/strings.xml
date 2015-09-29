@@ -593,4 +593,5 @@
     <string name="mx_and_voip_enable">Tin nhắn Mi &amp; Mi VoIP</string>
     <string name="mx_and_voip_enable_popup_msg">Gửi tin nhắn hoặc gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
     <string name="mx_and_voip_enable_popup_msg2">Chính sách Bảo mật</string>
+    <string name="mx_b2c_message_desc">Thông báo mạng</string>
 </resources>

@@ -116,6 +116,7 @@
     <string name="msg_update_error_code_network_error">Không thể kết nối mạng</string>
     <string name="msg_update_error_code_unknown_error">Lỗi không xác định</string>
     <string name="msg_cleanup_db_update_time_unknown">Cập nhật lần cuối: không xác định</string>
+	<string name="msg_cleanup_db_update_checking">Đang kiểm tra cập nhật…</string>
     <string name="item_title_process_mode">Vui lòng chọn thao tác</string>
     <string name="clean_content_zero">Không</string>
     <string name="clean_content_one">1 mục</string>
