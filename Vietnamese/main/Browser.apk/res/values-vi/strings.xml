@@ -40,6 +40,11 @@
     <string name="accessibility_date_picker_year">Năm</string>
     <string name="date_picker_dialog_set">Đặt</string>
     <string name="month_picker_dialog_title">Đặt tháng</string>
+	<string name="nav_bottom_bar_back">Quay lại</string>
+	<string name="nav_bottom_bar_close_all">Đóng tất cả</string>
+	<string name="nav_bottom_bar_new_tab">Thẻ mới</string>
+	<string name="nav_screen_container_tab_incognito">Thẻ ẩn danh</string>
+	<string name="nav_screen_container_tab_normal">Thẻ thông thường</string>
     <string name="accessibility_date_picker_week">Tuần</string>
     <string name="week_picker_dialog_title">Đặt tuần</string>
     <string name="time_picker_dialog_am">SA</string>
@@ -163,6 +168,12 @@ Rời khỏi trang này?"</string>
     <string name="cloud_sync_closed_toast">Không thể cập nhật do đồng bộ tắt</string>
     <string name="close_cloud_tab_tip">Đóng thẻ Mi Cloud trên %s?</string>
     <string name="application_name">Trình duyệt</string>
+	<string name="aqi_quality_index_break">AQI %1$s</string>
+	<string name="aqi_quality_index_dangerous">AQI %1$s</string>
+	<string name="aqi_quality_index_good">AQI %1$s</string>
+	<string name="aqi_quality_index_hazardous">AQI %1$s</string>
+	<string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+	<string name="aqi_quality_index_unhealthy">AQI %1$s</string>
     <string name="miui_startpage">Trang bắt đầu</string>
     <string name="page_info">Thông tin trang</string>
     <string name="page_info_view">Xem thông tin trang</string>
@@ -251,6 +262,7 @@ Rời khỏi trang này?"</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Trang web này không thể truy cập vị trí của bạn</string>
     <string name="accessibility_button_clear">Xóa nội dung nhập vào</string>
     <string name="url_hint">Nhập URL hoặc tìm kiếm trên web</string>
+	<string name="url_hint_from_search">Nhập từ khóa</string>
     <string name="autologin_bar_text">Đăng nhập bằng</string>
     <string name="autologin_bar_login_text">Đăng nhập</string>
     <string name="autologin_bar_hide_text">Ẩn</string>
@@ -410,7 +422,15 @@ Rời khỏi trang này?"</string>
     <string name="added_to_bookmarks">Đã thêm vào dấu trang</string>
     <string name="removed_from_bookmarks">Đã xóa khỏi dấu trang</string>
     <string name="clear_history">Xóa lịch sử</string>
+	<string name="clear_most_visited">Xóa lịch sử truy cập thường xuyên</string>
     <string name="history_saved_webpage">Lưu trang</string>
+	<string name="homepage_delete_card_menu">Xóa</string>
+	<string name="homepage_get_location">Lấy vị trí</string>
+	<string name="homepage_get_location_failed">Không thể lấy thông tin, hãy chọn 1 thành phố</string>
+	<string name="homepage_more_cards">Thẻ khác</string>
+	<string name="homepage_more_sites">Trang web khác</string>
+	<string name="homepage_search_hint">Tìm kiếm</string>
+	<string name="homepage_top_card_menu">Lên đầu</string>
     <string name="remove_from_bookmarks">Xóa khỏi dấu trang</string>
     <string name="remove_history_item">Xóa khỏi lịch sử</string>
     <string name="quicklinks_management">Phổ biến</string>
@@ -495,6 +515,9 @@ Rời khỏi trang này?"</string>
     <string name="pref_content_javascript">Bật JavaScript</string>
     <string name="pref_content_cloud_speedup">Tải nội dung nhanh hơn bằng cách sử dụng máy chủ proxy</string>
     <string name="pref_setting_title">Cài đặt trang</string>
+	<string name="pref_notifications_hint">Thông báo</string>
+	<string name="pref_notifications_receive">Thông báo mới</string>
+	<string name="pref_notifications_title">Thông báo</string>
     <string name="pref_other_title">Khác</string>
     <string name="enter_developer_mode">Vào chế độ nhà phát triển</string>
     <string name="pref_file_download_default_path_prefix">Vị trí mặc định: %s</string>
@@ -505,6 +528,9 @@ Rời khỏi trang này?"</string>
     <string name="pref_extras_reset_default_summary">Khôi phục cài đặt mặc định</string>
     <string name="pref_adblock_title">Chặn quảng cáo</string>
     <string name="pref_enable_adblock_notification">Hiển thị thông báo chặn quảng cáo</string>
+	<string name="pref_enable_news">Thông báo tin tức</string>
+	<string name="pref_enable_novels">Thông báo tiểu thuyết</string>
+	<string name="pref_enable_videos">Thông báo video</string>
     <string name="pref_clear_adblock_statistics">Xóa lịch sử chặn Quảng cáo</string>
     <string name="pref_adblock_counts">Đã chặn %d</string>
     <string name="pref_clear_adblock_statistics_dlg">Xóa thống kê chặn quảng cáo?</string>
@@ -580,6 +606,7 @@ Rời khỏi trang này?"</string>
     <string name="pref_extras_reset_default_title">Khác</string>
     <string name="pref_extras_title_version">Phiên bản</string>
     <string name="pref_auto_update_under_wifi">Cập nhận tự động khi có Wi-Fi</string>
+	<string name="pref_category_hint">Danh mục</string>
     <string name="pref_version_info">Thông tin phiên bản</string>
     <string name="find_new_version">Tìm thấy phiên bản mới</string>
     <string name="skip_current_version">Bỏ qua phiên bản này</string>
