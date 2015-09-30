@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="color_mode_labels">
-        <item>Đen trắng</item>
+        <item>Đen &amp; trắng</item>
         <item>Màu</item>
     </string-array>
     <string-array name="orientation_labels">

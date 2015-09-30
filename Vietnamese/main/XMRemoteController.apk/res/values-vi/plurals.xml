@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_install_count">
-        <item quantity="other">Tải về: %1$s</item>
-        <item quantity="one">Tải về: %1$s</item>
+        <item quantity="other">Tải xuống: %1$s</item>
+        <item quantity="one">Tải xuống: %1$s</item>
     </plurals>
     <plurals name="app_user_used">
         <item quantity="other">Người dùng: %1$s</item>

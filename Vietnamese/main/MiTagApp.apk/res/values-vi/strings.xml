@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiTag</string>
+    <string name="app_name">Mi Tag</string>
     <string name="btn_write">Soạn</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="diselect_all">Bỏ chọn tất cả</string>
@@ -40,7 +40,7 @@
     <string name="bump_start">Để bắt đầu, chạm vào một thẻ với mặt sau của điện thoại</string>
     <string name="bump_write">Để soạn 1 thẻ, chạm vào thẻ đó với mặt sau của điện thoại</string>
     <string name="bump_erase">Để xóa 1 thẻ, chạm vào thẻ đó với mặt sau của điện thoại</string>
-    <string name="start_configuration">Cấu hình thẻ</string>
+    <string name="start_configuration" />
     <string name="detect_empty_tag">Phát hiện thẻ trống</string>
     <string name="empty_tag">Thẻ này trống</string>
     <string name="detect_tag">Phát hiện thẻ</string>
@@ -145,7 +145,7 @@
     <string name="contact_company">Cơ quan</string>
     <string name="contact_title">Tiêu đề</string>
     <string name="pick_contact">Chọn liên hệ</string>
-    <string name="fail_get_contact_info">"Không thể lấy thông tin liên hệ. Hãy chắc chắn rằng bạn đã cho phép MiTag xem danh bạ của bạn."</string>
+    <string name="fail_get_contact_info">Không thể lấy thông tin liên hệ. Hãy chắc chắn rằng bạn đã cho phép MiTag xem danh bạ của bạn.</string>
     <string name="send_sms">Gửi SMS</string>
     <string name="send_sms_to">Người nhận</string>
     <string name="sms_content">SMS</string>

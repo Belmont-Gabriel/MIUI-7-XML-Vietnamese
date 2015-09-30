@@ -18,9 +18,10 @@
     <string name="main_traffic_remian_text">còn lại</string>
     <string name="main_traffic_overlimit_text">vượt quá</string>
     <string name="main_traffic_used_only">Đã dùng %s</string>
-    <string name="main_alert_message_no_mobile_package">Chưa thiết lập giới hạn dữ liệu</string>
+    <string name="main_alert_message_no_mobile_package">Thiết lập giới hạn dữ liệu</string>
+    <string name="main_message_no_package_by_dual">Thiết lập giới hạn dữ liệu cho %s</string>
     <string name="main_alert_message_no_imsi">Không có thẻ SIM</string>
-    <string name="main_alert_message_slot_no_data_connection">"Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động"</string>
+    <string name="main_alert_message_slot_no_data_connection">Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động</string>
     <string name="main_primary_message_traffic_enough">Dưới giới hạn sử dụng dữ liệu</string>
     <string name="main_primary_message_traffic_warning">Gần giới hạn sử dụng dữ liệu</string>
     <string name="main_primary_message_traffic_overlimit">Vượt quá giới hạn sử dụng dữ liệu</string>
@@ -50,6 +51,7 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="firewall_fragment_nonesys_listempty">Trống</string>
     <string name="firewall_service_network_blocked">%1$s đã bị cấm sử dụng mạng %2$s</string>
     <string name="firewall_network_restrict_notify_title">%1$s không được phép kết nối đến %2$s.</string>
+    <string name="firewall_network_restrict_notify_mobile">dữ liêu di động</string>
     <string name="firewall_network_restrict_notify_message">Chạm để thay đổi cài đặt.</string>
     <string name="usage_sorted_activity_lable">Sử dụng dữ liệu</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
@@ -273,7 +275,7 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="datausage_purchase_backto_ns">Quay lại</string>
     <string name="datausage_purchase_goto_monthsetting">Sửa thông tin gói</string>
     <string name="datausage_purchase_pkglist_nodata">"Phát sinh sai lệch giữa gói dữ liệu hiện tại và các gói dữ liệu bạn đang cố gắng mua.
- Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
+Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="datausage_purchase_pkglist_networkerror">Không thể kết nối mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
     <string name="datausage_purchase_pkglist_servererror">Lỗi máy chủ.</string>
     <string name="datausage_purchase_order_history">Lịch sử</string>

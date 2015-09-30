@@ -15,8 +15,14 @@
         <item>Máy hút ẩm</item>
         <item>Quạt</item>
     </string-array>
-    <string-array name="app_detail_tabs">
-        <item>Chi tiết</item>
-        <item>Chú thích</item>
+    <string-array name="question">
+        <item>"Điện thoại không phát hiện được các thiết bị trên mạng Wi-Fi?"</item>
+        <item>"Không thể thay đổi chế độ hoặc nhiêt độ trên A/C?"</item>
+        <item>Mi3, Mi2, và Redmi có hỗ trợ điều khiển hồng ngoại cho TV, A/C, và các thiết bị khác không?</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"Điện thoại của bạn chỉ có thể ghép nối với Mi TV, Mi Box, và một số ít các thiết bị Android khác bằng cách sử dụng Wi-Fi."</item>
+        <item>"Hãy chắc chắn rằng bạn đã chọn A/C trong quá trình ghép nối. Làm theo hướng dẫn trên thiết bị của bạn cho đến khi quá trình ghép nối hoàn tất."</item>
+        <item>Thật không may, chỉ có Mi4 hỗ trợ điều khiển hồng ngoại ở thời điểm này.</item>
     </string-array>
 </resources>
