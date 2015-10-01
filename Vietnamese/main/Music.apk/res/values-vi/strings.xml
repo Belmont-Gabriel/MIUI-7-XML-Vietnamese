@@ -80,7 +80,7 @@
     <string name="action_item_add_to_current_playlist">Danh sách phát hiện tại</string>
     <string name="action_item_add_to_favorite_playlist">Danh sách bài hát Yêu thích</string>
     <string name="action_item_add_to_new_playlist">Danh sách mới</string>
-    <string name="action_item_remove_from_favorite">Bỏ yêu thích</string>
+    <string name="action_item_remove_from_favorite">Xóa khỏi yêu thích</string>
     <string name="fragment_more">Khác</string>
     <string name="fragment_title_recommend">ĐẶC SẮC</string>
     <string name="fragment_title_bill">DANH SÁCH PHÁT</string>
@@ -200,7 +200,7 @@
     <string name="higher_quality_music_summary">Nghe và tải nhạc chất lượng cao</string>
     <string name="expired">Đã hết hạn</string>
     <string name="enabled">Đã bật</string>
-    <string name="valid_period">"Áp dụng từ: "</string>
+    <string name="valid_period">"Hiêu lực: "</string>
     <string name="period_format">%1$s-%2$s</string>
     <string name="order_process_fail">Không thể ủy quyền tài khoản của bạn. Chờ ít phút và thử lại.</string>
     <string name="no_song_downloaded">Không thể kết nối đến máy chủ</string>
@@ -347,15 +347,15 @@
     <string name="tab_album">Album</string>
     <string name="tab_folder">Thư mục</string>
     <string name="tab_chinese">Trung Quốc</string>
-    <string name="tab_japanese_korean">J-Pop/K-Pop</string>
+    <string name="tab_japanese_korean">Nhật/Hàn</string>
     <string name="tab_europa_america">Âu Mỹ</string>
     <string name="favorite_tracks">Yêu thích</string>
     <string name="more">Thêm</string>
     <string name="artist">Nghệ sĩ</string>
     <string name="cloud_settings">Cài đặt đồng bộ</string>
-    <string name="cloud_enable">Động bộ nhạc với Mi Cloud</string>
+    <string name="cloud_enable">Đồng bộ nhạc với Mi Cloud</string>
     <string name="sync_only_in_wifi">Chỉ đồng bộ bằng Wi-Fi</string>
-    <string name="sync_only_in_wifi_summary">Đồng bộ nhạc trên tất cả thiết bị của bạn với Mi Cloud. Sử dụng kết nối dữ liệu di động để đồng bộ nhạc sẽ làm tăng việc sử dụng dữ liệu của bạn. Nếu bạn vượt quá giới hạn sử dụng dữ liệu, nhạ mạng của bạn có thể tính thêm ph1i bổ sung.</string>
+    <string name="sync_only_in_wifi_summary">Đồng bộ nhạc trên tất cả thiết bị của bạn với Mi Cloud. Sử dụng kết nối dữ liệu di động để đồng bộ nhạc sẽ làm tăng việc sử dụng dữ liệu của bạn. Nếu bạn vượt quá giới hạn sử dụng dữ liệu, nhà mạng của bạn có thể tính thêm phí bổ sung.</string>
     <string name="multichoice">Chọn</string>
     <string name="cp_info_first">Dịch vụ trực tuyến được cung cấp bởi Ultimate Inc.</string>
     <string name="cp_info_second">service1@ultimobi.com</string>
@@ -378,10 +378,10 @@
     <string name="nav_online_fm">Đài FM</string>
     <string name="nav_local_song">Trên máy</string>
     <string name="nav_local_all">Tất cả</string>
-    <string name="nav_local_favorite">Yêu thích</string>
+    <string name="nav_local_favorite">Bài hát yêu thích</string>
     <string name="nav_local_artist">Nghệ sĩ yêu thích</string>
     <string name="title_online_recommend">Danh sách nổi bật</string>
-    <string name="title_online_suggest">Bạn có thể thích</string>
+    <string name="title_online_suggest">Có thể bạn sẽ thích</string>
     <string name="title_online_billboard">Bảng xếp hạng</string>
     <string name="title_online_release">Mới</string>
     <string name="title_online_song">Bài hát nổi tiếng</string>
@@ -406,9 +406,9 @@
     <string name="is_scanning">Đang quét bài hát, vui lòng chờ…</string>
     <string name="is_scanning_support_online">"Đang quét bài hát, vui lòng chờ…
 (Trong khi chờ, bạn có thể nghe nhạc trực tuyến)"</string>
-    <string name="online_music_enabled_title">Đến thư viện nhạc trực tuyến</string>
+    <string name="online_music_enabled_title">Nghe nhạc trực tuyến miễn phí</string>
     <string name="online_music_enabled_subtitle">Nhấn để nghe bài hát yêu thích của bạn.</string>
-    <string name="online_music_enabled_summary">Nghe và tải bài hát yêu thích của bạn. Xem bảng xếp hạng và danh sách được tuyển chọn bất cứ lúc nào, bất cứ nơi nào!</string>
+    <string name="online_music_enabled_summary">Nghe và tải bài hát yêu thích của bạn. Xem bảng xếp hạng và danh sách được tuyển chọn từ bất cứ nơi đâu!</string>
     <string name="start_to_download">Đang tải xuống…</string>
     <string name="message_delete_playlist">Xóa danh sách phát %s?</string>
     <string name="vip_expiration_title">Sắp hết hạn thành viên</string>
@@ -420,7 +420,7 @@
     <string name="upgrade_services">Nâng cấp</string>
     <string name="monthly_price">Mi Credit</string>
     <string name="expires">Hết hạn trong tháng này: </string>
-    <string name="song_unit">items</string>
+    <string name="song_unit">bài hát</string>
     <string name="pay">Thanh toán: </string>
     <string name="upgrade">Nâng cấp: </string>
     <string name="upgrade_to">Nâng cấp thành </string>
@@ -436,10 +436,15 @@
     <string name="too_freq">Quá nhiều yêu cầu được gửi từ thiết bị này.</string>
     <string name="tos">Điều khoản dịch vụ</string>
     <string name="auto_payment">Tự động gia hạn</string>
-    <string name="share_chooser_title">Sử dụng chia sẻ</string>
+    <string name="share_chooser_title">Chia sẻ</string>
     <string name="share_description">Từ Âm nhạc Mi</string>
     <string name="share_end_note">Từ Âm nhạc Mi</string>
     <string name="share_text_list">"Danh sách phát từ Âm nhạc Mi: "</string>
     <string name="share_text_song">"Bài hát trong Âm nhạc Mi: "</string>
     <string name="share_append_text">Từ @MIUI</string>
+    <string name="download_auto_after_preference_summary">Tự động tải xuống bài hát yêu thích</string>
+    <string name="download_auto_after_preference_title">Tự động tải xuống</string>
+    <string name="dialog_button_agree">Đồng ý</string>
+    <string name="go_to_add_music">Hãy thêm các bài hát hiện nay</string>
+    <string name="atmd_tel">Tel: 0755-86699030</string>
 </resources>
