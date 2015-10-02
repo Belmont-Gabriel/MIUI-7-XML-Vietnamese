@@ -435,14 +435,6 @@
         <item>IPSec VPN có chứng chỉ và xác thực Xauth</item>
         <item>IPSec VPN có chứng chỉ và xác thực kết hợp</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN có khóa được chia sẻ trước</item>
-        <item>L2TP/IPSec VPN có chứng chỉ</item>
-        <item>IPSec VPN có khóa được chia sẻ trước và xác thực Xauth</item>
-        <item>IPSec VPN có chứng chỉ và xác thực Xauth</item>
-        <item>IPSec VPN có chứng chỉ và xác thực lai</item>
-    </string-array>
     <string-array name="vpn_states">
         <item>Đã ngắt kết nối</item>
         <item>Đang khởi chạy…</item>
