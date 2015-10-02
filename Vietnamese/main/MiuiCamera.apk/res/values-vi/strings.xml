@@ -294,7 +294,7 @@
     <string name="ubifocus_capture_warning_message">Để cho kết quả tốt nhất, hình ảnh của bạn nên chứa cả hai đối tượng gần (ít hơn 1 mét từ ống kính) và xa</string>
     <string name="ubi_focus_capture_fail">Không thể chụp ảnh</string>
     <string name="object_track_enable_toast">Dùng hai ngón tay chạm vào hai đầu của đối tượng để theo dõi.</string>
-    <string name="pref_camera_auto_capture_when_stable_title">Tự động-chụp khi ổn định</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Tự động chụp khi ổn định</string>
     <string name="accessibility_panorama_review_cancel">Hủy lưu ảnh toàn cảnh</string>
     <string name="simple_mode_button_text_manual">Tắt Thủ công</string>
     <string name="pref_qc_focus_position_title">Lấy nét</string>

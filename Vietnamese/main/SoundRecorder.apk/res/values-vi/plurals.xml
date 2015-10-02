@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">Đã tải xuống %d bản ghi</item>
+        <item quantity="other">Đã tải xuống %d bản ghi âm</item>
+        <item quantity="one">Đã tải xuống %d bản ghi âm</item>
     </plurals>
 </resources>

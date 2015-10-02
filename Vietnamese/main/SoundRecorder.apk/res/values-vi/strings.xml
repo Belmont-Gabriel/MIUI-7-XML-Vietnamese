@@ -24,7 +24,7 @@
     <string name="fm_record">Ghi âm FM (%d)</string>
     <string name="cloud_record">Đã đồng bộ %d</string>
     <string name="no_file">Trống</string>
-    <string name="loading_recording">Đang tải</string>
+    <string name="loading_recording">Đang tải…</string>
     <string name="alert_message_delete_record_title">Xóa ghi âm</string>
     <string name="alert_message_delete_record">Xóa bản ghi âm đã chọn?</string>
     <string name="rename">Đổi tên</string>
@@ -92,4 +92,5 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="record_back_pressed_hint">Để dừng ghi âm, chạm phím Quay lại lần nữa</string>
+    <string name="record_quliaty_preference_title">Chất lượng ghi âm</string>
 </resources>

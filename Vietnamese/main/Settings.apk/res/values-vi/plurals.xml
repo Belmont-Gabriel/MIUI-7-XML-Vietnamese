@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Bây giờ, bạn giờ chỉ cần thực hiện %1$d bước nữa là sẽ trở thành nhà phát triển.</item>
-        <item quantity="one">Bây giờ, bạn giờ chỉ cần thực hiện %1$d bước nữa là sẽ trở thành nhà phát triển.</item>
+        <item quantity="other">Bạn giờ chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển.</item>
+        <item quantity="one">Bạn giờ chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái.</item>

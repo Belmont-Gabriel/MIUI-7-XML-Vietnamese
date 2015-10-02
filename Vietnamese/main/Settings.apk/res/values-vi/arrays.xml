@@ -41,6 +41,7 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>Nhỏ</item>
+        <item>Vừa</item>
         <item>Trung bình</item>
         <item>Lớn</item>
         <item>Rất lớn</item>
@@ -434,6 +435,14 @@
         <item>IPSec VPN có chứng chỉ và xác thực Xauth</item>
         <item>IPSec VPN có chứng chỉ và xác thực kết hợp</item>
     </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN có khóa được chia sẻ trước</item>
+        <item>L2TP/IPSec VPN có chứng chỉ</item>
+        <item>IPSec VPN có khóa được chia sẻ trước và xác thực Xauth</item>
+        <item>IPSec VPN có chứng chỉ và xác thực Xauth</item>
+        <item>IPSec VPN có chứng chỉ và xác thực lai</item>
+    </string-array>
     <string-array name="vpn_states">
         <item>Đã ngắt kết nối</item>
         <item>Đang khởi chạy…</item>
@@ -513,6 +522,10 @@
         <item>Hoàng ngọc</item>
         <item>Ngọc lục bảo</item>
         <item>Ngọc hồng lựu</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI thập lục phân</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Hiển thị nhiệm vụ gần đây</item>
