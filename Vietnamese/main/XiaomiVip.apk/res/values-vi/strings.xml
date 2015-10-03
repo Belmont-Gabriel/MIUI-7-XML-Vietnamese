@@ -26,10 +26,11 @@
     <string name="query_user_tasks_fail">Không thể lấy thông tin nhiệm vụ</string>
     <string name="my_award">Phần thưởng của tôi</string>
     <string name="validity">Hết hạn vào %s</string>
+    <string name="validity_unknown">Hạn dùng không rõ</string>
     <string name="expired">Đã hết hạn</string>
     <string name="award_time">Nhận thưởng vào %s</string>
     <string name="no_award">Không có phần thưởng</string>
-    <string name="query_level_fail">Không thể lấy thông</string>
+    <string name="query_level_fail">Không thể lấy thông tin</string>
     <string name="award_taken">Điểm thu thập được</string>
     <string name="task_begin">Đang trong tiến trình…</string>
     <string name="in_progress">Gửi yêu cầu…</string>
@@ -57,6 +58,7 @@
     <string name="upgraded">Thăng cấp!</string>
     <string name="experience">Kinh nghiệm</string>
     <string name="giveup">Bỏ cuộc</string>
+    <string name="browse">Xem</string>
     <string name="buff_enable">[ bật ]</string>
     <string name="hello">Xin chào</string>
     <string name="days">%d ngày</string>

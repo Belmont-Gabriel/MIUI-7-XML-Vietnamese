@@ -19,7 +19,9 @@
     <string name="get_auto">Dùng mạng di động hoặc Wi-Fi</string>
     <string name="set_only_wifi">Chỉ dùng Wi-Fi</string>
     <string name="test">Kiểm tra</string>
-    <string name="miui_summary_has_new_version">Tìm thấy phiên bản mới</string>
+    <string name="miui_summary_has_new_version">"  Tìm thấy phiên bản mới  "</string>
+    <string name="miui_summary_slogan">"  Được thiết kế cho bạn  "</string>
+    <string name="miui_summary_updating">"  Đang cập nhật…  "</string>
     <string name="miui_summary_now_version">Không thể kết nối mạng</string>
     <string name="miui_summary_no_new_version">Không có bản cập nhật mới nào</string>
     <string name="button_text_check">Kiểm tra cập nhật</string>
@@ -27,8 +29,8 @@
     <string name="button_text_reboot">Khởi động lại ngay</string>
     <string name="button_text_reboot_hm">Khởi động lại ngay</string>
     <string name="button_text_later_reboot">Để sau</string>
-    <string name="download_title_first">Đang nhận thông tin…</string>
-    <string name="download_title_full_download">Đang nhận thông tin…</string>
+    <string name="download_title_first">Đang lấy thông tin…</string>
+    <string name="download_title_full_download">Đang lấy thông tin…</string>
     <string name="download_title">Đang tải xuống (%s)</string>
     <string name="apply_title">Đang cập nhật (%s)</string>
     <string name="timer_title">Thiết bị sẽ khởi động lại sau %d giây.</string>
@@ -37,15 +39,16 @@
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
     <string name="menu_title_recovery">Khởi động lại vào Recovery</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
+    <string name="install_file_explorer">File Explorer need</string>
     <string name="check_update_policy">Cài đặt</string>
     <string name="check_update_when_wifi_available">Chỉ kiểm tra bằng Wi-Fi</string>
     <string name="update_monthly_build_only">Chỉ cập nhật bản hàng tháng</string>
     <string name="apply_update_dialog_update_button">Cập nhật</string>
     <string name="apply_update_dialog_cancel_button">Hủy</string>
     <string name="cancel_download_buton_text">Hủy</string>
-    <string name="boot_recovery">Vào Recovery?</string>
+    <string name="boot_recovery">Khởi động lại vào Recovery?</string>
     <string name="cancel_download">Dừng tải xuống bản cập nhật?</string>
-    <string name="update_success_reboot_immediately">Cập nhật thành công</string>
+    <string name="update_success_reboot_immediately">Đã tải xuống cập nhật</string>
     <string name="download_success_reboot_immediately">Khởi động lại để áp dụng cập nhật</string>
     <string name="update_success">Cập nhật thành công</string>
     <string name="install_failed">Cập nhật thất bại</string>
@@ -82,6 +85,8 @@
     <string name="repeat">Thử lại</string>
     <string name="user_begin">Tải xuống</string>
     <string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống của bạn</string>
+    <string name="recovery_power_not_enough_title">Pin yếu</string>
+    <string name="recovery_power_not_enough_msg">Kết nối bộ sạc để cập nhật khi pin ít hơn 30%</string>
     <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào Recovery và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
@@ -124,8 +129,8 @@ http://zhushou.xiaomi.com"</string>
     <string name="loading">Đang yêu cầu…</string>
     <string name="share_update">Chia sẻ thông tin cập nhật</string>
     <string name="share">Chia sẻ</string>
-    <string name="share_update_content_unsign">Đã cập nhật MIUI đến %1$s! Để xem chi tiết, vui lòng truy cập %2$s</string>
-    <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s</string>
+    <string name="share_update_content_unsign">Đã cập nhật MIUI đến%1$s! Để xem chi tiết, vui lòng truy cập %2$s\"</string>
+    <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s\"</string>
     <string name="share_sina">Đăng qua Sina Weibo</string>
     <string name="share_qq">Đăng qua Tencent Weibo</string>
     <string name="install_qq">Cài đặt ứng dụng QQ</string>
@@ -137,7 +142,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="update_success_title">Cập nhật thành công</string>
     <string name="update_success_body">Phiên bản: %s</string>
     <string name="my_rank">"Trạng thái cập nhật: "</string>
-    <string name="no_log">Không có nhật ký cập nhật</string>
+    <string name="no_log">Không có tóm tắt cập nhật</string>
     <string name="log_share">Chia sẻ</string>
     <string name="autosetmode">Cài đặt</string>
     <string name="on_checking">Đang kiểm tra…</string>
@@ -199,8 +204,7 @@ Bạn có thể tham gia vào Thứ hai tuần tới."</string>
     <string name="vote_recommend">Đề nghị cập nhật</string>
     <string name="vote_not_recommend">Không khuyến khích</string>
     <string name="vote_error_nonetwork">Không thể kết nối mạng</string>
-    <string name="vote_error1">"Dường như bạn không phải là thành viên
- của Chương trình Trải nghiệm Người dùng"</string>
+    <string name="vote_error1">"Dường như bạn không phải là thành viên của Chương trình Trải nghiệm Người dùng"</string>
     <string name="vote_error2">"Không thể gửi phản hồi.
 Cập nhật thiết bị và thử lại"</string>
     <string name="vote_hint">Nhận 20 điểm kinh nghiệm cho diễn đàn MIUI khi bình chọn</string>

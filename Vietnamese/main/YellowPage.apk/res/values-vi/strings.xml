@@ -5,6 +5,8 @@
     <string name="delete">Xóa</string>
     <string name="back">Quay lại</string>
     <string name="refresh">Làm mới</string>
+    <string name="sim1">SIM 1</string>
+    <string name="sim2">SIM 2</string>
     <string name="check_network">Cài đặt mạng</string>
     <string name="try_again">Thử lại</string>
     <string name="network_unavaliable">Không thể kết nối mạng</string>
@@ -325,6 +327,7 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="general_follow_hint_title">Gợi ý</string>
     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
     <string name="tag_follow_status">tag_follow_status</string>
+    <string name="follow_processing">đang xử lý</string>
     <string name="follow_label">Theo dõi %1$s</string>
     <string name="follow_success">Đang theo dõi %1$s.</string>
     <string name="nearby_yellow_page_title">Lân cận</string>

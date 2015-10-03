@@ -685,7 +685,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="in_call_show_camera_open_error">Không thể mở máy ảnh</string>
     <string name="summary_kind_title">Tóm tắt</string>
     <string name="callrecordview_item_newcontact">Liên hệ mới</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$dphút %2$dgiây</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d phút %2$d giây</string>
     <string name="callrecordview_item_op_time_only_minutes">%d phút</string>
     <string name="callrecordview_item_op_time_only_seconds">%d giây</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Đi: "</string>

@@ -30,12 +30,8 @@
         <item>Tự động</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
+        <item>Thẻ SIM</item>
         <item>NV</item>
-    </string-array>
-    <string-array name="cdma_subscription_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Tiếng Anh</item>
@@ -46,20 +42,11 @@
         <item>Tiếng Trung</item>
         <item>Tiếng Do Thái</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
     <string-array name="livetalk_about_info_array">
-        <item>- Supports domestic and international phone numbers.</item>
-        <item>- Each call uses 1Kb of mobile data.</item>
-        <item>- Your carrier may charge you for roaming while using this service.</item>
-        <item>- You need to turn on Free Listening to use this service, otherwise your carrier may charge you while roaming.</item>
-        <item>- Service support: YunZhiXun, RonLianYunTongXun, LTSC</item>
+        <item>- Hỗ trợ số điện thoại trong nước và quốc tế.</item>
+        <item>- Mỗi cuộc gọi sử dụng 1KB dữ liệu di động (sử dụng mạng di động thông thường khi không có kết nối dữ liệu di động).</item>
+        <item>- Nhà cung cấp dịch vụ có thể sẽ tính phí chuyển vùng khi sử dụng dịch vụ này.</item>
+        <item>- Bạn cần phải bật Nghe miễn phí để sử dụng dịch vụ này, nếu không nhà mạng có thể tính phí trong khi chuyển vùng.</item>
+        <item>- Dịch vụ hỗ trợ: YunZhiXun, RonLianYunTongXun, LTSC</item>
     </string-array>
 </resources>

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_unit">°</string>
-    <string name="weather_unit_middle">~</string>
-    <string name="weather_unit_with_c">℃</string>
     <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-    <string name="view_aqi_time_format">HH:mm dd/MM/yyyy</string>
     <string name="activity_weather_main_null_data">- -</string>
     <string name="app_name">Thời tiết</string>
     <string name="location_management">Quản lý Vị trí</string>
@@ -22,23 +19,16 @@
     <string name="button_abandon">Hủy thay đổi</string>
     <string name="button_exit">Thoát</string>
     <string name="button_not_allow">Hủy</string>
-    <string name="location_allow_err">Không thể tìm thấy địa điểm của bạn</string>
     <string name="view_aqi_title">Chất lượng không khí</string>
     <string name="act_weather_find_city_net_no_good">Không thể kết nối mạng.</string>
     <string name="act_weather_find_city_click_retry">Thử lại</string>
-    <string name="act_weather_find_city_connect_net">Không thể kết nối mạng.</string>
     <string name="act_weather_find_city_searching">Đang tìm…</string>
-    <string name="loading_weather">Đang tải…</string>
-    <string name="act_weather_cycle_link_china">WeatherChina</string>
-    <string name="menu_add">Thêm thành phố</string>
-    <string name="menu_more">Thông tin chi tiết</string>
-    <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
     <string name="location_tag">Định vị</string>
     <string name="act_weather_find_city_no_result">Không có kết quả nào</string>
     <string name="act_weather_find_city_added">Thành phố đã được thêm</string>
     <string name="view_aqi_source">Trung tâm Quan trắc Môi trường Quốc gia Trung Quốc</string>
     <string name="view_aqi_pubtime">Đã cập nhật %1$s</string>
-    <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
+    <string name="view_aqi_pubtime_format">HH:mm, d MMM</string>
     <string name="activity_weathermain_locationg">Đang định vị…</string>
     <string name="activity_weathermain_locationg_error">Không thể định vị</string>
     <string name="view_indexes_title_humidity">Độ ẩm (%)</string>
@@ -52,7 +42,6 @@
     <string name="view_indexes_item_today">Hôm nay</string>
     <string name="view_indexes_item_tommorrow">Ngày mai</string>
     <string name="view_aqi_main_no_data">N/A</string>
-    <string name="activity_main_refresh_time">Cập nhật lần cuối: %1$s</string>
     <string name="activity_main_update_time">Đã cập nhật %1$s</string>
     <string name="activity_main_update_time_right_now">Vừa xong</string>
     <string name="activity_main_refresh_fail">Không thể kết nối mạng</string>
