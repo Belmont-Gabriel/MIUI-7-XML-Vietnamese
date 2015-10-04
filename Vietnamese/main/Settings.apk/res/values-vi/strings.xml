@@ -153,7 +153,7 @@
     <string name="battery_info_voltage_label">Điện áp pin:</string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_info_temperature_label">Nhiệt độ pin:</string>
-    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_info_temperature_units">°C</string>
     <string name="battery_info_uptime">Thời gian từ khi khởi động:</string>
     <string name="battery_info_awake_battery">Thời gian thức trên pin:</string>
     <string name="battery_info_awake_plugged">Thời gian thức khi sạc:</string>
@@ -2088,7 +2088,6 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="cell_broadcast_settings_summary">Chọn loại cảnh báo khẩn cấp để hiển thị</string>
     <string name="screen_timeout_title">Tự động tắt màn hình</string>
     <string name="sim_status_title">Trạng thái thẻ SIM</string>
-    <string name="config_charging_function_name">Đang sạc</string>
     <string name="do_not_disturb_mode">Không làm phiền</string>
     <string name="dndm_notification">Không làm phiền được bật</string>
     <string name="dndm_open">Không làm phiền</string>
@@ -2180,7 +2179,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="available_size">Trống: %s</string>
     <string name="total_size">Tổng: %s</string>
     <string name="memory_title">Trống: %1$s\u0009\u0009Tổng: %2$s</string>
-    <string name="account_list">Tất cả</string>
+    <string name="account_list">Tài khoản khác</string>
     <string name="account_add">Thêm</string>
     <string name="xiaomi_account">Tài khoản Mi</string>
     <string name="sync_settings">Đồng bộ</string>
@@ -2663,6 +2662,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="wifi_available_title">Kết nối tới Wi-Fi</string>
     <string name="msg_wlan_signal_found">Kết nối đến %s?</string>
     <string name="wifi_signal_found_msg">Kết nối đến Wi-Fi AP?</string>
+    <string name="wifi_click_share_wlan">Nhấn để chia sẻ mật khẩu</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Hãy chắc rằng hai thiết bị này được chạm vào nhau, và sau đó chọn nội dung bạn muốn chuyển.</string>
     <string name="bt_trace_log">Nhật ký điều chỉnh Bluetooth</string>
