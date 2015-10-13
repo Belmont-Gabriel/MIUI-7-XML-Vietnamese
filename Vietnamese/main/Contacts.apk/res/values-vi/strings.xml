@@ -500,6 +500,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="call_log_new_header">Mới</string>
     <string name="call_log_old_header">Cũ hơn</string>
     <string name="voicemail_status_voicemail_not_available">Không thể kết nối với máy chủ thư thoại.</string>
+	<string name="voip_name">Cuộc gọi Mi</string>
     <string name="voicemail_status_messages_waiting">Không thể kết nối với máy chủ thư thoại. Thư thoại mới đang chờ.</string>
     <string name="voicemail_status_configure_voicemail">Thiết lập thư thoại của bạn.</string>
     <string name="voicemail_status_audio_not_available">Âm thanh không khả dụng.</string>

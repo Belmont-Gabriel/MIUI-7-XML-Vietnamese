@@ -124,6 +124,7 @@ Trượt xuống để khóa"</string>
     <string name="call_status_ringing">Đổ chuông</string>
     <string name="reject_call">Từ chối cuộc gọi</string>
     <string name="status_bar_style_settings">Thông báo</string>
+	<string name="task_access_locked_app_msg">Nội dung ứng dụng đã được ẩn.</string>
     <string name="settings_custom_notification">Quản lý thông báo</string>
     <string name="settings_toggle_position">Quản lý phím nhanh</string>
     <string name="settings_toggle_position_divider_page">%1$d phím nhanh trên thanh này hoạt động</string>

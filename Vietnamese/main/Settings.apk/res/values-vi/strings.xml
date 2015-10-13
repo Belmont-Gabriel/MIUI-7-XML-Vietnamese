@@ -1811,6 +1811,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="no_application">Không có ứng dụng</string>
     <string name="wait_for_debugger">Đợi trình gỡ lỗi</string>
     <string name="wait_for_debugger_summary">Ứng dụng được gỡ lỗi chờ trình gỡ lỗi đính kèm trước khi thực hiện</string>
+	<string name="wakeup_for_keyguard_notification_title">Sáng màn hình khóa khi có thông báo</string>
     <string name="debug_input_category">Nhập</string>
     <string name="debug_drawing_category">Bản vẽ</string>
     <string name="debug_hw_drawing_category">Kết xuất có tăng tốc phần cứng</string>

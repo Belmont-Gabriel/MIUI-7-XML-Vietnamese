@@ -96,6 +96,7 @@
     <string name="no_map_app">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
     <string name="no_such_item">Không thể tìm thấy mục</string>
     <string name="edit">Sửa</string>
+	<string name="edit_baby_info">Xem thông tin bé</string>
     <string name="activity_not_found">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
     <string name="video_err">Không thể phát video</string>
     <string name="group_by_location">Theo vị trí</string>
@@ -249,7 +250,7 @@
     <string name="menu_item_sort_date">Ngày</string>
     <string name="menu_item_sort_name">Tên</string>
     <string name="operation_rename">Đổi tên</string>
-    <string name="operation_rename_baby">Nhập tên baby</string>
+    <string name="operation_rename_baby">Nhập tên bé</string>
     <string name="operation_share">Chia sẻ</string>
     <string name="operation_refresh">Làm mới</string>
     <string name="operation_set_as_screensaver">Đặt làm màn hình chờ</string>
@@ -299,6 +300,7 @@
     <string name="move_to_cloud_album">Chuyển đến</string>
     <string name="move">Chuyển</string>
     <string name="cloud_folder_chooser_move">Xóa ảnh từ album gốc</string>
+	<string name="cloud_full_tip_str">Không đủ dung lượng trên Mi Cloud</string>
     <string name="add_to_cloud_successfully_message">Đã thêm vào album Mi Cloud</string>
     <string name="add_to_cloud_space_full_message">Mi Cloud đã đầy</string>
     <string name="add_to_cloud_local_space_full_message">Bộ nhớ đầy hoặc không sẵn sàng</string>
@@ -336,6 +338,7 @@
     <string name="camera_view_none_message">Ảnh và video được chụp hoặc quay bằng ứng dụng Máy ảnh sẽ được hiển thị ở đây.</string>
     <string name="sync_in_progress_message">Đang tải album…</string>
     <string name="none_picture">Không có ảnh</string>
+	<string name="not_ask_any_more">Không hỏi lại cho câu trả lời là \"%s\"</string>
     <string name="show_hidden_albums">Hiện album ẩn</string>
     <string name="not_show_hidden_albums">Không hiện album ẩn</string>
     <string name="fail_to_sync_album">Không thể đồng bộ album. Kiểm tra mạng và thử lại.</string>
@@ -426,6 +429,7 @@ với bạn bè"</string>
     <string name="operation_successful">Hoàn tất</string>
     <string name="invalid_invition_url">URL lời mời không hợp lệ</string>
     <string name="user_alias_self">Tôi</string>
+	<string name="user_policy">Chính sách Riêng tư</string>
     <string name="kick_owner_user_title">Xóa người này?</string>
     <string name="kick_owner_user_positive_button_text">Xóa</string>
     <string name="initializing_cloud">Đang khởi tạo…</string>
@@ -465,6 +469,7 @@ với bạn bè"</string>
     <string name="error_repeat_apply">Album này đã được chia sẻ</string>
     <string name="error_album_not_exist">Album không tồn tại</string>
     <string name="error_invalid_link">Liên kết không hợp lệ</string>
+	<string name="error_link_has_expired">Liên kết đã hết hạn</string>
     <string name="error_socket_timeout">Thời gian kết nối mạng đã hết</string>
     <string name="error_share_with_creator">Album này đã được chia sẻ với bạn</string>
     <string name="error_share_not_support">Tính năng này không được hỗ trợ</string>
@@ -571,7 +576,7 @@ thiết bị"</string>
     <string name="script">Nguyên bản</string>
     <string name="mosaic">Khảm</string>
     <string name="impunity_declaration_title">Kết nối Internet</string>
-    <string name="impunity_declaration">Một số tính năng của Thư viện cần phải kết nối internet để có thể hoạt động bình thường.</string>
+    <string name="impunity_declaration">Bằng cách sử dụng dịch vụ này bạn đồng ý với %1$s và %2$s của Xiaomi. Một vài tính năng cần kết nối internet để làm việc bình thường.</string>
     <string name="impunity_declaration_ignore">Không hiển thị lại</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_settings">Thông báo kết nối internet</string>
@@ -628,7 +633,11 @@ thiết bị"</string>
     <string name="face_choose_tip">Chọn từ album có sẵn</string>
     <string name="face_move_dialog_title">Chọn một album</string>
     <string name="confirm_face">Xác nhận</string>
-    <string name="confirm_not_face">Không phải người này</string>
+    <string name="confirm_not_face">Đều không phải</string>
+	<string name="confirm_recommandation_face_is">" "&lt;Data&gt; Bạn có chắc đây là &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Khuôn mặt này sẽ được di chuyển đến album \"%2$s\" sau khi xác nhận. &lt;/Data&gt;" "</string>
+	<string name="confirm_recommandation_face_not">" "&lt;Data&gt; Bạn có chắc đây không phải là &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Khuôn mặt này sẽ được di chuyển đến album \"%2$s\" sau khi xác nhận. &lt;/Data&gt;" "</string>
+	<string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Bạn có chắc những người này là &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Các khuôn mặt này sẽ được di chuyển đến album \"%2$s\" sau khi xác nhận. &lt;/Data&gt;" "</string>
+	<string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Bạn có chắc những người này không phải là &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Các khuôn mặt này sẽ được di chuyển đến album \"%2$s\" sau khi xác nhận. &lt;/Data&gt;" "</string>
     <string name="recommanded_face_added_tip">Đã thêm vào \"%s\"</string>
     <string name="recommanded_face_abandon_tip">Đã xóa khỏi đề nghị</string>
     <string name="face_album_long_tap_tip">Để chọn nhiều người hoặc thay đổi cài đặt nhóm, bấm &amp; giữ ảnh hồ sơ</string>
@@ -668,6 +677,7 @@ thiết bị"</string>
     <string name="create_quick_icon_on_desk">Tạo lối tắt</string>
     <string name="success_create_quick_icon_on_desk">Đã tạo thành công</string>
     <string name="view_baby_album">Xem album bé</string>
+	<string name="view_baby_info">Sửa thông tin bé</string>
     <string name="pet_album_display_name">Ảnh thú cưng</string>
     <string name="last_valentine_day">Ngày Lễ tình nhân năm trước</string>
     <string name="last_new_year">Tết Dương lịch năm trước</string>
@@ -695,6 +705,7 @@ thiết bị"</string>
     <string name="download_without_wifi_msg">Sử dụng kết nối dữ liệu di động để tải ảnh có thể làm tăng chi phí sử dụng dữ liệu của bạn đối với nhà mạng.</string>
     <string name="cloud_gallery_space_full_title">Mi Cloud đã đầy</string>
     <string name="upgrade_micloud_space">Thêm dung lượng</string>
+	<string name="user_agreement">" Điều khoản Dịch vụ"</string>
     <string name="cloud_gallery_space_full_buy_more">Không thể đồng bộ ảnh mới với Mi Cloud. Để đồng bộ nhiều ảnh hơn, vui lòng mua dung lượng bổ sung.</string>
     <string name="invite_tip">Chia sẻ ảnh bé</string>
     <string name="relation_text_father">Cha</string>
@@ -717,6 +728,8 @@ thiết bị"</string>
     <string name="invite_send_sms_tip">Nhà mạng có thể tính phí 1 tin nhắn SMS được dùng để gửi lời mời này.</string>
     <string name="baby_album_picker_default_title">Chọn khuôn mặt của %1$s</string>
     <string name="baby_album_new_photo_page_title">Album của %1$s</string>
+	<string name="baby_album_new_photo_remind">Có ảnh mới trong album bé.</string>
+	<string name="baby_album_no_share_user_tip">Không có người theo dõi nào</string>
     <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s, 
 %3$s %4$s chia sẻ album %5$s với bạn"</string>
     <string name="add_automatically_alert_title">Thêm ảnh tự động</string>
@@ -734,13 +747,13 @@ thiết bị"</string>
     <string name="set_bg_exceeded_the_size_message">Kích thước ảnh vượt quá giới hạn</string>
     <string name="set_bg_unknow_reasons">Lỗi không xác định</string>
     <string name="set_bg_picker_default_title">Đặt ảnh bìa</string>
-    <string name="set_baby_icon_picker_default_title">Đặt ảnh đại diện</string>
+    <string name="set_baby_icon_picker_default_title">Đặt làm biểu tượng của bé</string>
     <string name="more">Thêm</string>
-    <string name="number_of_uploading_finish">Tất cả tập tin đã được tải lên Mi Cloud</string>
-    <string name="need_to_turn_on_sync">"Bật đồng bộ với Mi Cloud "</string>
-    <string name="need_to_turn_on_network">Kết nối với internet</string>
-    <string name="need_to_turn_on_wlan">Kết nối với Wi-Fi</string>
-    <string name="sync_cloud_space_full">Bộ nhớ Mi Cloud đã đầy</string>
+    <string name="number_of_uploading_finish">Đã đồng bộ với Mi Cloud</string>
+    <string name="need_to_turn_on_sync">Bật đồng bộ với Mi Cloud trước</string>
+    <string name="need_to_turn_on_network">Bạn không có kết nối internet.</string>
+    <string name="need_to_turn_on_wlan">Kết nối Wi-Fi trước</string>
+    <string name="sync_cloud_space_full">Mi Cloud không đủ dung lượng trống</string>
     <string name="sync_battery_low">Pin yếu</string>
     <string name="hidden_album_display_name">Album ẩn</string>
     <string name="paint_crop_tips">Đặt trọng điểm của bức ảnh gần trung tâm của khung lưới.</string>
