@@ -282,7 +282,7 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="datausage_purchase_none_history">Trống</string>
     <string name="datausage_purchase_time_in">" lúc  "</string>
     <string name="datausage_purchase_order_failure">Mua thất bại</string>
-    <string name="datausage_purchase_order_failure_cause">Mua hàng của bạn thất bại bởi vì…</string>
+    <string name="datausage_purchase_order_failure_cause">Mua thất bại…</string>
     <string name="traffic_saving_tecsupport">Được hỗ trợ bởi Opera</string>
     <string name="traffic_saving_notify_start_title">Giảm sử dụng dữ liệu</string>
     <string name="traffic_saving_notify_start_content">Tiết kiệm tháng này %s.</string>

@@ -201,9 +201,9 @@
     <string name="expired">Đã hết hạn</string>
     <string name="enabled">Đã bật</string>
 	<string name="enable_auto_payment_fail">Không thể bật</string>
-	<string name="enable_auto_payment_fail_message">Không thể bật tự động gia hạn và thanh toán</string>
+	<string name="enable_auto_payment_fail_message">Không thể bật tự động gia hạn</string>
 	<string name="enable_auto_payment_success">Tự động gia hạn</string>
-	<string name="enable_auto_payment_success_message">Bật tự động gia hạn và thanh toán. Lần thanh toán tiếp theo là vào %s.</string>
+	<string name="enable_auto_payment_success_message">Bật tự động gia hạn. Lần thanh toán tiếp theo là vào %s.</string>
     <string name="valid_period">"Giá trị đến: "</string>
 	<string name="vip_auto_renew_message">Đăng ký Âm nhạc của bạn sẽ được gia hạn tự động tối nay. Hãy chắc chắn bạn có đủ Mi Credit trong tài khoản để hoàn tất thanh toán này.</string>
 	<string name="vip_auto_renew_notification_message">Thêm Mi Credit để gia hạn đăng ký Nhạc của bạn.</string>
@@ -333,7 +333,7 @@
 	<string name="disable_auto_payment_fail">Không thể tắt</string>
 	<string name="disable_auto_payment_fail_message">Không thể tắt tự động gia hạn và thanh toán.</string>
 	<string name="disable_auto_payment_success">Đã tắt</string>
-	<string name="disable_auto_payment_success_message">Tắt tự động gia hạn và thanh toán. Đăng ký của bạn sẽ không được gia hạn sau khi thanh toán lần tiếp theo hết hạn.</string>
+	<string name="disable_auto_payment_success_message">Đã tắt tự động gia hạn. Sau khi đăng ký hiện tại của bạn hết hạn, bạn sẽ phải đăng ký lại để tải xuống bài hát.</string>
     <string name="click_to_view_new_local_audios">Chạm để xem chi tiết.</string>
     <string name="more_about_artist">Thêm thông tin về %s</string>
     <string name="play_all_song">Phát tất cả</string>

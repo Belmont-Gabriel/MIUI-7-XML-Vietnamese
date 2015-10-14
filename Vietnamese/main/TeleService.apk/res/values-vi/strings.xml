@@ -253,6 +253,7 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="callind_multi_sim">Cài đặt SIM</string>
     <string name="manage_fdn_list">Danh sách SQĐS</string>
     <string name="fdn_activation">Kích hoạt SQĐS</string>
+	<string name="fdn_full">SQĐS không được cập nhật bởi vì danh sách đã đầy.</string>
     <string name="fdn_enabled">Số quay số định sẵn được bật</string>
     <string name="fdn_disabled">Số quay số định sẵn được tắt</string>
     <string name="enable_fdn">Bật SQĐS</string>

@@ -4,4 +4,12 @@
         <item quantity="other">Đã tải xuống %d bản ghi âm</item>
         <item quantity="one">Đã tải xuống %d bản ghi âm</item>
     </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d chưa đồng bộ</item>
+        <item quantity="one">%d chưa đồng bộ</item>
+    </plurals>
 </resources>

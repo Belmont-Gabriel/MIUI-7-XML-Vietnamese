@@ -225,6 +225,8 @@ Rời khỏi trang này?"</string>
     <string name="popup_window_attempt">Cho phép trang web này mở cửa sổ pop-up?</string>
     <string name="allow">Cho phép</string>
     <string name="block">Chặn</string>
+	<string name="show_security_tip_dialog_title">Điều khoản Dịch vụ</string>
+	<string name="show_weather_location_getter_tip_dialog_description">Dịch vụ thời tiết cần thông tin vị trí của bạn để cung cấp thông tin thời tiết mới nhất trên trình duyệt. Bạn có thể tắt chức năng này trong Cài đặt.</string>
     <string name="show_check_security_url_check_tip_dialog_title">Kiểm tra bảo mật URL</string>
     <string name="show_check_security_url_check_tip_dialog_description">URL của trang web này sẽ được gửi đến máy chủ của Xiaomi để xác minh bảo mật. Bạn có thể vào Cài đặt để tắt tính năng này bất cứ lúc nào.</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Mở mạng Wi-Fi khả dụng</string>
@@ -595,6 +597,8 @@ Rời khỏi trang này?"</string>
     <string name="pref_font_size_category">Kích cỡ chữ trang web</string>
     <string name="pref_key_gesture_title">Phím &amp; cử chỉ</string>
     <string name="pref_volume_key_action">Cuộn bằng phím âm lượng</string>
+	<string name="pref_weather_location_summary">Sử dụng trình cắm thời tiết trình duyệt</string>
+	<string name="pref_weather_location_title">Định vị thời tiết</string>
     <string name="pref_fling_on_border_enabled">Trượt từ cạnh để chuyển thẻ</string>
     <string name="pref_fling_on_border_enabled_title_summary">Trượt từ cạnh bên trái hoặc bên phải của màn hình để chuyển thẻ</string>
     <string name="pref_content_search_engine">Công cụ tìm kiếm trên thanh địa chỉ</string>

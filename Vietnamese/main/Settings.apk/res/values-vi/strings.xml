@@ -55,13 +55,14 @@
     <string name="title_local_resource">Tài nguyên trên máy</string>
     <string name="online_resource_entry">Tài nguyên trực tuyến</string>
     <string name="status_bar_and_notification_bar">Thanh thông báo và thanh trạng thái</string>
-    <string name="status_bar_settings_manage_notification">Quản lý thông báo</string>
+    <string name="status_bar_settings_manage_notification">Thông báo ứng dụng</string>
     <string name="status_bar_settings_all_app_display_loading">Vui lòng chờ…</string>
-    <string name="status_bar_settings_enable_notification">Cho phép thông báo</string>
+    <string name="status_bar_settings_enable_notification">Hiển thị thông báo</string>
     <string name="status_bar_settings_notification_priority">Ưu tiên</string>
     <string name="status_bar_settings_notification_priority_summary">Hiển thị thông báo ở đầu danh sách</string>
     <string name="status_bar_settings_show_home_message">Thẻ biểu tượng ứng dụng</string>
-    <string name="status_bar_settings_show_keyguard_notification">Hiển thị thông báo nổi</string>
+    <string name="status_bar_settings_show_keyguard_notification">Thông báo trên màn hình khóa</string>
+	<string name="status_bar_settings_show_keyguard_notification_summary">Thông báo sẽ tự động biến mất sau khi chúng hiển thị trên thanh trang thái</string>
     <string name="status_bar_settings_notification_sound_vibrate">Chuông &amp; rung</string>
     <string name="status_bar_settings_notification_led">Đèn thông báo</string>
     <string name="status_bar_settings_notification_bar">Thanh thông báo</string>

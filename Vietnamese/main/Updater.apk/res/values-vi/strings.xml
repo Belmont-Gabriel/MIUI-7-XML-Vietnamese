@@ -86,6 +86,7 @@
     <string name="user_begin">Tải xuống</string>
     <string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống của bạn</string>
     <string name="recovery_power_not_enough_title">Pin yếu</string>
+	<string name="recovery_power_not_enough_msg_plugged">Pin phải trên 15% mới có thể cập nhật</string>
     <string name="recovery_power_not_enough_msg">Kết nối bộ sạc để cập nhật khi pin ít hơn 30%</string>
     <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào Recovery và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
 http://zhushou.xiaomi.com"</string>

@@ -49,4 +49,8 @@
         <item>chưa chọn</item>
         <item>khác đã chọn</item>
     </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Tùy chỉnh</item>
+        <item>Đề nghị</item>
+    </string-array>
 </resources>

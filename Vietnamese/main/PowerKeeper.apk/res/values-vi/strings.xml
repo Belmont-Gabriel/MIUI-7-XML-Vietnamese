@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Tiết kiệm pin</string>
+	<string name="app_list_title">Chọn ứng dụng</string>
+	<string name="app_frozen_app_list_summary">Ứng dụng nền</string>
     <string name="activity_title_poweroptimize">Tiết kiệm pin</string>
     <string name="activity_title_poweranalyze">Kiểm tra pin</string>
     <string name="activity_title_powerconfigure">Cài đặt pin</string>
@@ -56,7 +58,9 @@
     <string name="power_dialog_power_keeper_enable">Bật tiết kiệm pin?</string>
     <string name="power_dialog_power_keeper_disable">Tắt tiết kiệm pin?</string>
     <string name="power_dialog_new_event_fail">Không thể thêm sự kiện mới</string>
-    <string name="power_optimize_activity_profile_file_error">Lỗi tiết kiệm pin lỗi</string>
+    <string name="power_optimize_activity_profile_file_error">Lỗi tiết kiệm pin</string>
+	<string name="quick_disconnect_description">Cấm ứng dụng chạy nền sử dụng mạng ngay lập tức</string>
+	<string name="quick_disconnect_title">Ngắt kết nối lập tức</string>
     <string name="foreground_change">Ứng dụng đang chạy trong nền trước</string>
     <string name="screen_on">Màn hình bật</string>
     <string name="screen_off">Màn hình tắt</string>
@@ -64,6 +68,10 @@
     <string name="full_screen_enter">Toàn màn hình</string>
     <string name="full_screen_exit">Thoát toàn màn hình</string>
     <string name="background">Ứng dụng đang chạy trong nền</string>
+	<string name="config_custom_description">Khi bạn cần ít hơn so với dự kiến, sử dụng một cấu hình tùy chỉnh</string>
+	<string name="config_custom_title">Tùy chỉnh</string>
+	<string name="config_suggest_description">Đối với các ứng dụng, sử dụng cấu hình tiết kiệm pin khác nhau</string>
+	<string name="config_suggest_title">Đề nghị</string>
     <string name="set_brightness">Độ sáng màn hình tốt đa</string>
     <string name="set_cpufreq_max">Tần số CPU cao nhất</string>
     <string name="set_lcd_mode">Chế độ màn hình</string>
@@ -72,7 +80,15 @@
     <string name="ui">Chuẩn</string>
     <string name="still">Ảnh</string>
     <string name="movie">Phim</string>
+	<string name="network_mode_title">Truy cập mạng trong nền</string>
     <string name="low">Tiết kiệm pin</string>
+	<string name="keep_connect_description">Ứng dụng có thể sử dụng mạng trong nền</string>
+	<string name="keep_connect_title">Giữ kết nối</string>
+	<string name="location_disable_description">Cấm ứng dụng sử dụng dịch vụ vị trí trong nền</string>
+	<string name="location_disable_title">Cấm</string>
+	<string name="location_enable_description">Ứng dụng có thể sử dụng dịch vụ vị trí trong nền</string>
+	<string name="location_enable_title">Cho phép</string>
+	<string name="location_mode_title">Định vị nền</string>
     <string name="middle">Cân bằng</string>
     <string name="high">Hiệu suất</string>
     <string name="power_config_select_apps_title">Ứng dụng</string>

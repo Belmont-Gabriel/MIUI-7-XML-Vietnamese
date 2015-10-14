@@ -23,6 +23,12 @@
     <string name="call_record">Đã ghi âm cuộc gọi (%d)</string>
     <string name="fm_record">Ghi âm FM (%d)</string>
     <string name="cloud_record">Đã đồng bộ %d</string>
+	<string name="cloud_record_open">Đồng bộ ghi âm</string>
+	<string name="cloud_record_tip">Đồng bộ ghi âm với Mi Cloud.</string>
+	<string name="cloud_status_full_dialog_cancel">Không phải bây giờ</string>
+	<string name="cloud_status_full_dialog_msg">Lưu trữ Mi Cloud đã đầy, không thể đồng bộ ghi âm. Hãy nâng cấp tài khoản của bạn để nhận thêm dung lượng lưu trữ.</string>
+	<string name="cloud_status_full_dialog_ok">Nâng cấp</string>
+	<string name="cloud_status_full_dialog_title">Lưu trữ Mi Cloud đã đầy</string>
     <string name="no_file">Trống</string>
     <string name="loading_recording">Đang tải…</string>
     <string name="alert_message_delete_record_title">Xóa ghi âm</string>
@@ -65,7 +71,7 @@
     <string name="record_download">Tải xuống từ Mi Cloud</string>
     <string name="record_download_msg">Ghi âm chỉ có thể được phát sau khi đã hoàn tất tải xuống.</string>
     <string name="record_download_msg_reload">Bản ghi âm này không tồn tại.</string>
-    <string name="record_download_complete">Hoàn tất</string>
+    <string name="record_download_complete">Đã tải xuống</string>
     <string name="record_download_paused">Đã tạm dừng</string>
     <string name="record_download_failed">Thất bại</string>
     <string name="record_download_progress">%d%%</string>
