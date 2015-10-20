@@ -773,4 +773,9 @@ thiết bị"</string>
     <string name="photo_paint_adjust">Điều chỉnh</string>
     <string name="photo_paint_effect">Hiệu ứng</string>
     <string name="highlight2">Làm sáng</string>
+	<string name="buy_member_tip">Đăng ký thành viên.</string>
+	<string name="calculated_pictures_time_tip">Đã sắp xếp ảnh từ %1$s đến hôm nay. Các ảnh còn lại sẽ được sắp xếp dần sau. Để tăng tốc tiến trình này, hãy %2$s</string>
+	<string name="calculated_pictures_time_tip_for_vip">Đã sắp xếp ảnh từ %1$s đến hôm nay. Các ảnh còn lại sẽ được sắp xếp sớm.</string>
+	<string name="calculated_pictures_time_tip_for_no_vip">Đã sắp xếp ảnh từ %1$s đến hôm nay. Các ảnh còn lại sẽ được sắp xếp dần sau.</string>
+	<string name="view_queuing_status">Kiểm tra trạng thái</string>
 </resources>

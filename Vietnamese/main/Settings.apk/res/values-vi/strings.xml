@@ -3079,4 +3079,35 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="miracast_PC2THOR_streaming_on">Miracast không khả dụng bởi vì PC đang truyền đến thiết bị này</string>
     <string name="miracast_disable_dhcp">Tắt HDCP</string>
     <string name="miracast_enable_dhcp">Bật HDCP</string>
+	<string name="add_fingerprint_done_msg">Bây giờ bạn có thể mở khóa thiết bị với vân tay của bạn.</string>
+	<string name="add_fingerprint_done_title">Hoàn tất!</string>
+	<string name="add_fingerprint_finished_button_text">Hoàn tất</string>
+	<string name="add_fingerprint_instruction_dialog_msg">"Để thêm thông tin vân tay của bạn, hãy đặt ngón tay trên cảm biến.
+Hãy chắc chắn rằng ngón tay của bạn hoàn toàn nằm bên trong cảm biến"</string>
+	<string name="add_fingerprint_instruction_msg">Mở khóa thiết bị của bạn hoặc xác thực bằng vân tay của bạn</string>
+	<string name="add_fingerprint_instruction_title">Đặt ngón tay của bạn trên cảm biến vân tay</string>
+	<string name="add_fingerprint_move_finger_title">Nhấc ngón tay</string>
+	<string name="add_fingerprint_put_finger_edge_msg">Sau khi nhấn cảm biến, nhấc ngón tay, và lặp lại lần nữa.</string>
+	<string name="add_fingerprint_put_finger_msg">Sau khi nhấn cảm biến, nhấc ngón tay, và lặp lại lần nữa.</string>
+	<string name="add_fingerprint_put_finger_title">Đặt ngón tay</string>
+	<string name="add_fingerprint_text">Thêm vân tay</string>
+	<string name="add_fingerprint_toast_text">Đặt ngón tay của bạn trên cảm biến</string>
+	<string name="apply_fingerprint_to_category_title">Đang áp dụng vân tay…</string>
+	<string name="apply_password_to_category_title">Đang áp dụng mật khẩu…</string>
+	<string name="delete_fingerprint_confirm_msg">Xóa vân tay?</string>
+	<string name="delete_fingerprint_text">Xóa vân tay</string>
+	<string name="delete_legacy_fingerprint">Xóa</string>
+	<string name="delete_or_keep_legacy_passwords_confirm_msg">Xóa dữ liệu vân tay?</string>
+	<string name="fingerprint_and_password_entrance_title">Mật khẩu &amp; vân tay</string>
+	<string name="fingerprint_identificating_msg">Đang quét vân tay…</string>
+	<string name="fingerprint_identify_input_password_msg">Nhập mật khẩu</string>
+	<string name="fingerprint_identify_try_again_msg">Không thể quét, hãy thử lại!</string>
+	<string name="fingerprint_list_title">Vân tay</string>
+	<string name="information_dialog_button_text">Hiểu rồi</string>
+	<string name="keep_legacy_fingerprint">Giữ</string>
+	<string name="max_fingerprint_number_reached">Không thể thêm hơn 5 vân tay. Để thêm vân tay khác, xóa bớt một dấu vân tay trước.</string>
+	<string name="password_entrance_title">Mật khẩu</string>
+	<string name="secure_keyguard_business_title">Mật khẩu màn hình khóa</string>
+	<string name="turn_off_common_password_confirm_msg">Mật khẩu sẽ được tắt.</string>
+	<string name="turn_on_security_lock">Thêm mật khẩu bảo mật</string>
 </resources>

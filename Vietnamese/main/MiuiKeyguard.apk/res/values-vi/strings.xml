@@ -29,6 +29,9 @@
     <string name="experimental_validate_fail">Không thể đăng nhập</string>
     <string name="lockscreen_glogin_invalid_input">Tên người dùng hoặc mật khẩu không hợp lệ.</string>
     <string name="find_device_turn_off_flight_mode">Tắt chế độ máy bay</string>
+	<string name="fingerprint_not_identified_msg">Để mở khóa thiết bị, hãy nhập mật khẩu của bạn.</string>
+	<string name="fingerprint_not_identified_title">Không thể đọc vân tay</string>
+	<string name="fingerprint_try_again_text">Thử lại</string>
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="phone_locked_timeout_seconds_string">Thử lại sau %s giây</string>
     <string name="phone_locked_timeout_minutes_string">Thử lại sau %s phút</string>

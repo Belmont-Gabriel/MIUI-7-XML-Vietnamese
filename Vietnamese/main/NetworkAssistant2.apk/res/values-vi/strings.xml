@@ -575,4 +575,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Không thể bắt buộc đóng ứng dụng hệ thống.</string>
     <string name="network_speed_for_apps_close">Buộc đóng</string>
     <string name="network_speed_for_apps_others">Khác</string>
+	<string name="traffic_saving_detail">Chi tiết</string>
+	<string name="traffic_saving_mobile_usage">Sử dụng dữ liệu</string>
+	<string name="traffic_saving_tecsupport_international">๖ۣۜßεℓ™ - MIUI.VN</string>
+	<string name="traffic_saving_wifi_usage">Sử dụng Wi-Fi</string>
 </resources>

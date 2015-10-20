@@ -60,7 +60,7 @@
     <string name="passport_login_failed">Không thể đăng nhập</string>
     <string name="passport_verification_failed">Xác thực thất bại</string>
     <string name="passport_error_network">Không thể kết nối mạng</string>
-    <string name="passport_error_ssl_hand_shake">Lỗi kết nối với máy chủ.</string>
+    <string name="passport_error_ssl_hand_shake">Không thể kết nối với máy chủ.</string>
     <string name="passport_error_device_id">Không thể nhận id thiết bị</string>
     <string name="passport_error_dup_phone">Số điện thoại này đã được liên kết với tài khoản khác</string>
     <string name="passport_error_phone_error">Số điện thoại không hợp lệ</string>

@@ -7,6 +7,7 @@
     <string name="status_bar_toggle_flight_mode">Máy bay</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Khóa</string>
+	<string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_mute">Im lặng</string>
     <string name="status_bar_toggle_privacy_mode">C.độ Khách</string>
     <string name="status_bar_toggle_rotate">Tắt xoay</string>
@@ -38,6 +39,10 @@
     <string name="call_record_sample_prefix_miui">Gọi</string>
     <string name="call_record_or">" hoặc "</string>
     <string name="caller_info_name_delimiter">" hoặc "</string>
+	<string name="cancel_action">Hủy</string>
+	<string name="set_password_action">Đặt mật khẩu</string>
+	<string name="set_password_message">Đặt mật khẩu mới?</string>
+	<string name="set_password_title">Đặt mật khẩu</string>
     <string name="first_back_long_press_message">"Bấm &amp; giữ phím Quay lại để tắt tiến trình đang chạy và dịch vụ chạy nền.
 
 Để bật tính năng này, hãy vào Cài đặt > Hệ thống > Phím"</string>

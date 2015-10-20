@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Trình xem HTML</string>
+	<string name="app_name_which_call">Ứng dụng: %s</string>
+	<string name="app_version_which_call">Phiên bản ứng dụng: %s</string>
+	<string name="license_host_unreachable">Không thể kết nối mạng. Để xem thông tin này bây giờ, truy cập %s</string>
+	<string name="loading">Đang tải…</string>
+	<string name="mibi_license">Điều khoản dịch vụ Mi Credit</string>
+	<string name="policy_name">Chính sách: %s</string>
 </resources>

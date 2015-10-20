@@ -725,6 +725,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
         <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
     </string-array>
+    <string-array name="common_password_business_names">
+        <item>Khóa màn hình</item>
+        <item>Chế độ Trẻ em</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Mỗi ngày</item>
         <item>Các ngày trong tuần</item>
