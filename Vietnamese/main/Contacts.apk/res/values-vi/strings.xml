@@ -287,6 +287,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="make_primary">Nhớ lựa chọn này</string>
     <string name="quickcontact_missing_app">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
     <string name="missing_name">(Không có tên)</string>
+	<string name="more_call_logs">Xem thêm nhật ký cuộc gọi, truy cập i.mi.com</string>
     <string name="menu_accounts">Tài khoản</string>
     <string name="menu_clear_frequents">Xóa liên hệ thường xuyên</string>
     <string name="menu_contacts_filter">Liên hệ để hiển thị</string>
@@ -793,7 +794,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="preference_import_export_title">Nhập/Xuất liên hệ</string>
     <string name="import_vcard_description">Nhập liên hệ từ bộ nhớ điện thoại</string>
     <string name="export_vcard_description">Xuất vCard sang bộ nhớ điện thoại</string>
-    <string name="export_sim_contact_finish_msg">Đã chuyển %1$d | Đã bỏ qua %2$d | Còn lại %3$d</string>
+    <string name="export_sim_contact_finish_msg">Đã chuyển: %1$d | Trùng lặp: %2$d | Còn lại: %3$d</string>
     <string name="pref_title_account_import">Nhập từ tài khoản</string>
     <string name="pref_title_import_from_account">Nhập từ tài khoản Mi</string>
     <string name="pref_summary_import_from_account">Chuyển liên hệ từ tài khoản Google và Exchange vào tài khoản Xiaomi của tôi</string>

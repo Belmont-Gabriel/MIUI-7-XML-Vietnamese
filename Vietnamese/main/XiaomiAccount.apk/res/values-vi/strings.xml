@@ -375,4 +375,5 @@ Vui lòng nhập mã xác minh trong email"</string>
     <string name="account_vip_level">Tài khoản</string>
     <string name="account_vip_task">Nhiệm vụ</string>
     <string name="vip_level_value">Cấp %d</string>
+	<string name="account_limit_update_birthday">Xin lỗi, chúng tôi không thể xử lý yêu cầu của bạn vào lúc này.</string>
 </resources>

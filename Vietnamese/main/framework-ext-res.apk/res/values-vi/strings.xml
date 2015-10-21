@@ -94,4 +94,7 @@
     <string name="internal_remain_mins">Còn lại %1$s phút (cuộc gọi trong nước)</string>
     <string name="international_remain_mins">Còn lại %1$s phút (%2$s cuộc gọi)</string>
     <string name="all_call_livetalk_remain_mins">Số phút còn lại: (%1$s trong nước) | (%2$s %3$s)</string>
+	<string name="apply_password_action">Đặt mật khẩu</string>
+	<string name="apply_password_confirm_dlg_msg">Yêu cầu mật khẩu cho %s​?</string>
+	<string name="apply_password_confirm_dlg_title">Mật khẩu này sẽ được dùng cho %s</string>
 </resources>

@@ -138,7 +138,7 @@
     <string name="activity_folder_selection">Chọn thư mục</string>
     <string name="activity_mailbox_selection">Chọn tài khoản</string>
     <string name="add_account">Thêm tài khoản</string>
-    <string name="add_attachment">Đính kèm Tập tin</string>
+    <string name="add_attachment">Thêm đính kèm</string>
     <string name="add_calendar">Nhắc nhở</string>
     <string name="add_label">Thêm thư mục</string>
     <string name="add_pre_message_attachments">Thêm tập tin đính kèm của tin nhắn trước?</string>
@@ -166,15 +166,15 @@
     <string name="attachment_application_vnd_ms_excel">Bảng tính</string>
     <string name="attachment_application_vnd_ms_powerpoint">Thuyết trình</string>
     <string name="attachment_audio">Âm thanh</string>
-    <string name="attachment_canceling">Tải xuống đang hủy bỏ, xin vui lòng chờ!</string>
-    <string name="attachment_decoding">Tập tin đính kèm đã hoàn tất tải xuống và đang được giải mã, vui lòng chờ trong giây lát.</string>
+    <string name="attachment_canceling">Đang hủy…</string>
+    <string name="attachment_decoding">Đang giải nén đính kèm…</string>
     <string name="attachment_download_all">Tải xuống tất cả</string>
     <string name="attachment_image">Ảnh</string>
     <string name="attachment_list_search_hint">Tìm tệp đính kèm</string>
     <string name="attachment_mgr_name">Tập tin đính kèm</string>
     <string name="attachment_not_exists">Tập tin đính kèm là không khả dụng!</string>
-    <string name="attachment_open_SecurityException_hint">Kiểm tra quyền truy cập, tập tin có lỗi hay không...</string>
-    <string name="attachment_open_SecurityException_title">Mở tập tin thất bại</string>
+    <string name="attachment_open_SecurityException_hint">Bạn có thể không có quyền để mở tập tin này hoặc tập tin này có thể bị hỏng.</string>
+    <string name="attachment_open_SecurityException_title">Không thể mở tập tin</string>
     <string name="attachment_stop_all">Dừng</string>
     <string name="attachment_text">Văn bản</string>
     <string name="attachment_type_blocked">Rất tiếc, bạn không thể lưu hoặc mở loại tập tin đính kèm này.</string>
@@ -218,8 +218,8 @@
     <string name="collapse_recipient_details">Thu gọn chi tiết người nhận</string>
     <string name="colon">:</string>
     <string name="compose">Soạn</string>
-    <string name="compose_attachment_number_limit">Số lượng tập tin đính kèm không được vượt quá 10!</string>
-    <string name="compose_picturesexceedlimits">Số lượng hình ảnh nội dòng không được vượt quá 5!</string>
+    <string name="compose_attachment_number_limit">Số lượng đính kèm không được vượt quá 10!</string>
+    <string name="compose_picturesexceedlimits">Số lượng hình ảnh không được vượt quá 5!</string>
     <string name="compose_send">Gửi</string>
     <string name="compose_sent">Đã gửi thư</string>
     <string name="confirm">OK</string>
@@ -238,8 +238,8 @@
     <string name="contact_edit_set_black_list_receive_summary">Xóa thư bao gồm người nhận này trong trường Đến hoặc Cc</string>
     <string name="contact_edit_set_phone_contact">Sửa liên hệ điện thoại</string>
     <string name="contact_edit_title_phone_contact">Danh sách liên hệ điện thoại</string>
-    <string name="contact_in_filter_call_phone_str">Gọi: %s</string>
-    <string name="contact_in_filter_title">Xuất phát từ anh ấy (cô ấy).</string>
+    <string name="contact_in_filter_call_phone_str">Cuộc gọi từ %s</string>
+    <string name="contact_in_filter_title">" từ người này."</string>
     <string name="contact_info_string">Hiển thị thông tin liên hệ cho %1$s</string>
     <string name="contact_info_string_default">Hiển thị thông tin liên hệ</string>
     <string name="contact_list_add_btn">Thêm</string>
@@ -643,8 +643,8 @@
     <string name="save_action">Lưu</string>
     <string name="save_attachment">Lưu</string>
     <string name="save_draft_failed">Lưu thư nháp thất bại</string>
-    <string name="save_power_summary">Thông báo có thư mới sẽ bị im lặng</string>
-    <string name="save_power_title">Không làm phiền</string>
+    <string name="save_power_summary">Tiết kiệm pin trong thời gian thiết lập</string>
+    <string name="save_power_title">Chế độ tiết kiệm pin</string>
     <string name="saved">Đã lưu, %s</string>
     <string name="saving">Đang lưu…</string>
     <string name="sdcard_cannot_use">Không thể dùng thẻ SD</string>
@@ -680,7 +680,7 @@
     <string name="ser_resp_err_map_ssl">Chọn \"SSL/TLS (Chấp nhận tất cả chứng nhận)\" trong \"Loại bảo mật\"</string>
     <string name="set_network">Thiết lập mạng</string>
     <string name="settings_activity_title">Cài đặt</string>
-    <string name="share_choose">Please choose</string>
+    <string name="share_choose">Chọn tập tin để chia sẻ</string>
     <string name="sharing">Chia sẻ</string>
     <string name="shortcut_name_title">Tên lối tắt thư mục</string>
     <string name="show_elided">▶ Hiển thị nội dung trích dẫn</string>
@@ -755,4 +755,8 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="yes">Đồng ý</string>
     <string name="you_are_in_mobile_network">Gửi nhật ký bằng kết nối dữ liệu di động? Nếu bạn vượt quá giới hạn kế hoạch sử dụng dữ liệu, nhà cung cấp có thể tính phí bổ sung.</string>
     <string name="zip_viewer_no_file">Không có tập tin nào.</string>
+	<string name="disturb_switch">Không làm phiền</string>
+	<string name="gmail_login_failed_non_proxy_title">Truy cập máy chủ Gmail thất bại</string>
+	<string name="gmail_server_authorization_deleted">Lấy quyền đăng nhập không thành công, vui lòng thử lại.</string>
+	<string name="outbox_alert_description_fail_network">Mạng bất thường.</string>
 </resources>

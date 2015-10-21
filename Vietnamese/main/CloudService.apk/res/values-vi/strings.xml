@@ -77,9 +77,7 @@
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
     <string name="find_device_dspt_provision_4">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
-    <string name="find_device_send_sms_alert">"
-
-Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này."</string>
+    <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
     <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho người dùng MIUI khác mà không phải trả phí.
 
 Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt."</string>
@@ -333,5 +331,10 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="micloud_sync_alert_dialog_title">Bật Mi Cloud</string>
     <string name="micloud_sync_alert_dialog_message">Đồng bộ ảnh, liên hệ, ghi chú và nhiều thứ khác giữa các thiết bị của bạn.</string>
     <string name="micloud_sync_alert_dialog_negative">Hủy</string>
-    <string name="micloud_sync_alert_dialog_positive">Ok</string>
+    <string name="micloud_sync_alert_dialog_positive">OK</string>
+	<string name="micloud_all_sub_1_intl_sms">Tin nhắn SMS quốc tế sẽ được gửi để kích hoạt thẻ SIM của bạn. Bạn có thể bị tính phí bởi nhà mạng. Khi bạn bật "Tìm thiết bị", một tin nhắn kích hoạt sẽ được gửi sau khi bạn đổi thẻ SIM.</string>
+	<string name="micloud_all_sub_1_sms">Tin nhắn SMS thông thường sẽ được gửi để kích hoạt thẻ SIM của bạn. Bạn có thể bị tính phí bởi nhà mạng. Khi bạn bật "Tìm thiết bị", một tin nhắn kích hoạt sẽ được gửi sau khi bạn đổi thẻ SIM.</string>
+	<string name="micloud_all_sub_1_sms_1_intl_sms">2 tin nhắn (thông thường và quốc tế) sẽ được gửi để kích hoạt thẻ SIM của bạn. Bạn có thể bị tính phí bởi nhà mạng. Khi bạn bật "Tìm thiết bị", một tin nhắn kích hoạt sẽ được gửi sau khi bạn đổi thẻ SIM.</string>
+	<string name="micloud_all_sub_2_intl_sms">2 tin nhắn quốc tế sẽ được gửi để kích hoạt thẻ SIM của bạn. Bạn có thể bị tính phí bởi nhà mạng. Khi bạn bật "Tìm thiết bị", một tin nhắn kích hoạt sẽ được gửi sau khi bạn đổi thẻ SIM.</string>
+	<string name="micloud_all_sub_2_sms">2 tin nhắn thông thường sẽ được gửi để kích hoạt thẻ SIM của bạn. Bạn có thể bị tính phí bởi nhà mạng. Khi bạn bật "Tìm thiết bị", một tin nhắn kích hoạt sẽ được gửi sau khi bạn đổi thẻ SIM.</string>
 </resources>

@@ -76,7 +76,7 @@
     <string name="status_bar_settings_advanced">Cài đặt bổ sung</string>
     <string name="status_bar_settings_show_flow_info">Hiển thị chi tiết lưu lượng</string>
     <string name="status_bar_app_disable_notification">Ẩn thông báo</string>
-    <string name="status_bar_app_enable_on_notificationBar">Hiển thị trong thanh thông báo</string>
+    <string name="status_bar_app_enable_on_notificationBar">Thanh thông báo</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Màn hình khóa, thanh thông báo</string>
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
     <string name="status_bar_settings_custom_carrier">Chỉnh sửa tên nhà mạng</string>
@@ -2061,7 +2061,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="restriction_settings_title">Hạn chế</string>
     <string name="restriction_menu_reset">Xóa các hạn chế</string>
     <string name="restriction_menu_change_pin">Thay đổi PIN</string>
-    <string name="app_notifications_switch_label">Tùy chỉnh thông báo</string>
+    <string name="app_notifications_switch_label">Thông báo</string>
     <string name="help_label">Trợ giúp</string>
     <string name="user_account_title">Tài khoản dành cho nội dung</string>
     <string name="user_picture_title">ID ảnh</string>

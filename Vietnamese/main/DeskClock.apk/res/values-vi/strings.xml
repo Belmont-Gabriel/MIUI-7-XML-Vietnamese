@@ -117,4 +117,9 @@
     <string name="auto_silence_summary">Báo thức sẽ im lặng sau %d phút</string>
     <string name="menu_edit_alarm">Chỉnh sửa báo thức</string>
     <string name="alarm_in_silent_mode_summary">Phát báo thức ngay cả khi điện thoại ở chế độ im lặng</string>
+	<string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
+	<string name="today">Hôm nay</string>
+	<string name="tomorrow">Ngày mai</string>
+	<string name="turn_off_a_repeat_alarm">Tắt lặp lại báo thức</string>
+	<string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
 </resources>

@@ -433,4 +433,54 @@ Dung lượng miễn phí đã thêm %1$s"</string>
     <string name="data_consumption_checkbox_hint">Không hiển thị lại</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_cancel">Thoát</string>
+	<string name="cancel_error">Không thể di chuyển, hãy thử lại</string>
+	<string name="cancel_success">Đã di chuyển thành công, tất cả tập tin đã được chuyển đến sdcard/fileexplorer/decryption</string>
+	<string name="decrypt">Di chuyển khỏi Cá nhân</string>
+	<string name="decrypt_error">Không thể giải mã</string>
+	<string name="decrypting">Đang giải mã…</string>
+	<string name="delete_error">Không thể xóa tập tin, hãy thử lại</string>
+	<string name="dir_not_support">Không thể thiết lập cá nhân thư mục này.</string>
+	<string name="encrypt_error">Không thể thêm vào Cá nhân, hãy thử lại</string>
+	<string name="encrypt_success">Tất cả tập tin đã được thêm vào cá nhân</string>
+	<string name="encrypting">Đang mã hóa…</string>
+	<string name="local_sticker_str">Đã tải xuống</string>
+	<string name="make_private">Thiết lập Cá nhân</string>
+	<string name="msg_set_password">Đặt mật khẩu trước</string>
+	<string name="network_spent_reminding">Mở trang này sẽ tiêu hao lưu lượng dữ liệu của bạn.</string>
+	<string name="network_spent_reminding_title">Thông báo sử dụng dữ liệu</string>
+	<string name="new_function">Giới thiệu về thư mục Cá nhân</string>
+	<string name="new_function_info">"Thư mục Cá nhân là tính năng mới của MIUI.
+Bạn có thể mã hóa tập tin của bạn và lưu trữ chúng ở một nơi an toàn.
+
+Kéo xuống từ Trang chính để trải nghiệm."</string>
+	<string name="new_function_str">"Biểu tượng Wechat có thể được sưu tập tự động.
+Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ biểu tượng nào!"</string>
+	<string name="new_function_title_str">Giới thiệu về biểu tượng Wechat</string>
+	<string name="no_local_sticker_tip">Không tìm thấy biểu tượng đã tải xuống. Hãy kiểm tra biểu tượng được chia sẻ bởi Mi Fans.</string>
+	<string name="no_network_str">Không thể kết nối mạng. Hãy kiểm tra và thử lại.</string>
+	<string name="open_private_folder">Đang tạo Thư mục Cá nhân…</string>
+	<string name="partial_cancel_successful">Không thể di chuyển vài tập tin. Phần lớn tập tin đã được chuyển đến sdcard/fileexplorer/decryption</string>
+	<string name="partial_delete_failure">Không thể xóa vài tập tin, hãy thử lại.</string>
+	<string name="partial_encrypt_success">Không thể thêm một số tập tin vào Cá nhân, hãy thử lại</string>
+	<string name="partial_repair_done">Khôi phục vài tập tin thành công</string>
+	<string name="private_files">Cá nhân</string>
+	<string name="private_folder">Thư mục Cá nhân</string>
+	<string name="promot_enctypt_password">Nhập mật khẩu để mở khóa thiết bị hoặc tắt chế độ Trẻ em</string>
+	<string name="repair_done">Đã khôi phục</string>
+	<string name="repair_error">Không thể khôi phục</string>
+	<string name="repair_file">Khôi phục tập tin đã được mã hóa</string>
+	<string name="reset_password">Thiết lập lại mật khẩu</string>
+	<string name="restoring">Đang khôi phục…</string>
+	<string name="shared_sticker_network_permission_tip">Không thể kết nối mạng. Hãy kiểm tra và thử lại.</string>
+	<string name="shared_sticker_page_no_file">Không thể kết nối mạng. Hãy kiểm tra và thử lại.</string>
+	<string name="shared_sticker_str">Được chia sẻ bởi Mi Fans</string>
+	<string name="shared_sticker_suffix">%s biểu tượng trò chuyện</string>
+	<string name="shared_sticker_use_tip">"Bạn có thể gửi biểu tượng bạn lưu trong hội thoại WeChat giống như bạn gửi ảnh.
+(Tập tin GIF có thể sử dụng bằng cách thêm ở Wechat>Biểu tượng>Yêu thích)."</string>
+	<string name="shared_sticker_use_tip_title">Cách sử dụng biểu tượng</string>
+	<string name="shared_str">Được chia sẻ bởi %s</string>
+	<string name="transfer_done">Tập tin đã di chuyển thành công.</string>
+	<string name="transfer_private_data">Đang di chuyển tập tin cá nhân từ thẻ SD…</string>
+	<string name="user_not_login">Đăng nhập trước</string>
+	<string name="weixin_sticker_tag_str">Biểu tượng Wechat</string>
 </resources>

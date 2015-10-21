@@ -630,4 +630,5 @@ Rời khỏi trang này?"</string>
     <string name="version_dialog_buttion_update">Cập nhật</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="secure_download_in_xiaomi_market">Tải xuống trong Chợ Ứng dụng</string>
+	<string name="miui_content_extent_select">Chọn thêm</string>
 </resources>

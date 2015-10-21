@@ -458,4 +458,7 @@
     <string name="need_upgrade_title">Phát hiện phiên bản mới</string>
     <string name="need_upgrade_summary">Cập nhật để sử dụng tính năng này.</string>
     <string name="need_upgrade_button">Cập nhật</string>
+	<string name="hint_apk_download_format">Cài đặt \"%1$s\" ứng dụng</string>
+	<string name="download">Tải xuống</string>
+	<string name="score_douban">Điểm Douban %1$s</string>
 </resources>

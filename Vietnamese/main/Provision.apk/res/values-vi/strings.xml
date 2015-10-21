@@ -49,4 +49,8 @@ Bạn phải đồng ý với Thỏa thuận Người dùng và Chính sách Ri�
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Khởi động lại</string>
     <string name="install_preinstall_app">Đang tải ứng dụng…</string>
+	<string name="desc_extra_fingerprint"/>
+	<string name="desc_fingerprint">Sử dụng dấu vân tay của bạn để mở khóa thiết bị, hãy kiểm tra các giao dịch Mi Pay, hoặc đăng nhập vào các ứng dụng và dịch vụ.</string>
+	<string name="next_fingerprint">Tiếp theo</string>
+	<string name="title_fingerprint">Thêm dấu vân tay của bạn</string>
 </resources>

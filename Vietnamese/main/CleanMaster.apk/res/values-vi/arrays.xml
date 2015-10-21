@@ -48,4 +48,9 @@
         <item>Sao lưu và gỡ cài đặt</item>
         <item>Gỡ cài đặt</item>
     </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Mỗi 7 ngày</item>
+        <item>Mỗi 15 ngày</item>
+        <item>Mỗi 30 ngày</item>
+    </string-array>
 </resources>
