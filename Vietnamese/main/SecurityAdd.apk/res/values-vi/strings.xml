@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_name">Dịch vụ Bảo mật</string>
+	<string name="cancel_button">Hủy</string>
+	<string name="empty">" "</string>
+	<string name="main_toolbar_purchase">Mua</string>
+	<string name="miuishare_title_more">Thêm</string>
+	<string name="miuishare_title_share">Chia sẻ</string>
+	<string name="miuishare_wechat_timeline_title">Dòng thời gian WeChat</string>
+	<string name="miuishare_weibo_title">Weibo</string>
+	<string name="network_not_available">Không thể kết nối mạng</string>
+	<string name="no_network_btn">Thử lại</string>
+	<string name="ok_button">OK</string>
+	<string name="open_browser">Mở trong Trình duyệt</string>
+	<string name="privacy_declare_dialog_title">Điều khoản dịch vụ</string>
+	<string name="privacy_prompt_traffic_purchase_message">Thông tin số điện thoại và nhà mạng của bạn sẽ được mã hóa và tải lên máy chủ Mi để lấy thêm thông tin về các tùy chọn mua dữ liệu.</string>
+	<string name="share">Chia sẻ</string>
+	<string name="title_share_link">Chia sẻ URL</string>
+	<string name="usage_sorted_loading_text">Vui lòng chờ…</string>
+</resources>
