@@ -435,7 +435,7 @@ Dung lượng miễn phí đã thêm %1$s"</string>
     <string name="data_consumption_cancel">Thoát</string>
 	<string name="cancel_error">Không thể di chuyển, hãy thử lại</string>
 	<string name="cancel_success">Đã di chuyển thành công, tất cả tập tin đã được chuyển đến sdcard/fileexplorer/decryption</string>
-	<string name="decrypt">Di chuyển khỏi Cá nhân</string>
+	<string name="decrypt">Xóa</string>
 	<string name="decrypt_error">Không thể giải mã</string>
 	<string name="decrypting">Đang giải mã…</string>
 	<string name="delete_error">Không thể xóa tập tin, hãy thử lại</string>
@@ -486,4 +486,5 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
 	<string name="operation_other_apps">Mở bằng ứng dụng khác</string>
 	<string name="pick_folder">Chọn thư mục</string>
 	<string name="search_description">Tìm kiếm tất cả tập tin trên thiết bị</string>
+	<string name="encrypt_prefix">CÁ NHÂN</string>
 </resources>

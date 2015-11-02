@@ -96,7 +96,7 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="pref_title_network_diagnostics">Kiểm tra mạng</string>
     <string name="pref_check_network_diagnostics">Kiểm tra kết nối internet của thiết bị</string>
     <string name="pref_category_title_other">Cài đặt bổ sung</string>
-    <string name="pref_title_update_notification">Hiển thị thông báo sử dụng dữ liệu</string>
+    <string name="pref_title_update_notification">Thông báo sử dụng dữ liệu</string>
     <string name="pref_title_diagnostics_show_float_notification">Thông báo nổi</string>
     <string name="pref_title_traffic_speed_state">Hiển thị tốc độ mạng</string>
     <string name="pref_show_mobile_traffic">Hiển thị số liệu thống kê dữ liệu sử dụng khi thiết bị khóa màn hình hơn 5 phút</string>
@@ -579,4 +579,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
 	<string name="traffic_saving_mobile_usage">Sử dụng dữ liệu</string>
 	<string name="traffic_saving_tecsupport_international">๖ۣۜßεℓ™ - MIUI.VN</string>
 	<string name="traffic_saving_wifi_usage">Sử dụng Wi-Fi</string>
+	<string name="firewall_restrict_android_dialog_content">Nếu bạn không cho phép Android kết nối với internet, một số tính năng quan trọng, chẳng hạn như Wi-Fi hotspot, có thể bị ảnh hưởng.</string>
+	<string name="firewall_restrict_android_dialog_title">Chú ý</string>
 </resources>

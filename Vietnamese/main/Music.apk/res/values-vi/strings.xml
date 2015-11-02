@@ -82,12 +82,12 @@
     <string name="action_item_add_to_new_playlist">Danh sách mới</string>
     <string name="action_item_remove_from_favorite">Xóa khỏi yêu thích</string>
     <string name="fragment_more">Khác</string>
-    <string name="fragment_title_recommend">ĐẶC SẮC</string>
-    <string name="fragment_title_bill">DANH SÁCH PHÁT</string>
-    <string name="fragment_title_channel"> FM</string>
-    <string name="fragment_title_artist">NGHỆ SĨ</string>
-    <string name="fragment_title_artist_album">ALBUM</string>
-    <string name="fragment_title_personal">CÁ NHÂN</string>
+    <string name="fragment_title_recommend">Nổi bật</string>
+    <string name="fragment_title_bill">Danh sách phát</string>
+    <string name="fragment_title_channel">Đài FM</string>
+    <string name="fragment_title_artist">Nghệ sĩ</string>
+    <string name="fragment_title_artist_album">Album</string>
+    <string name="fragment_title_personal">Cá nhân</string>
     <string name="like">Thích</string>
     <string name="all_tracks">Tất cả bài hát</string>
     <string name="all_tracks_short">Tất cả bài hát</string>
@@ -402,7 +402,7 @@
     <string name="title_online_recommend">Danh sách nổi bật</string>
     <string name="title_online_suggest">Có thể bạn sẽ thích</string>
     <string name="title_online_billboard">Bảng xếp hạng</string>
-    <string name="title_online_release">Mới</string>
+    <string name="title_online_release">Album mới</string>
     <string name="title_online_song">Bài hát nổi tiếng</string>
     <string name="title_online_fm">Đài FM</string>
     <string name="title_online_artist">Nghệ sĩ nổi tiếng</string>

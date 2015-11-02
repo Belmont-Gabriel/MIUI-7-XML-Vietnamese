@@ -990,7 +990,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="error_type_account_302">Mã bạn nhập vào đã được dùng</string>
     <string name="error_type_account_500">Không thể kết nối với mạng di động</string>
     <string name="error_type_account_inner">Lỗi bên trong máy chủ</string>
-    <string name="title_purchase">Nạp tiền</string>
+    <string name="title_purchase">Mua gói tùy chọn</string>
     <string name="please_choose_the_refueling_package">Chọn gói tùy chọn</string>
     <string name="purchase_notification_title">Kiểm tra khu vực được hỗ trợ</string>
     <string name="refueling_package_a">Gói A</string>
@@ -1029,4 +1029,17 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="livetalk_complete_name">Chuyển sang gói tùy chọn</string>
     <string name="livetalk_user_config_title">Xác minh số điện thoại</string>
 	<string name="livetalk_provider">Được cung cấp bởi %1$s</string>
+	<string name="chose_product_summary">Cuộc gọi rẻ hơn</string>
+	<string name="chose_product_title">Gói tùy chọn</string>
+	<string name="loading_product">Vui lòng chờ…</string>
+	<string name="purchase_description_summary">"- Không giới hạn nhà mạng, không giới hạn khu vục
+- Không xung đột với các dịch vụ nhà mạng
+- Ngay lập tức sau nạp tiền, không bao giờ xóa
+- Đơn giản, sử dụng trực tiếp."</string>
+	<string name="purchase_description_title">Thuê bao</string>
+	<string name="remain_mins_divider">Hoặc</string>
+	<string name="remain_mins_domestic">trong nước còn lại</string>
+	<string name="remain_mins_international">quốc tế còn lại</string>
+	<string name="remain_mins_unit">Phút</string>
+	<string name="use_range">Phạm vi sử dụng</string>
 </resources>

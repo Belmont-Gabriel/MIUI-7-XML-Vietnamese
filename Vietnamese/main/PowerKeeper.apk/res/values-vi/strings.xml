@@ -24,7 +24,7 @@
     <string name="power_event_view_event_title">Khởi động</string>
     <string name="hide_mode">Quản lý sử dụng pin của ứng dụng</string>
     <string name="hide_mode_desc_title">Quản lý sử dụng pin của ứng dụng</string>
-    <string name="hide_mode_desc">Tiết kiệm pin bằng cách hạn chế ứng dụng cá nhân chạy nền, ngắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
+    <string name="hide_mode_desc">Khi một ứng dụng chạy ở chế độ nền, hoạt động của nó sẽ được giám sát để giảm thiểu sử dụng pin. Kết nối mạng, định vị, hẹn giờ, vv… có thể bị ảnh hưởng bởi tính năng này. Cấu hình này là phù hợp cho hầu hết các ứng dụng, nhưng nếu một ứng dụng cụ thể hoạt động bất thường trong khi chạy ở chế độ nền, bạn có thể tùy chỉnh các thiết lập của ứng dụng.</string>
     <string name="normal">Chế độ mặc định</string>
     <string name="reading">Chế độ đọc sách</string>
     <string name="media">Chế độ phương tiện</string>
@@ -59,8 +59,8 @@
     <string name="power_dialog_power_keeper_disable">Tắt tiết kiệm pin?</string>
     <string name="power_dialog_new_event_fail">Không thể thêm sự kiện mới</string>
     <string name="power_optimize_activity_profile_file_error">Lỗi tiết kiệm pin</string>
-	<string name="quick_disconnect_description">Cấm ứng dụng chạy nền sử dụng mạng ngay lập tức</string>
-	<string name="quick_disconnect_title">Ngắt kết nối lập tức</string>
+	<string name="quick_disconnect_description">Ứng dụng trong nền chỉ có thể kết nối với mạng một thời gian ngắn trong khi kết nối liên tục bị hạn chế</string>
+	<string name="quick_disconnect_title">Ngắt kết nối</string>
     <string name="foreground_change">Ứng dụng đang chạy trong nền trước</string>
     <string name="screen_on">Màn hình bật</string>
     <string name="screen_off">Màn hình tắt</string>
@@ -68,9 +68,9 @@
     <string name="full_screen_enter">Toàn màn hình</string>
     <string name="full_screen_exit">Thoát toàn màn hình</string>
     <string name="background">Ứng dụng đang chạy trong nền</string>
-	<string name="config_custom_description">Khi bạn cần ít hơn so với dự kiến, sử dụng một cấu hình tùy chỉnh</string>
+	<string name="config_custom_description">Nếu cấu hình đề nghị không đáp ứng yêu cầu của bạn, bạn có thể tùy chỉnh chúng</string>
 	<string name="config_custom_title">Tùy chỉnh</string>
-	<string name="config_suggest_description">Đối với các ứng dụng, sử dụng cấu hình tiết kiệm pin khác nhau</string>
+	<string name="config_suggest_description">Sử dụng cấu hình tiết kiệm pin khác nhau cho các ứng dụng khác nhau</string>
 	<string name="config_suggest_title">Đề nghị</string>
     <string name="set_brightness">Độ sáng màn hình tốt đa</string>
     <string name="set_cpufreq_max">Tần số CPU cao nhất</string>
@@ -84,7 +84,7 @@
     <string name="low">Tiết kiệm pin</string>
 	<string name="keep_connect_description">Ứng dụng có thể sử dụng mạng trong nền</string>
 	<string name="keep_connect_title">Giữ kết nối</string>
-	<string name="location_disable_description">Cấm ứng dụng sử dụng dịch vụ vị trí trong nền</string>
+	<string name="location_disable_description">Ứng dụng trong nền chỉ có thể truy cập dịch vụ vị trí một khoảng thời gian ngắn trong khi truy cập liên tục bị hạn chế</string>
 	<string name="location_disable_title">Cấm</string>
 	<string name="location_enable_description">Ứng dụng có thể sử dụng dịch vụ vị trí trong nền</string>
 	<string name="location_enable_title">Cho phép</string>
