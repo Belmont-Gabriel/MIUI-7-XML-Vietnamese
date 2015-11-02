@@ -207,10 +207,10 @@ Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị t
     <string name="micloud_main_set_internet">Mạng</string>
     <string name="micloud_main_sync_now">Đồng bộ ngay</string>
     <string name="micloud_main_network_error">Không thể kết nối mạng</string>
-    <string name="micloud_main_sync_on_wifi">Dùng Wi-Fi</string>
+    <string name="micloud_main_sync_on_wifi">Đang chờ Wi-Fi</string>
     <string name="micloud_main_sync_setting">Cài đặt đồng bộ</string>
-    <string name="micloud_main_suggest_setting">"Chờ kết nối Wi-Fi để đồng bộ
-Chọn Cài đặt để xem các tùy chọn"</string>
+    <string name="micloud_main_suggest_setting">"Đang chờ kết nối Wi-Fi để đồng bộ
+Chạm Cài đặt Đồng bộ để xem các tùy chọn"</string>
     <string name="micloud_main_data_unsynced">%d mục đang chờ đồng bộ</string>
     <string name="micloud_main_detail">Xem chi tiết</string>
     <string name="micloud_main_network_abnormal">Không thể kết nối mạng</string>
@@ -309,8 +309,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="share_failed">Không thể chia sẻ</string>
     <string name="cloud_back_up_title">Sao lưu ứng dụng</string>
     <string name="settings_backup_title">Cài đặt sao lưu hệ thống</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Sao lưu ứng dụng khi kết nối Wi-Fi sau mỗi %1$s</string>
-    <string name="cloud_back_up_open_info">"Sao lưu ứng dụng khi kết nối Wi-Fi sau mỗi %1$s
+    <string name="cloud_back_up_open_info_no_backuptime">Sao lưu khi kết nối Wi-Fi sau mỗi %1$s</string>
+    <string name="cloud_back_up_open_info">"Sao lưu khi kết nối Wi-Fi sau mỗi %1$s
 Sao lưu lần cuối lúc %2$s"</string>
     <string name="cloud_back_up_interval_long">7 ngày</string>
     <string name="cloud_back_up_interval_short">1 ngày</string>

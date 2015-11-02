@@ -483,4 +483,7 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
 	<string name="transfer_private_data">Đang di chuyển tập tin cá nhân từ thẻ SD…</string>
 	<string name="user_not_login">Đăng nhập trước</string>
 	<string name="weixin_sticker_tag_str">Biểu tượng Wechat</string>
+	<string name="operation_other_apps">Mở bằng ứng dụng khác</string>
+	<string name="pick_folder">Chọn thư mục</string>
+	<string name="search_description">Tìm kiếm tất cả tập tin trên thiết bị</string>
 </resources>

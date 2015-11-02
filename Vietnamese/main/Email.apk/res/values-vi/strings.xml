@@ -218,8 +218,8 @@
     <string name="collapse_recipient_details">Thu gọn chi tiết người nhận</string>
     <string name="colon">:</string>
     <string name="compose">Soạn</string>
-    <string name="compose_attachment_number_limit">Số lượng đính kèm không được vượt quá 10!</string>
-    <string name="compose_picturesexceedlimits">Số lượng hình ảnh không được vượt quá 5!</string>
+    <string name="compose_attachment_number_limit">Không thể thêm hơn 10 đính kèm!</string>
+    <string name="compose_picturesexceedlimits">Không thể thêm hơn 10 ảnh!</string>
     <string name="compose_send">Gửi</string>
     <string name="compose_sent">Đã gửi thư</string>
     <string name="confirm">OK</string>
@@ -523,7 +523,7 @@
     <string name="outbox_alert_description_reject_by_server">Đã từ chối bởi %s</string>
     <string name="outbox_alert_description_sent_failed">Kích thước tập tin đính kèm vượt quá giới hạn của người nhận.</string>
     <string name="outbox_alert_description_time_out">Thời gian kết nối mạng đã hết</string>
-    <string name="outbox_alert_duplicate_click">Vẫn đang đồng bộ…</string>
+    <string name="outbox_alert_duplicate_click">Vẫn đang gửi…</string>
     <string name="outbox_alert_edit_resend">Sửa và gửi lại</string>
     <string name="outbox_alert_failed_edit_resend">Không gửi được. Kiểm tra và gửi lại.</string>
     <string name="outbox_alert_mailbox_not_found">Không tìm thấy địa chỉ email</string>
@@ -643,8 +643,8 @@
     <string name="save_action">Lưu</string>
     <string name="save_attachment">Lưu</string>
     <string name="save_draft_failed">Lưu thư nháp thất bại</string>
-    <string name="save_power_summary">Tiết kiệm pin trong thời gian thiết lập</string>
-    <string name="save_power_title">Chế độ tiết kiệm pin</string>
+    <string name="save_power_summary">Lịch trình giảm thiểu sử dụng pin</string>
+    <string name="save_power_title">Tiết kiệm pin</string>
     <string name="saved">Đã lưu, %s</string>
     <string name="saving">Đang lưu…</string>
     <string name="sdcard_cannot_use">Không thể dùng thẻ SD</string>
@@ -757,6 +757,15 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="zip_viewer_no_file">Không có tập tin nào.</string>
 	<string name="disturb_switch">Không làm phiền</string>
 	<string name="gmail_login_failed_non_proxy_title">Truy cập máy chủ Gmail thất bại</string>
-	<string name="gmail_server_authorization_deleted">Lấy quyền đăng nhập không thành công, vui lòng thử lại.</string>
-	<string name="outbox_alert_description_fail_network">Mạng bất thường.</string>
+	<string name="gmail_server_authorization_deleted">Không thể xác thực tài khoản. Thử thêm lại tài khoản này lần nữa.</string>
+	<string name="outbox_alert_description_fail_network">Không thể kết nối mạng.</string>
+	<string name="att_download_failed_network_slow">Mạng chậm, vui lòng tải lại sau</string>
+	<string name="calendar_remind_dialog_title">Nhắc lại</string>
+	<string name="calendar_remind_gridview_month_later">Tháng sau</string>
+	<string name="calendar_remind_gridview_nextweek">Tuần tới</string>
+	<string name="calendar_remind_gridview_pick_date">Chọn ngày</string>
+	<string name="calendar_remind_gridview_tomorrow">Ngày mai</string>
+	<string name="calendar_remind_gridview_tonight">Tối nay</string>
+	<string name="calendar_remind_gridview_weekend">Cuối tuần</string>
+	<string name="reply_add_bodycontent">Thêm trả lời nhanh vào nội dung thư?</string>
 </resources>

@@ -1028,4 +1028,5 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="livetalk_complete">Hoàn tất</string>
     <string name="livetalk_complete_name">Chuyển sang gói tùy chọn</string>
     <string name="livetalk_user_config_title">Xác minh số điện thoại</string>
+	<string name="livetalk_provider">Được cung cấp bởi %1$s</string>
 </resources>

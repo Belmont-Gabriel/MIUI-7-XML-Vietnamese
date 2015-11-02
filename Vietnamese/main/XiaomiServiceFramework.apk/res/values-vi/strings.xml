@@ -87,4 +87,8 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_feature_call_log_sync">Đồng bộ lịch sử cuộc gọi</string>
     <string name="activate_feature_find_device">Tìm Thiết bị</string>
     <string name="activate_sms_postfix">SMS này được sử dụng để kích hoạt thiết bị Mi của bạn.</string>
+	<string name="activate_auto_sms_notification_desc_1_card">Tin nhắn SMS được gửi để kích hoạt \"Tìm thiết bị\"</string>
+	<string name="activate_auto_sms_notification_desc_2_cards">Tin nhắn SMS được gửi từ thẻ SIM %s để kích hoạt \"Tìm thiết bị\"</string>
+	<string name="activate_auto_sms_notification_title">Kích hoạt thẻ SIM</string>
+	<string name="activate_popup_desc_find_device_postfix">Một SMS kích hoạt có thể được gửi sau khi bạn đổi thẻ SIM.</string>
 </resources>

@@ -52,4 +52,9 @@
     <string name="voice_search_hint_title">Thử nói:</string>
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_quotation_end">\"</string>
+	<string name="clear_history">Xóa lịch sử tìm kiếm</string>
+	<string name="hot_search">Tìm kiếm mới nhất</string>
+	<string name="loading">Đang tải</string>
+	<string name="search_history">Lịch sử tìm kiếm</string>
+	<string name="show_more">Xem thêm</string>
 </resources>

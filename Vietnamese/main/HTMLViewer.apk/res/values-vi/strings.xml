@@ -6,5 +6,8 @@
 	<string name="license_host_unreachable">Không thể kết nối mạng. Để xem thông tin này bây giờ, truy cập %s</string>
 	<string name="loading">Đang tải…</string>
 	<string name="mibi_license">Điều khoản dịch vụ Mi Credit</string>
+	<string name="open_wifi_connect_summary">Nhấn để xem chi tiết.</string>
+	<string name="open_wifi_connect_title">Kết nối tới %1$s</string>
+	<string name="permdesc_accessDrm">Cho phép ứng dụng truy cập nội dung được bảo vệ DRM.</string>
 	<string name="policy_name">Chính sách: %s</string>
 </resources>

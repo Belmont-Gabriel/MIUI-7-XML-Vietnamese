@@ -41,7 +41,7 @@ Bạn phải đồng ý với Thỏa thuận Người dùng và Chính sách Ri�
     <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="agree">Đồng ý</string>
     <string name="disagree">Hủy</string>
-    <string name="network_access_warning">Bạn cần kết nối internet để kích hoạt dịch vụ Mi.</string>
+    <string name="network_access_warning">Bạn cần kết nối internet để kích hoạt dịch vụ Mi và Tìm thiết bị.</string>
     <string name="setting_locale">Đang cài đặt vị trí…</string>
     <string name="miui_terms_no_network">Bạn không có kết nối internet. Xem Điều khoản Dịch vụ tại %s.</string>
     <string name="miui_privacy_policy_no_network">Bạn không có kết nối internet. Xem Chính sách Riêng tư tại %s.</string>

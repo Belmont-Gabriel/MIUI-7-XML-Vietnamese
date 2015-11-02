@@ -35,7 +35,7 @@
     <string name="task_begin">Đang trong tiến trình…</string>
     <string name="in_progress">Gửi yêu cầu…</string>
     <string name="privilege">Đặc quyền</string>
-    <string name="promote">Thăng cấp</string>
+    <string name="promote">Cập nhật tác vụ</string>
     <string name="level_info_format" formatted="false">"Cấp %d %d/%d
 %s"</string>
     <string name="no_network">Không thể kết nối vào mạng</string>
@@ -67,4 +67,26 @@
     <string name="minutes">%d phút</string>
     <string name="seconds">%d giây</string>
     <string name="millis">%d mili giây</string>
+	<string name="achieve_condition">Được trao cho:</string>
+	<string name="achieved">ĐÃ THU</string>
+	<string name="achieved_time">Đã thu được lúc %s</string>
+	<string name="achievement_progress" formatted="false">Tiến độ: %d/%d</string>
+	<string name="achievements">Phần thưởng</string>
+	<string name="acquired_time_x">Đã nhận lúc %s</string>
+	<string name="awards">Giải thưởng</string>
+	<string name="copy_and_use">Đổi</string>
+	<string name="daily_task">Thử thách hằng ngày</string>
+	<string name="device_answer_phone_times">Cuộc gọi đã trả lời</string>
+	<string name="device_charge_times">Số lần sạc</string>
+	<string name="device_unlock_screen_times">Số lần mở khóa</string>
+	<string name="device_usage_data">Thống kê sử dụng điện thoại</string>
+	<string name="download_message">Tải xuống %s?</string>
+	<string name="download_title">Tải xuống ứng dụng này?</string>
+	<string name="downloading">Đang tải xuống…</string>
+	<string name="go">Xem tiến độ</string>
+	<string name="limit_task">Thử thách giới hạn</string>
+	<string name="no_achievements">Trống.</string>
+	<string name="redeem">Đổi</string>
+	<string name="unachieved">CÓ SẴN</string>
+	<string name="use_immediately">Sử dụng ngay</string>
 </resources>

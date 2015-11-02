@@ -642,7 +642,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="miprofile_request_agree">Chấp nhận</string>
     <string name="miprofile_request_clear_alertdialog_title">Xóa lịch sử</string>
     <string name="miprofile_request_clear_alertdialog_message">Xóa lịch sử chuyển đổi danh thiếp?</string>
-    <string name="miprofile_request_exchange_title">Yêu cầu chuyển đổi danh thiếp</string>
+    <string name="miprofile_request_exchange_title">Tìm danh thiếp</string>
     <string name="miprofile_request_agenda_today">%1$s cần chuyển đổi danh thiếp</string>
     <string name="miprofile_request_agenda_yesterday">%1$s cần chuyển đổi danh thiếp</string>
     <string name="miprofile_request_agenda_date">%1$s muốn chuyển đổi danh thiếp</string>

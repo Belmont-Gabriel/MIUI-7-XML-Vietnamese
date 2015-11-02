@@ -7,17 +7,6 @@
         <item>Trong 30 phút</item>
         <item>Không bao giờ</item>
     </string-array>
-    <string-array name="preferred_app_entries">
-        <item>Trình khởi chạy</item>
-        <item>Quay số</item>
-        <item>Tin nhắn</item>
-        <item>Trình duyệt</item>
-        <item>Máy ảnh</item>
-        <item>Thư viện</item>
-        <item>Nhạc</item>
-        <item>Email</item>
-        <item>Video</item>
-    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Sau 1 phút</item>
         <item>Sau 5 phút</item>

@@ -50,8 +50,8 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="firewall_fragment_sys_listempty">Trống</string>
     <string name="firewall_fragment_nonesys_listempty">Trống</string>
     <string name="firewall_service_network_blocked">%1$s đã bị cấm sử dụng mạng %2$s</string>
-    <string name="firewall_network_restrict_notify_title">%1$s không được phép kết nối đến %2$s.</string>
-    <string name="firewall_network_restrict_notify_mobile">dữ liêu di động</string>
+    <string name="firewall_network_restrict_notify_title">%1$s không thể sử dụng %2$s.</string>
+    <string name="firewall_network_restrict_notify_mobile">dữ liệu di động</string>
     <string name="firewall_network_restrict_notify_message">Chạm để thay đổi cài đặt.</string>
     <string name="usage_sorted_activity_lable">Sử dụng dữ liệu</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
@@ -569,7 +569,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="network_not_available">Không thể kết nối mạng</string>
     <string name="no_network_btn">Thử lại</string>
-    <string name="network_speed_for_apps_title">Chi tiết tốc độ kết nối</string>
+    <string name="network_speed_for_apps_title">Kết nối</string>
     <string name="network_speed_for_apps_total">Tốc độ kết nối</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bắt buộc đóng ứng dụng này?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Không thể bắt buộc đóng ứng dụng hệ thống.</string>

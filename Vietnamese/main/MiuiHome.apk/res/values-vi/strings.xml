@@ -245,4 +245,5 @@
     <string name="children_mode_tips">Quay trở lại Cài đặt và quản lý truy cập ứng dụng.</string>
     <string name="wallpaper_auto_change_title">Màn hình khóa</string>
     <string name="wallpaper_scaling_message">Đang cân chỉnh đến kích thước thích hợp</string>
+	<string name="cant_edit_lock_screen">Không thể thay đổi kiểu màn hình khóa.</string>
 </resources>

@@ -3110,4 +3110,6 @@ Hãy chắc chắn rằng ngón tay của bạn hoàn toàn nằm bên trong c�
 	<string name="secure_keyguard_business_title">Mật khẩu màn hình khóa</string>
 	<string name="turn_off_common_password_confirm_msg">Mật khẩu sẽ được tắt.</string>
 	<string name="turn_on_security_lock">Thêm mật khẩu bảo mật</string>
+	<string name="search_virtual_sim">SIM ảo</string>
+	<string name="virtual_sim_search_title">SIM ảo</string>
 </resources>

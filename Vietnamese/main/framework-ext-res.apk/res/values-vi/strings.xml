@@ -91,10 +91,20 @@
     <string name="internal_livetalk_enable">Sử dụng gói đã mua cho các cuộc gọi trong nước</string>
     <string name="international_livetalk_enable">Sử dụng gói đã mua cho các cuộc gọi quốc tế</string>
     <string name="all_call_livetalk_enable">Sử dụng gói đã mua cho các cuộc gọi trong nước và quốc tế</string>
-    <string name="internal_remain_mins">Còn lại %1$s phút (cuộc gọi trong nước)</string>
-    <string name="international_remain_mins">Còn lại %1$s phút (%2$s cuộc gọi)</string>
-    <string name="all_call_livetalk_remain_mins">Số phút còn lại: (%1$s trong nước) | (%2$s %3$s)</string>
+    <string name="internal_remain_mins">Còn lại %1$s phút (trong nước)</string>
+    <string name="international_remain_mins">Còn lại %1$s phút (%2$s)</string>
+    <string name="all_call_livetalk_remain_mins">Số phút còn lại: %1$s trong nước | %2$s quốc tế</string>
 	<string name="apply_password_action">Đặt mật khẩu</string>
 	<string name="apply_password_confirm_dlg_msg">Yêu cầu mật khẩu cho %s​?</string>
 	<string name="apply_password_confirm_dlg_title">Mật khẩu này sẽ được dùng cho %s</string>
+	<string name="enable_livetalk">Bật gói bổ sung</string>
+	<string name="livetalk_not_enable">Tắt gói bổ sung</string>
+	<string name="lock_to_app_description">"Màn hình ghim khóa màn hình hiển thị trong màn hình duy nhất.
+	
+Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn."</string>
+	<string name="lock_to_app_description_accessible">"Màn hình ghim khóa màn hình hiển thị trong màn hình duy nhất.
+	
+Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn."</string>
+	<string name="lock_to_app_toast">Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn.</string>
+	<string name="lock_to_app_toast_accessible">Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn.</string>
 </resources>
