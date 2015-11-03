@@ -125,6 +125,7 @@
     <string name="local_select_sysdata">Hệ thống</string>
     <string name="local_select_userapp">Ứng dụng</string>
     <string name="local_select_account_contact">Tài khoản &amp; liên hệ</string>
+    <string name="local_select_files">Thẻ SD</string>
     <string name="data_item_desc">Dữ liệu</string>
     <string name="apps_and_data_item_desc">Ứng dụng và dữ liệu</string>
     <string name="local_no_backup">Không có bản sao lưu nào.</string>
@@ -187,6 +188,7 @@
     <string name="system_backup_info">Cài đặt hệ thống và bố trí Màn hình chính</string>
     <string name="software_backup_info">Dữ liệu ứng dụng</string>
     <string name="account_contact_backup_info">Dữ liệu Tài khoản Google, Tài khoản Mi và Liên hệ</string>
+    <string name="files_backup_info">Tất cả các tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng…)</string>
     <string name="select_backup_item">Chọn mục sao lưu</string>
     <string name="restore_data">Chọn mục để khôi phục</string>
     <string name="backup_data">Chọn mục để sao lưu</string>
@@ -205,6 +207,7 @@
     <string name="restore_backup">Khôi phục</string>
     <string name="digit_percent">%</string>
     <string name="state_waiting">Vui lòng chờ…</string>
+    <string name="state_mounting">Đang truy cập bộ nhớ bộ định tuyến…</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
     <string name="feature_title_call_log">Lịch sử cuộc gọi</string>
     <string name="feature_title_mms">MMS</string>
@@ -219,6 +222,9 @@
     <string name="err_version_too_old">Tập tin sao lưu quá cũ.</string>
     <string name="err_version_unsupported">Phiên bản sao lưu không được hỗ trợ.</string>
     <string name="err_bakfile_broken">Không thể sử dụng sao lưu này.</string>
+    <string name="err_filesystem_mount">Không thể truy cập bộ nhớ bộ định tuyến</string>
+    <string name="err_router_disconnected">Kiểm tra kết nối bộ định tuyến và thử lại.</string>
+    <string name="err_router_files_delete">Không thể xóa tập tin sao lưu trên bộ định tuyến</string>
     <string name="backup_is_running">Đang sao lưu thiết bị</string>
     <string name="restore_is_running">Đang khôi phục thiết bị</string>
     <string name="notif_backup_title">Sao lưu dữ liệu</string>
@@ -228,4 +234,44 @@
     <string name="notif_backup_complete_title">Sao lưu thành công</string>
     <string name="notif_restore_complete_title">Khôi phục thành công</string>
     <string name="custom_progress">%d mục</string>
+    <string name="remote_receive">Nhận</string>
+    <string name="click_to_view">Chạm để xem</string>
+    <string name="trans_one_key_migrate">Chuyển</string>
+    <string name="trans_main_tutor">Chuyển liên hệ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đăt… đến thiết bị mới</string>
+    <string name="trans_sender">Tôi là người gửi</string>
+    <string name="trans_receiver">Tôi là người nhận</string>
+    <string name="trans_waiting_for_sender">Đang chờ thiết bị cũ kết nối…</string>
+    <string name="trans_waiting_ensurance">"Hãy đảm bảo thiết bị cũ bật
+và Chuyển được bật"</string>
+    <string name="trans_my_device">Thiết bị của tôi</string>
+    <string name="trans_sender_searching">Tìm kiếm thiết bị mới</string>
+    <string name="trans_sender_searching_ensurance">"Hãy đảm bảm thiết bị cũ bật
+Đang chờ thiết bị cũ kết nối…"</string>
+    <string name="trans_select_device_send">Chọn một thiết bị để chuyển dữ liệu.</string>
+    <string name="trans_sender_connectting">Xác nhận trên thiết bị mới</string>
+    <string name="trans_select_device_receive">Chọn một thiết bị để nhận dữ liệu.</string>
+    <string name="trans_backingup">Đang sao lưu…</string>
+    <string name="trans_backingup_no_items">Đang đồng bộ…</string>
+    <string name="trans_restoring">Đang khôi phục…</string>
+    <string name="trans_time_remained">, sẵn sàng</string>
+    <string name="trans_restoring_no_items">Đang đồng bộ các mục</string>
+    <string name="trans_detail_category_sysdata">Dữ liệu hệ thống</string>
+    <string name="trans_detail_category_userdata">Ứng dụng</string>
+    <string name="trans_detail_category_account">Tài khoản và liên hệ</string>
+    <string name="trans_detail_category_files">Tập tin</string>
+    <string name="trans_sending_completed">Dữ liệu đã gửi</string>
+    <string name="trans_receiving_completed">Dữ liệu đã nhận</string>
+    <string name="trans_time_format_second">ít hơn một phút</string>
+    <string name="trans_progress_subdescript_transing_sender">Đang gửi %s</string>
+    <string name="trans_progress_subdescript_transing_receiver">Đang nhận %s</string>
+    <string name="trans_progress_subdescript_transingsd_sender">Đang gửi tập tin…</string>
+    <string name="trans_progress_subdescript_transingsd_receiver">Đang nhập tập tin…</string>
+    <string name="trans_progress_subdescript_br_sender">Đang sao lưu %s</string>
+    <string name="trans_progress_subdescript_br_receiver">Đang nhận %s</string>
+    <string name="trans_progress_subdescript_waiting">Đang chờ để nhận %s</string>
+    <string name="trans_cancel_confirm">Đang chuyển, hủy ngay?</string>
+    <string name="trans_cancelling">Đang hủy</string>
+    <string name="trans_device_disconnected">Thiết bị đã ngắt kết nối</string>
+    <string name="trans_connecting_toast">Đang kết nối…</string>
+    <string name="trans_connect_failed_toast">Không thể kết nối</string>
 </resources>

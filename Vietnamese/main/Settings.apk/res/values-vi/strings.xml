@@ -61,7 +61,7 @@
     <string name="status_bar_settings_notification_priority">Ưu tiên</string>
     <string name="status_bar_settings_notification_priority_summary">Hiển thị thông báo ở đầu danh sách</string>
     <string name="status_bar_settings_show_home_message">Thẻ biểu tượng ứng dụng</string>
-    <string name="status_bar_settings_show_keyguard_notification">Thông báo trên màn hình khóa</string>
+    <string name="status_bar_settings_show_keyguard_notification">Màn hình khóa</string>
 	<string name="status_bar_settings_show_keyguard_notification_summary">Thông báo sẽ tự động biến mất sau khi chúng hiển thị trên thanh trang thái</string>
     <string name="status_bar_settings_notification_sound_vibrate">Chuông &amp; rung</string>
     <string name="status_bar_settings_notification_led">Đèn thông báo</string>
@@ -75,7 +75,7 @@
     <string name="status_bar_settings_basic_settings">Cài đặt cơ bản</string>
     <string name="status_bar_settings_advanced">Cài đặt bổ sung</string>
     <string name="status_bar_settings_show_flow_info">Hiển thị chi tiết lưu lượng</string>
-    <string name="status_bar_app_disable_notification">Ẩn thông báo</string>
+    <string name="status_bar_app_disable_notification">Thông báo bị ẩn</string>
     <string name="status_bar_app_enable_on_notificationBar">Thanh thông báo</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Màn hình khóa, thanh thông báo</string>
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
@@ -3112,4 +3112,10 @@ Hãy chắc chắn rằng ngón tay của bạn hoàn toàn nằm bên trong c�
 	<string name="turn_on_security_lock">Thêm mật khẩu bảo mật</string>
 	<string name="search_virtual_sim">SIM ảo</string>
 	<string name="virtual_sim_search_title">SIM ảo</string>
+	<string name="onekey_migrate">Chuyển</string>
+    <string name="status_bar_app_enable_floating">Thông báo nổi</string>
+    <string name="status_bar_app_enable_keyguard">Màn hình khóa</string>
+    <string name="status_bar_app_enable_message">Biểu tượng</string>
+    <string name="status_bar_settings_show_floating_notification">Thông báo nổi</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Thông báo nổi sẽ ẩn tự động sau khi hiển thị phía trên màn hình</string>
 </resources>

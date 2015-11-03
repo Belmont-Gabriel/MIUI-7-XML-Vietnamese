@@ -107,4 +107,5 @@
 Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn."</string>
 	<string name="lock_to_app_toast">Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn.</string>
 	<string name="lock_to_app_toast_accessible">Để hủy ghim màn hình này, bấm và giữ đồng thời phím Màn hình chính và nút Nguồn.</string>
+	<string name="subinfo_default_name">SIM %d</string>
 </resources>

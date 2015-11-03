@@ -779,4 +779,7 @@ thiết bị"</string>
 	<string name="calculated_pictures_time_tip_for_no_vip">Đã sắp xếp ảnh từ %1$s đến hôm nay. Các ảnh còn lại sẽ được sắp xếp dần sau.</string>
 	<string name="view_queuing_status">Kiểm tra trạng thái</string>
 	<string name="app_name_edit_picture">Sửa ảnh</string>
+	<string name="contact_tip">Liên hệ</string>
+	<string name="input_a_name">Nhập tên</string>
+	<string name="input_or_select_a_name">Nhập hoặc chọn một tên</string>
 </resources>

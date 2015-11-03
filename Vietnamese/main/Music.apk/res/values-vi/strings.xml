@@ -472,4 +472,8 @@
     <string name="dialog_button_agree">Đồng ý</string>
     <string name="go_to_add_music">Hãy thêm các bài hát hiện nay</string>
     <string name="atmd_tel">Tel: 0755-86699030</string>
+	<string name="already_download">Đang tải xuống, vui lòng chờ…</string>
+	<string name="download_complete">Tải xuống hoàn tất</string>
+	<string name="download_complete_start_install">Tải xuống hoàn tất, bắt đầu cài đặt…</string>
+	<string name="download_start">Bắt đầu tải xuống…</string>
 </resources>

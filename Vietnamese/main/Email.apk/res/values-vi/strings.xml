@@ -643,7 +643,7 @@
     <string name="save_action">Lưu</string>
     <string name="save_attachment">Lưu</string>
     <string name="save_draft_failed">Lưu thư nháp thất bại</string>
-    <string name="save_power_summary">Lịch trình giảm thiểu sử dụng pin</string>
+    <string name="save_power_summary">Thiết lập thời gian tiết kiệm pin</string>
     <string name="save_power_title">Tiết kiệm pin</string>
     <string name="saved">Đã lưu, %s</string>
     <string name="saving">Đang lưu…</string>
@@ -756,12 +756,12 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="you_are_in_mobile_network">Gửi nhật ký bằng kết nối dữ liệu di động? Nếu bạn vượt quá giới hạn kế hoạch sử dụng dữ liệu, nhà cung cấp có thể tính phí bổ sung.</string>
     <string name="zip_viewer_no_file">Không có tập tin nào.</string>
 	<string name="disturb_switch">Không làm phiền</string>
-	<string name="gmail_login_failed_non_proxy_title">Truy cập máy chủ Gmail thất bại</string>
+	<string name="gmail_login_failed_non_proxy_title">Không thể truy cập máy chủ Gmail</string>
 	<string name="gmail_server_authorization_deleted">Không thể xác thực tài khoản. Thử thêm lại tài khoản này lần nữa.</string>
 	<string name="outbox_alert_description_fail_network">Không thể kết nối mạng.</string>
 	<string name="att_download_failed_network_slow">Mạng chậm, vui lòng tải lại sau</string>
 	<string name="calendar_remind_dialog_title">Nhắc lại</string>
-	<string name="calendar_remind_gridview_month_later">Tháng sau</string>
+	<string name="calendar_remind_gridview_month_later">Tháng tới</string>
 	<string name="calendar_remind_gridview_nextweek">Tuần tới</string>
 	<string name="calendar_remind_gridview_pick_date">Chọn ngày</string>
 	<string name="calendar_remind_gridview_tomorrow">Ngày mai</string>

@@ -587,11 +587,12 @@
     <string name="security_alert_dialog_desc">Gửi số này (%s) và tin nhắn đến Xiaomi để phân tích.</string>
     <string name="sms_report_failed">Không thể gửi báo cáo</string>
     <string name="sms_report_success">Báo cáo đã gửi</string>
-    <string name="voip_enable">Tin nhắn Mi và Mi VoIP</string>
-    <string name="voip_enable_popup_msg">Gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. Mi VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
+    <string name="voip_enable">Tin nhắn Mi và Cuộc gọi Mi</string>
+    <string name="voip_enable_popup_msg">Gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. Cuộc gọi Mi được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
     <string name="voip_enable_popup_msg2">Chính sách Riêng tư</string>
-    <string name="mx_and_voip_enable">Tin nhắn Mi &amp; Mi VoIP</string>
+    <string name="mx_and_voip_enable">Tin nhắn Mi &amp; Cuộc gọi Mi</string>
     <string name="mx_and_voip_enable_popup_msg">Gửi tin nhắn hoặc gọi điện đến người dùng MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
     <string name="mx_and_voip_enable_popup_msg2">Chính sách Bảo mật</string>
     <string name="mx_b2c_message_desc">Thông báo mạng</string>
+	<string name="exceed_message_size_limitation_add_slide">Kích thước tin nhắn không đủ để thêm trang trình bày</string>
 </resources>

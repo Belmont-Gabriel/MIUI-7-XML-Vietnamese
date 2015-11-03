@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 	<string name="app_name">Dịch vụ Bảo mật</string>
+	<string name="app_not_installed_toast">Ứng dụng chưa được cài đặt trên thiết bị của bạn.</string>
 	<string name="cancel_button">Hủy</string>
 	<string name="empty">" "</string>
 	<string name="main_toolbar_purchase">Mua</string>
@@ -8,6 +9,23 @@
 	<string name="miuishare_title_share">Chia sẻ</string>
 	<string name="miuishare_wechat_timeline_title">Dòng thời gian WeChat</string>
 	<string name="miuishare_weibo_title">Weibo</string>
+	<string name="month_report_activity_label">Báo cáo hàng tháng</string>
+	<string name="month_report_click_reconnect_network">Thử lại</string>
+	<string name="month_report_disconnect_tip">Không thể kết nối mạng</string>
+	<string name="month_report_follow_service_negative">Không, cám ơn</string>
+	<string name="month_report_follow_service_positive">Theo dõi</string>
+	<string name="month_report_follow_service_summary">Luôn cập nhật tin tức và thông tin bảo mật bằng cách làm theo tài khoản chính thức của ứng dụng Bảo mật MIUI.</string>
+	<string name="month_report_follow_service_title">Cập nhật bảo mật</string>
+	<string name="month_report_history_activity_label">Lịch sử báo cáo</string>
+	<string name="month_report_network_dialog_description">Cho phép ứng dụng này kết nối với internet để nhận thông tin báo cáo?</string>
+	<string name="month_report_network_dialog_positive">Cho phép</string>
+	<string name="month_report_network_dialog_title">Không thể nhận thông tin báo cáo</string>
+	<string name="month_report_result_share">Chia sẻ</string>
+	<string name="month_report_share_img_fail">Không thể chia sẻ</string>
+	<string name="month_report_share_loading">Chờ 1 lát…</string>
+	<string name="month_report_warning_dialog_description">Để xem báo cáo hàng tháng, tắt tính năng này trong Cài đặt của ứng dụng Bảo mật.</string>
+	<string name="month_report_warning_dialog_positive">Bật</string>
+	<string name="month_report_warning_dialog_title">Báo cáo bảo mật hàng tháng</string>
 	<string name="network_not_available">Không thể kết nối mạng</string>
 	<string name="no_network_btn">Thử lại</string>
 	<string name="ok_button">OK</string>
