@@ -23,7 +23,6 @@
     <string name="resume_download">Tiếp tục</string>
     <string name="restart_download">Khởi động lại</string>
     <string name="open_download">Mở</string>
-	<string name="open_vip_hint">Nhấn để trở thành thành viên Xunlei</string>
     <string name="paused_by_app">Đã tạm dừng</string>
     <string name="paused_queued_for_wifi">Đang chờ kết nối mạng</string>
     <string name="paused_waiting_for_network">Đang chờ kết nối mạng</string>
