@@ -407,7 +407,7 @@ Dung lượng miễn phí đã thêm %1$s"</string>
     <string name="smb_loading">Chờ 1 lát…</string>
     <string name="online_not_support">Không thể xem tập tin này trực tuyến lúc này.</string>
     <string name="delete_file_error">Không thể xóa tập tin</string>
-    <string name="notification_content_hint">Nhấn để xem</string>
+    <string name="notification_content_hint">Xem video WeChat sắp hết hạn</string>
     <string name="notification_wechat_title">Thông báo cho tôi khi một video WeChat sắp hết hạn</string>
     <string name="backup_title">Sao lưu video WeChat</string>
     <string name="backup_confirm">Sao lưu bây giờ</string>
@@ -443,7 +443,7 @@ Dung lượng miễn phí đã thêm %1$s"</string>
 	<string name="encrypt_error">Không thể thêm vào Cá nhân, hãy thử lại</string>
 	<string name="encrypt_success">Tất cả tập tin đã được thêm vào cá nhân</string>
 	<string name="encrypting">Đang mã hóa…</string>
-	<string name="local_sticker_str">Đã tải xuống</string>
+	<string name="local_sticker_str">Ngoại tuyến</string>
 	<string name="make_private">Thiết lập Cá nhân</string>
 	<string name="msg_set_password">Đặt mật khẩu trước</string>
 	<string name="network_spent_reminding">Mở trang này sẽ tiêu hao lưu lượng dữ liệu của bạn.</string>
@@ -487,4 +487,25 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
 	<string name="pick_folder">Chọn thư mục</string>
 	<string name="search_description">Tìm kiếm tất cả tập tin trên thiết bị</string>
 	<string name="encrypt_prefix">CÁ NHÂN</string>
+	<string name="add_private_files">Thêm tập tin</string>
+	<string name="already_liked">Bạn đã đánh dấu sao mục này rồi</string>
+	<string name="cancel_operation">Hủy hoạt động</string>
+	<string name="cancelled_by_user">Đã hủy hoạt động</string>
+	<string name="downloaded_sticker_str">Đã tải xuống</string>
+	<string name="if_cancel">Hủy hoạt động này?</string>
+	<string name="image_loading_error">Không thể tải ảnh</string>
+	<string name="menu_item_sort_add_time">"Đã tạo "</string>
+	<string name="no_downloaded_sticker_tip">Không thể tìm thấy biểu tượng đã tải. Kiểm tra biểu tượng được chia sẻ bởi người hâm mộ Mi.</string>
+	<string name="notification_wechat_expired_empty">WeChat đã xóa các đoạn video này rồi.</string>
+	<string name="notify_private_folder_msg">Nhấn để tìm hiểu về thư mục riêng.</string>
+	<string name="notify_private_folder_title">Bảo vệ tập tin cá nhân của bạn</string>
+	<string name="operation_like">Sao</string>
+	<string name="qq_not_installed">QQ chưa được cài đặt</string>
+	<string name="save_to_local">Tải xuống</string>
+	<string name="search_result">Kết quả</string>
+	<string name="send_to_qq">Gửi lên QQ</string>
+	<string name="send_to_weixin">Gửi lên WeChat</string>
+	<string name="type_not_support">Định dạng tập tin này không được hỗ trợ. Giải nén tập tin này và thử lại.</string>
+	<string name="ui_main_toast_favorite_added">Đã đánh dấu sao thành công</string>
+	<string name="weixin_not_installed">WeChat chưa được cài đặt</string>
 </resources>

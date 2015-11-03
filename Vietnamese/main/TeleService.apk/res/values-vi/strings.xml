@@ -990,7 +990,7 @@ Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn
     <string name="error_type_account_302">Mã bạn nhập vào đã được dùng</string>
     <string name="error_type_account_500">Không thể kết nối với mạng di động</string>
     <string name="error_type_account_inner">Lỗi bên trong máy chủ</string>
-    <string name="title_purchase">Mua gói tùy chọn</string>
+    <string name="title_purchase">Mua</string>
     <string name="please_choose_the_refueling_package">Chọn gói tùy chọn</string>
     <string name="purchase_notification_title">Kiểm tra khu vực được hỗ trợ</string>
     <string name="refueling_package_a">Gói A</string>

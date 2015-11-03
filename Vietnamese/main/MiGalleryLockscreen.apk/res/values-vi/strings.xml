@@ -3,7 +3,7 @@
     <string name="app_name">Thư viện</string>
     <string name="cancel">Thoát</string>
     <string name="declaration">Bằng cách sử dụng sản phẩm này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận sử dụng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách riêng tư&lt;/a> của chúng tôi. Ứng dụng này cần kết nối internet để làm việc bình thường.</string>
-    <string name="declaration_title">Điều khoản sử dụng</string>
+    <string name="declaration_title">Điều khoản dịch vụ</string>
     <string name="lockscreen_magazine_subscribe">%1$s người theo dõi</string>
     <string name="lockscreen_magazine_summary">Nhận hình nền được gửi trực tiếp vào màn hình khóa của bạn mỗi ngày.</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s hình nền</string>

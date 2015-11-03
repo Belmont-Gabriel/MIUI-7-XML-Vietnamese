@@ -293,7 +293,7 @@
 	<string name="set_immediately">Thiết lập</string>
 	<string name="seton_immediately">Bật</string>
 	<string name="share">Chia sẻ</string>
-	<string name="start_install">Bắt đầu cài đặt</string>
+	<string name="start_install">Cài đặt ngay</string>
 	<string name="there_is_no">Mọi thứ đều tốt, hãy quay lại sau</string>
 	<string name="tips_of_auto_launch_manage">Ngăn chặn ứng dụng ít sử dụng tự khởi chạy</string>
 	<string name="tips_of_cloud_service">Đăng nhập bằng Tài khoản Mi để sử dụng các dịch vụ Mi khác</string>
@@ -321,4 +321,5 @@
 	<string name="virus_scan">Quét Virus</string>
 	<string name="year_month_day_format">d MMM, yyyy</string>
 	<string name="yesterday">Hôm qua</string>
+	<string name="mainbtn_text_quick_cleanup_default">Dọn dẹp</string>
 </resources>

@@ -200,7 +200,7 @@
     <string name="topic_event_list_header_label">Sự kiện gần đây</string>
     <string name="topic_list_header_label">Lịch</string>
     <string name="setting_wifi_mode">Chỉ dùng Wi-Fi để đồng bộ</string>
-    <string name="notice_title_agreement">Điều khoản sử dụng</string>
+    <string name="notice_title_agreement">Điều khoản dịch vụ</string>
     <string name="notice_button_ok_and_go_on">Đồng ý và tiếp tục</string>
     <string name="online_notice_message">Bằng cách sử dụng sản phẩm này, bạn đồng ý với %1$s và %2$s của chúng tôi. Ứng dụng này cần kết nối internet để làm việc bình thường.</string>
     <string name="birthday_notice_message">Thông tin ngày sinh cần kết nối mạng trước khi xem. Bạn có đồng ý?</string>
@@ -302,7 +302,7 @@
     <string name="repeat_label_interval">Mỗi</string>
     <string name="repeat_interval_dialog_title">Mỗi %1$s</string>
     <string name="repeat_interval_frequency_single">%1$s</string>
-    <string name="repeat_interval_frequency">%1$d %2$ss</string>
+    <string name="repeat_interval_frequency">%1$d %2$s</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeat_custom_prompt_daily">Mỗi %1$s</string>
     <string name="repeat_custom_prompt">Mỗi %1$s lúc %2$s</string>

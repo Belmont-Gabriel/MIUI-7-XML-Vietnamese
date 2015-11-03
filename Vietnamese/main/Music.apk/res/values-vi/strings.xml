@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_app_name">Chia sẻ Miui</string>
     <string name="miuishare_title_more">Thêm</string>
     <string name="miuishare_title_share">Chia sẻ</string>
     <string name="miuishare_account_login_ok">Đăng nhập</string>
@@ -13,9 +13,9 @@
     <string name="miuishare_wechat_timeline_title">Dòng thời gian Wechat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuishare_publish">Gửi</string>
-    <string name="miuishare_share_done">Nội dung chia sẻ đã được gửi.</string>
+    <string name="miuishare_share_done">Chia sẻ thành công.</string>
     <string name="miuishare_share_editor_title">Chia sẻ</string>
-    <string name="miuishare_no_network">Không có mạng, không thể chia sẻ.</string>
+    <string name="miuishare_no_network">Không thể kết nối mạng.</string>
     <string name="music_browser_label">Nhạc</string>
     <string name="unknown_artist_name">Nghệ sĩ không xác định</string>
     <string name="unknown_album_name">Album không xác định</string>
@@ -472,8 +472,8 @@
     <string name="dialog_button_agree">Đồng ý</string>
     <string name="go_to_add_music">Hãy thêm các bài hát hiện nay</string>
     <string name="atmd_tel">Tel: 0755-86699030</string>
-	<string name="already_download">Đang tải xuống, vui lòng chờ…</string>
+	<string name="already_download">Đang tải xuống…</string>
 	<string name="download_complete">Tải xuống hoàn tất</string>
-	<string name="download_complete_start_install">Tải xuống hoàn tất, bắt đầu cài đặt…</string>
+	<string name="download_complete_start_install">Đang cài đặt…</string>
 	<string name="download_start">Bắt đầu tải xuống…</string>
 </resources>

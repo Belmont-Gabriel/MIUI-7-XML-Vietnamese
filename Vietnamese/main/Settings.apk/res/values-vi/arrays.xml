@@ -728,6 +728,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     <string-array name="common_password_business_names">
         <item>Khóa màn hình</item>
         <item>Chế độ Trẻ em</item>
+		<item>Tập tin</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Mỗi ngày</item>
