@@ -461,6 +461,6 @@
 	<string name="hint_apk_download_format">Cài đặt \"%1$s\" ứng dụng</string>
 	<string name="download">Tải xuống</string>
 	<string name="score_douban">Điểm Douban %1$s</string>
-+  <string name="app_charging_wifi_mode">Cập nhật ứng dụng khi sạc</string>
-+  <string name="app_charging_wifi_mode_summary">Tự động cập nhật ứng dụng khi sạc và có kết nối Wi-Fi</string>
+	<string name="app_charging_wifi_mode">Cập nhật ứng dụng khi sạc</string>
+	<string name="app_charging_wifi_mode_summary">Tự động cập nhật ứng dụng khi sạc và có kết nối Wi-Fi</string>
 </resources>
