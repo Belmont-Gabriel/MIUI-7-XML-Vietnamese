@@ -218,7 +218,7 @@ Trượt xuống để khóa"</string>
     <string name="status_bar_recording_back">Quay trở lại Ghi âm</string>
     <string name="status_bar_recording_pause">Ghi âm đã tạm dừng</string>
     <string name="headset_settings">Tai nghe đã kết nối</string>
-    <string name="headset_info">Chạm vào để đặt cấu hình cài đặt</string>
+    <string name="headset_info">Nhấn để xem cài đặt</string>
     <string name="headset_custom">Bỏ qua</string>
     <string name="usb_share_net_info">Dùng kết nối internet của máy tính</string>
     <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>

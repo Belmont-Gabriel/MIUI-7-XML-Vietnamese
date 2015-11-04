@@ -344,8 +344,8 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="traffic_saving_optimized">Đã tối ưu hóa</string>
     <string name="traffic_saving_ratio">Sử dụng dữ liệu đã giảm %.2f%%</string>
     <string name="traffic_saving_ratio_low">Không thể làm giảm đáng kể sử dụng dữ liệu</string>
-    <string name="traffic_saving_recommanded_open">Bật mục này</string>
-    <string name="traffic_saving_recommanded_close">Tắt mục này</string>
+    <string name="traffic_saving_recommanded_open">Bật</string>
+    <string name="traffic_saving_recommanded_close">Tắt</string>
     <string name="traffic_saving_notification_button_start">Kích hoạt</string>
 	<string name="traffic_saving_notify_no_apps_saving">Không có ứng dụng đang sử dụng tiết kiệm dữ liệu</string>
 	<string name="traffic_saving_notify_no_apps_saving_content">Bấm để bật tiết kiệm dữ liệu.</string>

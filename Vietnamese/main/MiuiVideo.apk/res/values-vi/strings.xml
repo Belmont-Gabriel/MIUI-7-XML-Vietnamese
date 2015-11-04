@@ -408,7 +408,7 @@
     <string name="debug_mode">Chế độ gỡ lỗi</string>
     <string name="debug_mode_desc">Chạy ứng dụng trong chế độ gỡ lỗi và hiển thị ID video ở góc trái trên cùng</string>
     <string name="app_wifi_mode">Tự động cập nhật</string>
-    <string name="app_wifi_mode_summary">Tự động cập nhật ứng dụng khi có kết nối Wi-Fi.</string>
+    <string name="app_wifi_mode_summary">Tự động cập nhật ứng dụng khi kết nối Wi-Fi.</string>
     <string name="performance_mode">Cải thiện hiệu suất</string>
     <string name="performance_mode_desc">Tối đa hiệu suất trình phát video</string>
 	<string name="birthday">Ngày sinh</string>
@@ -461,4 +461,6 @@
 	<string name="hint_apk_download_format">Cài đặt \"%1$s\" ứng dụng</string>
 	<string name="download">Tải xuống</string>
 	<string name="score_douban">Điểm Douban %1$s</string>
++  <string name="app_charging_wifi_mode">Cập nhật ứng dụng khi sạc</string>
++  <string name="app_charging_wifi_mode_summary">Tự động cập nhật ứng dụng khi sạc và có kết nối Wi-Fi</string>
 </resources>

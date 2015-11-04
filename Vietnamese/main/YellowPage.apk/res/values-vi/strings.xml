@@ -368,4 +368,5 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn: Vui lòng liên kết lại</string>
     <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ: Vui lòng liên kết lại</string>
     <string name="sina_share_fail_content_repeat">Không thể chia sẻ, nội dung này đã tồn tại…</string>
+	<string name="data_error_show">Lỗi</string>
 </resources>

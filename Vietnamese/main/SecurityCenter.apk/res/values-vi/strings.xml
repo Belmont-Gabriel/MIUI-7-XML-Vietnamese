@@ -608,4 +608,8 @@
 	<string name="title_cloud_space_almost_full">Dung lượng lưu trữ đám mây gần đầy, nhiều mục có thể không được đồng bộ</string>
 	<string name="title_cloud_space_full">Dung lượng lưu trữ đám mây đầy, không thể đồng bộ ảnh</string>
     <string name="title_find_device">Bật Tìm thiết bị</string>
+	<string name="hints_need_quick_clean">Tìm và xóa các tập tin nguy hiểm</string>
+	<string name="menu_text_power_percent_title">Pin %s</string>
+	<string name="summary_live_talk_purchase">Chỉ 0,05 NDT/phút cho các cuộc gọi trong nước.</string>
+	<string name="title_live_talk_purchase">Mua ngay</string>
 </resources>

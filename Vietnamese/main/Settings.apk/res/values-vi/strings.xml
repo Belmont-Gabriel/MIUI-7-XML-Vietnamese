@@ -2510,8 +2510,8 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="virtual_sim_description">Dịch vụ chuyển vùng quốc tế tin cậy</string>
     <string name="power_mode">Cài đặt Pin</string>
     <string name="high_performance_title">Dường như bạn đang chạy phần mềm đánh giá chỉ số benchmark. Đặt quản lý nguồn ở \"Hiệu suất cao\" sẽ cho kết quả tốt nhất.</string>
-    <string name="high_performance_notif_title">Cảnh báo sử dụng pin</string>
-    <string name="high_performance_notif_summary">Chế độ hiệu suất cao vô hiệu hóa kiểm soát nhiệt độ và giới hạn tiêu thụ pin, đồng thời cho phép thiết bị vận hành với công suất tối đa. Điều này có thể làm cho điện thoại nóng lên và làm giảm tuổi thọ Pin.</string>
+    <string name="high_performance_notif_title">Chế độ hiệu suất đang bật</string>
+    <string name="high_performance_notif_summary">Thiết bị có thể nóng trong khi sử dụng tác vụ nặng.</string>
     <string name="skip_step">Bỏ qua</string>
     <string name="msd_help_title">Trợ giúp</string>
     <string name="msd_help_summary">"Không thể kết nối với thiết bị của bạn? 
@@ -3022,7 +3022,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="wifi_datanetwork_switch_not_remind">Không hiển thị lại</string>
     <string name="skip_lock_screen_confirm_msg">Thông báo, điều khiển trình nghe nhạc, Máy ảnh, và Mi Home sẽ bị vô hiệu hóa trên màn hình khóa.</string>
     <string name="performance_category">Hiệu suất</string>
-    <string name="fluency_mode">Tối ưu hiệu suất hệ thống</string>
+    <string name="fluency_mode">Hoạt ảnh hệ thống</string>
     <string name="fluency_mode_confirm_and_reboot">Khởi động lại ngay</string>
     <string name="gesture_wakeup_title">Chạm màn hình hai lần để đánh thức thiết bị</string>
     <string name="install_no_market_app_title">Nguồn không xác định</string>
