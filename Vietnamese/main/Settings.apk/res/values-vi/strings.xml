@@ -61,8 +61,9 @@
     <string name="status_bar_settings_notification_priority">Ưu tiên</string>
     <string name="status_bar_settings_notification_priority_summary">Hiển thị thông báo ở đầu danh sách</string>
     <string name="status_bar_settings_show_home_message">Thẻ biểu tượng ứng dụng</string>
+    <string name="status_bar_settings_show_floating_notification">Thông báo nổi</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Thông báo nổi sẽ ẩn tự động sau khi hiển thị phía trên màn hình</string>
     <string name="status_bar_settings_show_keyguard_notification">Màn hình khóa</string>
-	<string name="status_bar_settings_show_keyguard_notification_summary">Thông báo sẽ tự động biến mất sau khi chúng hiển thị trên thanh trang thái</string>
     <string name="status_bar_settings_notification_sound_vibrate">Chuông &amp; rung</string>
     <string name="status_bar_settings_notification_led">Đèn thông báo</string>
     <string name="status_bar_settings_notification_bar">Thanh thông báo</string>
@@ -76,8 +77,9 @@
     <string name="status_bar_settings_advanced">Cài đặt bổ sung</string>
     <string name="status_bar_settings_show_flow_info">Hiển thị chi tiết lưu lượng</string>
     <string name="status_bar_app_disable_notification">Thông báo bị ẩn</string>
-    <string name="status_bar_app_enable_on_notificationBar">Thanh thông báo</string>
-    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Màn hình khóa, thanh thông báo</string>
+    <string name="status_bar_app_enable_message">Biểu tượng</string>
+    <string name="status_bar_app_enable_floating">Thông báo nổi</string>
+    <string name="status_bar_app_enable_keyguard">Màn hình khóa</string>
     <string name="status_bar_settings_show_carrier">Hiển thị tên nhà mạng</string>
     <string name="status_bar_settings_custom_carrier">Chỉnh sửa tên nhà mạng</string>
     <string name="status_bar_settings_no_carrier">Không</string>
@@ -199,7 +201,7 @@
     <string name="bluetooth_disconnect_title">Ngắt kết nối?</string>
     <string name="bluetooth_disconnect_all_profiles">Tác vụ này sẽ kết thúc kết nối của bạn với:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Vô hiệu hồ sơ?</string>
-    <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> Khỏi:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Khỏi:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Đã kết nối</string>
     <string name="bluetooth_connected_no_headset">Đã kết nối (không có điện thoại)</string>
     <string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện)</string>
@@ -361,7 +363,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="zone_list_menu_sort_alphabetically">Sắp xếp theo vần</string>
     <string name="zone_list_menu_sort_by_timezone">Sắp xếp theo múi giờ</string>
     <string name="date_picker_title">Ngày</string>
-    <string name="time_picker_title">Thời gian</string>
+    <string name="time_picker_title">Giờ</string>
     <string name="biometric_weak_improve_matching_title">Cải tiến khớp khuôn mặt</string>
     <string name="biometric_weak_liveliness_title">Kiểm tra nhận diện khuôn mặt</string>
     <string name="biometric_weak_liveliness_summary">Yêu cầu nháy mắt khi mở khóa</string>
@@ -455,7 +457,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu khi
     <string name="lockpassword_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
-    <string name="lock_setup">Đã hoàn tất thiết lập.</string>
+    <string name="lock_setup">Thiết lập hoàn tất.</string>
     <string name="device_admin_title">Quản lý thiết bị</string>
     <string name="manage_device_admin">Quản trị viên thiết bị</string>
     <string name="manage_device_admin_summary">Xem hoặc hủy kích hoạt quản trị viên điện thoại</string>
@@ -930,7 +932,7 @@ Có thể mã PIN không đúng."</string>
     <string name="apn_password">Mật khẩu</string>
     <string name="apn_server">Máy chủ</string>
     <string name="apn_mmsc">MMSC</string>
-    <string name="apn_mms_proxy">proxy của MMS</string>
+    <string name="apn_mms_proxy">Proxy của MMS</string>
     <string name="apn_mms_port">Cổng MMS</string>
     <string name="apn_mcc">MCC</string>
     <string name="apn_mnc">MNC</string>
@@ -1405,8 +1407,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
+"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -1587,7 +1589,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="menu_proc_stats_type">Kiểu trạng thái</string>
     <string name="menu_proc_stats_type_background">Nền</string>
     <string name="menu_proc_stats_type_foreground">Nền trước</string>
-    <string name="menu_proc_stats_type_cached">Đã lưu trong bộ nhớ Cache</string>
+    <string name="menu_proc_stats_type_cached">Bộ nhớ đệm</string>
     <string name="voice_input_output_settings">Nhập liệu bằng giọng nói &amp; đầu ra bằng giọng nói</string>
     <string name="voice_input_output_settings_title">Cài đặt nhập liệu bằng giọng nói &amp; đầu ra bằng giọng nói</string>
     <string name="voice_search_settings_title">Tìm kiếm bằng giọng nói</string>
@@ -1812,7 +1814,6 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="no_application">Không có ứng dụng</string>
     <string name="wait_for_debugger">Đợi trình gỡ lỗi</string>
     <string name="wait_for_debugger_summary">Ứng dụng được gỡ lỗi chờ trình gỡ lỗi đính kèm trước khi thực hiện</string>
-	<string name="wakeup_for_keyguard_notification_title">Sáng màn hình khóa khi có thông báo</string>
     <string name="debug_input_category">Nhập</string>
     <string name="debug_drawing_category">Bản vẽ</string>
     <string name="debug_hw_drawing_category">Kết xuất có tăng tốc phần cứng</string>
@@ -2137,6 +2138,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="search_bluetooth">bluetooth</string>
     <string name="search_android_beam">chuyển</string>
     <string name="search_vpn">vpn</string>
+    <string name="search_virtual_sim">SIM ảo</string>
     <string name="search_tether">kết nối</string>
     <string name="search_brightness">độ sáng</string>
     <string name="search_wallpaper">hình nền</string>
@@ -2508,6 +2510,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="virtual_sim_category_title">SIM Ảo</string>
     <string name="virtual_sim_title">Mạng dữ liệu khi chuyển vùng</string>
     <string name="virtual_sim_description">Dịch vụ chuyển vùng quốc tế tin cậy</string>
+    <string name="virtual_sim_search_title">SIM ảo</string>
     <string name="power_mode">Cài đặt Pin</string>
     <string name="high_performance_title">Dường như bạn đang chạy phần mềm đánh giá chỉ số benchmark. Đặt quản lý nguồn ở \"Hiệu suất cao\" sẽ cho kết quả tốt nhất.</string>
     <string name="high_performance_notif_title">Chế độ hiệu suất đang bật</string>
@@ -2568,7 +2571,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="drive_mode_auto_sms_reply_content_title">Nội dung của tin nhắn SMS trả lời</string>
     <string name="clear_activities_summary">Sử dụng ứng dụng này cho một số hoạt động theo mặc định</string>
     <string name="permission_detail_info">Chi tiết</string>
-    <string name="permission_detail_info_summary">%1$d bảo mật | %2$d thông tin cá nhân | %3$d khác</string>
+    <string name="permission_detail_info_summary">%1$d bảo mật | %2$d riêng tư | %3$d khác</string>
     <string name="permission_manage">Quản lý Quyền</string>
     <string name="permission_manage_summary">Yêu cầu sự cho phép của bạn trước khi cho phép ứng dụng đọc liên hệ, xem nhật ký cuộc gọi, thay đổi cài đặt hệ thống, hoặc truy cập máy ảnh và các nguồn tài nguyên khác của thiết bị</string>
     <string name="security_relative">Bảo mật</string>
@@ -2975,7 +2978,7 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="oldman_mode_settings_caption">Cài đặt chế độ thu gọn</string>
     <string name="oldman_mode_enabled_name">Chế độ thu gọn</string>
     <string name="oldman_mode_summary">Sử dụng Màn hình chính và trình đơn đơn giản</string>
-    <string name="oldman_mode_summary_cta">Chế độ thu gọn cần phải kết nối với internet, đọc danh bạ, tin nhắn và thông tin vị trí của bạn để hoạt động bình thường.</string>
+    <string name="oldman_mode_summary_cta">Chế độ thu gọn cần phải kết nối internet, đọc danh bạ, tin nhắn và thông tin vị trí của bạn để hoạt động bình thường.</string>
     <string name="oldman_mode_confirm_title">Khởi động lại ngay?</string>
     <string name="oldman_mode_confirm_will_oldman_mode_text">Thiết bị của bạn sẽ khởi động vào chế độ Thu gọn.</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Thoát Chế độ Thu gọn?</string>
@@ -3047,9 +3050,45 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="set_password_action">Thiết lập mật khẩu</string>
     <string name="deny_sms_title">Khóa tin nhắn SMS</string>
     <string name="deny_sms_message">Không cho phép ứng dụng đã cài đặt gửi tin nhắn SMS</string>
+    <string name="wakeup_for_keyguard_notification_title">Sáng màn hình khóa khi có thông báo</string>
     <string name="experience_optimization_category">Tối ưu</string>
     <string name="advanced_text_layout">Bật bố trí văn bản nâng cao</string>
     <string name="pref_edge_handgrip">Điều khiển tiếp xúc viền</string>
+    <string name="apply_password_to_category_title">Đang áp dụng mật khẩu…</string>
+    <string name="turn_on_security_lock">Thêm mật khẩu bảo mật</string>
+    <string name="secure_keyguard_business_title">Mật khẩu màn hình khóa</string>
+    <string name="fingerprint_and_password_entrance_title">Mật khẩu &amp; vân tay</string>
+    <string name="password_entrance_title">Mật khẩu</string>
+    <string name="turn_off_common_password_confirm_msg">Mật khẩu sẽ được tắt.</string>
+    <string name="apply_fingerprint_to_category_title">Đang áp dụng vân tay…</string>
+    <string name="fingerprint_list_title">Vân tay</string>
+    <string name="add_fingerprint_text">Thêm vân tay</string>
+    <string name="delete_fingerprint_text">Xóa vân tay</string>
+    <string name="delete_fingerprint_confirm_msg">Xóa vân tay?</string>
+    <string name="fingerprint_identificating_msg">Đang quét vân tay…</string>
+    <string name="fingerprint_identify_input_password_msg">Nhập mật khẩu</string>
+    <string name="fingerprint_identify_try_again_msg">Không thể quét, hãy thử lại!</string>
+    <string name="add_fingerprint_instruction_title">Đặt ngón tay của bạn trên cảm biến vân tay</string>
+    <string name="add_fingerprint_instruction_msg">Mở khóa thiết bị của bạn hoặc xác thực bằng vân tay của bạn</string>
+    <string name="add_fingerprint_put_finger_title">Đặt ngón tay</string>
+    <string name="add_fingerprint_put_finger_msg">Sau khi nhấn cảm biến, nhấc ngón tay, và lặp lại lần nữa.</string>
+    <string name="add_fingerprint_put_finger_edge_msg">Sau khi nhấn cảm biến, nhấc ngón tay, và lặp lại lần nữa.</string>
+    <string name="add_fingerprint_move_finger_title">Nhấc ngón tay</string>
+    <string name="add_fingerprint_done_title">Hoàn tất!</string>
+    <string name="add_fingerprint_done_msg">Bây giờ bạn có thể mở khóa thiết bị với vân tay của bạn.</string>
+    <string name="information_dialog_button_text">Hiểu rồi</string>
+    <string name="max_fingerprint_number_reached">Không thể thêm hơn 5 vân tay. Để thêm vân tay khác, xóa bớt một dấu vân tay trước.</string>
+    <string name="delete_or_keep_legacy_passwords_confirm_msg">Xóa dữ liệu vân tay?</string>
+    <string name="delete_legacy_fingerprint">Xóa</string>
+    <string name="keep_legacy_fingerprint">Giữ</string>
+    <string name="add_fingerprint_finished_button_text">Hoàn tất</string>
+    <string name="add_fingerprint_instruction_dialog_msg">"Để thêm thông tin vân tay của bạn, hãy đặt ngón tay trên cảm biến.
+Hãy chắc chắn rằng ngón tay của bạn hoàn toàn nằm bên trong cảm biến"</string>
+    <string name="add_fingerprint_toast_text">Đặt ngón tay của bạn trên cảm biến</string>
+    <string name="onekey_migrate">Chuyển</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Thông báo sẽ tự động biến mất sau khi chúng hiển thị trên thanh trang thái</string>
+    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Màn hình khóa, thanh thông báo</string>
+    <string name="status_bar_app_enable_on_notificationBar">Thanh thông báo</string>
     <string name="miracast_settings_category">Thiết lập hiển thị Wi-Fi</string>
     <string name="miracast_display_category">Hiển thị</string>
     <string name="miracast_menu_search">Tìm kiếm</string>
@@ -3079,43 +3118,4 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="miracast_PC2THOR_streaming_on">Miracast không khả dụng bởi vì PC đang truyền đến thiết bị này</string>
     <string name="miracast_disable_dhcp">Tắt HDCP</string>
     <string name="miracast_enable_dhcp">Bật HDCP</string>
-	<string name="add_fingerprint_done_msg">Bây giờ bạn có thể mở khóa thiết bị với vân tay của bạn.</string>
-	<string name="add_fingerprint_done_title">Hoàn tất!</string>
-	<string name="add_fingerprint_finished_button_text">Hoàn tất</string>
-	<string name="add_fingerprint_instruction_dialog_msg">"Để thêm thông tin vân tay của bạn, hãy đặt ngón tay trên cảm biến.
-Hãy chắc chắn rằng ngón tay của bạn hoàn toàn nằm bên trong cảm biến"</string>
-	<string name="add_fingerprint_instruction_msg">Mở khóa thiết bị của bạn hoặc xác thực bằng vân tay của bạn</string>
-	<string name="add_fingerprint_instruction_title">Đặt ngón tay của bạn trên cảm biến vân tay</string>
-	<string name="add_fingerprint_move_finger_title">Nhấc ngón tay</string>
-	<string name="add_fingerprint_put_finger_edge_msg">Sau khi nhấn cảm biến, nhấc ngón tay, và lặp lại lần nữa.</string>
-	<string name="add_fingerprint_put_finger_msg">Sau khi nhấn cảm biến, nhấc ngón tay, và lặp lại lần nữa.</string>
-	<string name="add_fingerprint_put_finger_title">Đặt ngón tay</string>
-	<string name="add_fingerprint_text">Thêm vân tay</string>
-	<string name="add_fingerprint_toast_text">Đặt ngón tay của bạn trên cảm biến</string>
-	<string name="apply_fingerprint_to_category_title">Đang áp dụng vân tay…</string>
-	<string name="apply_password_to_category_title">Đang áp dụng mật khẩu…</string>
-	<string name="delete_fingerprint_confirm_msg">Xóa vân tay?</string>
-	<string name="delete_fingerprint_text">Xóa vân tay</string>
-	<string name="delete_legacy_fingerprint">Xóa</string>
-	<string name="delete_or_keep_legacy_passwords_confirm_msg">Xóa dữ liệu vân tay?</string>
-	<string name="fingerprint_and_password_entrance_title">Mật khẩu &amp; vân tay</string>
-	<string name="fingerprint_identificating_msg">Đang quét vân tay…</string>
-	<string name="fingerprint_identify_input_password_msg">Nhập mật khẩu</string>
-	<string name="fingerprint_identify_try_again_msg">Không thể quét, hãy thử lại!</string>
-	<string name="fingerprint_list_title">Vân tay</string>
-	<string name="information_dialog_button_text">Hiểu rồi</string>
-	<string name="keep_legacy_fingerprint">Giữ</string>
-	<string name="max_fingerprint_number_reached">Không thể thêm hơn 5 vân tay. Để thêm vân tay khác, xóa bớt một dấu vân tay trước.</string>
-	<string name="password_entrance_title">Mật khẩu</string>
-	<string name="secure_keyguard_business_title">Mật khẩu màn hình khóa</string>
-	<string name="turn_off_common_password_confirm_msg">Mật khẩu sẽ được tắt.</string>
-	<string name="turn_on_security_lock">Thêm mật khẩu bảo mật</string>
-	<string name="search_virtual_sim">SIM ảo</string>
-	<string name="virtual_sim_search_title">SIM ảo</string>
-	<string name="onekey_migrate">Chuyển</string>
-    <string name="status_bar_app_enable_floating">Thông báo nổi</string>
-    <string name="status_bar_app_enable_keyguard">Màn hình khóa</string>
-    <string name="status_bar_app_enable_message">Biểu tượng</string>
-    <string name="status_bar_settings_show_floating_notification">Thông báo nổi</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Thông báo nổi sẽ ẩn tự động sau khi hiển thị phía trên màn hình</string>
 </resources>
