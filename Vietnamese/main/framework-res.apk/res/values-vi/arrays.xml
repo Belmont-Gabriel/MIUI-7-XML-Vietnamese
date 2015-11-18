@@ -38,6 +38,7 @@
         <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="special_locale_names">
+        <item>Tiếng Ả Rập</item>
         <item>Tiếng Trung (Giản Thể)</item>
         <item>Tiếng Trung (Phồn Thể)</item>
     </string-array>
@@ -91,12 +92,22 @@
         <item>Đang cố giữ thiết bị thức</item>
         <item>Đang cố truy cập vị trí</item>
         <item>Đang cố truy cập vị trí</item>
+        <item>Đang cố lấy thống kê sử dụng</item>
+        <item>Đang cố tắt micrô</item>
+        <item>Đang cố bật cửa sổ</item>
+        <item>Đang cố trình chiếu phương tiện</item>
+        <item>Đang cố kích hoạt VPN</item>
         <item>Đang cố bật/tắt Wi-Fi</item>
         <item>Đang cố bật/tắt bluetooth</item>
-        <item>Đang cố bật/tắt dữ liệu di động</item>
         <item>Đang cố gửi MMS</item>
         <item>Đang cố đọc MMS</item>
         <item>Đang cố soạn MMS</item>
         <item>Đang cố chạy khi khởi động</item>
+        <item>Đang cố bật/tắt NFC</item>
+        <item>Đang cố xóa SMS</item>
+        <item>Đang cố xóa MMS</item>
+        <item>Đang cố xóa liên hệ</item>
+        <item>Đang cố nhật ký cuộc gọi</item>
+        <item>Đang cố bật dữ liệu di động</item>
     </string-array>
 </resources>
