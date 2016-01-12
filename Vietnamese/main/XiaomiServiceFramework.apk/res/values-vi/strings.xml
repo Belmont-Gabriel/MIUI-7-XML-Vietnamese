@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Khung dịch vụ Mi</string>
-    <string name="xmsf_activate_info">Thông tin kích hoạt XMSF</string>
+    <string name="xmsf_activate_info">Thông tin kích hoạt Khung dịch vụ Mi</string>
     <string name="error_device_id_title">Không nhận ID Thiết bị hợp lệ</string>
     <string name="error_device_id_message">"ID Thiết bị Không hợp lệ: %s
 Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không có id thiết bị, một số tính năng của tài khoản và Mi Cloud sẽ không khả dụng."</string>
@@ -10,8 +10,15 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="sync_notification_title_format">Mục đồng bộ hiện tại: %1$s</string>
     <string name="activate_phone_failed_notif_title">Không thể kích hoạt thẻ SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Không thể kích hoạt thẻ SIM %s</string>
+    <string name="activate_phone_success_notif_title">Thẻ SIM đã kích hoạt</string>
+    <string name="activate_phone_success_notif_title_msim">Thẻ SIM %s đã kích hoạt</string>
+    <string name="activate_phone_cancel_notif_title">Đã hủy kích hoạt thẻ SIM</string>
+    <string name="activate_phone_cancel_notif_title_msim">Đã hủy kích hoạt thẻ SIM %s</string>
     <string name="activate_status_title_activating">Đang kích hoạt thẻ SIM…</string>
     <string name="activate_status_title_activating_msim">Đang kích hoạt thẻ SIM %s…</string>
+    <string name="activate_auto_sms_notification_title">Kích hoạt thẻ SIM</string>
+    <string name="activate_auto_sms_notification_desc_2_cards">Tin nhắn SMS được gửi từ thẻ SIM %s để kích hoạt \"Tìm thiết bị\"</string>
+    <string name="activate_auto_sms_notification_desc_1_card">Tin nhắn SMS được gửi để kích hoạt \"Tìm Thiết bị\"</string>
     <string name="activate_status_desc_query_activation_info">Đang nhận thông tin kích hoạt…</string>
     <string name="activate_status_desc_query_activation_info_no_info">Không thể tìm thấy thông tin kích hoạt trên máy chủ</string>
     <string name="activate_status_desc_query_activation_info_server_error">Xuất hiện lỗi máy chủ khi lấy thông tin kích hoạt</string>
@@ -19,6 +26,7 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="activate_status_desc_wait_for_sms">Đang chờ tin nhắn SMS kích hoạt từ máy chủ…</string>
     <string name="activate_status_desc_wait_for_sms_success">Đã nhận SMS kích hoạt từ máy chủ</string>
     <string name="activate_status_desc_wait_for_sms_fail">Không thể nhận tin nhắn SMS kích hoạt từ máy chủ</string>
+    <string name="activate_status_desc_device_id_error">IMEI không hợp lệ</string>
     <string name="activate_status_desc_request_activation_sms">Đang yêu cầu SMS kích hoạt…</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Xuất hiện lỗi máy chủ khi yêu cầu SMS kích hoạt.</string>
     <string name="activate_status_desc_getting_gateway">Đang lấy cổng kết nối SMS…</string>
@@ -36,23 +44,25 @@ Thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không c�
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Xuất hiện lỗi máy chủ khi kiểm tra Tài khoản Mi</string>
     <string name="activate_status_desc_registering_xiaomi_account">Đang tạo Tài khoản Mi…</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Xuất hiện lỗi máy chủ khi tạo Tài khoản Mi</string>
+    <string name="activate_status_desc_completed_with_sms_sent">Đã gửi tin nhắn SMS để kích hoạt thẻ SIM</string>
     <string name="sim_unactivated_title">Thẻ SIM của bạn chưa được kích hoạt</string>
     <string name="activate">Kích hoạt</string>
     <string name="activate_popup_title_manual">Kích hoạt %s</string>
-    <string name="activate_popup_desc_sim_card">Nhà cung cấp dịch vụ có thể tính phí 1 tin nhắn SMS được dùng để kích hoạt %s.</string>
-    <string name="activate_popup_desc_intl_sim_card">Nhà cung cấp dịch vụ có thể tính phí 1 tin nhắn SMS quốc tế được dùng để kích hoạt %s.</string>
-    <string name="activate_popup_desc_mixed_sim_cards">Nhà cung cấp dịch vụ có thể tính phí 1 tin nhắn SMS trong nước và quốc tế được dùng để kích hoạt %s.</string>
-    <string name="activate_popup_desc_2_sim_cards">Nhà cung cấp dịch vụ có thể tính phí 2 tin nhắn SMS được dùng để kích hoạt %s.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards">Nhà cung cấp dịch vụ có thể tính phí 2 tin nhắn SMS quốc tế được dùng để kích hoạt %s.</string>
-    <string name="activate_popup_desc_sim_card_downlink">Để kích hoạt %s, nhập số điện thoại của bạn</string>
+    <string name="activate_popup_desc_sim_card">Tin nhắn SMS thông thường sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_intl_sim_card">Tin nhắn SMS quốc tế sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_mixed_sim_cards">2 tin nhắn văn bản (thông thường và quốc tế) sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_2_sim_cards">2 tin nhắn văn bản thông thường sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards">2 tin nhắn văn bản quốc tế sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_sim_card_downlink">Nhập số điện thoại hiện tại để kích hoạt %s.</string>
+    <string name="activate_popup_desc_find_device_postfix">Một tin nhắn SMS kích hoạt sẽ được gửi sau khi bạn đổi thẻ SIM.</string>
     <string name="activate_popup_title_new_sim_card">Kích hoạt lại %s</string>
-    <string name="activate_popup_desc_new_sim_card">Dường như bạn đã thay đổi thẻ SIM. Nhà cung cấp dịch vụ của bạn có thể sẽ tính phí 1 tin nhắn SMS được sử dụng để kích hoạt lại %s.</string>
-    <string name="activate_popup_desc_new_intl_sim_card">Dường như bạn đã thay đổi thẻ SIM. Nhà cung cấp dịch vụ của bạn có thể sẽ tính phí 1 tin nhắn SMS quốc tế được sử dụng để kích hoạt lại %s.</string>
-    <string name="activate_popup_desc_new_mixed_sim_cards">Dường như bạn đã thay đổi thẻ SIM. Nhà cung cấp dịch vụ của bạn có thể sẽ tính phí 1 tin nhắn SMS trong nước và quốc tế được sử dụng để kích hoạt lại %s.</string>
-    <string name="activate_popup_desc_new_2_sim_cards">Dường như bạn đã thay đổi thẻ SIM. Nhà cung cấp dịch vụ của bạn có thể sẽ tính phí 2 tin nhắn SMS được sử dụng để kích hoạt lại %s.</string>
-    <string name="activate_popup_desc_new_2_intl_sim_cards">Dường như bạn đã thay đổi thẻ SIM. Nhà cung cấp dịch vụ của bạn có thể sẽ tính phí 2 tin nhắn SMS quốc tế được sử dụng để kích hoạt lại %s.</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">Có vẻ như bạn đã chuyển đổi thẻ SIM. Nhập số điện thoại kết hợp với thẻ SIM mới của bạn để kích hoạt %s</string>
-    <string name="activate_popup_desc_voip_privacy_prefix">". Cuộc gọi Mi được hỗ trợ bởi Weihui, xem Weihui "</string>
+    <string name="activate_popup_desc_new_sim_card">Dường như bạn đã đổi thẻ SIM. Tin nhắn SMS thông thường sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_new_intl_sim_card">Dường như bạn đã đổi thẻ SIM. Tin nhắn SMS quốc tế sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_new_mixed_sim_cards">Dường như bạn đã đổi thẻ SIM. 2 tin nhắn văn bản (thông thường và quốc tế) sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_new_2_sim_cards">Dường như bạn đã đổi thẻ SIM. 2 tin nhắn văn bản thông thường sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_new_2_intl_sim_cards">Dường như bạn đã đổi thẻ SIM. 2 tin nhắn văn bản quốc tế sẽ được gửi để kích hoạt %s. Bạn sẽ bị tính phí từ nhà mạng.</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">Dường như bạn đã đổi thẻ SIM. Nhập số điện thoại hiện tại để kích hoạt %s.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">Dịch vụ VoiP được hỗ trợ bởi Weihui. Xem</string>
     <string name="activate_popup_desc_voip_privacy">Chính sách Riêng tư</string>
     <string name="activate_popup_title_register_account">Tạo Tài khoản Mi</string>
     <string name="activate_popup_desc_register_account">Nhà cung cấp dịch vụ có thể sẽ tính phí tin nhắn SMS dùng để tạo Tài khoản Mi.</string>
@@ -81,14 +91,16 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Không thể tìm thấy số điện thoại. Đảm bảo rằng thẻ SIM của bạn hoạt động bình thường.
 Nhập số điện thoại đã được liên kết với thẻ SIM mới để kích hoạt lại %s"</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Thử lại</string>
+    <string name="activate_popup_title_error_device_id">IMEI không hợp lệ</string>
+    <string name="activate_popup_desc_error_device_id">Gọi *#06# để kiểm tra IMEI</string>
+    <string name="activate_popup_confirm_error_device_id">Thử lại</string>
     <string name="activate_feature_mx">Tin nhắn Mi</string>
     <string name="activate_feature_mx_and_voip">Tin nhắn Mi và Cuộc gọi Mi</string>
     <string name="activate_feature_mms_sync">Đồng bộ tin nhắn SMS</string>
     <string name="activate_feature_call_log_sync">Đồng bộ lịch sử cuộc gọi</string>
     <string name="activate_feature_find_device">Tìm Thiết bị</string>
-    <string name="activate_sms_postfix">SMS này được sử dụng để kích hoạt thiết bị Mi của bạn.</string>
-	<string name="activate_auto_sms_notification_desc_1_card">Tin nhắn SMS được gửi để kích hoạt \"Tìm thiết bị\"</string>
-	<string name="activate_auto_sms_notification_desc_2_cards">Tin nhắn SMS được gửi từ thẻ SIM %s để kích hoạt \"Tìm thiết bị\"</string>
-	<string name="activate_auto_sms_notification_title">Kích hoạt thẻ SIM</string>
-	<string name="activate_popup_desc_find_device_postfix">Một SMS kích hoạt có thể được gửi sau khi bạn đổi thẻ SIM.</string>
+    <string name="activate_feature_register_xiaomi_account">Cài đặt Tài khoản Mi</string>
+    <string name="activate_feature_verify_mx_token">Xác minh Tài khoản Mi</string>
+    <string name="activate_feature_live_talk">Gói tùy chọn điện thoại</string>
+    <string name="activate_sms_postfix">SMS này được sử dụng để kích hoạt thiết bị Mi của bạn</string>
 </resources>

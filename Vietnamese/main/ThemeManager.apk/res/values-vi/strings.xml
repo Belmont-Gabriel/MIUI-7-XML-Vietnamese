@@ -68,7 +68,7 @@
     <string name="resource_share_title">Chia sẻ</string>
     <string name="resource_share_subject">Chia sẻ chủ đề: %1$s</string>
     <string name="resource_share_text">Ở đây có chủ đề mà tôi nghĩ bạn có thể thích: %1$s! Liên kết: %2$s</string>
-    <string name="resource_delete_all">Xóa %1$d tài nguyên được chọn?</string>
+    <string name="resource_delete_all">Xóa %1$d tài nguyên đã chọn?</string>
     <string name="resource_can_not_selected">%1$s không thể chọn</string>
     <string name="resource_system_title">Tài nguyên hệ thống</string>
     <string name="resource_downloaded_title">Tài nguyên đã tải xuống</string>
@@ -94,7 +94,13 @@
     <string name="resource_download_trial">Thử miễn phí</string>
     <string name="resource_apply_trial">Thử ngay</string>
     <string name="resource_on_trial">Đang thử: %1$s</string>
-    <string name="resource_trial_time">(Dùng thử: %1$d phút)</string>
+    <string name="resource_trial_days_hours">(dùng thử: %1$d ngày %2$d giờ)</string>
+    <string name="resource_trial_hours_minutes">(dùng thử: %1$d giờ %2$d phút)</string>
+    <string name="resource_trial_minutes">(dùng thử: %1$d phút)</string>
+    <string name="resource_trial_hours">(dùng thử: %1$d giờ)</string>
+    <string name="resource_trial_days">(dùng thử: %1$d ngày)</string>
+    <string name="resource_trial_end_time">(dùng thử đến %1$s)</string>
+    <string name="resource_trial_end_time_format">hh:mma d MMM</string>
     <string name="resource_trial_fail_title">Không thể dùng thử</string>
     <string name="resource_trial_fail_message">Hãy chắc chắn rằng đồng hồ hệ thống của bạn được đặt đúng thời gian.</string>
     <string name="resource_trial_fail_cancel">OK</string>
@@ -165,7 +171,7 @@
     <string name="resource_comment_invalid">Chạm vào các ngôi sao để đánh giá chủ đề</string>
     <string name="resource_comment_expand_full_text">Mở rộng tất cả văn bản▼</string>
     <string name="resource_comment_title">Bình luận: %1$s</string>
-    <string name="resource_comment_edit_title">Sửa bình luận: %1$s</string>
+    <string name="resource_comment_edit_title">Viết bình luận: %1$s</string>
     <string name="resource_comment_edit_comment">Thêm bình luận</string>
     <string name="resource_comment_edit_comment_waiting">Đang kiểm tra lịch sử…</string>
     <string name="resource_comment_edit_text_default">Viết bình luận</string>
@@ -217,7 +223,7 @@
     <string name="backup_theme_dialog_message">Sao lưu chủ đề hiện tại của bạn?</string>
     <string name="backup_theme_progress_message">Đang sao lưu…</string>
     <string name="backup_theme_success_message">Cài đặt chủ đề hiện tại của bạn đã được sao lưu.</string>
-    <string name="backup_theme_fail_trial_rights_message">Không thể sao lưu chủ đề dùng thử</string>
+    <string name="backup_theme_fail_trial_rights_message">Không thể sao lưu nguồn dùng thử</string>
     <string name="backup_theme_name">Chủ đề sao lưu</string>
     <string name="theme_description_title_default">Mặc định</string>
     <string name="theme_description_title_customized">Tùy chỉnh</string>
@@ -278,8 +284,8 @@
     <string name="account_info">Tài khoản Mi</string>
     <string name="account_name_not_login">Đăng nhập</string>
     <string name="account_id_not_login">Chạm để đăng nhập</string>
-    <string name="favorite_list">Yêu thích</string>
-    <string name="favorite_list_format">%1$s yêu thích</string>
+    <string name="favorite_list">Ưa thích</string>
+    <string name="favorite_list_format">%1$s ưa thích</string>
     <string name="purchased_list">Đã mua</string>
     <string name="purchased_list_format">Đã mua %1$s</string>
     <string name="payment_info">Mi Credit</string>
@@ -311,7 +317,7 @@
     <string name="theme_user_agreement_remind_again">Hiển thị Điều khoản Sử dụng</string>
     <string name="theme_user_agreement_remind_summary">Hiển thị nhắc nhở Điều khoản Sử dụng mỗi khi bạn mở Chủ đề. Cài đặt này sẽ có hiệu lực sau khi bạn khởi động lại thiết bị.</string>
     <string name="theme_is_external_priority_storage">Lưu trên thẻ SD</string>
-    <string name="theme_is_external_priority_storage_summary">Ứng dụng Chủ đề sẽ khởi động lại để có hiệu lực</string>
+    <string name="theme_is_external_priority_storage_summary">Ứng dụng chủ đề sẽ khởi động lại tự động để có hiệu lực</string>
     <string name="theme_favorite_add_success">Chủ đề đã gắn dấu sao</string>
     <string name="theme_favorite_add_fail">Không thể gắn dấu sao chủ đề</string>
     <string name="theme_favorite_delete_success">Chủ đề đã bỏ gắn sao</string>

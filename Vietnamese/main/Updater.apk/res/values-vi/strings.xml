@@ -20,7 +20,7 @@
     <string name="set_only_wifi">Chỉ dùng Wi-Fi</string>
     <string name="test">Kiểm tra</string>
     <string name="miui_summary_has_new_version">"  Tìm thấy phiên bản mới  "</string>
-    <string name="miui_summary_slogan">"  Được thiết kế cho bạn  "</string>
+    <string name="miui_summary_slogan">"  Thiết kế dành riêng cho bạn  "</string>
     <string name="miui_summary_updating">"  Đang cập nhật…  "</string>
     <string name="miui_summary_now_version">Không thể kết nối mạng</string>
     <string name="miui_summary_no_new_version">Không có bản cập nhật mới nào</string>
@@ -39,7 +39,7 @@
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
     <string name="menu_title_recovery">Khởi động lại vào Recovery</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
-    <string name="install_file_explorer">File Explorer need</string>
+    <string name="install_file_explorer">Cài đặt trình Tập tin trước</string>
     <string name="check_update_policy">Cài đặt</string>
     <string name="check_update_when_wifi_available">Chỉ kiểm tra bằng Wi-Fi</string>
     <string name="update_monthly_build_only">Chỉ cập nhật bản hàng tháng</string>
@@ -52,6 +52,7 @@
     <string name="download_success_reboot_immediately">Khởi động lại để áp dụng cập nhật</string>
     <string name="update_success">Cập nhật thành công</string>
     <string name="install_failed">Cập nhật thất bại</string>
+    <string name="download_failed">Tải xuống thất bại</string>
     <string name="download_current_rom">Khởi động lại để hoàn tất cập nhật</string>
     <string name="later">Sau</string>
     <string name="notification_update_new_version">Tìm thấy phiên bản mới</string>
@@ -62,7 +63,7 @@
     <string name="notification_reboot_btn">Khởi động lại</string>
     <string name="notification_reboot_seccess_title">Cập nhật thành công</string>
     <string name="notification_auto_reboot_seccess_title">Thiết bị đã cập nhật tự động</string>
-    <string name="notification_reboot_seccess_des">Bấm để chia sẻ thông tin cập nhật.</string>
+    <string name="notification_reboot_seccess_des">Chạm để xem thông tin cập nhật.</string>
     <string name="notification_share">Chia sẻ</string>
     <string name="notification_downloading">Đang tải xuống bản cập nhật…</string>
     <string name="notification_updating">Đang cập nhật…</string>
@@ -71,6 +72,8 @@
     <string name="set_installfail_title">Cố gắng tải xuống bản cập nhật một lần nữa?</string>
     <string name="set_installfail_msg">Bạn chưa kết nối với mạng Wi-Fi. Sử dụng kết nối dữ liệu di động để tải bản cập nhật sẽ tăng sử dụng dữ liệu. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="set_installfail_title_full">Không thể cập nhật</string>
+    <string name="check_local_package_validate_error_msg">Không thể xác minh gói cập nhật.</string>
+    <string name="check_local_package_validate_error_button">OK</string>
     <string name="set_installfail_full_msg">Xảy ra lỗi. Chạm OK để báo cáo lỗi này.</string>
     <string name="unkown_error_title">Không thể tải xuống</string>
     <string name="download_error">Xảy ra lỗi. Chờ một hoặc hai phút và thử lại.</string>
@@ -86,8 +89,8 @@
     <string name="user_begin">Tải xuống</string>
     <string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống của bạn</string>
     <string name="recovery_power_not_enough_title">Pin yếu</string>
-	<string name="recovery_power_not_enough_msg_plugged">Pin phải trên 15% mới có thể cập nhật</string>
     <string name="recovery_power_not_enough_msg">Kết nối bộ sạc để cập nhật khi pin ít hơn 30%</string>
+    <string name="recovery_power_not_enough_msg_plugged">Pin phải trên 15% trước khi thiết bị có thể cập nhật</string>
     <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào Recovery và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
@@ -144,7 +147,9 @@ http://zhushou.xiaomi.com"</string>
     <string name="update_success_body">Phiên bản: %s</string>
     <string name="my_rank">"Trạng thái cập nhật: "</string>
     <string name="no_log">Không có tóm tắt cập nhật</string>
+    <string name="notification_fail_msg">Thử tải xuống bản ROM hoàn chỉnh</string>
     <string name="log_share">Chia sẻ</string>
+    <string name="notification_restart">Cập nhật lại</string>
     <string name="autosetmode">Cài đặt</string>
     <string name="on_checking">Đang kiểm tra…</string>
     <string name="auto_update">Tự động tải xuống bản cập nhật</string>
@@ -155,6 +160,15 @@ http://zhushou.xiaomi.com"</string>
     <string name="open_now">Bật</string>
     <string name="not_open">Không phải bây giờ</string>
     <string name="title_toast_auto">Bản cập nhật sẽ tự động tải xuống</string>
+    <string name="check_local_package_update_title">Cập nhật</string>
+    <string name="check_local_package_update_btn">Khởi động lại và cập nhật</string>
+    <string name="check_local_package_update_msg">Bạn đang cập nhật phiên bản MIUI %s. Điện thoại sẽ khởi động lại tự động khi cập nhật.</string>
+    <string name="check_local_package_wipe_title">Xóa dữ liệu</string>
+    <string name="check_local_package_wipe_btn">Xóa và cập nhật</string>
+    <string name="check_local_package_wipe_msg">Bạn đang chuyển sang phiên bản MIUI %s, là phiên bản cũ hơn so với phiên bản hiện tại. Dữ liệu cá nhân của bạn sẽ bị xóa. Hãy chắc chắn bạn đã sao lưu các mục quan trọng trước khi bắt đầu quá trình.</string>
+    <string name="confirm_local_package_wipe_title">Xóa dữ liệu?</string>
+    <string name="confirm_local_package_wipe_msg">Dữ liệu cá nhân của bạn sẽ bị xóa. Hãy chắc chắn bạn đã sao lưu các mục quan trọng trước khi bắt đầu tiến trình.</string>
+    <string name="confirm_local_package_wipe_btn">Xóa và cập nhật</string>
     <string name="update_feedback">Đánh giá bản cập nhật này</string>
     <string name="update_feedback_end">Bạn đã bỏ lỡ bình chọn tuần này</string>
     <string name="update_feedback_end_sum">Bạn có thể tham gia vào các ngày Thứ hai.</string>
@@ -217,6 +231,23 @@ Thử đăng nhập Tài khoản Mi lần nữa."</string>
     <string name="vote_error5">"Lỗi
 Không thể gửi phản hồi"</string>
     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Truy cập diễn đàn MIUI</a>" "</string>
+    <string name="pm_root_acquired_button">Quyền root</string>
+    <string name="pm_root_acquired_rooting">Đang nhận quyền root %s</string>
+    <string name="pm_root_acquired_notification_title">Đang nhận quyền root</string>
+    <string name="pm_root_success_title">Đã bật quyền root</string>
+    <string name="pm_root_fail_title">Không thể nhận quyền root</string>
+    <string name="pm_root_fail_msg">Ứng dụng này không nhận được quyền root. Hãy thử lại.</string>
+    <string name="pm_root_notification_download_title">Đang tải xuống</string>
+    <string name="pm_root_fail_button_retry">Thử lại</string>
+    <string name="pm_root_fail_service_busy">Chờ đến khi thiết bị của bạn hoàn tất cập nhật và thử lại.</string>
+    <string name="set_network_root_msg">Để nhận quyền root, hãy kết nối đến mạng Wi-Fi.</string>
+    <string name="pm_root_success_msg">Khởi động lại thiết bị của bạn để hoàn tất bước cuối cùng.</string>
+    <string name="root_acquired">Cho phép truy cập root</string>
+    <string name="root_agree_check_box_title">Tôi hiểu những nguy cơ của truy cập root</string>
+    <string name="root_dangerous_msg">Cho phép truy cập root sẽ cực kỳ nguy hiểm và có thể làm lộ thông tin thiết bị và dữ liệu cá nhân từ sự tấn công của các ứng dụng độc hại. Bạn đồng ý và chịu hoàn toàn trách nhiệm cho bất kỳ hư hỏng và mất mát dữ liệu từ việc cho phép truy cập root.</string>
+    <string name="updater_service_busy_title">Dịch vụ cập nhật đang bận</string>
+    <string name="updater_service_busy_msg">Đang nhận quyền root. Để đảm bảo bạn có thể truy cập root vào các tập tin gốc, hãy tắt dịch vụ cập nhật.</string>
+    <string name="pm_root_checking">Đang kiểm tra thông tin hệ thống…</string>
     <string name="welcom_title">Chào mừng đến với MIUI 7</string>
     <string name="welcom_message">Xin chào</string>
     <string name="welcom_button">OK</string>

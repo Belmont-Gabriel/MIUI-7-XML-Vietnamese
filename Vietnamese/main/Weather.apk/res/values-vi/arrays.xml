@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="moon_desc">
-        <item>Trăng non</item>
-        <item>Trăng lưỡi liềm</item>
-        <item>Trăng thượng tuần</item>
-        <item>Trăng khuyết</item>
-        <item>Trăng tròn</item>
-        <item>Trăng lưỡi liềm già</item>
-        <item>Trăng hạ tuần</item>
-        <item>Trăng lưỡi liềm cuối tháng</item>
-        <item>Không trăng</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Nắng</item>
         <item>Nhiều mây</item>
@@ -38,23 +27,44 @@
         <item>Bụi</item>
         <item>Sương mù</item>
         <item>Mưa đá</item>
-        <item>Không có dữ liệu</item>
+        <item></item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Yếu nhất</item>
+    <string-array name="indices_uv_level">
         <item>Yếu</item>
         <item>Trung bình</item>
         <item>Mạnh</item>
-        <item>Mạnh nhất</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Thích hợp</item>
+        <item>Không thích hợp</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Thích hợp</item>
+        <item>Không thích hợp</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Gió Bắc</item>
-        <item>Gió Đông Bắc</item>
-        <item>Gió Đông</item>
-        <item>Gió Ðông Nam</item>
-        <item>Gió Nam</item>
-        <item>Gió Tây Nam</item>
-        <item>Gió Tây</item>
-        <item>Gió Tây Bắc</item>
+        <item>B</item>
+        <item>ĐB</item>
+        <item>Đ</item>
+        <item>ĐN</item>
+        <item>N</item>
+        <item>TN</item>
+        <item>T</item>
+        <item>TB</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>

@@ -34,7 +34,7 @@
     <string name="send_tip">Gửi hàng loạt hình ảnh, âm nhạc, địa chỉ liên lạc và các tập tin khác nhau.</string>
     <string name="receive">Nhận</string>
     <string name="receive_tip">Để ghép nối nhanh và chờ nhận tập tin.</string>
-    <string name="choose_title">CHọn tập tin</string>
+    <string name="choose_title">Chọn tập tin</string>
     <string name="send_files">Đang gửi %1$d tập tin…</string>
     <string name="scanning">Đang dò…</string>
     <string name="connecting">Đang kết nối…</string>
