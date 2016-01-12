@@ -8,7 +8,7 @@
     <string name="date_picker_label_day" />
     <string name="copyright">Bản quyền</string>
     <string name="user_agreement">Điều khoản Dịch vụ</string>
-    <string name="privacy_policy">Chính sách Bảo mật</string>
+    <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="user_manual">Hướng dẫn sử dụng</string>
     <string name="no_sim">Không phát hiện thẻ SIM.</string>
     <string name="sim_locked">Thẻ SIM đã bị khóa.</string>
@@ -20,10 +20,10 @@
     <string name="select_item">Chọn mục</string>
     <string name="action_mode_title_empty">Chọn mục</string>
     <string name="action_mode_select_all">Chọn tất cả</string>
-    <string name="action_mode_deselect_all">Bỏ chọn tất cả</string>
+    <string name="action_mode_deselect_all">Bỏ chọn</string>
     <string name="select_all">Chọn tất cả</string>
-    <string name="deselect_all">Bỏ chọn tất cả</string>
-    <string name="abc_action_bar_up_description">Di chuyển lên</string>
+    <string name="deselect_all">Bỏ chọn</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên</string>
     <string name="abc_action_bar_home_description">Quay về Màn hình chính</string>
     <string name="time_picker_label_hour">Giờ</string>
     <string name="time_picker_label_minute">Phút</string>
@@ -227,14 +227,14 @@
     <string name="thursday">Thứ năm</string>
     <string name="friday">Thứ sáu</string>
     <string name="saturday">Thứ bảy</string>
-    <string name="sunday_short">Cn</string>
+    <string name="sunday_short">CN</string>
     <string name="monday_short">Th 2</string>
     <string name="tuesday_short">Th 3</string>
     <string name="wednesday_short">Th 4</string>
     <string name="thursday_short">Th 5</string>
     <string name="friday_short">Th 6</string>
     <string name="saturday_short">Th 7</string>
-    <string name="sunday_shortest">Cn</string>
+    <string name="sunday_shortest">CN</string>
     <string name="monday_shortest">T2</string>
     <string name="tuesday_shortest">T3</string>
     <string name="wednesday_shortest">T4</string>
@@ -273,9 +273,9 @@
     <string name="the_international_womens_day">Quốc Tế Phụ Nữ</string>
     <string name="the_arbor_day">Tết Trồng Cây</string>
     <string name="the_fools_day">Cá Tháng Tư</string>
-    <string name="the_labour_day">Ngày Quốc Tế Lao Động</string>
+    <string name="the_labour_day">Quốc Tế Lao Động</string>
     <string name="the_chinese_youth_day">Ngày Thanh Niên</string>
-    <string name="the_childrens_day">Ngày Quốc Tế Thiếu Nhi</string>
+    <string name="the_childrens_day">Quốc Tế Thiếu Nhi</string>
     <string name="the_partys_day">Partys Day</string>
     <string name="the_armys_day">Armys Day</string>
     <string name="the_teachers_day">Ngày Nhà Giáo</string>
@@ -578,4 +578,7 @@
     <string name="permdesc_sendSmsNoConfirmation">Ứng dụng có thể gửi tin nhắn SMS mà không cần sự cho phép của bạn. Nhà cung cấp có thể tính phí các tin nhắn này.</string>
     <string name="web_sso_login_message">Đang đăng nhập…</string>
     <string name="web_sso_login_fail">Bạn cần phải đăng nhập lại</string>
+    <string name="no_network">Không thể kết nối mạng</string>
+    <string name="webview_reload">Thử lại</string>
+    <string name="hybrid_provider">Trang web được cung cấp bởi %1$s.</string>
 </resources>
