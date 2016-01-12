@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">Chia sẻ Miui</string>
+    <string name="miuishare_title_more">Thêm</string>
+    <string name="miuishare_title_share">Chia sẻ</string>
+    <string name="miuishare_account_login_ok">Đăng nhập</string>
+    <string name="miuishare_account_activate_ok">Kích hoạt</string>
+    <string name="miuishare_account_login_cancel">Hủy</string>
+    <string name="miuishare_account_login_confirmation">Vui lòng đăng nhập trước</string>
+    <string name="miuishare_account_activate_confirmation">Vui lòng kích hoạt trước</string>
+    <string name="miuishare_account_need_login">Chia sẻ Weibo yêu cầu tài khoản Weibo của bạn phải được liên kết với tài khoản Mi (đã đăng nhập). Đăng nhập để chia sẻ ngay?</string>
+    <string name="miuishare_account_need_activate">Chia sẻ Weibo yêu cầu tài khoản Weibo của bạn phải được liên kết với tài khoản Mi (hiện chưa kích hoạt). Kích hoạt tài khoản của bạn?</string>
+    <string name="miuishare_wechat_timeline_title">Dòng thời gian Wechat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Gửi</string>
+    <string name="miuishare_share_done">Nội dung chia sẻ đã được gửi.</string>
+    <string name="miuishare_share_editor_title">CHia sẻ</string>
+    <string name="miuishare_no_network">Không có mạng</string>
     <string name="app_label">Danh bạ web</string>
     <string name="call">Gọi</string>
     <string name="delete">Xóa</string>
@@ -13,6 +29,7 @@
     <string name="network_access_denied">Truy cập mạng bị từ chối</string>
     <string name="service_unavailiable">Dịch vụ hiện không khả dụng</string>
     <string name="data_error">Đã xảy ra lỗi</string>
+    <string name="data_error_show">Đã xảy ra lỗi</string>
     <string name="locating_fail">Không thể tìm thấy vị trí của bạn</string>
     <string name="no_more_result">Không có kết quả khác</string>
     <string name="downloading">Đang tải…</string>
@@ -41,7 +58,7 @@
     <string name="group_name_shop_recommendation">Tương tự</string>
     <string name="group_name_data_source">Nguồn</string>
     <string name="group_name_management">Quản lý</string>
-    <string name="photo_count">Tổng %d</string>
+    <string name="photo_count">Tổng %d ảnh</string>
     <string name="all_services">Tất cả</string>
     <string name="no_price">Không có thông tin giá cả</string>
     <string name="no_evaluation">Không có nhận xét</string>
@@ -102,6 +119,7 @@
     <string name="turn_on_smart_antispam_summary_on">Tải lên và nhận dạng số không xác định trong nhật ký cuộc gọi và tin nhắn</string>
     <string name="turn_on_smart_antispam_summary_off">Chỉ tìm số đã được lưu trên thiết bị này</string>
     <string name="agree">Đồng ý</string>
+    <string name="agree_to_continue">Tiếp tục</string>
     <string name="enable_now">Bật</string>
     <string name="dont_enable">Tắt</string>
     <string name="user_notice_title">Chú ý</string>
@@ -109,7 +127,8 @@
     <string name="user_notice_yp_detail_summary_format">Một vài thông tin Danh bạ web đã lỗi thời. Bạn có muốn cập nhật không? Bằng cách sử dụng dịch vụ này, bạn đồng ý %1$s và %2$s của Xiaomi.</string>
     <string name="user_notice_identify_summary_format_cta">Điện thoại của bạn sẽ sử dụng cơ sở dữ liệu của MIUI để chặn cuộc gọi không mong muốn khi kết nối Wi-Fi. Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
     <string name="user_notice_yp_detail_summary_format_cta">Một vài thông tin Danh bạ web đã lỗi thời. Bạn có muốn cập nhật không? Bằng cách sử dụng dịch vụ này, bạn đồng ý %1$s và %2$s của Xiaomi.</string>
-    <string name="about_smart_antispam_summary">Giới thiệu tính năng này</string>
+    <string name="about_smart_antispam_summary">Về nhận dạng số không xác định</string>
+    <string name="about_fraud_num_online_identification">Về nhận dạng số lừa đảo trực tuyến</string>
     <string name="about_telephone_fraud">Đề phòng lừa đảo</string>
     <string name="turn_on_yellowpage_service_title">Sử dụng Danh bạ web</string>
     <string name="notify_connect_title">Thông báo kết nối internet</string>
@@ -118,11 +137,15 @@
     <string name="fraud_number_online_identification">Chặn cuộc gọi không mong muốn</string>
     <string name="upload_and_verify_fraud_num_on">Chia sẻ thông tin cuộc gọi không mong muốn</string>
     <string name="upload_and_verify_fraud_num_off">Chia sẻ thông tin cuộc gọi không mong muốn</string>
-    <string name="about_fraud_num_online_identification">Giới thiệu tính năng này</string>
+    <string name="turn_on_phone_event_dialog_title">Cập nhật dữ liệu nhận dạng số</string>
     <string name="turn_on_phone_event_title">Nhận thông tin dịch vụ</string>
     <string name="turn_on_phone_event_summary">Tải lên trạng thái của số điện thoại dịch vụ</string>
-    <string name="about_phone_event">Về Thông tin Dịch vụ</string>
-    <string name="phone_event_setting_notice_text">Danh bạ web muốn tải lên số dịch vụ xác minh (như nhà cung cấp dịch vụ di động) đến máy chủ của Mi, vì thế bạn có thể nhận được các bản cập nhật dịch vụ có liên quan.</string>
+    <string name="turn_off_hint_title">Gợi ý</string>
+    <string name="turn_off_phone_event_hint">Nếu bạn tắt tính năng này, bạn sẽ không sử dụng được dịch vụ sau khi bạn cúp máy.</string>
+    <string name="turn_off_smart_antispam_hint">Tắt bảo vệ từ cuộc gọi người lạ?</string>
+    <string name="about_phone_event">Giới thiệu tin nhắn dịch vụ</string>
+    <string name="phone_event_setting_notice_text">Nhận dạng số không xác định giúp bạn biết được nhà cung cấp dịch vụ nào gọi hoặc nhắn tin cho bạn. Một tin nhắn chứa thông tin nhà cung cấp dịch vụ sẽ được gửi đến điện thoại sau khi được xác minh bởi Xiaomi. Bạn phải đọc và đồng ý với %1$s và %2$s để sử dụng tính năng này.</string>
+    <string name="agree_to_turn_on">Đồng ý</string>
     <string name="payment_back">Quay lại</string>
     <string name="payment_failed_common_problems">Xảy ra lỗi khi thanh toán</string>
     <string name="payment_unknown_status_title">Không thể xác nhận trạng thái thanh toán</string>
@@ -151,7 +174,7 @@ Tổng: %3$s NDT"</string>
     <string name="recharge_status_description">Trạng thái:</string>
     <string name="recharge_actual_price">Giá:</string>
     <string name="recharge_order_original_price">%s NDT</string>
-    <string name="recharge_order_actual_price">¥%s</string>
+    <string name="recharge_order_actual_price">%s NDT</string>
     <string name="recharge_order_pay">Thanh toán</string>
     <string name="recharge_history">Lịch sử nạp tiền</string>
     <string name="recharge_history_empty">Trống</string>
@@ -159,6 +182,7 @@ Tổng: %3$s NDT"</string>
     <string name="recharge_unknown_number">Không xác định</string>
     <string name="recharge_phone">Số nạp tiền:</string>
     <string name="recharge_follow_name">Nạp tiền</string>
+    <string name="recharge_phone_format">%1$s/%2$s</string>
     <string name="packages_pay">Mua ngay</string>
     <string name="packages_pay_confirm">Thanh toán ngay</string>
     <string name="packages_title">Mua dữ liệu di động</string>
@@ -172,6 +196,7 @@ Tổng: %3$s NDT"</string>
     <string name="packages_no_package">Không có gói dữ liệu được đề nghị</string>
     <string name="login_ok">Đăng nhập</string>
     <string name="login_before_use">Bạn cần phải đăng nhập trước</string>
+    <string name="open_installed_app">Mở</string>
     <string name="express_inquiry">Kiểm tra mã số theo dõi</string>
     <string name="express_inquiry_serial_number_indication">Mã số theo dõi</string>
     <string name="express_inquiry_button_text">Kiểm tra</string>
@@ -273,8 +298,9 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="express_company_pricing_details">Chi tiết giá cả</string>
     <string name="express_company_list_empty">Không có công ty</string>
     <string name="express_send_notice">Các mặt hàng bị cấm</string>
-    <string name="express_banner_header">%1$s / Số theo dõi</string>
+    <string name="express_banner_header">%1$s/Số theo dõi</string>
     <string name="express_tracking_number">Số theo dõi</string>
+    <string name="express_order_state">%1$s/%2$s</string>
     <string name="express_track_order">Số theo dõi</string>
     <string name="express_no_order">Không có đơn đặt hàng</string>
     <string name="express_urge_order">Nhắc nhở</string>
@@ -319,7 +345,7 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="general_delete_recent_ok">Đã xóa gần đây</string>
     <string name="general_favorite_ok">Đã thêm yêu thích</string>
     <string name="general_menu_unfollow">Bỏ theo dõi</string>
-    <string name="general_btn_follow_ok">Đang theo dõi</string>
+    <string name="general_btn_follow_ok">Đã theo dõi</string>
     <string name="general_btn_follow">Theo dõi</string>
     <string name="general_follow_hint">Theo dõi %1$s để nhận cập nhật liên quan</string>
     <string name="general_unfollow_hint">Ngừng theo dõi %1$s?</string>
@@ -328,6 +354,7 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
     <string name="tag_follow_status">tag_follow_status</string>
     <string name="follow_processing">đang xử lý</string>
+    <string name="homepage_barcode_prompt">Quét để mở trang chính.</string>
     <string name="follow_label">Theo dõi %1$s</string>
     <string name="follow_success">Đang theo dõi %1$s.</string>
     <string name="nearby_yellow_page_title">Lân cận</string>
@@ -362,11 +389,11 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="yellowpage_navigation_network_location_enable">Cho phép</string>
     <string name="yellowpage_navigation_network_location_enable_later">Không phải bây giờ</string>
     <string name="yellowpage_navigation_network_location_enabled">Truy cập vị trí đã bật. Bạn có thể tắt bất cứ lúc nào trong Cài đặt.</string>
+    <string name="share">Chia sẻ</string>
     <string name="sina_share_pendding">Đang gửi…</string>
     <string name="sina_share_success">Đã gửi</string>
     <string name="sina_share_fail">Gửi thất bại</string>
     <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn: Vui lòng liên kết lại</string>
     <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ: Vui lòng liên kết lại</string>
     <string name="sina_share_fail_content_repeat">Không thể chia sẻ, nội dung này đã tồn tại…</string>
-	<string name="data_error_show">Lỗi</string>
 </resources>
