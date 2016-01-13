@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Toàn cầu</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Mặc định theo mạng</item>
+        <item>Ẩn số</item>
+        <item>Hiển thị số</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
         <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
@@ -11,7 +21,7 @@
         <item>TD-SCDMA/LTE</item>
         <item>TD-SCDMA/WCDMA</item>
         <item>Chỉ TD-SCDMA</item>
-        <item>LTE / WCDMA</item>
+        <item>LTE/WCDMA</item>
         <item>LTE</item>
         <item>Toàn cầu</item>
         <item>GSM/WCDMA/LTE</item>
@@ -25,13 +35,16 @@
         <item>Chỉ GSM</item>
         <item>Ưu tiên GSM/WCDMA</item>
     </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Chỉ hệ thống trên máy</item>
-        <item>Tự động</item>
+    <string-array name="call_barring_outgoing_display_values">
+        <item>Tắt</item>
+        <item>Cuộc gọi chuyển vùng quốc tế</item>
+        <item>Cuộc gọi quốc tế</item>
+        <item>Cuộc gọi đi</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>Thẻ SIM</item>
-        <item>NV</item>
+    <string-array name="call_barring_incoming_display_values">
+        <item>Tắt</item>
+        <item>Chuyển vùng</item>
+        <item>Tất cả</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Tiếng Anh</item>
@@ -41,6 +54,14 @@
         <item>Tiếng Hàn</item>
         <item>Tiếng Trung</item>
         <item>Tiếng Do Thái</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Chỉ hệ thống trên máy</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
     </string-array>
     <string-array name="livetalk_about_info_array">
         <item>- Hỗ trợ số điện thoại trong nước và quốc tế.</item>
