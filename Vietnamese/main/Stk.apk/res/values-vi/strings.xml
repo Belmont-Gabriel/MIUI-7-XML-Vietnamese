@@ -18,8 +18,8 @@
     <string name="default_setup_call_msg">Đang thiết lập cuộc gọi…</string>
     <string name="stk_app_state">Trạng thái ứng dụng</string>
     <string name="enable_app">Đã bật</string>
-    <string name="disable_app">Đã vô hiệu hóa</string>
-    <string name="stk_dialog_title">Bộ công cụ SIM</string>
+    <string name="disable_app">Đã tắt</string>
+    <string name="stk_dialog_title">Công cụ SIM</string>
     <string name="default_tone_dialog_msg">Phát nhạc chuông</string>
     <string name="default_open_channel_msg">Mở kênh?</string>
     <string name="default_send_data_msg">Đang gửi dữ liệu</string>
@@ -27,4 +27,9 @@
     <string name="default_close_channel_msg">Đã đóng kênh</string>
     <string name="stk_dialog_accept">CÓ</string>
     <string name="stk_dialog_reject">KHÔNG</string>
+    <string name="no_sim_card_inserted">Vui lòng lắp thẻ SIM để khởi chạy Công cụ SIM.</string>
+    <string name="stk_intent_permission">Cho phép ý định Công cụ SIM</string>
+    <string name="sim_type_sim_name">Công cụ SIM</string>
+    <string name="sim_type_usim_name">Công cụ SIM</string>
+    <string name="sim_type_uim_name">Công cụ SIM</string>
 </resources>
