@@ -683,7 +683,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="android_beam_off_summary">Tắt chia sẻ nội dung qua NFC</string>
     <string name="android_beam_disabled_summary">Để chia sẻ nội dung NFC, vui lòng bật NFC</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">Bạn chỉ cần chạm lưng điện thoại với một thiết bị hỗ trợ Android Beam khác với nhau, bạn có thể chia sẻ các ứng dụng trên thiết bị như trang web, video, số liên lạc...</string>
+    <string name="android_beam_explained">Bạn chỉ cần chạm lưng điện thoại với một thiết bị hỗ trợ Android Beam khác với nhau, bạn có thể chia sẻ các ứng dụng trên thiết bị như trang web, video, số liên lạc…</string>
     <string name="nsd_quick_toggle_title">Khám phá dịch vụ mạng</string>
     <string name="nsd_quick_toggle_summary">Cho phép ứng dụng trên các thiết bị khác khám phá ứng dụng trên thiết bị này</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -1017,7 +1017,7 @@ Có thể mã PIN không đúng."</string>
     <string name="device_info_not_available">Không khả dụng</string>
     <string name="device_status_activity_title">Trạng thái</string>
     <string name="device_status">Trạng thái</string>
-    <string name="device_status_summary">Số điện thoại, tín hiệu, v.v...</string>
+    <string name="device_status_summary">Số điện thoại, tín hiệu, v.v…</string>
     <string name="storage_settings">Bộ nhớ</string>
     <string name="storage_usb_settings">Bộ nhớ và USB</string>
     <string name="storage_settings_title">Cài đặt bộ nhớ</string>
@@ -1046,7 +1046,7 @@ Có thể mã PIN không đúng."</string>
     <string name="memory_available">Còn trống</string>
     <string name="memory_available_read_only">Khả dụng (chỉ đọc)</string>
     <string name="memory_size">Tổng dung lượng</string>
-    <string name="memory_calculating_size">Đang tính toán...</string>
+    <string name="memory_calculating_size">Đang tính toán…</string>
     <string name="memory_apps_usage">Ứng dụng và dữ liệu ứng dụng</string>
     <string name="memory_media_usage">Phương tiện</string>
     <string name="memory_downloads_usage">Nội dung tải xuống</string>
@@ -1175,7 +1175,7 @@ Quá trình di chuyển mất khoảng ^2 và sẽ giải phóng ^3 trên bộ n
     <string name="storage_wizard_migrate_confirm_title">Di chuyển dữ liệu ngay bây giờ</string>
     <string name="storage_wizard_migrate_confirm_body"><b>Quá trình di chuyển mất khoảng ^1. Quá trình này sẽ giải phóng ^2 trên ^3.</b></string>
     <string name="storage_wizard_migrate_confirm_next">Di chuyển</string>
-    <string name="storage_wizard_migrate_progress_title">Đang di chuyển dữ liệu...</string>
+    <string name="storage_wizard_migrate_progress_title">Đang di chuyển dữ liệu…</string>
     <string name="storage_wizard_migrate_details">"Trong khi di chuyển: 
 • Không tháo ^1. 
 • Một số ứng dụng sẽ không hoạt động chính xác. 
@@ -1285,7 +1285,7 @@ Có người dùng khác trên thiết bị này.
     <string name="master_clear_confirm_title">Đặt lại?</string>
     <string name="master_clear_not_available">Khôi phục cài đặt gốc không khả dụng cho người dùng này</string>
     <string name="master_clear_progress_title">Đang xóa</string>
-    <string name="master_clear_progress_text">Vui lòng chờ...</string>
+    <string name="master_clear_progress_text">Vui lòng chờ…</string>
     <string name="call_settings_title">Cài đặt cuộc gọi</string>
     <string name="call_settings_summary">Thiết lập thư thoại, chuyển tiếp cuộc gọi, chờ cuộc gọi, Số gọi đến</string>
     <string name="tether_settings_title_usb">Truy cập Internet qua USB</string>
@@ -1897,7 +1897,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="power_idle">Điện thoại ở chế độ rảnh</string>
     <string name="power_unaccounted">Khác</string>
     <string name="power_overcounted">Vượt mức</string>
-    <string name="usage_type_cpu">CPU tổng</string>
+    <string name="usage_type_cpu">Tổng CPU</string>
     <string name="usage_type_cpu_foreground">Nền trước CPU</string>
     <string name="usage_type_wake_lock">Không khóa màn hình</string>
     <string name="usage_type_gps">GPS</string>
@@ -1905,7 +1905,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="usage_type_phone">Điện thoại</string>
     <string name="usage_type_data_send">Gói di động đã gửi</string>
     <string name="usage_type_data_recv">Gói di động đã nhận</string>
-    <string name="usage_type_radio_active">Radio di động đang hoạt động</string>
+    <string name="usage_type_radio_active">Sóng di động đang hoạt động</string>
     <string name="usage_type_data_wifi_send">Dữ liệu Wi-Fi đã gửi</string>
     <string name="usage_type_data_wifi_recv">Dữ liệu Wi-Fi đã nhận</string>
     <string name="usage_type_audio">Âm thanh</string>
@@ -2038,7 +2038,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="tts_status_ok">%1$s được hỗ trợ đầy đủ</string>
     <string name="tts_status_requires_network">%1$s yêu cầu kết nối mạng</string>
     <string name="tts_status_not_supported">%1$s không được hỗ trợ</string>
-    <string name="tts_status_checking">Đang kiểm tra...</string>
+    <string name="tts_status_checking">Đang kiểm tra…</string>
     <string name="tts_engines_section">Công cụ</string>
     <string name="tts_engine_name_settings">Cài đặt %s</string>
     <string name="tts_engine_name_is_enabled_summary">%s đã được bật</string>
@@ -2163,7 +2163,7 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="wifi_setup_forget">Quên</string>
     <string name="wifi_setup_save">Lưu</string>
     <string name="wifi_setup_cancel">Hủy</string>
-    <string name="wifi_setup_status_scanning">Đang quét mạng...</string>
+    <string name="wifi_setup_status_scanning">Đang quét mạng…</string>
     <string name="wifi_setup_status_select_network">Chạm vào một mạng để kết nối với mạng đó</string>
     <string name="wifi_setup_status_existing_network">Kết nối với mạng hiện có</string>
     <string name="wifi_setup_status_unsecured_network">Kết nối với mạng không an toàn</string>
@@ -2173,7 +2173,7 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="wifi_setup_status_proceed_to_next">Đi tới bước tiếp theo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP không được hỗ trợ.</string>
     <string name="wifi_setup_eap_not_supported">Bạn không thiết lập cấu hình kết nối EAP WiFi trong khi cài đặt. Sau khi cài đặt, bạn có thể thực hiện việc đó trong Cài đặt >Không dây &amp; Mạng.</string>
-    <string name="wifi_setup_description_connecting">Kết nối có thể mất vài phút...</string>
+    <string name="wifi_setup_description_connecting">Kết nối có thể mất vài phút…</string>
     <string name="wifi_setup_description_connected">Chạm <b>Tiếp theo</b>" để tiếp tục cài đặt.
 
 Chạm "<b>Quay lại</b> để kết nối với một mạng Wi-Fi khác.</string>
@@ -2198,7 +2198,7 @@ Chạm "<b>Quay lại</b> để kết nối với một mạng Wi-Fi khác.</str
     <string name="sync_disabled">Đồng bộ hóa TẮT</string>
     <string name="sync_error">Lỗi đồng bộ hóa</string>
     <string name="last_synced">Đồng bộ hóa lần cuối %1$s</string>
-    <string name="sync_in_progress">Đang đồng bộ hóa...</string>
+    <string name="sync_in_progress">Đang đồng bộ hóa…</string>
     <string name="settings_backup">Sao lưu cài đặt</string>
     <string name="settings_backup_summary">Sao lưu cài đặt của tôi</string>
     <string name="sync_menu_sync_now">Đồng bộ hóa ngay bây giờ</string>
@@ -2323,7 +2323,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="account_settings_menu_auto_sync">Tự động đồng bộ hóa dữ liệu</string>
     <string name="account_settings_menu_auto_sync_personal">T.động ĐB hóa dữ liệu cá nhân</string>
     <string name="account_settings_menu_auto_sync_work">T.động ĐB hóa d.liệu công việc</string>
-    <string name="data_usage_change_cycle">Thay đổi chu kỳ...</string>
+    <string name="data_usage_change_cycle">Thay đổi chu kỳ…</string>
     <string name="data_usage_pick_cycle_day">Ngày trong tháng để đặt lại chu kỳ sử dụng dữ liệu:</string>
     <string name="data_usage_empty">Không ứng dụng nào sử dụng dữ liệu lúc này.</string>
     <string name="data_usage_label_foreground">Trên nền</string>
@@ -2508,7 +2508,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="user_confirm_remove_message">Mọi ứng dụng và dữ liệu sẽ bị xóa.</string>
     <string name="work_profile_confirm_remove_message">Tất cả ứng dụng và dữ liệu trong hồ sơ này sẽ bị xóa nếu bạn tiếp tục.</string>
     <string name="user_profile_confirm_remove_message">Mọi ứng dụng và dữ liệu sẽ bị xóa.</string>
-    <string name="user_adding_new_user">Đang thêm người dùng mới...</string>
+    <string name="user_adding_new_user">Đang thêm người dùng mới…</string>
     <string name="user_delete_user_description">Xóa người dùng</string>
     <string name="user_delete_button">Xóa</string>
     <string name="user_guest">Khách</string>
@@ -2544,7 +2544,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="nfc_how_it_works_title">Thanh toán tại thiết bị đầu cuối</string>
     <string name="nfc_how_it_works_content">Thiết lập ứng dụng thanh toán. Sau đó chỉ cần giữ mặt sau điện thoại của bạn gần với thiết bị đầu cuối bất kỳ có biểu tượng không tiếp xúc.</string>
     <string name="nfc_how_it_works_got_it">OK</string>
-    <string name="nfc_more_title">Thêm...</string>
+    <string name="nfc_more_title">Thêm…</string>
     <string name="nfc_payment_set_default_label">Đặt làm tùy chọn của bạn?</string>
     <string name="nfc_payment_set_default">Luôn sử dụng %1$s khi bạn Nhấn và thanh toán?</string>
     <string name="nfc_payment_set_default_instead_of">Luôn sử dụng %1$s thay vì %2$s khi bạn Chạm và thanh toán?</string>
@@ -2604,7 +2604,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="sim_cellular_data_unavailable_summary">Chạm để chọn SIM dữ liệu</string>
     <string name="sim_calls_always_use">Luôn sử dụng SIM này để gọi</string>
     <string name="select_sim_for_data">Chọn SIM cho dữ liệu</string>
-    <string name="data_switch_started">Đang chuyển SIM dữ liệu, quá trình này có thể mất tới một phút...</string>
+    <string name="data_switch_started">Đang chuyển SIM dữ liệu, quá trình này có thể mất tới một phút…</string>
     <string name="select_sim_for_calls">Gọi bằng</string>
     <string name="sim_select_card">Chọn thẻ SIM</string>
     <string name="sim_card_number_title">SIM %1$d</string>
@@ -2678,7 +2678,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="keywords_lockscreen">trượt mật khẩu hình mẫu mã pin</string>
     <string name="setup_wifi_nfc_tag">Thiết lập thẻ NFC Wi-Fi</string>
     <string name="write_tag">Ghi</string>
-    <string name="status_awaiting_tap">Nhấn vào một thẻ để ghi...</string>
+    <string name="status_awaiting_tap">Nhấn vào một thẻ để ghi…</string>
     <string name="status_invalid_password">Mật khẩu không hợp lệ, hãy thử lại.</string>
     <string name="status_write_success">Thành công!</string>
     <string name="status_failed_to_write">Không thể ghi dữ liệu vào thẻ NFC. Nếu sự cố tiếp diễn, hãy thử một thẻ khác</string>
@@ -2729,7 +2729,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="notification_listener_security_warning_summary">%1$s có thể đọc tất cả thông báo, bao gồm thông tin cá nhân như tên liên hệ và văn bản thông báo bạn nhận được. Trình xử lý cũng có thể loại bỏ thông báo hoặc kích hoạt nút tác vụ trong các thông báo đó.</string>
     <string name="manage_zen_access_title">Không làm phiền</string>
     <string name="zen_access_empty_text">Không có ứng dụng được cài đặt nào yêu cầu quyền truy cập Không làm phiền</string>
-    <string name="loading_notification_apps">Đang tải ứng dụng...</string>
+    <string name="loading_notification_apps">Đang tải ứng dụng…</string>
     <string name="app_notification_block_title">Chặn tất cả</string>
     <string name="app_notification_block_summary">Không bao giờ hiển thị thông báo từ ứng dụng này</string>
     <string name="app_notification_priority_title">Coi là ưu tiên</string>
@@ -3494,7 +3494,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="drive_mode_calling_auto_sms_reply">Trả lời bằng tin nhắn cho cuộc gọi đến</string>
     <string name="drive_mode_sms_auto_sms_reply">Tự động trả lời tin nhắn SMS</string>
     <string name="drive_mode_only_contact_reply">Chỉ trả lời những người trong danh sách liên hệ của bạn</string>
-    <string name="drive_mode_auto_sms_reply_content">Đang lái xe...Tôi sẽ gọi lại sau</string>
+    <string name="drive_mode_auto_sms_reply_content">Đang lái xe…Tôi sẽ gọi lại sau</string>
     <string name="drive_mode_auto_sms_reply_content_title">Nội dung của tin nhắn SMS trả lời</string>
     <string name="clear_activities_summary">Sử dụng ứng dụng này cho một số hoạt động theo mặc định</string>
     <string name="permission_detail_info">Chi tiết</string>

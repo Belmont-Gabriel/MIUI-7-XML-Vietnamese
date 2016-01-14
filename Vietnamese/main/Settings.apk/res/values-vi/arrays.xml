@@ -532,14 +532,6 @@
         <item>Hồng</item>
         <item>Đỏ</item>
     </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
-        <item>MIDI</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Ưu tiên Wi-Fi</item>
         <item>Ưu tiên mạng di động</item>
