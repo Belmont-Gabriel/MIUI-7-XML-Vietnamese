@@ -41,7 +41,7 @@ Bạn phải đồng ý với Thỏa thuận Người dùng và Chính sách Ri�
     <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="agree">Đồng ý</string>
     <string name="disagree">Hủy</string>
-    <string name="network_access_warning">Bạn cần kết nối internet để kích hoạt dịch vụ Mi và Tìm thiết bị.</string>
+    <string name="network_access_warning">Bạn cần kết nối internet để kích hoạt dịch vụ Mi và Tìm kiếm thiết bị.</string>
     <string name="setting_locale">Đang cài đặt vị trí…</string>
     <string name="miui_terms_no_network">Bạn không có kết nối internet. Xem Điều khoản Dịch vụ tại %s.</string>
     <string name="miui_privacy_policy_no_network">Bạn không có kết nối internet. Xem Chính sách Riêng tư tại %s.</string>
@@ -49,8 +49,7 @@ Bạn phải đồng ý với Thỏa thuận Người dùng và Chính sách Ri�
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Khởi động lại</string>
     <string name="install_preinstall_app">Đang tải ứng dụng…</string>
-	<string name="desc_extra_fingerprint"/>
-	<string name="desc_fingerprint">Sử dụng dấu vân tay của bạn để mở khóa thiết bị, hãy kiểm tra các giao dịch Mi Pay, hoặc đăng nhập vào các ứng dụng và dịch vụ.</string>
-	<string name="next_fingerprint">Tiếp theo</string>
-	<string name="title_fingerprint">Thêm dấu vân tay của bạn</string>
+    <string name="title_fingerprint">Thêm vân tay của bạn</string>
+    <string name="desc_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, xác minh giao dịch Mi Pay, đăng nhập ứng dụng và dịch vụ.</string>
+    <string name="next_fingerprint">Tiếp theo</string>
 </resources>

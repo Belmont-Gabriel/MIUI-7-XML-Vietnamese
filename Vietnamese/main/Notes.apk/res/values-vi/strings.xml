@@ -11,7 +11,7 @@
     <string name="widget_havenot_content">Chạm để tạo ra ghi chú mới. Để thay đổi kích thước, giữ &amp; kéo một cạnh.</string>
     <string name="widget_under_privacy_mode">Không thể xem ghi chú khi ở chế độ Khách</string>
     <string name="widget_content_loading">Đang tải…</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">…</string>
     <string name="notelist_menu_new">Thêm ghi chú</string>
     <string name="note_alert_expired">Đã hết hạn</string>
     <string name="notealert_ok">Bỏ qua</string>
@@ -86,8 +86,10 @@
     <string name="pref_title_common">Cài đặt bổ sung</string>
     <string name="pref_title_alarm_when_silent">Báo khi ở chế độ im lặng</string>
     <string name="pref_desc_alarm_when_silent">Vẫn có âm báo khi chuông im lặng</string>
+    <string name="pref_title_recover_help">Khôi phục ghi chú</string>
     <string name="dlg_title_confirm_alarm_silent">Bạn có muốn tắt âm báo khi ở chế độ im lặng?</string>
     <string name="dlg_desc_confirm_alarm_silent">Âm báo thức và ghi chú sẽ tắt khi nhạc chuông được chọn là im lặng.</string>
+    <string name="dlg_delete_message">Đang xóa…</string>
     <string name="permlab_accessNote">Truy cập ghi chú</string>
     <string name="permdesc_accessNote">Ứng dụng độc hại có thể sử dụng để truy cập thông tin cá nhân của bạn.</string>
     <string name="undo">Hoàn tác</string>

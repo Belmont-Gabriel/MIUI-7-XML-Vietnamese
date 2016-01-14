@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="hot_search">Phổ biến</string>
+    <string name="search_history">Lịch sử</string>
+    <string name="loading">Đang tải</string>
+    <string name="show_more">Xem thêm</string>
+    <string name="clear_history">Xóa lịch sử tìm kiếm</string>
     <string name="search_in_web">Tìm kiếm trực tuyến</string>
     <string name="search_in_app_store">Tìm kiếm chợ ứng dụng</string>
     <string name="send_secret_code">Gửi mã</string>
@@ -11,13 +16,6 @@
     <string name="cta_declaration_ignore">Không hiển thị lại</string>
     <string name="cta_declaration_positive_text">Cho phép</string>
     <string name="cta_declaration_negative_text">Thoát</string>
-    <string name="searchable_sources">Trực tuyến</string>
-    <string name="searchable_lable_app">ứng dụng</string>
-    <string name="searchable_lable_music">nhạc</string>
-    <string name="searchable_lable_video">video</string>
-    <string name="searchable_lable_browser">trình duyệt</string>
-    <string name="searchable_lable_duokan">duokan</string>
-    <string name="searchable_lable_o2o">o2o</string>
     <string name="app_name">Tìm kiếm</string>
     <string name="search_widget">Tìm kiếm</string>
     <string name="remove_from_history">Xóa mục này khỏi lịch sử tìm kiếm?</string>
@@ -52,9 +50,11 @@
     <string name="voice_search_hint_title">Thử nói:</string>
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_quotation_end">\"</string>
-	<string name="clear_history">Xóa lịch sử tìm kiếm</string>
-	<string name="hot_search">Tìm kiếm mới nhất</string>
-	<string name="loading">Đang tải</string>
-	<string name="search_history">Lịch sử tìm kiếm</string>
-	<string name="show_more">Xem thêm</string>
+    <string name="searchable_lable_app">ứng dụng</string>
+    <string name="searchable_lable_browser">trình duyệt</string>
+    <string name="searchable_lable_duokan">duokan</string>
+    <string name="searchable_lable_music">nhạc</string>
+    <string name="searchable_lable_o2o">o2o</string>
+    <string name="searchable_lable_video">video</string>
+    <string name="searchable_sources">Trực tuyến</string>
 </resources>

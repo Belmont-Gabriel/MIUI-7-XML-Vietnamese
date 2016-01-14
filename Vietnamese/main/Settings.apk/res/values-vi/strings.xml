@@ -3438,8 +3438,8 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="virtual_sim_title">Mạng dữ liệu khi chuyển vùng</string>
     <string name="virtual_sim_description">Dịch vụ chuyển vùng quốc tế tin cậy</string>
     <string name="power_mode">Cài đặt Pin</string>
-    <string name="high_performance_title">Dường như bạn đang chạy phần mềm đánh giá chỉ số benchmark. Đặt quản lý nguồn ở \"Hiệu suất cao\" sẽ cho kết quả tốt nhất.</string>
-    <string name="high_performance_notif_title">Chế độ hiệu suất cao đã được mở</string>
+    <string name="high_performance_title">Dường như bạn đang chạy phần mềm đánh giá chỉ số benchmark. Đặt quản lý nguồn ở \"Hiệu suất\" sẽ cho kết quả tốt nhất.</string>
+    <string name="high_performance_notif_title">Chế độ hiệu suất đã bật</string>
     <string name="high_performance_notif_summary">Thiết bị có khả năng nóng lên khi chạy các tác vụ nặng.</string>
     <string name="skip_step">Bỏ qua</string>
     <string name="msd_help_title">Trợ giúp</string>

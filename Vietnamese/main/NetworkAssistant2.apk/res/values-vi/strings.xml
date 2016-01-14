@@ -3,6 +3,8 @@
     <string name="app_name">Sử dụng dữ liệu</string>
     <string name="list_empty_text">Trống</string>
     <string name="dialog_title_attention">Chú ý</string>
+    <string name="kilobyte_per_second">K/s</string>
+    <string name="megabyte_per_second">M/s</string>
     <string name="main_button_normal_traffic">Hàng ngày</string>
     <string name="main_button_idel_traffic">Miễn phí</string>
     <string name="main_toolbar_firewall">Hạn chế sử dụng dữ liệu</string>
@@ -19,7 +21,7 @@
     <string name="main_traffic_overlimit_text">vượt quá</string>
     <string name="main_traffic_used_only">Đã dùng %s</string>
     <string name="main_alert_message_no_mobile_package">Thiết lập giới hạn dữ liệu</string>
-    <string name="main_message_no_package_by_dual">Thiết lập giới hạn dữ liệu cho %s</string>
+    <string name="main_message_no_package_by_dual">Thiết lập giới hạn sử dụng dữ liệu cho %s</string>
     <string name="main_alert_message_no_imsi">Không có thẻ SIM</string>
     <string name="main_alert_message_slot_no_data_connection">Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động</string>
     <string name="main_primary_message_traffic_enough">Dưới giới hạn sử dụng dữ liệu</string>
@@ -43,16 +45,18 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="main_alert_message_month_limit_error">Giới hạn dữ liệu không chính xác</string>
     <string name="firewall_activity_lable">Hạn chế sử dụng dữ liệu bởi ứng dụng</string>
     <string name="firewall_applist">Ứng dụng</string>
-    <string name="firewall_rule_group_title_mobile">Dữ liệu</string>
+    <string name="firewall_rule_group_title_mobile">Di động</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Đã cài đặt</string>
     <string name="firewall_fragment_tab_title_sys">Hệ thống</string>
     <string name="firewall_fragment_sys_listempty">Trống</string>
     <string name="firewall_fragment_nonesys_listempty">Trống</string>
     <string name="firewall_service_network_blocked">%1$s đã bị cấm sử dụng mạng %2$s</string>
-    <string name="firewall_network_restrict_notify_title">%1$s không thể sử dụng %2$s.</string>
-    <string name="firewall_network_restrict_notify_mobile">dữ liệu di động</string>
+    <string name="firewall_network_restrict_notify_title">%1$s không thể sử dụng %2$s</string>
+    <string name="firewall_network_restrict_notify_mobile">Dữ liệu di động</string>
     <string name="firewall_network_restrict_notify_message">Chạm để thay đổi cài đặt.</string>
+    <string name="firewall_restrict_android_dialog_title">Chú ý</string>
+    <string name="firewall_restrict_android_dialog_content">Để đảm bảo thiết bị làm việc bình thường, một vài ứng dụng hệ thống Android sẽ tiếp tục kết nối internet. Các ứng dụng này sẽ sử dụng kết nối dữ liệu di động và có thể phát sinh chi phí nhỏ từ nhà mạng.</string>
     <string name="usage_sorted_activity_lable">Sử dụng dữ liệu</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
     <string name="usage_sorted_empty_text">Trống</string>
@@ -63,7 +67,7 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="sorted_button">Sắp xếp theo</string>
     <string name="app_detail">Chi tiết</string>
     <string name="app_version">Phiên bản</string>
-    <string name="app_mobile">Dữ liệu</string>
+    <string name="app_mobile">Di động</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="spinner_title">%1$s - Dữ liệu di động: %2$s</string>
     <string name="traffic_none">Không</string>
@@ -176,6 +180,7 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="traffic_setting_fragment_send_num_tips">Nhập số điện thoại</string>
     <string name="traffic_setting_fragment_sms_content_tips">Viết tin nhắn của bạn ở đây</string>
     <string name="traffic_setting_fragment_null">Trống</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">Không hiển thị lại</string>
     <string name="data_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="data_usage_warning_body">Chạm để xem chi tiết sử dụng dữ liệu.</string>
     <string name="data_usage_mobile_limit_title">Đã đạt đến giới hạn dữ liệu di động</string>
@@ -221,13 +226,15 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="traffic_correction_success">Đã cập nhật dữ liệu sử dụng</string>
     <string name="traffic_correction_failed">Không thể nhận thông tin</string>
     <string name="traffic_correction_success_notify_message">Chạm để xem chi tiết.</string>
-    <string name="operator_setted_error_notify_title">Thẻ SIM lỗi</string>
-    <string name="operator_setted_error_notify_message">Chạm để thay đổi vị trí thẻ SIM.</string>
-    <string name="operator_setted_error_dialog_message">Thẻ SIM bạn đang sử dụng là từ %1$s. Và vị trí này khác với vị trí bạn thiết lập thủ công (%2$s). Thay đổi vị trí thẻ SIM là %3$s?</string>
+    <string name="sim_location_error_notify_title">Thẻ SIM lỗi</string>
+    <string name="sim_location_error_notify_message">Chạm để thay đổi vị trí thẻ SIM.</string>
+    <string name="sim_location_error_dialog_message">Thẻ SIM bạn đang sử dụng là từ %1$s. Và vị trí này khác với vị trí bạn thiết lập thủ công (%2$s). Thay đổi vị trí thẻ SIM là %3$s?</string>
+    <string name="package_change_notification_title">Điều chỉnh giới hạn dữ liệu tự động</string>
+    <string name="package_change_notification_summary">Chạm để tìm hiểu thêm.</string>
+    <string name="package_setted_error_notification_titile">Không thể thiết lập kế hoạch sử dụng dữ liệu</string>
+    <string name="package_setted_error_notification_summary">Chạm để xem chi tiết sử dụng dữ liệu.</string>
     <string name="traffic_config_alert_title">Hiệu chỉnh %s</string>
-    <string name="traffic_config_alert_ok">OK</string>
-    <string name="traffic_config_alert_cancel">Hủy</string>
-    <string name="traffic_config_alert_nomore">Không hiển thị lại</string>
+    <string name="traffic_config_alert_auto_modify">Cập nhật kế hoạch sử dụng dữ liệu tự động</string>
     <string name="traffic_config_alert_body">"Theo tính toán của nhà cung cấp cho biết:%s.
 
 Bạn sẽ sử dụng dữ liệu này?"</string>
@@ -242,10 +249,16 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_config_alert_body_extra_notset">"
 \"Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công.\""</string>
     <string name="traffic_config_alert_setted">Đã áp dụng cài đặt</string>
+    <string name="traffic_config_alert_package">"
+\"Đã gia hạn dữ liệu bổ sung\""</string>
     <string name="traffic_limit_error_alert_title">Nhắc nhở giới hạn dữ liệu %s</string>
-    <string name="traffic_limit_error_alert_iknow">OK</string>
-    <string name="traffic_limit_error_alert_reset">Đặt lại giới hạn</string>
-    <string name="traffic_limit_error_alert_body">Theo tính toán của nhà cung cấp cho biết tháng này bạn còn %1$s, nhiều hơn so với giới hạn %2$s mà bạn thiết lập thủ công.</string>
+    <string name="traffic_limit_error_alert_body">Dữ liệu còn lại của bạn cho tháng này (%1$s) lớn hơn kế hoạch hàng tháng của bạn (%2$s). Đánh dấu phần dữ liệu vượt quá là gói tùy chọn?</string>
+    <string name="traffic_limit_error_alert_package">"
+
+\"Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước.\""</string>
+    <string name="traffic_alert_auto_modify_notification_titile">Đã cập nhật kế hoạch sử dụng dữ liệu</string>
+    <string name="traffic_alert_auto_modify_notification_sumarry">Kế hoạch hàng tháng đã thay đổi thành %s.</string>
+    <string name="traffic_alert_auto_modify_package_summary">Tự động điều chỉnh gói dữ liệu dựa vào thông tin nhà mạng</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -275,7 +288,7 @@ Kiểm tra tin nhắn nhận được từ nhà cung cấp của bạn để bi�
     <string name="datausage_purchase_backto_ns">Quay lại</string>
     <string name="datausage_purchase_goto_monthsetting">Sửa thông tin gói</string>
     <string name="datausage_purchase_pkglist_nodata">"Phát sinh sai lệch giữa gói dữ liệu hiện tại và các gói dữ liệu bạn đang cố gắng mua.
-Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
+ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="datausage_purchase_pkglist_networkerror">Không thể kết nối mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
     <string name="datausage_purchase_pkglist_servererror">Lỗi máy chủ.</string>
     <string name="datausage_purchase_order_history">Lịch sử</string>
@@ -284,11 +297,14 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="datausage_purchase_order_failure">Mua thất bại</string>
     <string name="datausage_purchase_order_failure_cause">Mua thất bại…</string>
     <string name="traffic_saving_tecsupport">Được hỗ trợ bởi Opera</string>
-    <string name="traffic_saving_notify_start_title">Giảm sử dụng dữ liệu</string>
+    <string name="traffic_saving_tecsupport_international">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="traffic_saving_notify_start_title">Đã giảm sử dụng dữ liệu</string>
     <string name="traffic_saving_notify_start_content">Tiết kiệm tháng này %s.</string>
+    <string name="traffic_saving_notify_no_apps_saving">Giảm sử dụng dữ liệu</string>
+    <string name="traffic_saving_notify_no_apps_saving_content">Chạm để bật Tiết kiệm dữ liệu.</string>
     <string name="traffic_saving_toast_start_mobile">Đã bật tiết kiệm dữ liệu</string>
-    <string name="traffic_saving_toast_start_none_mobile">Tiết kiệm dữ liệu sẽ bắt đầu khi bạn sử dụng dữ liệu di động</string>
-    <string name="traffic_saving_toast_start_unreachable">Không thể khởi chạy tiết kiệm dữ liệu</string>
+    <string name="traffic_saving_toast_start_none_mobile">Tiết kiệm dữ liệu sẽ kích hoạt khi bạn sử dụng dữ liệu di động</string>
+    <string name="traffic_saving_toast_start_unreachable">Không thể bắt đầu Tiết kiệm dữ liệu</string>
     <string name="traffic_saving_toast_stop">Đã tắt tiết kiệm dữ liệu</string>
     <string name="traffic_saving_title">Tiết kiệm dữ liệu</string>
     <string name="traffic_saving_button_start">Mở</string>
@@ -309,8 +325,6 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="traffic_saving_history_total_money_unit">NDT</string>
     <string name="traffic_saving_history_total_month">"Đã tiết kiệm tháng này: "</string>
     <string name="traffic_saving_history_total_month_default">Tiết kiệm trung bình mỗi tháng</string>
-    <string name="traffic_saving_history_total_month_value">"Nghe &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> bài hát / Trò chuyện &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> giờ / Đọc &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> bài viết"</string>
-    <string name="traffic_saving_history_total_month_value_default">"Nghe &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> bài hát / Trò chuyện &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> giờ / Đọc &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> bài viết"</string>
     <string name="pref_traffic_saving_title">Cài đặt tiết kiệm dữ liệu</string>
     <string name="pref_traffic_saving_switch">Giảm sử dụng dữ liệu</string>
     <string name="pref_traffic_saving_switch_hint">Sử dụng proxy để nén dữ liệu</string>
@@ -321,7 +335,7 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="pref_traffic_saving_whitelist">Danh sách ngoại lệ</string>
     <string name="pref_traffic_saving_whitelist_hint">Không giới hạn sử dụng dữ liệu cho các ứng dụng đã chọn</string>
     <string name="pref_traffic_saving_issue">HỎI ĐÁP</string>
-    <string name="pref_traffic_saving_issue_content">&lt;b> 1. Bật Tiết kiệm Dữ liệu ảnh hưởng đến quyền riêng tư của tôi? &lt;/b>&lt;br />&lt;br />&lt;br />Không. Dữ liệu của bạn sẽ được giữ riêng và sẽ không được chia sẻ với bên thứ ba. &lt;br />&lt;br />&lt;br />&lt;b> Tại sao Tiết kiệm Dữ liệu không làm việc? &lt;/b>&lt;br />&lt;br /> Tiết kiệm Dữ liệu chỉ làm việc khi bạn sử dụng mạng của nhà cung cấp để gửi hoặc tải xuống nội dung.</string>
+    <string name="pref_traffic_saving_issue_content">&lt;b> 1. Bật Tiết kiệm dữ liệu ảnh hưởng đến quyền riêng tư của tôi? &lt;/b>&lt;br />&lt;br />&lt;br />Không. Dữ liệu của bạn sẽ được giữ riêng và sẽ không được chia sẻ với bên thứ ba. &lt;br />&lt;br />&lt;br />&lt;b> Tại sao Tiết kiệm dữ liệu không làm việc? &lt;/b>&lt;br />&lt;br /> Tiết kiệm Dữ liệu chỉ làm việc khi bạn sử dụng mạng của nhà cung cấp để gửi hoặc tải xuống nội dung.</string>
     <string name="traffic_saving_whitelist_btn_add_app">Thêm</string>
     <string name="traffic_saving_whitelist_btn_add">Thêm</string>
     <string name="traffic_saving_whitelist_btn_added">Đã thêm</string>
@@ -347,8 +361,6 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="traffic_saving_recommanded_open">Bật</string>
     <string name="traffic_saving_recommanded_close">Tắt</string>
     <string name="traffic_saving_notification_button_start">Kích hoạt</string>
-	<string name="traffic_saving_notify_no_apps_saving">Không có ứng dụng đang sử dụng tiết kiệm dữ liệu</string>
-	<string name="traffic_saving_notify_no_apps_saving_content">Bấm để bật tiết kiệm dữ liệu.</string>
     <string name="pref_traffic_saving_pic_compress_level">Tỷ lệ nén ảnh</string>
     <string name="pref_traffic_saving_no_compress">Chưa nén</string>
     <string name="pref_traffic_saving_compressed">Đã nén</string>
@@ -359,11 +371,13 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="saving_conflict_dialog_cancel">Hủy</string>
     <string name="restrictbackground_conflict_saving_msg">Không thể sử dụng Tiết kiệm Dữ liệu khi dữ liều nền bị hạn chế. Tắt Tiết kiệm Dữ liệu và hạn chế dữ liệu nền?</string>
     <string name="saving_conflict_restrictbackground_msg">Không thể sử dụng Tiết kiệm Dữ liệu khi dữ liều nền bị hạn chế. Cho phép dữ liệu nền và bật Tiết kiệm Dữ liệu?</string>
+    <string name="traffic_saving_detail">Chi tiết</string>
+    <string name="traffic_saving_mobile_usage">Tiết kiệm dữ liệu</string>
+    <string name="traffic_saving_wifi_usage">Tiết kiệm Wi-Fi</string>
     <string name="mi_service_framework">Khung Dịch vụ Mi</string>
     <string name="mi_service_app_detail">Chi tiết sử dụng dữ liệu</string>
     <string name="mi_service_traffic_detail">Chi tiết khuôn khổ</string>
     <string name="none_mi_service_app_detail">Trống</string>
-    <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
     <string name="show_traffic_dialog_title">Hiển thị sử dụng trên thanh thông báo</string>
     <string name="show_traffic_dialog_message">Thông tin sử dụng dữ liệu của bạn sẽ được hiển thị trên thanh thông báo. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Sử dụng dữ liệu > Cài đặt</string>
     <string name="tc_sms_report_title">Báo cáo lỗi sử dụng dữ liệu</string>
@@ -390,7 +404,7 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="tc_sms_report_notify_correction_body">Vào ứng dụng Sử dụng dữ liệu trong Trung tâm Bảo mật và thử lại.</string>
     <string name="tc_sms_report_notify_get_failure_body">Không thể gửi báo cáo sử dụng dữ liệu. Hãy chắc chắn rằng bạn đang kết nối với một mạng điện thoại di động.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS sử dụng dữ liệu</string>
-    <string name="tc_sms_report_tips_dialog_message">Sau khi gửi tin nhắn chỉ định đến số điện thoại của nhà cung cấp dịch vụ, có thể nhận được tin nhắn báo dữ liệu sử dụng. Nếu như tin nhắn báo dữ liệu dử dụng bị lỗi, bạn có thể thực hiện thao tác thủ công và gửi tin nhắn chính xác thông báo cho chúng tôi.</string>
+    <string name="tc_sms_report_tips_dialog_message">Sau khi gửi tin nhắn chỉ định đến số điện thoại của nhà cung cấp dịch vụ, có thể nhận được tin nhắn báo dữ liệu sử dụng. Nếu như tin nhắn báo dữ liệu sử dụng bị lỗi, bạn có thể thực hiện thao tác thủ công và gửi tin nhắn chính xác thông báo cho chúng tôi.</string>
     <string name="tc_sms_report_get_sms_failure">Không thể cập nhật SMS báo sử dụng dữ liệu</string>
     <string name="tc_sms_report_get_sms_timeout">Yêu cầu hết thời gian</string>
     <string name="tc_sms_report_get_sms_successs">Đã cập nhật tin nhắn SMS báo dữ liệu sử dụng</string>
@@ -440,7 +454,7 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="pref_title_over_traffic_limit_warning">Khi vượt quá</string>
     <string name="reach_daily_limit_value_title">Đã đạt đến giới hạn dữ liệu hàng ngày</string>
     <string name="reach_daily_limit_value_body">Giảm sử dụng dữ liệu di động của bạn.</string>
-    <string name="reach_daily_limit_value_body_open_traffic_saving">Chạm để bật Tiết kiệm Dữ liệu.</string>
+    <string name="reach_daily_limit_value_body_open_traffic_saving">Chạm để bật Tiết kiệm dữ liệu.</string>
     <string name="daily_limit_network_available_body">Chạm để xem thống kê sử dụng dữ liệu.</string>
     <string name="daily_limit_network_available_body_open_traffic_saving">Chạm để bật Dữ liệu di động.</string>
     <string name="daily_limit_over_message">Bạn đã vượt quá giới hạn dữ liệu hàng ngày.</string>
@@ -563,22 +577,10 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="permission_exception_summary">Vài ứng dụng không được phép kết nối internet</string>
     <string name="networkchanged_exception_title">Đã thay đổi kết nối</string>
     <string name="networkchanged_exception_summary">Kết nối mạng đã thay đổi. Vui lòng kiểm tra lại.</string>
-    <string name="miuishare_title_more">Khác</string>
-    <string name="miuishare_title_share">Chia sẻ</string>
-    <string name="miuishare_wechat_timeline_title">Khoảnh khắc Wechat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
-    <string name="network_not_available">Không thể kết nối mạng</string>
-    <string name="no_network_btn">Thử lại</string>
     <string name="network_speed_for_apps_title">Kết nối</string>
     <string name="network_speed_for_apps_total">Tốc độ kết nối</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bắt buộc đóng ứng dụng này?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Không thể bắt buộc đóng ứng dụng hệ thống.</string>
     <string name="network_speed_for_apps_close">Buộc đóng</string>
     <string name="network_speed_for_apps_others">Khác</string>
-	<string name="traffic_saving_detail">Chi tiết</string>
-	<string name="traffic_saving_mobile_usage">Sử dụng dữ liệu</string>
-	<string name="traffic_saving_tecsupport_international">๖ۣۜßεℓ™ - MIUI.VN</string>
-	<string name="traffic_saving_wifi_usage">Sử dụng Wi-Fi</string>
-	<string name="firewall_restrict_android_dialog_content">Nếu bạn không cho phép Android kết nối với internet, một số tính năng quan trọng, chẳng hạn như Wi-Fi hotspot, có thể bị ảnh hưởng.</string>
-	<string name="firewall_restrict_android_dialog_title">Chú ý</string>
 </resources>
