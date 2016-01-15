@@ -42,14 +42,15 @@
         <item>Trang Web</item>
         <item>Địa chỉ</item>
         <item>Ghi chú</item>
+        <item>Mối quan hệ</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Đã nhận</item>
         <item>Đã gửi</item>
     </string-array>
     <string-array name="entries_date_type_rightvalue">
-        <item>Received</item>
-        <item>Sent</item>
+        <item>Đã nhận</item>
+        <item>Đã gửi</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
@@ -70,6 +71,10 @@
     <string-array name="entries_mms_validity_period">
         <item>Tối đa</item>
         <item>2 ngày</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Đồng bộ tất cả tin nhắn</item>
+        <item>Đồng bộ tin nhắn từ thẻ SIM được chọn</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 giây</item>

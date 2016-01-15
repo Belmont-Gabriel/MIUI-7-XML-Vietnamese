@@ -4,6 +4,12 @@
         <item quantity="other">Tìm thấy %d bài hát</item>
         <item quantity="one">Tìm thấy %d bài hát</item>
     </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm. "</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Tiếp tục tải xuống bài hát đã chọn?"</item>
+    </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">Còn lại %d ngày</item>
         <item quantity="one">Còn lại %d ngày</item>
