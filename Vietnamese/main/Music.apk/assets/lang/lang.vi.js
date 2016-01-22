@@ -507,7 +507,7 @@
 	"repeat_current_notif": "Lặp lại bài hát hiện tại.",
 	"repeat_all_notif": "Lặp lại tất cả bài hát.",
 	"shuffle_on_notif": "Trộn bài BẬT.",
-	"shuffle_off_notif": "Trộn bài TẮT."
+	"shuffle_off_notif": "Trộn bài TẮT.",
 	"download_auto_after_preference_summary": "Tự động tải xuống bài hát yêu thích",
 	"download_auto_after_preference_title": "Tự động tải xuống",
 	"dialog_button_agree": "Đồng ý",
