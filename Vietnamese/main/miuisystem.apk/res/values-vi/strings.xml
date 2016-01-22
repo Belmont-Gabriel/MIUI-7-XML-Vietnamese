@@ -109,8 +109,12 @@
     <string name="app_version_which_call">Phiên bản: %s</string>
     <string name="policy_name">Chính sách: %s</string>
     <string name="mibi_license">Điều khoản Dịch vụ Mi Credit</string>
-    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, vào %s"</string>
+    <string name="license_host_unreachable">"Không thể kết nối mạng. Để xem thông tin này bây giờ, truy cập %s"</string>
     <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đã tắt</string>
     <string name="cloud_state_finished">Đã đồng bộ với Mi Cloud</string>
     <string name="cloud_state_syncing">Đã đồng bộ với Mi Cloud</string>
+    <string name="vip_achievements">Thành tựu</string>
+    <string name="vip_sign">Chữ ký:</string>
+    <string name="vip_not_login">Chưa đăng nhập</string>
+    <string name="vip_level">Cấp %d</string>
 </resources>

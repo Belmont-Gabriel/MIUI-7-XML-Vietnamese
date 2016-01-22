@@ -89,6 +89,8 @@ Nếu bạn bật lại dữ liệu, bạn có thể bị nhà cung cấp tính 
     <string name="screen_pinning_description_accessible">Điều này giữ nó ở chế độ xem cho đến khi bạn bỏ ghim. Nhấn và giữ Home lại và Nguồn cùng lúc để bỏ ghim.</string>
     <string name="screen_pinning_positive">Đã hiểu</string>
     <string name="screen_pinning_negative">Không, cám ơn</string>
+    <string name="accessibility_managed_profile">Cấu hình công việc</string>
+    <string name="managed_profile_foreground_toast">Bạn đang sử dụng cấu hình công việc của bạn</string>
     <string name="status_bar_date_format">EEE, d MMM</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
@@ -124,7 +126,6 @@ Trượt xuống để khóa"</string>
     <string name="call_status_ringing">Đổ chuông</string>
     <string name="reject_call">Từ chối cuộc gọi</string>
     <string name="status_bar_style_settings">Thông báo</string>
-	<string name="task_access_locked_app_msg">Nội dung ứng dụng đã được ẩn.</string>
     <string name="settings_custom_notification">Quản lý thông báo</string>
     <string name="settings_toggle_position">Quản lý phím nhanh</string>
     <string name="settings_toggle_position_divider_page">%1$d phím nhanh trên thanh này hoạt động</string>
@@ -155,23 +156,23 @@ Trượt xuống để khóa"</string>
     <string name="usb_storage_stop_notification_title">Tắt lưu trữ USB</string>
     <string name="usb_storage_stop_notification_message">Chọn để tắt lưu trữ USB.</string>
     <string name="usb_storage_stop_title">Lưu trữ USB đang sử dụng</string>
-    <string name="usb_storage_stop_message">Trước khi tắt lưu trữ USB, chắc chắn bạn đã ngắt kết nối („jected”) lưu trữ USB Android‘s từ máy tính của bạn.</string>
+    <string name="usb_storage_stop_message">Trước khi tắt lưu trữ USB, chắc chắn bạn đã ngắt kết nối (“ejected”) lưu trữ USB Android‘s từ máy tính của bạn.</string>
     <string name="dlg_confirm_kill_storage_users_title">Bật lưu trữ USB</string>
     <string name="dlg_confirm_kill_storage_users_text">Nếu bạn bật lưu trữ USB, một số ứng dụng bạn đang sử dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn tắt lưu trữ USB.</string>
     <string name="dlg_error_title">USB hoạt động không thành công</string>
     <string name="dlg_ok">OK</string>
     <string name="ext_media_checking_notification_title">Đang chuẩn bị lưu trữ USB</string>
     <string name="ext_media_checking_notification_message">Đang kiểm tra lỗi.</string>
-    <string name="ext_media_nofs_notification_title">Lưu trữ USB trống</string>
-    <string name="ext_media_nofs_notification_message">Lưu trữ USB trống hoặc hệ thống tập tin không được hỗ trợ.</string>
-    <string name="ext_media_unmountable_notification_title">Lưu trữ USB bị hỏng</string>
-    <string name="ext_media_unmountable_notification_message">Lưu trữ USB bị hỏng. Bạn cần phải định dạng lại nó.</string>
-    <string name="ext_media_badremoval_notification_title">Lưu trữ USB bị rút ra bất ngờ</string>
-    <string name="ext_media_badremoval_notification_message">Ngắt kết nối lưu trữ USB trước khi rút ra để tránh mất dữ liệu.</string>
-    <string name="ext_media_safe_unmount_notification_title">Lưu trữ USB an toàn để rút ra</string>
-    <string name="ext_media_safe_unmount_notification_message">Bây giờ bạn có thể tháo lưu trữ USB ra an toàn.</string>
-    <string name="ext_media_nomedia_notification_title">Đã gỡ lưu trữ USB</string>
-    <string name="ext_media_nomedia_notification_message">Lưu trữ USB đã gỡ bỏ. Lắp phương tiện mới.</string>
+    <string name="ext_media_nofs_notification_title">Thẻ SD trống</string>
+    <string name="ext_media_nofs_notification_message">Thẻ SD trống hoặc hệ thống tập tin không được hỗ trợ.</string>
+    <string name="ext_media_unmountable_notification_title">Thẻ SD bị hỏng</string>
+    <string name="ext_media_unmountable_notification_message">Thẻ SD đã bị hỏng. Bạn cần phải định dạng lại thẻ.</string>
+    <string name="ext_media_badremoval_notification_title">Thẻ SD bị rút ra bất ngờ</string>
+    <string name="ext_media_badremoval_notification_message">Ngắt kết nối thẻ SD trước khi rút ra để tránh mất dữ liệu.</string>
+    <string name="ext_media_safe_unmount_notification_title">Thẻ SD an toàn để rút ra</string>
+    <string name="ext_media_safe_unmount_notification_message">Bây giờ bạn có thể tháo thẻ SD ra an toàn.</string>
+    <string name="ext_media_nomedia_notification_title">Đã gỡ thẻ SD</string>
+    <string name="ext_media_nomedia_notification_message">Thẻ SD đã gỡ bỏ. Lắp cái mới vào.</string>
     <string name="ext_media_mountable_notification_title">Thiết bị lưu trữ USB đã được kết nối</string>
     <string name="ext_media_mountable_notification_message">Chạm để mở trong Tập tin.</string>
     <string name="ext_media_safe_remove">Rút ra an toàn</string>
@@ -187,7 +188,7 @@ Trượt xuống để khóa"</string>
     <string name="no_notification_tips">Không có thông báo.</string>
     <string name="expanded_notification_manager">Quản lý thông báo</string>
     <string name="disable_notification_title">Ẩn thông báo</string>
-    <string name="disable_notification_summary">Ẩn thông báo ứng dụng</string>
+    <string name="disable_notification_summary">Không bao giờ hiển thị thông báo của ứng dụng đã chọn</string>
     <string name="expanded_confirm_disable_notification">Ẩn</string>
     <string name="block_record_notification_title">Ẩn thông báo</string>
     <string name="block_record_notification_text">Ẩn thông báo từ %1$s.</string>
@@ -225,7 +226,7 @@ Trượt xuống để khóa"</string>
     <string name="battery_profiles">Cấu hình sử dụng pin</string>
     <string name="oldman_airplane_mode_text">chế độ máy bay</string>
     <string name="oldman_incall_text">đang gọi</string>
-    <string name="notification_template_text">" có thông báo. Chạm để xem."</string>
+    <string name="notification_template_text">Thông báo mới. Chạm để xem.</string>
     <string name="audio_effect_settings">Chọn loại tai nghe</string>
     <string name="audio_effect_info">Tối ưu hóa âm thanh</string>
     <string name="audio_effect_custom">Cấu hình</string>
@@ -238,4 +239,5 @@ Trượt xuống để khóa"</string>
     <string name="vpn_text_long">Đã kết nối tới %s. Chạm để xem chi tiết.</string>
     <string name="screen_button_notification_title">Phím điều hướng đã bị tắt</string>
     <string name="screen_button_notification_text">Để bật, bấm đồng thời phím Trang chính và nút Nguồn.</string>
+    <string name="task_access_locked_app_msg">Nội dung ứng dụng đã được ẩn.</string>
 </resources>

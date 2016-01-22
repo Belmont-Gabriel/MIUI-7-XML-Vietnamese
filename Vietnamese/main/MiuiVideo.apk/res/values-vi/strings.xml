@@ -48,13 +48,13 @@
     <string name="gong_count_xiang">%d mục</string>
     <string name="count_ge">%d mục</string>
     <string name="video">Video</string>
-    <string name="favorite">Gắn dấu sao</string>
-    <string name="myfavorite">Gắn dấu sao</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="myfavorite">Yêu thích</string>
     <string name="recentplay">Đã phát gần đây</string>
     <string name="mycamera">Video của tôi</string>
     <string name="dlna_name">Đã chia sẻ thiết bị</string>
     <string name="dlna_list_name">Thiết bị DLNA</string>
-    <string name="myfavorite_onlylocal">Đã gắn dấu sao</string>
+    <string name="myfavorite_onlylocal">Đã yêu thích</string>
     <string name="login_tip_title">Đăng nhập</string>
     <string name="login_tip_content">Đăng nhập bằng tài khoản Mi của bạn để đồng bộ và cập nhật cho thấy rằng bạn đang theo dõi.</string>
     <string name="cancel">Hủy</string>
@@ -85,7 +85,7 @@
     <string name="clarity_standard">Chuẩn</string>
     <string name="vp_unknown_source">Nguồn không xác định</string>
     <string name="vp_download_file_fail">Tải xuống thất bại. Hãy chắc chắn rằng có đủ dung lượng trống</string>
-    <string name="vp_download_connect_fail">Không tìm thấy URL. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+    <string name="vp_download_connect_fail">Không thể lấy liên kết</string>
     <string name="file_not_exist">Tệp không tồn tại</string>
     <string name="vp_app_name">Mi Video</string>
     <string name="temp_play_history_button_label">Lịch sử</string>
