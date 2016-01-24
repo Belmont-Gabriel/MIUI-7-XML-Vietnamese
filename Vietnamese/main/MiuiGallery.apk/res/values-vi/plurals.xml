@@ -5,61 +5,61 @@
         <item quantity="one">Xóa %1$s album (%2$s mục tất cả)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Mục đã chọn bao gồm ảnh hoặc video trên Mi Cloud, xóa %s mục này trên cả thiết bị và Mi Cloud?</item>
+        <item quantity="other">Xóa %s mục này trên cả thiết bị và Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Mục đã chọn bao gồm ảnh trên Mi Cloud, xóa %s ảnh này trên cả thiết bị và Mi Cloud?</item>
-        <item quantity="one">Mục đã chọn bao gồm ảnh trên Mi Cloud, xóa %s ảnh này trên cả thiết bị và Mi Cloud?</item>
+        <item quantity="other">Xóa %s ảnh này trên cả thiết bị và Mi Cloud?</item>
+        <item quantity="one">Xóa ảnh này trên cả thiết bị và Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Mục đã chọn bao gồm video trên Mi Cloud, xóa %s video này trên cả thiết bị và Mi Cloud?</item>
-        <item quantity="one">Mục đã chọn bao gồm video trên Mi Cloud, xóa %s video này trên cả thiết bị và Mi Cloud?</item>
+        <item quantity="other">Xóa %s video này trên cả thiết bị và Mi Cloud?</item>
+        <item quantity="one">Xóa video này trên cả thiết bị và Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Mục đã chọn là hình ảnh hoặc video trên Mi Cloud, xóa %s mục trên Mi Cloud?</item>
+        <item quantity="other">Xóa %s mục trên Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Mục đã chọn là ảnh trên Mi Cloud, xóa %s ảnh Mi Cloud?</item>
-        <item quantity="one">Mục đã chọn là ảnh trên Mi Cloud, xóa %s ảnh Mi Cloud?</item>
+        <item quantity="other">Xóa %s ảnh trên Mi Cloud?</item>
+        <item quantity="one">Xóa ảnh này trên Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Mục đã chọn là video trên Mi Cloud, xóa %s video trên Mi Cloud?</item>
-        <item quantity="one">Mục đã chọn là video trên Mi Cloud, xóa %s video trên Mi Cloud?</item>
+        <item quantity="other">Xóa %s video trên Mi Cloud?</item>
+        <item quantity="one">Xóa video này trên Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">Xóa %s mục từ album này?</item>
+        <item quantity="other">Xóa %s mục trong album này?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Xóa %s mục?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Xóa %s ảnh từ album này?</item>
-        <item quantity="one">Xóa %s ảnh từ album này?</item>
+        <item quantity="other">Xóa %s ảnh trong album này?</item>
+        <item quantity="one">Xóa ảnh trong album này?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Xóa %s ảnh?</item>
         <item quantity="one">Xóa %s ảnh?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Xóa %s video từ album này?</item>
-        <item quantity="one">Xóa %s video từ album này?</item>
+        <item quantity="other">Xóa %s video trong album này?</item>
+        <item quantity="one">Xóa video trong album này?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Xóa %s video?</item>
-        <item quantity="one">Xóa %s video?</item>
+        <item quantity="one">Xóa video này?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">Xóa %1$d video từ %2$d album?</item>
-        <item quantity="one">Xóa %1$d video từ %2$d album?</item>
+        <item quantity="other">Xóa %1$d video trong %2$d album?</item>
+        <item quantity="one">Xóa video này trong %2$d album?</item>
     </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Xóa %1$d ảnh từ %2$d album?</item>
-        <item quantity="one">Xóa %1$d ảnh từ %2$d album?</item>
+        <item quantity="other">Xóa %1$d ảnh trong %2$d album?</item>
+        <item quantity="one">Xóa ảnh này trong %2$d album?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">Đã chọn %1$d</item>
-        <item quantity="zero">Đã chọn %1$d</item>
-        <item quantity="one">Đã chọn %1$d</item>
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="zero">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>

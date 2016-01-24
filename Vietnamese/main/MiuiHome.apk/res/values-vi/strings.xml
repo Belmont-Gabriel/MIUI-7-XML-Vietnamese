@@ -8,6 +8,8 @@
     <string name="cancel_action">Hủy</string>
     <string name="bad_wallpaper_source_prompt">Không thể tải hình nền</string>
     <string name="apply_action">Áp dụng</string>
+    <string name="apply_as_lockwallpaper_action">Màn hình khóa</string>
+    <string name="apply_negative_action">Không áp dụng</string>
     <string name="download_action">Tải xuống</string>
     <string name="apply_as_lock_wallpaper_message">Áp dụng hình nền này cho màn hình khóa?</string>
     <string name="lock_screen_failed_message">Không thể áp dụng làm hình nền màn hình khóa</string>
@@ -45,11 +47,11 @@
     <string name="permdesc_read_settings">Cho phép ứng dụng đọc cài đặt và lối tắt trên Màn hình chính.</string>
     <string name="permlab_write_settings">Sửa Lối tắt và Cài đặt Màn hình chính</string>
     <string name="permdesc_write_settings">Cho phép ứng dụng thay đổi cài đặt và lối tắt trên Màn hình chính.</string>
-    <string name="status_pending">đang chờ</string>
-    <string name="status_downloading">đang tải xuống</string>
-    <string name="status_paused">tạm dừng</string>
-    <string name="status_downloaded">đã tải xuống</string>
-    <string name="status_installing">đang cài đặt</string>
+    <string name="status_pending">Đang chờ</string>
+    <string name="status_downloading">Đang tải xuống</string>
+    <string name="status_paused">Đã tạm dừng</string>
+    <string name="status_downloaded">Đã tải xuống</string>
+    <string name="status_installing">Đang cài đặt</string>
     <string name="app_already_exist">Ứng dụng đã tồn tại</string>
     <string name="loading_desktop">Vui lòng chờ…</string>
     <string name="loading_wallpaper">Đang tải…</string>
@@ -237,7 +239,6 @@
     <string name="app_category_productivity">Sản xuất</string>
     <string name="recommend_apps_notice">Ứng dụng được đề nghị</string>
     <string name="recommend_apps_switch_title">Ứng dụng được đề nghị</string>
-    <string name="recommend_apps_switch_summary">Hiển thị các ứng dụng được đề cử ở phía dưới màn hình.</string>
     <string name="recommend_apps_default_title">Trống</string>
     <string name="recommend_apps_tips">Tính năng này cần kết nối internet để làm việc bình thường. Để tắt tính năng này, chạm vào tên của thư mục này.</string>
     <string name="children_folder_title">Trẻ em</string>
@@ -245,5 +246,13 @@
     <string name="children_mode_tips">Quay trở lại Cài đặt và quản lý truy cập ứng dụng.</string>
     <string name="wallpaper_auto_change_title">Màn hình khóa</string>
     <string name="wallpaper_scaling_message">Đang cân chỉnh đến kích thước thích hợp</string>
-	<string name="cant_edit_lock_screen">Không thể thay đổi kiểu màn hình khóa.</string>
+    <string name="cant_edit_lock_screen">Không thể thay đổi phong cách màn hình khóa.</string>
+    <string name="screen_number">Màn hình %d</string>
+    <string name="delete_screen">Xóa phím màn hình</string>
+    <string name="add_screen">Thêm phím màn hình</string>
+    <string name="liked">Đã thích</string>
+    <string name="like">Thích</string>
+    <string name="share">Chia sẻ</string>
+    <string name="settings">Cài đặt</string>
+    <string name="apply">Áp dụng</string>
 </resources>
