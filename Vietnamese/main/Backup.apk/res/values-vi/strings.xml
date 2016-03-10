@@ -6,11 +6,11 @@
     <string name="button_backup">Sao lưu</string>
     <string name="start_backup">Bắt đầu sao lưu</string>
     <string name="button_cancel">Hủy</string>
+    <string name="button_send">Gửi</string>
     <string name="backup_empty">Không có bản sao lưu nào.</string>
     <string name="backup_items_sysdata_tailer">" tập tin dữ liệu hệ thống,"</string>
     <string name="backup_items_app_tailer">" tập tin dữ liệu ứng dụng"</string>
     <string name="backup_failed">Không thể sao lưu</string>
-    <string name="backup_recently">" (sao lưu gần đây nhất) "</string>
     <string name="sdcard_unmounted">Gắn thẻ SD bây giờ</string>
     <string name="backup_progress">Đang sao lưu…</string>
     <string name="button_ok">OK</string>
@@ -18,6 +18,7 @@
     <string name="backup_finished">Sao lưu thành công</string>
     <string name="backup_report">Xem chi tiết</string>
     <string name="backup_hint">Giữ thiết bị của bạn luôn mở</string>
+    <string name="backup_hint_onpad">Giữ thiết bị của bạn luôn mở</string>
     <string name="delete_backup_title">Xóa sao lưu</string>
     <string name="delete">Xóa</string>
     <string name="cancel">Hủy</string>
@@ -43,9 +44,9 @@
     <string name="prompt_reading">Đang đọc…</string>
     <string name="prompt_sending">Đang tải lên…</string>
     <string name="prompt_writing">Đang lưu…</string>
-    <string name="backup_new">Mới: </string>
+    <string name="backup_new">Mới:</string>
     <string name="backup_update">Cập nhật</string>
-    <string name="backup_delete">Xóa: </string>
+    <string name="backup_delete">Xóa:</string>
     <string name="findlost_contact">Khôi phục liên hệ</string>
     <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Mi Cloud</string>
     <string name="cloud_backup_login">Đăng nhập vào Tài khoản Mi của bạn</string>
@@ -76,7 +77,7 @@
     <string name="task_canceled">Đã hủy sao lưu</string>
     <string name="task_failed">Không thể sao lưu</string>
     <string name="task_canceled_local">Sao lưu chưa hoàn tất (%s)</string>
-    <string name="task_canceled_all_local">Hủy</string>
+    <string name="task_canceled_all_local">Đã hủy</string>
     <string name="task_failed_local">Sao lưu chưa hoàn tất (%s)</string>
     <string name="task_failed_all_local">Không thể sao lưu</string>
     <string name="task_backup_finished_local">"Đã sao lưu "</string>
@@ -99,7 +100,7 @@
     <string name="task_backup_cancel_progress">Đang dừng…</string>
     <string name="task_restore_cancel_progress">Đang dừng…</string>
     <string name="nothing_searched">Không có kết quả nào.</string>
-    <string name="restore_counts">Khôi phục: </string>
+    <string name="restore_counts">Khôi phục:</string>
     <string name="service_stoped">Dịch vụ đã dừng</string>
     <string name="sc_network_unavailable">Kiểm tra kết nối của bạn và thử lại.</string>
     <string name="sc_bad_request">Yêu cầu không hợp lệ</string>
@@ -114,7 +115,7 @@
     <string name="fail">Thất bại</string>
     <string name="button_return">Quay lại</string>
     <string name="button_next">Tiếp theo</string>
-    <string name="button_finish">OK</string>
+    <string name="button_finish">Hoàn tất</string>
     <string name="progress_backup_hint">Đang sao lưu…</string>
     <string name="cancel_backup">Hủy sao lưu</string>
     <string name="restore_contact">Khôi phục liên hệ</string>
@@ -126,6 +127,10 @@
     <string name="local_select_userapp">Ứng dụng</string>
     <string name="local_select_account_contact">Tài khoản &amp; liên hệ</string>
     <string name="local_select_files">Thẻ SD</string>
+    <string name="local_select_image">Ảnh</string>
+    <string name="local_select_audio">Âm thanh</string>
+    <string name="local_select_video">Video</string>
+    <string name="local_select_doc">Tài liệu</string>
     <string name="data_item_desc">Dữ liệu</string>
     <string name="apps_and_data_item_desc">Ứng dụng và dữ liệu</string>
     <string name="local_no_backup">Không có bản sao lưu nào.</string>
@@ -151,7 +156,7 @@
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>
@@ -185,10 +190,11 @@
     <string name="exchange_account">Chuyển đổi tài khoản</string>
     <string name="system_backup">Sao lưu</string>
     <string name="backup_empty_info">" Sao lưu dữ liệu, cài đặt và ứng dụng của bạn"</string>
+    <string name="backup_empty_info_onpad">" Sao lưu dữ liệu, cài đặt và ứng dụng của bạn"</string>
     <string name="system_backup_info">Cài đặt hệ thống và bố trí Màn hình chính</string>
     <string name="software_backup_info">Dữ liệu ứng dụng</string>
     <string name="account_contact_backup_info">Dữ liệu Tài khoản Google, Tài khoản Mi và Liên hệ</string>
-    <string name="files_backup_info">Tất cả các tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng…)</string>
+    <string name="files_backup_info">Tất cả tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng...)</string>
     <string name="select_backup_item">Chọn mục sao lưu</string>
     <string name="restore_data">Chọn mục để khôi phục</string>
     <string name="backup_data">Chọn mục để sao lưu</string>
@@ -197,6 +203,7 @@
     <string name="every_day">Hàng ngày</string>
     <string name="select_storage_location">Chọn vị trí sao lưu</string>
     <string name="current_phone_location">Điện thoại</string>
+    <string name="current_pad_location">Máy tính bảng</string>
     <string name="xiaomi_router_location">Bộ định tuyến Mi %s</string>
     <string name="xiaomi_router">Bộ định tuyến Mi</string>
     <string name="router_backup_hint">Giữ thiết bị của bạn luôn mở</string>
@@ -236,13 +243,13 @@
     <string name="custom_progress">%d mục</string>
     <string name="remote_receive">Nhận</string>
     <string name="click_to_view">Chạm để xem</string>
-    <string name="trans_one_key_migrate">Chuyển</string>
-    <string name="trans_main_tutor">Chuyển liên hệ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đăt… đến thiết bị mới</string>
+    <string name="trans_one_key_migrate">Mi Mover</string>
+    <string name="trans_main_tutor">Chuyển danh bạ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đặt... đến thiết bị mới</string>
     <string name="trans_sender">Tôi là người gửi</string>
     <string name="trans_receiver">Tôi là người nhận</string>
     <string name="trans_waiting_for_sender">Đang chờ thiết bị cũ kết nối…</string>
-    <string name="trans_waiting_ensurance">"Hãy đảm bảo thiết bị cũ bật
-và Chuyển được bật"</string>
+    <string name="trans_waiting_ensurance">"Hãy chắc chắn thiết bị cũ đã bật
+ và Mi Mover"</string>
     <string name="trans_my_device">Thiết bị của tôi</string>
     <string name="trans_sender_searching">Tìm kiếm thiết bị mới</string>
     <string name="trans_sender_searching_ensurance">"Hãy đảm bảm thiết bị cũ bật
@@ -253,25 +260,55 @@ và Chuyển được bật"</string>
     <string name="trans_backingup">Đang sao lưu…</string>
     <string name="trans_backingup_no_items">Đang đồng bộ…</string>
     <string name="trans_restoring">Đang khôi phục…</string>
-    <string name="trans_time_remained">, sẵn sàng</string>
+    <string name="trans_sender_time_remained">"Còn lại %s. 
+Không tắt Wi-Fi. Giữ các thiết bị đặt gần nhau."</string>
+    <string name="trans_receiver_time_remained">"Còn lại %s.
+Không tắt Điểm phát sóng Wi-Fi. Giữ các thiết bị đặt gần nhau."</string>
+    <string name="trans_time_spent">"
+Thời gian đã dùng: %s"</string>
     <string name="trans_restoring_no_items">Đang đồng bộ các mục</string>
     <string name="trans_detail_category_sysdata">Dữ liệu hệ thống</string>
     <string name="trans_detail_category_userdata">Ứng dụng</string>
     <string name="trans_detail_category_account">Tài khoản và liên hệ</string>
     <string name="trans_detail_category_files">Tập tin</string>
-    <string name="trans_sending_completed">Dữ liệu đã gửi</string>
-    <string name="trans_receiving_completed">Dữ liệu đã nhận</string>
-    <string name="trans_time_format_second">ít hơn một phút</string>
-    <string name="trans_progress_subdescript_transing_sender">Đang gửi %s</string>
-    <string name="trans_progress_subdescript_transing_receiver">Đang nhận %s</string>
-    <string name="trans_progress_subdescript_transingsd_sender">Đang gửi tập tin…</string>
-    <string name="trans_progress_subdescript_transingsd_receiver">Đang nhập tập tin…</string>
-    <string name="trans_progress_subdescript_br_sender">Đang sao lưu %s</string>
-    <string name="trans_progress_subdescript_br_receiver">Đang nhận %s</string>
+    <string name="trans_sending_completed">Gửi thành công</string>
+    <string name="trans_receiving_completed">Nhận thành công</string>
+    <string name="trans_time_format_second">Ít hơn một phút</string>
+    <string name="trans_progress_subdescript_transing_sender">Đang gửi %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transing_receiver">Đang nhận %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transingsd_sender">Đang gửi tập tin, %s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_transingsd_receiver">Đang nhận tập tin, %s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_br_sender">Đang sao lưu %1$s, %2$s đã hoàn tất</string>
+    <string name="trans_progress_subdescript_br_receiver">Đang khôi phục %1$s, %2$s đã hoàn tất</string>
     <string name="trans_progress_subdescript_waiting">Đang chờ để nhận %s</string>
-    <string name="trans_cancel_confirm">Đang chuyển, hủy ngay?</string>
+    <string name="trans_cancel_confirm">Đang chuyển, dừng ngay?</string>
     <string name="trans_cancelling">Đang hủy</string>
     <string name="trans_device_disconnected">Thiết bị đã ngắt kết nối</string>
     <string name="trans_connecting_toast">Đang kết nối…</string>
     <string name="trans_connect_failed_toast">Không thể kết nối</string>
+    <string name="trans_generate_qr_code_failed">Không thể tạo mã QR</string>
+    <string name="trans_scan_invalid_qrcode">Mã QR không hợp lệ</string>
+    <string name="trans_scan_qr_code_tips">Sử dụng thiết bị mới quét mã QR</string>
+    <string name="trans_show_qr_code_label">Kết nối với thiết bị cũ</string>
+    <string name="trans_show_qr_code_tips">Sử dụng thiết bị cũ quét mã QR</string>
+    <string name="trans_operate_new_phone_tips">"Quét mã QR bằng thiết bị mới
+Vào Cài đặt > Cài đặt bổ sung > Mi Mover
+Chạm [Tôi là người nhận] để tạo mã QR"</string>
+    <string name="trans_operate_func_one">Phương pháp A</string>
+    <string name="trans_operate_func_two">Phương pháp B</string>
+    <string name="trans_operate_old_phone_tips1">"1. Cài đặt ứng dụng Mi Mover trên thiết bị cũ
+2. Mở ứng dụng và chọn [Tôi là người gửi]
+3. Quét mã QR trên thiết bị cũ"</string>
+    <string name="trans_operate_old_phone_tips2">Vào cài đặt > Cài đặt bổ sung > Mi Mover, chạm [Tôi là người gửi]</string>
+    <string name="trans_wait_trans_data">"Đã kết nối với thiết bị cũ.
+Đang chờ chuyển…"</string>
+    <string name="trans_select_data">Chọn mục để gửi</string>
+    <string name="trans_select_data_tips">"Chọn tập tin để chuyển
+Tập tin tương tự trên thiết bị mới sẽ được ghi đè"</string>
+    <string name="trans_select_data_no_space">"%s khả dụng trên thiết bị mới
+Chọn tập tin lại hoặc giải phóng dung lượng lưu trữ"</string>
+    <string name="size_byte">B</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_giga_byte">GB</string>
 </resources>

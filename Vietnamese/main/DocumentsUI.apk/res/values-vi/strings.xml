@@ -13,7 +13,14 @@
     <string name="menu_save">Lưu</string>
     <string name="menu_share">Chia sẻ</string>
     <string name="menu_delete">Xóa</string>
-    <string name="mode_selected_count">Đã chọn %1$d</string>
+    <string name="menu_select_all">Chọn tất cả</string>
+    <string name="menu_copy">Sao chép vào…</string>
+    <string name="menu_advanced_show">Hiển thị bộ nhớ trong</string>
+    <string name="menu_advanced_hide">Ẩn bộ nhớ trong</string>
+    <string name="menu_file_size_show">Hiển thị kích thước tệp</string>
+    <string name="menu_file_size_hide">Ẩn kích thước tệp</string>
+    <string name="button_select">Chọn</string>
+    <string name="button_copy">Sao chép</string>
     <string name="sort_name">Theo tên</string>
     <string name="sort_date">Theo ngày sửa đổi</string>
     <string name="sort_size">Theo kích thước</string>
@@ -28,11 +35,14 @@
     <string name="root_type_shortcut">Lối tắt</string>
     <string name="root_type_device">Thiết bị</string>
     <string name="root_type_apps">Các ứng dụng khác</string>
-    <string name="pref_advanced_devices">Hiển thị các thiết bị nâng cao</string>
-    <string name="pref_file_size">Hiển thị kích thước tệp</string>
-    <string name="pref_device_size">Hiển thị kích thước thiết bị</string>
     <string name="empty">Không có mục nào</string>
     <string name="toast_no_application">Không thể mở tệp</string>
     <string name="toast_failed_delete">Không thể xóa một số tài liệu</string>
     <string name="share_via">Chia sẻ qua</string>
+    <string name="copy_notification_title">Đang sao chép tệp</string>
+    <string name="copy_remaining">Còn %s</string>
+    <string name="copy_preparing">Đang chuẩn bị sao chép…</string>
+    <string name="notification_touch_for_details">Chạm để xem chi tiết</string>
+    <string name="retry">Thử lại</string>
+    <string name="copy_failure_alert_content">Những tệp này chưa được sao chép: %1$s</string>
 </resources>

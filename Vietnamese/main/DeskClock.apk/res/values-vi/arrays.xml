@@ -346,6 +346,15 @@
         <item>25 phút</item>
         <item>30 phút</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
     <string-array name="auto_silence_entries">
         <item>Tắt</item>
         <item>1 phút</item>
@@ -360,5 +369,10 @@
         <item>Không</item>
         <item>Báo lại</item>
         <item>Loại bỏ</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

@@ -323,6 +323,7 @@
     <string name="no_album_info">Không có thông tin album</string>
     <string name="no_enough_info">Không đủ thông tin bài hát</string>
     <string name="disallow_add_to_personal_radio">Không thể thêm bài hát đến đài phát cá nhân</string>
+    <string name="disallow_add_to_fm">Không thể thêm bài hát vào đài FM</string>
     <string name="click_to_view_new_local_audios">Chạm để xem chi tiết.</string>
     <string name="more_about_artist">Thêm thông tin về %s</string>
     <string name="play_all_song">Phát tất cả</string>

@@ -133,48 +133,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Bạn không có bất kỳ liên hệ nào để hiển thị.</string>
     <string name="noContactsHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm liên hệ, chạm "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm:
+Để thêm liên hệ, chạm "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm:
  
-"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"</b></font></li>"\" "</string>
+"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"</li></font></b>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
  
-"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"</b></font></li>"\" "</string>
+"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"</li></font></b>"\" "</string>
     <string name="noContactsNoSimHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm địa chỉ liên hệ, chạm vào "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm vào:
+Để thêm địa chỉ liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
  
-"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
-"</b></font></li>"\" "</string>
+"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
+"</li></font></b>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
  
-"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới  để tạo liên hệ mới từ đầu 
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
-"</b></font></li>"\" "</string>
+"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới  để tạo liên hệ mới từ đầu 
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
+"</li></font></b>"\" "</string>
     <string name="noFavoritesHelpText">"\"Bạn không có mục yêu thích nào.
 
 Để thêm liên hệ đến danh sách yêu thích của bạn:
@@ -214,6 +214,11 @@
     <string name="description_image_button_zero">không</string>
     <string name="description_image_button_pound">Bảng Anh</string>
     <string name="description_voicemail_button">Thư thoại</string>
+    <string name="description_image_button_plus">Cộng</string>
+    <string name="description_image_button_comma">Dấu phẩy</string>
+    <string name="description_image_button_dial">Quay số</string>
+    <string name="description_image_button_sim1_dial">Gọi bằng SIM 1</string>
+    <string name="description_image_button_sim2_dial">Gọi bằng SIM 2</string>
     <string name="description_search_button">Tìm kiếm</string>
     <string name="description_dial_button">Quay số</string>
     <string name="description_delete_button">Phím xóa</string>
@@ -237,7 +242,7 @@
     <string name="fail_reason_vcard_parse_error">Không thể phân tích tập tin vCard do một lý do không mong muốn.</string>
     <string name="fail_reason_not_supported">Định dạng không được hỗ trợ.</string>
     <string name="vcard_import_failed">Không thể nhập vCard %s.</string>
-    <string name="import_failure_no_vcard_file">Không tìm thấy tập tin vCard nào trên bộ nhớ.</string>
+    <string name="import_failure_no_vcard_file">Không tìm thấy tập tin vCard nào trong bộ nhớ.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Không thể thu thập thông tin của tập tin vCard.</string>
     <string name="fail_reason_failed_to_read_files">Một hoặc nhiều tập tin không thể nhập (%s).</string>
     <string name="fail_reason_unknown">Lỗi không xác định.</string>
@@ -287,7 +292,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="make_primary">Nhớ lựa chọn này</string>
     <string name="quickcontact_missing_app">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
     <string name="missing_name">(Không có tên)</string>
-	<string name="more_call_logs">Xem lịch sử cuộc gọi chi tiết tại i.mi.com</string>
     <string name="menu_accounts">Tài khoản</string>
     <string name="menu_clear_frequents">Xóa liên hệ thường xuyên</string>
     <string name="menu_contacts_filter">Liên hệ để hiển thị</string>
@@ -295,7 +299,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="dialog_import_export">Nhập/Xuất liên hệ</string>
     <string name="dialog_import">Nhập liên hệ</string>
     <string name="menu_share">Chia sẻ</string>
-    <string name="share_via">Gửi</string>
+    <string name="share_via">Gửi qua</string>
     <string name="share_error">Không thể chia sẻ liên hệ này</string>
     <string name="nameLabelsGroup">Tên</string>
     <string name="nicknameLabelsGroup">Biệt danh</string>
@@ -501,7 +505,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="call_log_new_header">Mới</string>
     <string name="call_log_old_header">Cũ hơn</string>
     <string name="voicemail_status_voicemail_not_available">Không thể kết nối với máy chủ thư thoại.</string>
-	<string name="voip_name">Cuộc gọi Mi</string>
     <string name="voicemail_status_messages_waiting">Không thể kết nối với máy chủ thư thoại. Thư thoại mới đang chờ.</string>
     <string name="voicemail_status_configure_voicemail">Thiết lập thư thoại của bạn.</string>
     <string name="voicemail_status_audio_not_available">Âm thanh không khả dụng.</string>
@@ -590,9 +593,9 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="sim_account_name">SIM</string>
     <string name="miprofile_name">Hồ sơ của tôi</string>
     <string name="miprofile_edit_title">Chỉnh sửa hồ sơ</string>
-    <string name="miprofile_account_type">Tài khoản Mi</string>
+    <string name="miprofile_account_type">Danh thiếp</string>
     <string name="contact_detail_miprofile_request">Chuyển đổi danh thiếp</string>
-    <string name="contact_detail_miprofile_request_subtitle">Cập nhật ảnh hồ sơ và thông tin liên hệ tự động</string>
+    <string name="contact_detail_miprofile_request_subtitle">Tự động cập nhật thông tin liên hệ này</string>
     <string name="contact_detail_miprofile_request_success_toast">Yêu cầu đã gửi</string>
     <string name="contact_detail_miprofile_request_fail_toast">Không thể gửi yêu cầu</string>
     <string name="contact_detail_miprofile_save">Chạm để nhận danh thiếp</string>
@@ -608,14 +611,14 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="contact_detail_profile_switch_on">Xem ảnh hồ sơ liên hệ</string>
     <string name="contact_detail_profile_switch_on_subtitle">Chạm để bật danh thiếp</string>
     <string name="contact_detail_profile_switch_off">Tắt danh thiếp</string>
-    <string name="contact_detail_profile_switch_on_success_toast">Danh thiếp đã bật</string>
+    <string name="contact_detail_profile_switch_on_success_toast">Đã bật danh thiếp</string>
     <string name="contact_detail_profile_switch_on_fail_toast">Không thể bật danh thiếp</string>
     <string name="contact_detail_profile_switch_fail_toast">Xảy ra lỗi với máy chủ của chúng tôi</string>
     <string name="contact_detail_profile_switch_off_success_toast">Danh thiếp đã tắt</string>
     <string name="contact_detail_profile_switch_off_fail_toast">Không thể tắt danh thiếp</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Không thể kết nối mạng</string>
     <string name="contact_detail_miprofile_settings_header">CÀI ĐẶT BỔ SUNG</string>
-    <string name="contact_detail_miprofile_binded_label">Đã thêm</string>
+    <string name="contact_detail_miprofile_binded_label">Đã xác minh</string>
     <string name="contact_detail_miprofile_subtitle">Đã chuyển đổi danh thiếp</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
@@ -636,31 +639,46 @@ Danh thiếp sẽ tắt"</string>
     <string name="miprofile_alertdialog_message">Hiển thị tên này khi chuyển đổi danh thiếp.</string>
     <string name="miprofile_alertdialog_edit">Nhập tên</string>
     <string name="miprofile_switch_off_alertdialog_message">Bạn không thể chuyển đổi danh thiếp với người khác. Liên hệ của bạn sẽ không thể xem video hồ sơ của bạn.</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Thêm số điện thoại</string>
     <string name="miprofile_bind_account_alertdialog_message">Bạn cần phải thêm số điện thoại của thiết bị này đến Tài khoản Mi của bạn để sử dụng tính năng này.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Thêm số điện thoại</string>
+    <string name="miprofile_request_header">Yêu cầu chuyển đổi (tự động hết hạn trong một tuần)</string>
     <string name="miprofile_request_agree">Chấp nhận</string>
-    <string name="miprofile_request_clear_alertdialog_title">Xóa lịch sử</string>
-    <string name="miprofile_request_clear_alertdialog_message">Xóa lịch sử chuyển đổi danh thiếp?</string>
-    <string name="miprofile_request_exchange_title">Tìm danh thiếp</string>
-    <string name="miprofile_request_agenda_today">%1$s cần chuyển đổi danh thiếp</string>
-    <string name="miprofile_request_agenda_yesterday">%1$s cần chuyển đổi danh thiếp</string>
-    <string name="miprofile_request_agenda_date">%1$s muốn chuyển đổi danh thiếp</string>
+    <string name="miprofile_finding_label">Tìm danh thiếp</string>
+    <string name="miprofile_request_agenda_today">Người này muốn chuyển đổi danh thiếp [Hôm nay %1$s]</string>
+    <string name="miprofile_request_agenda_yesterday">Người này muốn chuyển đổi danh thiếp [Hôm qua %1$s]</string>
+    <string name="miprofile_request_agenda_date">Người này muốn chuyển đổi danh thiếp [%1$s]</string>
     <string name="miprofile_request_message">%1$s người muốn chuyển đổi danh thiếp</string>
     <string name="miprofile_request_agree_exchange_profile">Đã chuyển đổi danh thiếp</string>
-    <string name="miprofile_request_time_expired_deleted">Yêu cầu lâu hơn 1 tuần sẽ được xóa tự động.</string>
     <string name="miprofile_request_menu_clear_request">Xóa lịch sử</string>
     <string name="miprofile_request_empty_request">Không có yêu cầu chuyển đổi</string>
     <string name="miprofile_request_notification_message">Chấp nhận để xem ảnh hồ sơ và nhiều thông tin khác</string>
     <string name="miprofile_request_notification_title">%1$s người muốn chuyển đổi danh thiếp</string>
     <string name="miprofile_request_notification_title_name">%1$s muốn chuyển đổi danh thiếp</string>
-    <string name="miprofile_request_deleted">Đã xóa danh thiếp</string>
-    <string name="miprofile_request_agreed">%1$s đã đồng ý để chuyển đổi danh thiếp</string>
+    <string name="miprofile_request_deleted_or_not_added">Thẻ đã xóa hoặc chưa thêm</string>
+    <string name="miprofile_request_agreed">%1$s đã đồng ý chuyển đổi danh thiếp</string>
+    <string name="miprofile_contact_header">Liên hệ có thể thêm danh thiếp</string>
+    <string name="miprofile_contact_add">Thêm</string>
+    <string name="miprofile_contact_added">Đã thêm</string>
+    <string name="miprofile_contact_verifying">Đang xác minh</string>
+    <string name="miprofile_contact_meaasge">Liên hệ trên máy</string>
+    <string name="miprofile_find_profile_loading">Đang tải…</string>
+    <string name="miprofile_find_profile_batch_add">Thêm tất cả hồ sơ</string>
+    <string name="miprofile_find_profile_batch_finish">Hoàn tất</string>
+    <string name="miprofile_find_miprofile_title">Thêm hồ sơ</string>
+    <string name="miprofile_find_profile_subtitle">Thêm để xem ảnh và nhiều thông tin hơn</string>
+    <string name="miprofile_find_profile_no_recommend">Không có hồ sơ được đề nghị</string>
+    <string name="miprofile_find_profile_batch_request_failed">Không thể thêm hồ sơ</string>
     <string name="miprofile_error_not_opened">Tắt danh thiếp</string>
     <string name="miprofile_error_not_set">Danh thiếp của bạn chưa được đồng bộ đến máy chủ</string>
     <string name="miprofile_error_accept_self">Không thể chuyển đổi danh thiếp của riêng bạn</string>
     <string name="miprofile_error_no_miaccount">Đăng nhập vào Tài khoản Mi</string>
     <string name="miprofile_error_unknown">Lỗi không xác định</string>
+    <string name="miprofile_nick_name_edit_dialog_title">Sửa biệt danh</string>
+    <string name="miprofile_nick_name_edit_dialog_message">Biệt danh sẽ xuất hiện trong lịch sử cuộc gọi và thông tin hồ sơ</string>
+    <string name="miprofile_nick_name_edit_dialog_hint">Nhập biệt danh</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="in_call_show">Video</string>
     <string name="my_in_call_show">Video của tôi</string>
     <string name="contacts_in_call_show">Video của %s</string>
@@ -685,9 +703,18 @@ Danh thiếp sẽ tắt"</string>
     <string name="in_call_show_video_pick_filter">"Video phải có dung lượng nhỏ hơn 3MB và ngắn hơn 20 giây. "</string>
     <string name="in_call_show_view_play_error">Không thể phát video</string>
     <string name="in_call_show_camera_open_error">Không thể mở máy ảnh</string>
+    <string name="in_call_show_filter_processing">Đang xử lý...</string>
+    <string name="in_call_show_filter_process_error">Xảy ra lỗi, hãy thử lại.</string>
+    <string name="in_call_show_filter_none">Bình thường</string>
+    <string name="in_call_show_filter_mono">Đen trắng</string>
+    <string name="in_call_show_filter_vivid">Sinh động</string>
+    <string name="in_call_show_filter_brannan">Bình minh</string>
+    <string name="in_call_show_filter_jstyle">Nhật Bản</string>
+    <string name="in_call_show_filter_earlybird">Mùa thu</string>
+    <string name="in_call_show_filter_nashvile">Màu chàm</string>
     <string name="summary_kind_title">Tóm tắt</string>
     <string name="callrecordview_item_newcontact">Liên hệ mới</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$d phút %2$d giây</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$dphút %2$dgiây</string>
     <string name="callrecordview_item_op_time_only_minutes">%d phút</string>
     <string name="callrecordview_item_op_time_only_seconds">%d giây</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Đi: "</string>
@@ -716,20 +743,23 @@ Danh thiếp sẽ tắt"</string>
     <string name="callrecordview_menu_edit_call_note">Sửa ghi chú cuộc gọi</string>
     <string name="menu_dialpad_text">Bàn phím</string>
     <string name="emergency_number_label">Số khẩn cấp</string>
+    <string name="callrecordview_item_op_video">Video</string>
     <string name="dialer_empty_text_no_search_result">Không tìm thấy liên hệ nào</string>
     <string name="dialer_empty_text_loading">Vui lòng chờ…</string>
     <string name="dialer_empty_text_no_call_log">Không có liên hệ gần đây</string>
     <string name="callrecordview_menu_settings">Cài đặt</string>
     <string name="callrecordview_menu_show">Bộ lọc</string>
     <string name="callrecordview_menu_paste">Dán</string>
+    <string name="callrecordview_menu_conference">Cuộc gọi hội nghị</string>
     <string name="openDialKeyboard">Bàn phím</string>
-    <string name="t9_search_guide_pinyin">Nhập \"2\" và \"3\" để tìm \"๖ۣۜßεℓ™ - MIUI.VN\"</string>
-    <string name="t9_search_guide_zhuyin">Nhập \"2\" và \"3\" để tìm \"๖ۣۜßεℓ™ - MIUI.VN\"</string>
+    <string name="t9_search_guide_pinyin">Nhập \"2\" và \"8\" để tìm kiếm \"Ngô Bảo Châu\"</string>
+    <string name="t9_search_guide_zhuyin">Nhập \"2\" và \"8\" để tìm kiếm \"Ngô Bảo Châu\"</string>
     <string name="date_time_set">Đặt</string>
     <string name="service_provider">Danh bạ web</string>
     <string name="zero_items_selected">Chọn mục</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
+    <string name="select_done">Không thể chọn thêm</string>
     <string name="select_none">Chưa chọn gì</string>
     <string name="toast_finish_delete_call_log">Đã xóa lịch sử cuộc gọi</string>
     <string name="toast_finish_delete_selected_call_log">Đã xóa lịch sử cuộc gọi</string>
@@ -748,10 +778,16 @@ Danh thiếp sẽ tắt"</string>
     <string name="delete_unknown_contact_calllog_title">Xóa lịch sử cuộc gọi?</string>
     <string name="callrecordview_menu_batch_delete">Xóa hàng loạt</string>
     <string name="delete_call_log_selected_title">Xóa lịch sử cuộc gọi đã chọn?</string>
+    <string name="multi_number_title">Cuộc gọi hội nghị</string>
+    <string name="multi_number_menu_call">Gọi</string>
+    <string name="multi_number_menu_message">Tin nhắn</string>
+    <string name="multi_number_menu_group">Nhóm mới</string>
+    <string name="multi_number_menu_delete">Xóa</string>
+    <string name="video_call">Cuộc gọi video</string>
     <string name="edit_contact_card_title">Sửa liên hệ</string>
     <string name="preview_contact_card_title">Đang nhập liên hệ…</string>
     <string name="import_contact_card_button">Nhập liên hệ</string>
-    <string name="success_message_import_from_account">Nhập liên hệ thành công</string>
+    <string name="success_message_import_from_account">Đã nhập xong</string>
     <string name="unknown_contact_name">Liên hệ không xác định</string>
     <string name="contactDetailCalllog">Lịch sử cuộc gọi</string>
     <string name="add_blacklist">Thêm vào danh sách chặn</string>
@@ -796,13 +832,13 @@ Danh thiếp sẽ tắt"</string>
     <string name="export_vcard_description">Xuất vCard sang bộ nhớ điện thoại</string>
     <string name="export_sim_contact_finish_msg">Đã chuyển: %1$d | Trùng lặp: %2$d | Còn lại: %3$d</string>
     <string name="pref_title_account_import">Nhập liên hệ</string>
-    <string name="pref_title_import_from_account">Nhập vào tài khoản Mi</string>
+    <string name="pref_title_import_from_account">Nhập đến Tài khoản Mi</string>
     <string name="pref_summary_import_from_account">Chuyển liên hệ từ tài khoản Google và Exchange vào tài khoản Xiaomi của tôi</string>
     <string name="import_to_xiaomi_account_confirm">Nhập</string>
     <string name="import_to_xiaomi_account_progress_title">Nhập liên hệ vào tài khoản Mi</string>
     <string name="import_to_xiaomi_account_progress_message">Đang nhập…</string>
     <string name="import_to_xiaomi_account_progress_finish">Nhập liên hệ hoàn tất</string>
-    <string name="import_to_xiaomi_account_title">Nhập vào tài khoản Mi?</string>
+    <string name="import_to_xiaomi_account_title">Nhập đến Tài khoản Mi</string>
     <string name="select_show_contacts">Danh sách liên hệ</string>
     <string name="rebuild_t9_index_dialog_message">Đang xây dựng lại…</string>
     <string name="pref_key_rebuild_t9_index_title">Xây dựng lại chỉ số dữ liệu</string>
@@ -853,8 +889,8 @@ Danh thiếp sẽ tắt"</string>
     <string name="option_view_group">Xem</string>
     <string name="option_rename_group">Đổi tên</string>
     <string name="option_delete_group">Xóa</string>
-    <string name="deleteConfirmation_title">Xóa?</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" chứa thông tin từ nhiều tài khoản. Thông tin từ các tài khoản ở chế độ chỉ đọc sẽ bị ẩn trong danh sách liên hệ của bạn.</string>
+    <string name="deleteConfirmation_title">Xóa liên hệ này?</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" chứa thông tin từ nhiều tài khoản. Bất kỳ thông tin nào không thể xóa sẽ được ẩn trong danh sách liên hệ của bạn.</string>
     <string name="multipleContactDeleteConfirmationDetail">Xóa \"%s\" sẽ xóa thông tin từ nhiều tài khoản.</string>
     <string name="deleteConfirmationDetail">Xóa \"%s\"?</string>
     <string name="nickname_picker_name_column">Tên liên hệ</string>
@@ -879,7 +915,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="antispam_mark_my_contribution">Hiện đánh dấu của tôi đối với số này cho người dùng khác.</string>
     <string name="antispam_provider_format">Được báo cáo là thư rác bởi %s</string>
     <string name="type_mx_msg">Tin nhắn Mi</string>
-    <string name="qr_card_card">Mã QR của tôi</string>
+    <string name="qr_card_card">Mã QR</string>
     <string name="menu_new_favorite_action_bar">Thêm vào yêu thích</string>
     <string name="click_close">Chạm để đóng</string>
     <string name="phone_primary">Chính</string>
@@ -892,6 +928,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="menu_bar_group_ringtone_largeui">Nhạc chuông</string>
     <string name="group_rename_dialog_title">Đổi tên nhóm</string>
     <string name="group_sms_progress_msg">Đang gửi tin nhắn nhóm…</string>
+    <string name="group_detail_label_placeholder"> </string>
     <string name="group_create_success_toast">Đã tạo nhóm</string>
     <string name="group_rename_success_toast">Đã đổi tên nhóm</string>
     <string name="group_delete_success_toast">Đã xóa nhóm</string>
@@ -922,6 +959,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="label_custom_type">Tùy chỉnh</string>
     <string name="loading_accounts">Vui lòng chờ…</string>
     <string name="pkgLabel">Liên hệ và trình quay số</string>
+    <string name="contact_edit_save_error_empty">Liên hệ trống</string>
     <string name="preference_smart_group_title">Nhóm thông minh</string>
     <string name="preference_smart_group_company_title">Công ty</string>
     <string name="preference_smart_group_company_summary">Nhóm theo công ty</string>
@@ -943,6 +981,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="smart_group_frequency_4">Quá 6 tháng</string>
     <string name="contact_detail_calllog_call_record_tips">Ghi âm cuộc gọi</string>
     <string name="contact_detail_calllog_call_note_tips">Ghi chú</string>
+    <string name="import_from_onekey_migrate">Nhập liên hệ bằng Chuyển</string>
     <string name="import_from_other_phone">Nhập từ điện thoại khác</string>
     <string name="device_brand_title">Chọn thương hiệu</string>
     <string name="device_version_title">Chọn mẫu</string>
@@ -1038,7 +1077,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="call_record_setting_miui">Cài đặt ghi âm</string>
     <string name="accessibility_calllog_detail">Chi tiết lịch sử cuộc gọi</string>
     <string name="select_groups">Chọn nhóm</string>
-    <string name="sim_capacity_content" formatted="false">Tổng: %d | Đã dùng: %d</string>
+    <string name="sim_capacity_content" formatted="false">%d tổng | %d đã dùng</string>
     <string name="sim_error_generic_failure">Đã xảy ra lỗi</string>
     <string name="sim_error_storage_full">Bộ nhớ thẻ SIM đầy</string>
     <string name="sim_error_text_too_long">Tên quá dài</string>
@@ -1047,6 +1086,14 @@ Danh thiếp sẽ tắt"</string>
     <string name="sim_error_email_full">Không đủ dung lượng trên thẻ SIM</string>
     <string name="sim_error_anr_full">Không đủ dung lượng trên thẻ SIM</string>
     <string name="sim_error_password_error">Mật khẩu bạn nhập không chính xác</string>
+    <string name="voip_name">Mi Voice</string>
+    <string name="voip_contacts_entry">Mi Voice</string>
+    <string name="voip_shortcut_name">Mi Voice</string>
+    <string name="voip_contact_label">Mi Voice</string>
+    <string name="voip_loading_contact">Vui lòng chờ…</string>
+    <string name="create_voip_shortcut_success">Lối tắt đã được tạo</string>
+    <string name="no_voip_contacts">Không có liên hệ Mi Voice</string>
+    <string name="calls_voip_prompt">VOIP</string>
     <string name="yellowPageNavigationLabel">Danh bạ web</string>
     <string name="yellowPageNavigationIconLabel">Danh bạ web</string>
     <string name="login_ok">Đăng nhập</string>
@@ -1071,10 +1118,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="imei_invalid">IMEI không hợp lệ</string>
     <string name="meid_invalid">MEID không hợp lệ</string>
     <string name="firewall_setting">Danh sách chặn</string>
-    <string name="solar_calendar">Dương lịch</string>
-    <string name="lunar_calendar">Âm lịch</string>
-    <string name="lunar_leap">Nhuận</string>
-    <string name="lunar_yue">tháng</string>
     <string name="menu_edit_mode">Chế độ chỉnh sửa</string>
     <string name="clip_dialog_title">Quay số sao chép?</string>
     <string name="edit_contact_photo">Chỉnh sửa ảnh liên hệ</string>
@@ -1084,12 +1127,20 @@ Danh thiếp sẽ tắt"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới…</string>
     <string name="pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="pull_to_refresh_refreshing_label">Đang tải…</string>
-    <string name="phone_call_type_voip">Voip</string>
+    <string name="phone_call_type_voip">Mi Voice</string>
     <string name="cloud_recommend_msg">Chạm để đồng bộ liên hệ với Mi Cloud.</string>
     <string name="unknow_phone_number_call_failed">Không thể gọi số không xác định</string>
     <string name="unknow_phone_number_mms_failed">Không thể gửi tin nhắn đến số không xác định</string>
+    <string name="voip_recommend_msg">Chạm để sử dụng Mi Voice</string>
     <string name="cloud_state_sync_finished">Đã đồng bộ với Mi Cloud</string>
     <string name="cloud_state_syncing">Đã đồng bộ với Mi Cloud</string>
     <string name="cloud_state_loading">Vui lòng chờ…</string>
     <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đã tắt</string>
+    <string name="more_call_logs">Xem chi tiết lịch sử cuộc gọi tại i.mi.com</string>
+    <string name="transfer_accounts">Chuyển tài khoản</string>
+    <string name="phone_number_too_long_toast">Số quá dài</string>
+    <string name="dialer_menu_description">Chạm để mở menu trình quay số</string>
+    <string name="back_view_description">Chạm để quay lại</string>
+    <string name="voip_audio_description">Chạm để gửi tin nhắn thoại</string>
+    <string name="voip_video_description">Chạm để gửi tin nhắn video</string>
 </resources>

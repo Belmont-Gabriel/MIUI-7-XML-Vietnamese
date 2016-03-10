@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Báo lỗi</string>
+    <string name="logo_title">Trung tâm Báo Lỗi</string>
     <string name="report_miui">Báo lỗi</string>
     <string name="menu_copy">Sao chép</string>
     <string name="description">Mô tả sự cố</string>
@@ -81,7 +82,7 @@
     <string name="modem_tool_log_start_toast">Bắt đầu lưu modem log đến %s</string>
     <string name="modem_tool_log_stop_toast">Dừng lưu modem log từ %s</string>
     <string name="bugreport_dump_start_notification_title">Đang tạo báo cáo lỗi</string>
-    <string name="bugreport_dump_start_notification_summary">Mất khoảng một phút.</string>
+    <string name="bugreport_dump_start_notification_summary">Quá trình này cần một vài phút, vui lòng chờ…</string>
     <string name="bugreport_dump_complete_notification_title">Đã tạo báo cáo lỗi</string>
     <string name="bugreport_dump_complete_notification_summary">Chạm để xem.</string>
     <string name="plus_one_submit_dialog_content">Phản hồi mà bạn đã chọn cùng với nhật ký lỗi sẽ được gửi đến máy chủ của Mi.</string>

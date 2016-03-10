@@ -7,31 +7,44 @@
         <item>Báo thức</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Không nhắc</item>
         <item>0 phút</item>
+        <item>1 phút</item>
         <item>5 phút</item>
         <item>10 phút</item>
         <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
         <item>30 phút</item>
+        <item>45 phút</item>
         <item>1 giờ</item>
-        <item>1 ngày</item>
+        <item>2 giờ</item>
+        <item>3 giờ</item>
+        <item>12 giờ</item>
+        <item>24 giờ</item>
         <item>2 ngày</item>
         <item>1 tuần</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Không nhắc</item>
+        <item>Không</item>
         <item>0 phút</item>
+        <item>1 phút</item>
         <item>5 phút</item>
         <item>10 phút</item>
         <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
         <item>30 phút</item>
+        <item>45 phút</item>
         <item>1 giờ</item>
-        <item>1 ngày</item>
+        <item>2 giờ</item>
+        <item>3 giờ</item>
+        <item>12 giờ</item>
+        <item>24 giờ</item>
         <item>2 ngày</item>
         <item>1 tuần</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Theo địa phương</item>
+        <item>Ngôn ngữ mặc định</item>
         <item>Thứ bảy</item>
         <item>Chủ nhật</item>
         <item>Thứ hai</item>
@@ -216,6 +229,12 @@
         <item>tháng</item>
         <item>năm</item>
     </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>ngày</item>
+        <item>tuần</item>
+        <item>tháng</item>
+        <item>năm</item>
+    </string-array>
     <string-array name="repeat_choose_day">
         <item>1</item>
         <item>2</item>
@@ -249,12 +268,6 @@
         <item>30</item>
         <item>31</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>ngày</item>
-        <item>tuần</item>
-        <item>tháng</item>
-        <item>năm</item>
-    </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Th 2</item>
         <item>Th 3</item>
@@ -262,7 +275,7 @@
         <item>Th 5</item>
         <item>Th 6</item>
         <item>Th 7</item>
-        <item>CN</item>
+        <item>Cn</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Thg 1</item>
@@ -279,11 +292,11 @@
         <item>Thg 12</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>tuần đầu tiên</item>
-        <item>tuần thứ 2</item>
-        <item>tuần thứ 3</item>
-        <item>tuần thứ 4</item>
-        <item>tuần cuối</item>
+        <item>lần thứ nhất</item>
+        <item>lần thứ 2</item>
+        <item>lần thứ 3</item>
+        <item>lần thứ 4</item>
+        <item>lần cuối</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Thứ hai - Thứ sáu</item>

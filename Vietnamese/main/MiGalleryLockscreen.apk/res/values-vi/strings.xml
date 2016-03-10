@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Thư viện</string>
-    <string name="cancel">Thoát</string>
-    <string name="declaration">"Bằng cách sử dụng sản phẩm này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận sử dụng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách riêng tư&lt;/a> của chúng tôi. Ứng dụng này cần kết nối internet để làm việc bình thường."</string>
-    <string name="declaration_title">Điều khoản dịch vụ</string>
-    <string name="lockscreen_magazine_subscribe">%1$s người theo dõi</string>
-    <string name="lockscreen_magazine_summary">Nhận hình nền được gửi trực tiếp vào màn hình khóa của bạn mỗi ngày.</string>
-    <string name="lockscreen_magazine_system_subscribe">%1$s hình nền</string>
-    <string name="lockscreen_magazine_system_title">Mặc định</string>
     <string name="lockscreen_magazine_title">Màn hình khóa hàng ngày</string>
+    <string name="lockscreen_magazine_summary">Nhận hình nền cho màn hình khóa của bạn mỗi ngày.</string>
+    <string name="lockscreen_magazine_system_title">Mặc định</string>
+    <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
+    <string name="theme_apply_failured">Không thể áp dụng, hãy thử lại sau</string>
+    <string name="theme_applying">Đang áp dụng…</string>
+    <string name="app_name">Màn hình khóa hàng ngày</string>
+    <string name="declaration_title">Điều khoản và Điều kiện</string>
+    <string name="declaration_lockscreen_title">Bật màn hình khóa hàng ngày</string>
+    <string name="declaration">Đăng ký miễn phí các tạp chí báo ảnh hàng đầu thế giới. Cập nhật liên tục tin tức, điện ảnh, thời trang và cuộc sống mới nhất.</string>
+    <string name="cancel">Thoát</string>
     <string name="no_long_show">Không hiển thị lại</string>
-    <string name="ok">Đồng ý</string>
     <string name="resource_apply">Áp dụng</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
-    <string name="theme_apply_failured">Không thể áp dụng hình nền màn hình khóa</string>
-    <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
-    <string name="theme_applying">Đang áp dụng…</string>
+    <string name="setting_head">Cài đặt</string>
+    <string name="wlan_download">Cập nhật khi kết nối Wi-Fi</string>
+    <string name="change_time">Thời gian chuyển</string>
+    <string name="hour_1">1 giờ</string>
+    <string name="hour_3">3 giờ</string>
+    <string name="day">1 ngày</string>
+    <string name="summary">"Chấp nhận &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi để bắt đầu. Yêu cầu kết nối internet."</string>
+    <string name="at_least_one">Chọn ít nhất một thể loại</string>
+    <string name="ok_network">Đồng ý và bật</string>
+    <string name="ok_lockscreen">OK</string>
+    <string name="ok_international">OK</string>
+    <string name="cancel_international">Hủy</string>
+    <string name="summary_international">"Bằng cách sử dụng sản phẩm này, bạn đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Chính sách Riêng tư&lt;/a> của chúng tôi. Ứng dụng cần kết nối internet để làm việc bình thường."</string>
 </resources>

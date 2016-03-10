@@ -17,6 +17,7 @@ Nếu không phải bản thân bạn yêu cầu khôi phục, đừng cho phép
     <string name="device_encryption_backup_text">Vui lòng nhập mật khẩu mã hóa thiết bị của bạn bên dưới. Mật khẩu này cũng được sử dụng để mã hóa kho lưu trữ sao lưu.</string>
     <string name="backup_enc_password_text">Vui lòng nhập mật khẩu dùng để mã hóa toàn bộ dữ liệu sao lưu. Nếu trường này bị bỏ trống, mật khẩu sao lưu hiện tại của bạn sẽ được sử dụng:</string>
     <string name="backup_enc_password_optional">Nếu bạn muốn mã hóa toàn bộ dữ liệu sao lưu, hãy nhập mật khẩu bên dưới:</string>
+    <string name="backup_enc_password_required">Vì thiết bị của bạn được mã hóa nên bạn phải mã hóa bản sao lưu của mình. Vui lòng nhập mật khẩu bên dưới:</string>
     <string name="restore_enc_password_text">Nếu dữ liệu khôi phục được mã hóa, vui lòng nhập mật khẩu bên dưới:</string>
     <string name="toast_backup_started">Đang bắt đầu sao lưu…</string>
     <string name="toast_backup_ended">Đã hoàn thành sao lưu</string>

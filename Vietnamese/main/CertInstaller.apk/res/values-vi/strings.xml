@@ -31,4 +31,38 @@
     <string name="sdcard_not_present">Bộ nhớ USB không khả dụng.</string>
     <string name="only_primary_user_allowed">Chỉ chủ sở hữu thiết bị này mới có thể cài đặt các chứng chỉ.</string>
     <string name="credential_usage_label">Sử dụng bản xác thực:</string>
+    <string name="wifi_title">Cấu hình Wi-Fi</string>
+    <string name="wifi_detail_title">Chi tiết dành cho %s</string>
+    <string name="wifi_detail_label">Chi tiết</string>
+    <string name="wifi_install_label">Cài đặt</string>
+    <string name="wifi_installing_label">Đang cài đặt</string>
+    <string name="wifi_cancel_label">Hủy</string>
+    <string name="wifi_dismiss_label">Loại bỏ</string>
+    <string name="wifi_no_config">Không có</string>
+    <string name="wifi_config_text">"Tên: %1$s
+FQDN: %2$s
+Tổ chức chuyển vùng: %3$s
+Vùng: %4$s
+Phương pháp xác thực: EAP-%5$s
+"</string>
+    <string name="wifi_ttls_config_text">"Tên người dùng: %s
+"</string>
+    <string name="wifi_tls_config_text">"Chứng chỉ ứng dụng khách:
+%1$s
+Khóa: %2$s
+"</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_trust_config_text">"Tin tưởng chứng chỉ:
+%s
+"</string>
+    <string name="install_done_title">Đã cài đặt thông tin xác thực</string>
+    <string name="install_done">Thông tin xác thực %1$s đã được thêm vào mạng Wi-Fi đã lưu.</string>
+    <string name="done_label">XONG</string>
+    <string name="wifi_installer_detail">Cài đặt thông tin xác thực Wi-Fi để kết nối với mạng có sẵn qua %1$s.</string>
+    <string name="wifi_installer_download_error">Tệp đã tải xuống gặp sự cố và không thể cài đặt được. Hãy đảm bảo bạn đã tải xuống tệp từ đúng nguồn.</string>
+    <string name="wifi_installer_fail">Không thể cài đặt thông tin xác thực Wi-Fi. Hãy thử tải tệp xuống một lần nữa.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Đã hủy cài đặt</string>
+    <string name="wifi_installer_fail_title">Không thể cài đặt</string>
+    <string name="wifi_installer_fail_no_wifi">Bật Wi-Fi và thử lại.</string>
 </resources>

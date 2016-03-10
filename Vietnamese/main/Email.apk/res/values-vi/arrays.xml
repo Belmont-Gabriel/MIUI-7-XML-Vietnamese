@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Tối nay</item>
+        <item>Ngày mai</item>
+        <item>Cuối tuần</item>
+        <item>Tuần tới</item>
+        <item>Tháng tới</item>
+        <item>Chọn ngày</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Trả lời</item>
         <item>Trả lời tất cả</item>
@@ -39,21 +47,12 @@
         <item>Fax:</item>
         <item>Mã Bưu chính:</item>
     </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Miễn trừ Trách nhiệm: </item>
-        <item>Miễn trừ Trách nhiệm Email</item>
-        <item>Gửi qua WPSMail</item>
-        <item>Gửi từ</item>
-        <item>Gửi với</item>
-        <item>Cảm ơn,</item>
-        <item>Trân trọng</item>
-    </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Cảm ơn,</item>
         <item>Trân trọng</item>
-        <item>Gửi từ</item>
+        <item>Gửi từ của tôi</item>
         <item>Email gốc</item>
-        <item>Gửi từ</item>
+        <item>Gửi từ của tôi</item>
         <item>Gửi từ</item>
         <item>Từ</item>
         <item>Email này</item>

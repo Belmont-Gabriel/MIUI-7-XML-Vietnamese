@@ -2,7 +2,8 @@
 <resources>
     <string name="slider_text">Trượt lên để yên lặng</string>
     <string name="snooze_confirm_cancel">Hủy báo lại</string>
-    <string name="timer_alarm_cancel_pad">Bấm vào màn hình để ngừng đổ chuông</string>
+    <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
+    <string name="timer_alarm_alert_pad">%s</string>
     <string name="common_settings">Cài đặt</string>
     <string name="alarm_settings">Cài đặt báo thức</string>
     <string name="edit_systemtime">Thiết lập thời gian hệ thống</string>
@@ -66,7 +67,12 @@
     <string name="menu_item_sort_by_name">Sắp xếp theo tên</string>
     <string name="birthday_alarm">Báo thức sinh nhật</string>
     <string name="birthday_alarm_summary">Phát bài hát \"Chúc mừng sinh nhật\" thay cho âm báo thức mặc định trong ngày sinh nhật của bạn</string>
-    <string name="full_wday_month_day_no_year">EEE, d MMMM</string>
+    <string name="turn_off_a_repeat_alarm">Tắt lặp lại báo thức</string>
+    <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
+    <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+    <string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
+    <string name="today">Hôm nay</string>
+    <string name="tomorrow">Ngày mai</string>
     <string name="app_label">Đồng hồ</string>
     <string name="alarm_list_title">Báo thức</string>
     <string name="add_alarm">Thêm báo thức</string>
@@ -81,7 +87,6 @@
     <string name="alert">Nhạc chuông</string>
     <string name="time">Giờ</string>
     <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %d phút</string>
-    <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d phút.</string>
     <string name="alarm_alert_snooze_set">Báo lại trong %d phút.</string>
     <string name="day">1 ngày</string>
     <string name="days">%s ngày</string>
@@ -114,12 +119,7 @@
     <string name="loading_ringtone">Đang tải nhạc chuông…</string>
     <string name="control_set_alarm">Đặt báo thức</string>
     <string name="control_set_alarm_with_existing">Báo thức đã đặt: %s</string>
-    <string name="auto_silence_summary">Báo thức sẽ im lặng sau %d phút</string>
     <string name="menu_edit_alarm">Chỉnh sửa báo thức</string>
     <string name="alarm_in_silent_mode_summary">Phát báo thức ngay cả khi điện thoại ở chế độ im lặng</string>
-	<string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
-	<string name="today">Hôm nay</string>
-	<string name="tomorrow">Ngày mai</string>
-	<string name="turn_off_a_repeat_alarm">Tắt lặp lại báo thức</string>
-	<string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
+    <string name="auto_silence_summary">Báo thức sẽ im lặng sau %d phút</string>
 </resources>
