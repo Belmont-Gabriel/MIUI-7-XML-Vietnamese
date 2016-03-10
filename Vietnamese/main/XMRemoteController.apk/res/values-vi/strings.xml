@@ -731,9 +731,4 @@ vui lòng chờ sau khi thao tác."</string>
     <string name="passport_xiaomi_account_sec_dspt" />
     <string name="passport_xiaomi_account_sec_dspt2">Cần có kết nối internet để đăng nhập vào tài khoản Mi của bạn. Ngoài ra, truy cập vị trí, Mi Cloud, và Mi VIP sẽ được bật tự động.</string>
     <string name="create_shortcut">Thêm vào màn hình chính</string>
-	<string name="voice_download_tips">Không phát hiện công cụ giọng nói iFly, nhấn \"Tải xuống\" để cài đặt…</string>
-    <string name="voice_download_title">Tải xuống</string>
-    <string name="voice_engine_ifly_fail">Nhận dạng giọng nói thất bại</string>
-    <string name="voice_record_start">Bắt đầu thu âm giọng nói</string>
-    <string name="voice_resolving">Xử lý nhận dạng giọng nói</string>
 </resources>
