@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
-    <string name="hello_world">Xin chào!</string>
     <string name="action_settings">Cài đặt</string>
-    <string name="title_activity_p2p_group_owner">P2pGroupOwnerActivity</string>
-    <string name="title_activity_p2p_legacy_station">P2pLegacyStationActivity</string>
-    <string name="title_activity_bonjour">BonjourActivity</string>
     <string name="Start">Bắt đầu</string>
     <string name="Stop">Dừng</string>
     <string name="StartScan">Bắt đầu quét</string>
     <string name="StopScan">Ngừng quét</string>
     <string name="Connect">Kết nối</string>
     <string name="Disconnect">Ngắt kết nối</string>
-    <string name="action_p2pgo">P2pGroupOwner</string>
-    <string name="action_p2pls">P2pLegacyStation</string>
-    <string name="action_bonjour">Bonjour</string>
-    <string name="Register">register</string>
-    <string name="Unregister">unregister</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="Register">Đăng ký</string>
+    <string name="Unregister">Chưa đăng ký</string>
     <string name="TestSender">Kiểm tra Người gửi</string>
     <string name="TestReceiver">Kiểm tra Người nhận</string>
     <string name="TestP2pGo">Test P2pGroupOwner</string>
     <string name="TestP2pGc">Test P2pGroupClient</string>
     <string name="TestP2pLs">Kiểm tra P2pLegacyStation</string>
     <string name="TestBonjour">Kiểm tra Bonjour</string>
-    <string name="title_activity_reception">ReceptionActivity</string>
-    <string name="transmission_click_send">gửi</string>
+    <string name="transmission_click_send">Gửi</string>
     <string name="newText">Văn bản mới</string>
     <string name="transmission_connect">Không tìm thấy người nhận</string>
     <string name="receiver_notification_turn_on">Người nhận phải bật Mi Drop</string>
@@ -88,12 +79,10 @@
     <string name="cancel_receive_confirm">Hủy</string>
     <string name="cancel_receive_stop">Tiếp tục nhận</string>
     <string name="cancel_confirm_title">Chưa chuyển xong, hủy ngay?</string>
-    <string name="title_activity_p2p_group_client">P2pGroupClientActivity</string>
     <string name="file_not_support">Loại tập tin này không được hỗ trợ</string>
     <string name="help">trợ giúp</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
-    <string name="title_activity_intro">IntroActivity</string>
     <string name="intro_midrop">Mi Drop</string>
     <string name="intro_page1_text1">Chia sẻ tập tin với thiết bị lân cận</string>
     <string name="intro_page1_text2">Nay mọi thứ thật dễ dàng</string>

@@ -528,9 +528,6 @@ với bạn bè"</string>
     <string name="moman_camera_icon">Biểu tượng cảm xúc Máy ảnh Moman</string>
     <string name="yunyi_pocket_camera">Máy ảnh Thể thao</string>
     <string name="picker_tab_photo">Ảnh</string>
-    <string name="picker_tab_local">@string/home_page_tab_local</string>
-    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
-    <string name="picker_tab_face">@string/home_page_tab_face</string>
     <string name="picker_no_items_selected">Không có mục nào được chọn</string>
     <string name="picker_select_album_title_empty">Chọn một album</string>
     <string name="picker_no_album_selected">Không có album nào được chọn</string>
@@ -754,12 +751,6 @@ thiết bị"</string>
     <string name="view_baby_info">Sửa thông tin baby</string>
     <string name="baby_album_sharers_page_title">Chia sẻ với gia đình</string>
     <string name="set_bg_file_exist_message">Mục này đã tồn tại</string>
-    <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
-    <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
-    <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
-    <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
-    <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
-    <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
     <string name="set_bg_unknow_reasons">Lỗi không xác định</string>
     <string name="set_bg_picker_default_title">Thiết lập làm hình thu nhỏ phía trên</string>
     <string name="set_baby_icon_picker_default_title">Đặt làm biểu tượng baby</string>
