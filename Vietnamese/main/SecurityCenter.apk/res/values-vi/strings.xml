@@ -151,7 +151,7 @@
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Thiết bị của bạn được thiết lập chuyển sang chế độ này khi pin phục hồi. Bạn cần thay đổi cài đặt của bạn trước khi bạn có thể xóa cài đặt này.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Thiết bị của bạn được hẹn giờ để chuyển sang chế độ này sau đó. Bạn cần phải thay đổi cài đặt pin trước khi bạn có thể xóa nó.</string>
     <string name="power_mode_chooser_button_text">Áp dụng</string>
-    <string name="power_20s_enter_mode">Đang chuyển đổi đến %2$s trong %1$ds</string>
+    <string name="power_20s_enter_mode">Chuyển sang %2$s sau %1$ds</string>
     <string name="power_notify_lowbattery">Pin còn lại %1$d%%</string>
     <string name="power_recovery_mode">Đã hồi phục đến %1$s</string>
     <string name="power_subtitle_lowbattery">Chuyển chế độ sử dụng để tiết kiệm pin.</string>

@@ -45,4 +45,7 @@
     <string name="voice_report_unknown_num">Số không xác định</string>
     <string name="incall_error_call_failed">Không thể thực hiện cuộc gọi.</string>
     <string name="notification_missedCall_call_back_miui">Gọi</string>
+    <string name="dial_vt_fail_prompt">"Mạng hiện tại không hỗ trợ VoLTE. Chuyển sang cuộc gọi thoại thông thường?"</string>
+    <string name="dial_conference_fail_prompt">"Không thể gọi hội nghị trực tiếp vì mạng hiện tại không hỗ trợ VoLTE."</string>
+    <string name="voice_dial_out">Cuộc gọi thoại</string>
 </resources>

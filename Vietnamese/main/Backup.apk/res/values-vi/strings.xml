@@ -44,9 +44,9 @@
     <string name="prompt_reading">Đang đọc…</string>
     <string name="prompt_sending">Đang tải lên…</string>
     <string name="prompt_writing">Đang lưu…</string>
-    <string name="backup_new">Mới:</string>
+    <string name="backup_new">Mới: </string>
     <string name="backup_update">Cập nhật</string>
-    <string name="backup_delete">Xóa:</string>
+    <string name="backup_delete">Xóa: </string>
     <string name="findlost_contact">Khôi phục liên hệ</string>
     <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Mi Cloud</string>
     <string name="cloud_backup_login">Đăng nhập vào Tài khoản Mi của bạn</string>
@@ -100,7 +100,7 @@
     <string name="task_backup_cancel_progress">Đang dừng…</string>
     <string name="task_restore_cancel_progress">Đang dừng…</string>
     <string name="nothing_searched">Không có kết quả nào.</string>
-    <string name="restore_counts">Khôi phục:</string>
+    <string name="restore_counts">Khôi phục: </string>
     <string name="service_stoped">Dịch vụ đã dừng</string>
     <string name="sc_network_unavailable">Kiểm tra kết nối của bạn và thử lại.</string>
     <string name="sc_bad_request">Yêu cầu không hợp lệ</string>
@@ -156,7 +156,7 @@
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>
@@ -194,7 +194,7 @@
     <string name="system_backup_info">Cài đặt hệ thống và bố trí Màn hình chính</string>
     <string name="software_backup_info">Dữ liệu ứng dụng</string>
     <string name="account_contact_backup_info">Dữ liệu Tài khoản Google, Tài khoản Mi và Liên hệ</string>
-    <string name="files_backup_info">Tất cả tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng...)</string>
+    <string name="files_backup_info">Tất cả tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng…)</string>
     <string name="select_backup_item">Chọn mục sao lưu</string>
     <string name="restore_data">Chọn mục để khôi phục</string>
     <string name="backup_data">Chọn mục để sao lưu</string>
@@ -244,7 +244,7 @@
     <string name="remote_receive">Nhận</string>
     <string name="click_to_view">Chạm để xem</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_main_tutor">Chuyển danh bạ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đặt... đến thiết bị mới</string>
+    <string name="trans_main_tutor">Chuyển danh bạ, lịch sử cuộc gọi, tin nhắn, bố cục màn hình chính, ứng dụng, cài đặt… đến thiết bị mới</string>
     <string name="trans_sender">Tôi là người gửi</string>
     <string name="trans_receiver">Tôi là người nhận</string>
     <string name="trans_waiting_for_sender">Đang chờ thiết bị cũ kết nối…</string>

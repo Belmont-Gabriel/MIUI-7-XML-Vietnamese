@@ -17,5 +17,5 @@
     <string name="tencent_dialog_dbupdate">Cập nhật định nghĩa virus tự động</string>
     <string name="avl_dialog_title">Chính sách bảo mật của AVL</string>
     <string name="avl_dialog_header">"Tính năng này sẽ mã hóa và tải lên ID thiết bị của bạn với máy chủ của AVL (%s)."</string>
-    <string name="avl_dialog_policy">xem Chính sách bảo mật</string>
+    <string name="avl_dialog_policy">Xem Chính sách bảo mật</string>
 </resources>

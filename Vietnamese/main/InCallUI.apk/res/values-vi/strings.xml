@@ -10,9 +10,6 @@
     <string name="modify_call_option_vt_rx">Video nhận</string>
     <string name="modify_call_option_voice">Chỉ giọng nói</string>
     <string name="accept_modify_call_request_prompt">Chấp nhận sửa yêu cầu cuộc gọi?</string>
-    <string name="upgrade_vt_prompt">Bạn có muốn nâng cấp cuộc gọi thành gọi video?</string>
-    <string name="upgrade_vt_tx_prompt">Bạn có muốn nâng cấp cuộc gọi thành cuộc gọi chỉ phát video?</string>
-    <string name="upgrade_vt_rx_prompt">Bạn có muốn nâng cấp cuộc gọi thành cuộc gọi chỉ nhận video?</string>
     <string name="inCallLabel">Giao diện cuộc gọi</string>
     <string name="unknown">Không xác định</string>
     <string name="private_num">Số cá nhân</string>
@@ -65,6 +62,7 @@
     <string name="contacts_icon_label">Liên hệ</string>
     <string name="conference_call_number">%s người</string>
     <string name="conference_call_description" formatted="false">%s, %s vv. tổng số %s</string>
+    <string name="conference_call_single_description" formatted="false">%s vv. tổng số %s</string>
     <string name="separate_from_conference">Cuộc gọi đơn</string>
     <string name="callUnanswered_forwarded">Chưa trả lời và Chuyển tiếp Cuộc gọi</string>
     <string name="caller_manage_header">Cuộc gọi hội nghị %s</string>
@@ -120,10 +118,8 @@
     <string name="description_image_button_dialpad">Bàn phím</string>
     <string name="description_image_button_tools">Tùy chọn</string>
     <string name="description_target_answer">Trả lời</string>
-	<string name="dial_with_gsm_phone">Cuộc gọi thông thường</string>
     <string name="ok">OK</string>
     <string name="cancel">Hủy</string>
-	<string name="cancel_call">Gác máy</string>
     <string name="wait_prompt_str">"Gửi âm sau đây?
 "</string>
     <string name="pause_prompt_yes">Đồng ý</string>
@@ -131,10 +127,7 @@
     <string name="waiting_close_airplane_mode">Chờ 1 lát…</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
     <string name="msim_select_default_time_left">(%d giây)</string>
-	<string name="network_error_message">Thử thực hiện cuộc gọi thông thường. Điều này sẽ được tính phí từ nhà mạng.</string>
-	<string name="network_error_title">Lỗi mạng</string>
-	<string name="no_balance_message">Gói bạn đã mua không còn đủ tiền. Bạn có thể thực hiện cuộc gọi thông thường để thay thế..</string>
-	<string name="no_balance_title">Không đủ tiền</string>
+    <string name="select_sim_hint">Không thể sử dụng SIM %2$d trong khi SIM %1$d đang được sử dụng.</string>
     <string name="call_description_recording">Đang ghi âm…</string>
     <string name="call_recording_error_privacy">Không thể ghi âm khi bạn đang ở chế độ Khách</string>
     <string name="call_recording_error_sd_access">Không thể truy cập thẻ SD</string>
@@ -144,10 +137,11 @@
     <string name="call_recording_error_unknown">Xảy ra lỗi không xác định</string>
     <string name="call_recording_notification_title">Đã ghi âm cuộc gọi</string>
     <string name="call_recording_notification_title_error">Không thể ghi âm cuộc gọi</string>
-	<string name="call_self">"Không thể gọi số của mình"</string>
     <string name="call_recording_notification_message">Chạm để nghe.</string>
     <string name="call_recording_notification_message_low_storage">Thẻ SD đã đầy.</string>
     <string name="call_recording_notification_message_sd_unmounted">Thẻ SD đã được gỡ bỏ.</string>
+    <string name="call_recording_deny_permission_msg">Bạn đã từ chối cấp quyền ghi âm, không thể ghi âm.</string>
+    <string name="call_contacts_deny_permission_msg">Bạn đã từ chối cấp quyền đọc liên hệ, không thể hiển thị thông tin liên hệ.</string>
     <string name="antispam_marked_count">Báo cáo của %1$d người dùng MIUI</string>
     <string name="antispam_provider">Được xác định bởi %s</string>
     <string name="antispam_notification_title">Số không rõ</string>
@@ -165,14 +159,40 @@
     <string name="ivr_menu_list_sub_menu_count_format">Bấm %s</string>
     <string name="non_ivr_menu_view_menu">Xem menu</string>
     <string name="non_ivr_menu_collapse_menu">Thu gọn menu</string>
-	<string name="not_support_message">Gói hiện tại không hỗ trợ số này. Bạn có thể thực hiện cuộc gọi thông thường để thay thế.</string>
-	<string name="not_support_title">Số này không được hỗ trợ</string>
-    <string name="livetalk_provider_info">Được cung cấp bởi %s</string>
     <string name="livetalk_left_minute">%s phút còn lại</string>
-    <string name="livetalk_waiting">Đang chờ…</string>
+    <string name="livetalk_dial">Sử dụng gói tùy chọn</string>
     <string name="jeejen_answer_call_text">Trả lời</string>
     <string name="jeejen_reject_call_text">Từ chối</string>
     <string name="jeejen_end_call_text">Kết thúc cuộc gọi</string>
     <string name="jeejen_toggle_dialpad_text">Bàn phím</string>
     <string name="miprofile_stranger_card">Danh thiếp người lạ</string>
+    <string name="card_title_video_call_paused">Video đã tạm dừng</string>
+    <string name="card_title_incoming_conference_call">Cuộc gọi hội nghị</string>
+    <string name="video_switch_to_voice_call_prompt">Chuyển sang cuộc gọi thoại</string>
+    <string name="onscreen_change_to_voice">Cuộc gọi thoại</string>
+    <string name="onscreen_change_to_video">Cuộc gọi video</string>
+    <string name="onscreen_switch_camera">Chuyển máy ảnh</string>
+    <string name="card_title_video_call">Cuộc gọi video</string>
+    <string name="card_title_upgrade_video_call_requesting">Đang yêu cầu cuộc gọi video</string>
+    <string name="card_title_upgrade_video_call_error">Gọi video thất bại</string>
+    <string name="card_title_upgrade_video_call_timed_out">Gọi video thất bại</string>
+    <string name="card_title_upgrade_video_call_rejected_by_remote">Gọi video thất bại</string>
+    <string name="notification_incoming_video_call">Cuộc gọi video đến</string>
+    <string name="onscreen_rcs_text">Tin nhắn</string>
+    <string name="onscreen_close_preview_camera">Đóng máy ảnh</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Tắt chế độ TTY trước</string>
+    <string name="upgrade_vt_prompt">Bạn có muốn nâng cấp cuộc gọi đến thành cuộc gọi video?</string>
+    <string name="conference_caller_name_me">Tôi</string>
+    <string name="incoming_answer_voice_text">Trả lời thoại</string>
+    <string name="picking_participant">Đang nhận thông tin liên hệ…</string>
+    <string name="conference_caller_info_name">Cuộc gọi hội nghị của %1$s</string>
+    <string name="no_balance_title">Không đủ tiền</string>
+    <string name="no_balance_message">Gói tùy chọn của bạn không còn đủ tiền. Bạn có thể thực hiện cuộc gọi thông thường để thay thế.</string>
+    <string name="not_support_title">Số này không được hỗ trợ</string>
+    <string name="not_support_message">Gói tùy chọn hiện tại không hỗ trợ số này. Bạn có thể thực hiện cuộc gọi thông thường để thay thế.</string>
+    <string name="call_self">Không thể gọi số của mình</string>
+    <string name="network_error_title">Lỗi mạng</string>
+    <string name="network_error_message">Thử thực hiện cuộc gọi thông thường. Điều này sẽ được tính phí từ nhà mạng.</string>
+    <string name="dial_with_gsm_phone">Cuộc gọi thông thường</string>
+    <string name="cancel_call">Gác máy</string>
 </resources>

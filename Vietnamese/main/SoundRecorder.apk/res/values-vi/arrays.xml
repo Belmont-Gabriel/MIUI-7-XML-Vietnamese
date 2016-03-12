@@ -18,4 +18,9 @@
         <item>Chuẩn</item>
         <item>Thấp</item>
     </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/giây, ~90MB/giờ</item>
+        <item>MP3, ~100kbit/giây, ~45MB/giờ</item>
+        <item>MP3, ~75kbit/giây, ~32MB/giờ</item>
+    </string-array>
 </resources>

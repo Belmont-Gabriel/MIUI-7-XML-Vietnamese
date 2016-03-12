@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tìm thiết bị</string>
+    <string name="find_device">Tìm Thiết bị</string>
+    <string name="enable_find_device_success">Tìm thiết bị đã bật</string>
+    <string name="disable_find_device_success">Tìm thiết bị đã tắt</string>
+    <string name="enable_find_device_error">Không thể bật Tìm thiết bị. %1$s</string>
+    <string name="disable_find_device_error">Không thể tắt Tìm thiết bị. %1$s</string>
+    <string name="find_device_error_unknown">Lỗi không xác định.</string>
+    <string name="find_device_error_password_changed">Mật khẩu tài khoản đã thay đổi gần đây.</string>
+    <string name="find_device_error_network">Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+    <string name="find_device_error_server">Lỗi máy chủ</string>
+    <string name="find_device_error_account_sys_timeout">Không thể kết nối đến Tài khoản Mi</string>
+    <string name="find_device_crash">Tìm thiết bị bị đóng đột ngột</string>
+    <string name="find_device_stop_noise">Bấm OK để im lặng</string>
+    <string name="find_device_noise_title">Tìm thiết bị đang phát ra âm thanh</string>
+    <string name="find_device_success_title">Tìm thiết bị</string>
+    <string name="find_device_notice_p1">Truy cập</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
+    <string name="find_device_notice_p3">"để định vị, khóa, hoặc khôi phục lại điện thoại.
+Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này."</string>
+    <string name="i_know">OK</string>
+    <string name="activate_xiaomi_account">Kích hoạt thiết bị này</string>
+    <string name="phone_locked">Thiết bị này có thể đã liên kết với tài khoản Mi (%s). Đăng nhập để kích hoạt thiết bị này.</string>
+    <string name="password">Mật khẩu</string>
+    <string name="captcha">Mã xác thực</string>
+    <string name="stop_on_empty_password">Mật khẩu không được để trống</string>
+    <string name="stop_on_empty_captcha">Mã xác thực không được để trống</string>
+    <string name="unlocking">Đang kích hoạt…</string>
+    <string name="unlock">Kích hoạt</string>
+    <string name="verify_password_failed">Không thể xác minh ID Tài khoản Mi %s.</string>
+    <string name="login_failed">Không thể đăng nhập</string>
+    <string name="change_find_device_status_failed">Không thể mở khóa %s.</string>
+    <string name="unlock_error_network">Không thể kết nối mạng</string>
+    <string name="unlock_error_device_id">Không thể nhận ID thiết bị</string>
+    <string name="unlock_error_ssl_hand_shake">Không thể kết nối đến máy chủ, thử thiết lập ngày và giờ thủ công.</string>
+    <string name="unlock_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
+    <string name="unlock_error_server">Lỗi máy chủ</string>
+    <string name="unlock_access_denied">Đã từ chối truy cập</string>
+    <string name="unlock_wrong_captcha">Mã bạn nhập không đúng</string>
+    <string name="unlock_error_unknown">Không thể đăng nhập</string>
+    <string name="unlock_error_user_name">Tên người dùng không hợp lệ</string>
+    <string name="unlock_error_interrupted">Gián đoạn</string>
+    <string name="unlock_error_rpc">Lỗi RPC</string>
+    <string name="device_lost">Thiết bị này bị đánh mất</string>
+    <string name="default_lock_msg_words_with_phone">Xin chào! Tôi bị mất điện thoại. Bạn có thể liên lạc với tôi được không? Cám ơn!</string>
+    <string name="default_lock_msg_words">Xin chào! Tôi bị mất điện thoại. Tôi sẽ liên lạc với bạn sau. Cảm ơn đã thông cảm!</string>
+    <string name="lock_msg_phone">Thông tin liên lạc: %s</string>
+</resources>

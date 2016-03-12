@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="pref_summary_manage_sim_messages">Quản lý tin nhắn được lưu trữ trên thẻ SIM của bạn</string>
-    <string name="pref_title_manage_sim_messages">Quản lý tin nhắn thẻ SIM</string>
+    <string name="pref_title_manage_sim_messages">Dung lượng thẻ SIM</string>
     <string name="confirm_delete_all_SIM_messages">Xóa tất cả tin nhắn trên SIM?</string>
     <string name="confirm_delete_SIM_message">Xóa tin nhắn trên SIM này?</string>
     <string name="sim_manage_messages_title">Tin nhắn văn bản trên thẻ SIM</string>
@@ -365,7 +365,7 @@
     <string name="timed_message_expired_title_2">Gửi bây giờ?</string>
     <string name="timed_message_to">tới</string>
     <string name="timed_message_in_total"> (%d tin nhắn)</string>
-    <string name="processing">Đang xử lý…</string>
+    <string name="processing">Đang tiến hành…</string>
     <string name="title_date_type">Nhãn thời gian</string>
     <string name="mx_msg">Tin nhắn Mi</string>
     <string name="mx_enable">Tin nhắn Mi</string>

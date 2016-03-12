@@ -33,4 +33,10 @@
     <string name="keyboard_layout_slovenian">Tiếng Sloven</string>
     <string name="keyboard_layout_turkish">Tiếng Thổ Nhĩ Kỳ</string>
     <string name="keyboard_layout_ukrainian">Tiếng Ukraina</string>
+    <string name="keyboard_layout_arabic">Tiếng Ả rập</string>
+    <string name="keyboard_layout_greek">Tiếng Hy Lạp</string>
+    <string name="keyboard_layout_hebrew">Tiếng Do Thái</string>
+    <string name="keyboard_layout_lithuanian">Tiếng Lithuania</string>
+    <string name="keyboard_layout_spanish_latin">Tiếng Tây Ban Nha (La tinh)</string>
+    <string name="keyboard_layout_latvian">Tiếng Latvia</string>
 </resources>

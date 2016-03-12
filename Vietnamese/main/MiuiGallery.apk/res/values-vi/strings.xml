@@ -5,7 +5,7 @@
     <string name="saving_failure">Không thể lưu ảnh</string>
     <string name="edited_photo_bucket_name">Đã sửa</string>
     <string name="save_photo">Lưu ảnh đã sửa?</string>
-    <string name="yes">Có</string>
+    <string name="yes">Đồng ý</string>
     <string name="no">Không</string>
     <string name="save">Lưu</string>
     <string name="autofix">Tự động sửa</string>
@@ -82,7 +82,7 @@
     <string name="delete_file">Xóa %1$d tập tin?</string>
     <string name="delete_files_and_folders">Xóa %1$d tập tin và %2$d thư mục?</string>
     <string name="confirm_delete_init_title">Xóa ảnh</string>
-    <string name="confirm_delete_init_message">Ảnh sẽ được xóa khỏi thiết bị của bạn và Mi Cloud. Nếu bạn chỉ muốn xóa ở trên máy, vui lòng chọn trong thẻ Ngoại tuyến.</string>
+    <string name="confirm_delete_init_message">Ảnh sẽ được xóa từ bộ nhớ trong thiết bị và từ Mi Cloud. Để xóa ảnh từ bộ nhớ trong thiết bị và giữ lại ảnh trên Mi Cloud, hãy truy cập thẻ Ngoại tuyến.</string>
     <string name="cancel">Hủy</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
@@ -249,7 +249,7 @@
     <string name="menu_item_sort_date">Ngày</string>
     <string name="menu_item_sort_name">Tên</string>
     <string name="operation_rename">Đổi tên</string>
-    <string name="operation_rename_baby">Nhập tên bé</string>
+    <string name="operation_rename_baby">Nhập tên</string>
     <string name="operation_share">Chia sẻ</string>
     <string name="operation_refresh">Làm mới</string>
     <string name="operation_set_as_screensaver">Đặt làm màn hình chờ</string>
@@ -346,7 +346,8 @@
     <string name="share_current_album">Chia sẻ album hiện tại</string>
     <string name="cloud_be_shared_guide_title">Album này đã được chia sẻ bởi một người bạn</string>
     <string name="cloud_be_shared_guide_message">Xem ảnh của bạn bè, và thêm ảnh vào album thì càng tốt.</string>
-    <string name="cloud_owner_album_share_guide">"Chia sẻ album này với bạn bè"</string>
+    <string name="cloud_owner_album_share_guide">"Chia sẻ album này
+với bạn bè"</string>
     <string name="view_sharers">Xem người được chia sẻ</string>
     <string name="cloudfolder_name_reserved">Tên album được bảo lưu</string>
     <string name="cloudfolder_contain_invalidate_char">"Tên album không thể chứa '%s'"</string>
@@ -391,8 +392,8 @@
     <string name="adding_recipients">Đang thêm người nhận…</string>
     <string name="pick_too_many_recipients">Quá nhiều người nhận</string>
     <string name="cannot_send_message">Không thể gửi tin nhắn</string>
-    <string name="has_invalid_recipient">Người nhận không hợp lệ: %1$s</string>
-    <string name="to_count">%d người</string>
+    <string name="has_invalid_recipient">Người nhận không hợp lệ: %1$s&amp;gt</string>
+    <string name="to_count">Tổng %d</string>
     <string name="context_menu_add_contact">Thêm vào liên hệ</string>
     <string name="context_menu_copy_notice">Đã sao chép vào bộ nhớ tạm</string>
     <string name="menu_view_contact">Xem liên hệ</string>
@@ -457,7 +458,7 @@
     <string name="album_share_subtitle_quitting">Đang thoát…</string>
     <string name="system_album">Album hệ thống</string>
     <string name="owner_album_subtitle">Đã chia sẻ với %1$s người</string>
-    <string name="baby_album_new_photo_remind">Có ảnh mới trong album bé của bạn.</string>
+    <string name="baby_album_new_photo_remind">Có ảnh mới trong album baby của bạn.</string>
     <string name="album_quota_fulfiled">Quá nhiều album. Xoá một số album và thử lại.</string>
     <string name="image_quota_fulfiled">Quá nhiều ảnh. Xóa một số ảnh và thử lại.</string>
     <string name="sharer_quota_fulfiled">Số người bạn chia sẻ album này đã đến giới hạn tối đa.</string>
@@ -527,6 +528,9 @@
     <string name="moman_camera_icon">Biểu tượng cảm xúc Máy ảnh Moman</string>
     <string name="yunyi_pocket_camera">Máy ảnh Thể thao</string>
     <string name="picker_tab_photo">Ảnh</string>
+    <string name="picker_tab_local">@string/home_page_tab_local</string>
+    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
+    <string name="picker_tab_face">@string/home_page_tab_face</string>
     <string name="picker_no_items_selected">Không có mục nào được chọn</string>
     <string name="picker_select_album_title_empty">Chọn một album</string>
     <string name="picker_no_album_selected">Không có album nào được chọn</string>
@@ -536,7 +540,8 @@
     <string name="download_fail_confirm_continue">Không thể tải %s.</string>
     <string name="make_download_dir_fail">Không thể tạo thư mục để lưu trữ tập tin</string>
     <string name="delete_smb_file_fail">Không thể xóa tập tin SMB</string>
-    <string name="new_device_tips">"Bấm vào để xem thiết bị"</string>
+    <string name="new_device_tips">"Bấm vào để xem
+thiết bị"</string>
     <string name="home_page_tab_photo">Ảnh</string>
     <string name="home_page_tab_cloud">Mi Cloud</string>
     <string name="home_page_tab_local">Trên máy</string>
@@ -647,7 +652,7 @@
     <string name="more_face_album_name">Nhiều người</string>
     <string name="change_to_face_mode">Sắp xếp theo người</string>
     <string name="change_to_photo_mode">Sắp xếp theo album</string>
-    <string name="create_baby_album_later_toast">Tạo album bé bất cứ lúc nào trong Cài đặt</string>
+    <string name="create_baby_album_later_toast">Tạo album baby bất cứ lúc nào trong Cài đặt</string>
     <string name="not_remind_any_more">Không hiển thị lại</string>
     <string name="not_ask_any_more">Không hỏi lại cho câu trả lời là \"%s\"</string>
     <string name="confirm_recommandation_face_is">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Khuôn mặt này sẽ được di chuyển đến album \"%2$s\" sau khi xác nhận. </Data>" "</string>
@@ -656,25 +661,25 @@
     <string name="confirm_recommandation_multiple_faces_not">" "<Data> Bạn có chắc các ảnh này không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Các ảnh này sẽ được di chuyển đến album \"%2$s\" sau khi xác nhận. </Data>" "</string>
     <string name="finish_create_baby_album_toast">Đã tạo album \"%s\" trên Mi Cloud</string>
     <string name="creating_baby_album">Đang tạo album…</string>
-    <string name="create_baby_album">Tạo album bé</string>
-    <string name="baby_album">Album bé</string>
-    <string name="baby_album_setting_title">Thông tin bé</string>
+    <string name="create_baby_album">Tạo album baby</string>
+    <string name="baby_album">Album baby</string>
+    <string name="baby_album_setting_title">Thông tin baby</string>
     <string name="input_baby_nick_name">Nhập biệt danh</string>
     <string name="baby_nick_name">Biệt danh</string>
     <string name="baby_birthday">Sinh nhật</string>
     <string name="choose_baby_sexy">Giới tính</string>
     <string name="choose_owner_relation">Quan hệ</string>
-    <string name="auto_update_face_summary">Tự động dò tìm và thêm ảnh đến album bé</string>
+    <string name="auto_update_face_summary">Tự động dò tìm và thêm ảnh đến album baby</string>
     <string name="auto_update_face">Thêm ảnh tự động</string>
     <string name="auto_update_on">Bật</string>
     <string name="auto_update_off">Tắt</string>
     <string name="associate_face_album">Chọn album</string>
     <string name="finish_fill_baby">Tạo</string>
     <string name="create_baby_album_dialog_msg">Tạo album cho \"%s\"?</string>
-    <string name="input_nickname_toast">Nhập tên bé</string>
+    <string name="input_nickname_toast">Nhập tên baby</string>
     <string name="baby_sexy">Giới tính</string>
-    <string name="baby_suffix">Bé</string>
-    <string name="already_create_baby_album">Album bé đã có sẵn trên Mi Cloud.</string>
+    <string name="baby_suffix">baby</string>
+    <string name="already_create_baby_album">Album baby đã có sẵn trên Mi Cloud.</string>
     <string name="input_baby_name">Nhập tên</string>
     <string name="baby_name_reserved">Tên này đã được bảo lưu cho album khác</string>
     <string name="baby_name_contain_invalidate_char">Tên không thể chứa \"%s\"</string>
@@ -683,7 +688,7 @@
     <string name="same_name_album_exist_and_toast">Album cùng tên đã tồn tại. Đã đổi tên thành \"%s\".</string>
     <string name="create_quick_icon_on_desk">Tạo lối tắt</string>
     <string name="success_create_quick_icon_on_desk">Đã tạo thành công</string>
-    <string name="view_baby_album">Xem album bé</string>
+    <string name="view_baby_album">Xem album baby</string>
     <string name="pet_album_display_name">Ảnh thú cưng</string>
     <string name="last_valentine_day">Ngày Lễ tình nhân năm trước</string>
     <string name="last_new_year">Tết Dương lịch năm trước</string>
@@ -712,7 +717,7 @@
     <string name="cloud_gallery_space_full_title">Mi Cloud đã đầy</string>
     <string name="upgrade_micloud_space">Thêm dung lượng</string>
     <string name="cloud_gallery_space_full_buy_more">Không thể đồng bộ ảnh mới với Mi Cloud. Để đồng bộ nhiều ảnh hơn, vui lòng mua dung lượng bổ sung.</string>
-    <string name="invite_tip">Chia sẻ ảnh bé</string>
+    <string name="invite_tip">Chia sẻ ảnh baby</string>
     <string name="relation_text_father">Cha</string>
     <string name="relation_text_mother">Mẹ</string>
     <string name="relation_text_grandfather">Ông nội</string>
@@ -733,25 +738,31 @@
     <string name="invite_send_sms_tip">Nhà mạng có thể tính phí 1 tin nhắn SMS được dùng để gửi lời mời này.</string>
     <string name="baby_album_picker_default_title">Chọn khuôn mặt của %1$s</string>
     <string name="baby_album_new_photo_page_title">Album của %1$s</string>
-    <string name="baby_album_sharer_accept_dialog_msg">"%2$s của %1$s, 
-%4$s của %3$s chia sẻ album của %5$s với bạn"</string>
+    <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s, 
+%3$s%4$s chia sẻ album %5$s với bạn"</string>
     <string name="add_automatically_alert_title">Thêm ảnh tự động</string>
     <string name="add_automatically_alert_msg">Thêm ảnh từ \"%1$s\" đến album này tự động?</string>
     <string name="baby_album_sharer_recommand_face">Thêm ảnh có sẵn của %1$s?</string>
     <string name="baby_lock_wallpaper">Hình nền màn hình khóa</string>
-    <string name="baby_lock_wallpaper_title">Sử dụng ảnh bé để làm hình nền màn hình khóa</string>
+    <string name="baby_lock_wallpaper_title">Sử dụng ảnh baby để làm hình nền màn hình khóa</string>
     <string name="apply">Áp dụng</string>
     <string name="baby_lock_wallpaper_save_settings_msg">Áp dụng cài đặt hiện tại?</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Khôi phục hình nền màn hình khóa mặc định?</string>
     <string name="baby_lock_wallpaper_cancelled">Khôi phục hình nền màn hình khóa mặc định</string>
     <string name="set_as_baby_lock_wallpaper">Đặt làm hình nền Màn hình khóa</string>
-    <string name="edit_baby_info">Xem thông tin bé</string>
-    <string name="view_baby_info">Sửa thông tin bé</string>
+    <string name="edit_baby_info">Xem thông tin baby</string>
+    <string name="view_baby_info">Sửa thông tin baby</string>
     <string name="baby_album_sharers_page_title">Chia sẻ với gia đình</string>
     <string name="set_bg_file_exist_message">Mục này đã tồn tại</string>
+    <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
+    <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
+    <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
+    <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
+    <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
+    <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
     <string name="set_bg_unknow_reasons">Lỗi không xác định</string>
     <string name="set_bg_picker_default_title">Thiết lập làm hình thu nhỏ phía trên</string>
-    <string name="set_baby_icon_picker_default_title">Đặt làm biểu tượng bé</string>
+    <string name="set_baby_icon_picker_default_title">Đặt làm biểu tượng baby</string>
     <string name="baby_album_no_share_user_tip">Hiện tại không có người theo dõi</string>
     <string name="more">Thêm</string>
     <string name="number_of_uploading_finish">Đã đồng bộ với Mi Cloud</string>
