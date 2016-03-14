@@ -736,7 +736,7 @@ thiết bị"</string>
     <string name="baby_album_picker_default_title">Chọn khuôn mặt của %1$s</string>
     <string name="baby_album_new_photo_page_title">Album của %1$s</string>
     <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s, 
-%3$s%4$s chia sẻ album %5$s với bạn"</string>
+%3$s %4$s chia sẻ album %5$s với bạn"</string>
     <string name="add_automatically_alert_title">Thêm ảnh tự động</string>
     <string name="add_automatically_alert_msg">Thêm ảnh từ \"%1$s\" đến album này tự động?</string>
     <string name="baby_album_sharer_recommand_face">Thêm ảnh có sẵn của %1$s?</string>
