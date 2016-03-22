@@ -785,11 +785,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Siêu nét (2K)</item>
         <item>Bình thường (720p)</item>
     </string-array>
-    <string-array name="common_password_business_names">
-        <item>Màn hình khóa</item>
-        <item>Chế độ Trẻ em</item>
-        <item>Tập tin</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Hàng ngày</item>
         <item>Các ngày trong tuần</item>
