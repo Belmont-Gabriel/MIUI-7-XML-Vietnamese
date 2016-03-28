@@ -4126,7 +4126,6 @@ Hãy chắc chắn ngón tay được đặt bên trong khung của cảm biến
     <string name="dolby_eq_enter_alert_msg">Bật chế độ âm nhạc Dolby để dùng EQ?</string>
     <string name="equalizer">Bộ chỉnh âm thanh</string>
     <string name="virtual_sim_search_title">SIM Ảo</string>
-    <string name="free_xiaomi_wifi_connect_summary">Chạm để kết nối đến %1$s.</string>
     <string name="privacy_mode_title">Thiết lập riêng tư</string>
     <string name="privacy_mode_summary">Khóa ứng dụng cá nhân hoặc ẩn thông tin cá nhân</string>
     <string name="cloud_backup_section_title">Sao lưu Mi Cloud</string>
