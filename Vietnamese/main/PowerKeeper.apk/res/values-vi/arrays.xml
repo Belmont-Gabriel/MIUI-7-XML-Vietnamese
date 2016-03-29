@@ -53,4 +53,34 @@
         <item>Tùy chỉnh</item>
         <item>Đề nghị</item>
     </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>đang sử dụng</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>quá nhiều trong lúc này</item>
+        <item>quá nhiều trong những ngày này</item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>đã chọn</item>
+        <item>không được chọn</item>
+    </string-array>
 </resources>

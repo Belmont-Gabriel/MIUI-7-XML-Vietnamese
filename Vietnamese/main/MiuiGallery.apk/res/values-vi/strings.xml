@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="photoeditor_name">Trình sửa ảnh Mi Photo</string>
+    <string name="photoeditor_name">Trình sửa ảnh</string>
     <string name="loading_failure">Không thể tải ảnh</string>
     <string name="saving_failure">Không thể lưu ảnh</string>
     <string name="edited_photo_bucket_name">Đã sửa</string>
     <string name="save_photo">Lưu ảnh đã sửa?</string>
-    <string name="yes">Đồng ý</string>
+    <string name="yes">Có</string>
     <string name="no">Không</string>
     <string name="save">Lưu</string>
     <string name="autofix">Tự động sửa</string>
@@ -24,7 +24,7 @@
     <string name="highlight">Nổi bật</string>
     <string name="lomoish">Lomo</string>
     <string name="negative">Âm bản</string>
-    <string name="posterize">Posterize</string>
+    <string name="posterize">Áp phích</string>
     <string name="redeye">Mắt đỏ</string>
     <string name="rotate">Xoay</string>
     <string name="saturation">Bão hòa</string>
@@ -50,7 +50,7 @@
     <string name="frame_movie">Phim</string>
     <string name="adjust">Điều chỉnh</string>
     <string name="effect">Bộ lọc</string>
-    <string name="original">Bản gốc</string>
+    <string name="original">Ảnh gốc</string>
     <string name="early_bird">Mùa thu</string>
     <string name="brannan">Bình minh</string>
     <string name="cool">Lạnh</string>
@@ -785,4 +785,16 @@ thiết bị"</string>
     <string name="hybrid_pull_to_refresh_pull_label">Kéo để làm mới…</string>
     <string name="hybrid_pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Vui lòng chờ…</string>
+    <string name="__leak_canary_analysis_failed">Phân tích rò rỉ thất bại</string>
+    <string name="__leak_canary_class_has_leaked">%s đã bị rò rỉ</string>
+    <string name="__leak_canary_delete">Xóa</string>
+    <string name="__leak_canary_delete_all">Xoá tất cả</string>
+    <string name="__leak_canary_display_activity_label">Rò rỉ</string>
+    <string name="__leak_canary_failure_report">"Vui lòng báo cáo thất bại này đến http://github.com/square/leakcanary"</string>
+    <string name="__leak_canary_leak_list_title">Rò rỉ trong %s</string>
+    <string name="__leak_canary_notification_message">Nhấn để biết thêm chi tiết</string>
+    <string name="__leak_canary_share_heap_dump">Chia sẻ heap dump</string>
+    <string name="__leak_canary_share_leak">Chia sẻ thông tin</string>
+    <string name="__leak_canary_share_with">Đang chia sẻ…</string>
+    <string name="__leak_canary_toast_heap_dump">Dump bộ nhớ, ứng dụng sẽ đóng băng. Brrrr.</string>
 </resources>

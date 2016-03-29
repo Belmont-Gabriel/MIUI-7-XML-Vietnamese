@@ -29,7 +29,7 @@
     <string name="main_alert_message_no_mobile_package">Thiết lập giới hạn dữ liệu</string>
     <string name="main_message_no_package_by_dual">Thiết lập giới hạn sử dụng dữ liệu cho %s</string>
     <string name="main_alert_message_no_imsi">Không có thẻ SIM</string>
-    <string name="main_alert_message_slot_no_data_connection">Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động</string>
+    <string name="main_alert_message_slot_no_data_connection">"Khe cắm thẻ SIM không hỗ trợ kết nối dữ liệu di động"</string>
     <string name="main_primary_message_traffic_enough">Dưới giới hạn sử dụng dữ liệu</string>
     <string name="main_primary_message_traffic_warning">Gần giới hạn sử dụng dữ liệu</string>
     <string name="main_primary_message_traffic_overlimit">Vượt quá giới hạn sử dụng dữ liệu</string>
@@ -225,7 +225,7 @@ Miễn phí: %1$s | Đã dùng %2$s"</string>
     <string name="traffic_protection_text_hint">Thiết lập giới hạn sử dụng dữ liệu cho %s</string>
     <string name="traffic_protection_next">Tiếp tục</string>
     <string name="traffic_protection_data_usage_summary">Thiết lập cảnh báo sử dụng dữ liệu để tránh vượt quá giới hạn dữ liệu hàng tháng.</string>
-    <string name="traffic_protection_use_data">Đã bật dữ liệu</string>
+    <string name="traffic_protection_use_data">Dữ liệu di động</string>
     <string name="setting_traffic_pkg">Thiếp lập gói dữ liệu</string>
     <string name="traffic_correction_start_correction">Đang trao đổi với máy chủ của nhà cung cấp dịch vụ…</string>
     <string name="traffic_correction_start_correction_failed">Yêu cầu thất bại, hãy kiểm tra cài đặt nhà cung cấp</string>
@@ -424,31 +424,31 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="privacy_prompt_traffic_adjust_message">Tính năng này cần mã hóa và gửi số IMEI, số điện thoại, và thông tin nhà mạng của thiết bị tới máy chủ của Mi để nhận thống kê sử dụng dữ liệu.</string>
     <string name="privacy_prompt_traffic_purchase_message">Chi tiết số điện thoại và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ Mi để nhận thêm thông tin về các tùy chọn mua dữ liệu.</string>
     <string name="privacy_prompt_tc_sms_report_message">Chi tiết số điện và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ của Mi để cập nhật thông tin sử dụng dữ liệu của bạn.</string>
-    <string name="international_roaming_setting">Chuyển vùng quốc tế</string>
-    <string name="pref_roaming_setting_gategory">Chuyển vùng dữ liệu</string>
-    <string name="pref_allow_connect_network_title">Chuyển vùng dữ liệu quốc tế</string>
-    <string name="pref_allow_connect_network_whitelist_title">Cho phép ứng dụng trong danh sách ngoại lệ sử dụng dữ liệu di động</string>
-    <string name="pref_whitelist_setting">Quản lý danh sách ngoại lệ</string>
+    <string name="international_roaming_setting">Chuyển vùng dữ liệu</string>
+    <string name="pref_roaming_setting_gategory">Cài đặt</string>
+    <string name="pref_allow_connect_network_title">Chuyển vùng dữ liệu</string>
+    <string name="pref_allow_connect_network_whitelist_title">Cho phép ứng dụng trong danh sách ngoại lệ sử dụng dữ liệu di động khi chuyển vùng</string>
+    <string name="pref_whitelist_setting">Danh sách ngoại lệ chuyển vùng dữ liệu</string>
     <string name="add_white_list">Thêm</string>
-    <string name="international_roaming_whitelist_count">%d ứng dụng có thể sử dụng dữ liệu di động khi chuyển vùng quốc tế</string>
-    <string name="firewall_rule_group_title_roaming">Chuyển vùng quốc tế</string>
-    <string name="dialog_roaming_title">Chuyển vùng quốc tế</string>
-    <string name="dialog_roaming_message">Cho phép ứng dụng này sử dụng dữ liệu di động khi chuyển vùng quốc tế?</string>
-    <string name="add_to_whitelist_button">Quản lý danh sách ngoại lệ</string>
-    <string name="roaming_not_start_title">Chuyển vùng quốc tế</string>
+    <string name="international_roaming_whitelist_count">%d ứng dụng có thể sử dụng dữ liệu di động khi chuyển vùng</string>
+    <string name="firewall_rule_group_title_roaming">Chuyển vùng dữ liệu</string>
+    <string name="dialog_roaming_title">Cho phép chuyển vùng dữ liệu?</string>
+    <string name="dialog_roaming_message">Nhà cung cấp có thể tính phí bổ sung cho việc sử dụng dữ liệu khi chuyển vùng.</string>
+    <string name="add_to_whitelist_button">Danh sách ngoại lệ chuyển vùng dữ liệu</string>
+    <string name="roaming_not_start_title">Chuyển vùng dữ liệu</string>
     <string name="roaming_not_start_body">Chạm để xem cài đặt chuyển vùng dữ liệu.</string>
-    <string name="roaming_start_title">Chuyển vùng quốc tế</string>
+    <string name="roaming_start_title">Chuyển vùng dữ liệu</string>
     <string name="roaming_start_body">Chạm để xem danh sách ứng dụng ngoại lệ sử dụng chuyển vùng dữ liệu.</string>
-    <string name="dialog_app_roaming_title">Chuyển vùng quốc tế chưa được kích hoạt cho %1$s</string>
-    <string name="dialog_app_roaming_message">%1$s không thể sử dụng dữ liệu di động khi chuyển vùng. Khi bạn chuyển vùng quốc tế, chỉ có ứng dụng được thêm trong danh sách ngoại lệ mới có thể sử dụng dữ liệu di động.</string>
+    <string name="dialog_app_roaming_title">%1$s không thể sử dụng chuyển vùng dữ liệu</string>
+    <string name="dialog_app_roaming_message">%1$s không thể sử dụng dữ liệu di động khi chuyển vùng. Khi bạn chuyển vùng, chỉ có ứng dụng được thêm trong danh sách ngoại lệ mới có thể sử dụng dữ liệu di động.</string>
     <string name="add_miservice_dialog_title">Khung Dịch vụ MIUI</string>
     <string name="add_miservice_dialog_content">%s yêu cầu bạn thêm khung dịch vụ MIUI vào danh sách ngoại lệ. Bạn có thể nhận thông báo từ các ứng dụng được xây dựng trong MIUI và của bên thứ ba khác.</string>
-    <string name="pref_roaming_daily_limit_setting_cat_title">Daily data limit</string>
-    <string name="pref_roaming_daily_limit_setting">Giới hạn dữ liệu hàng ngày khi chuyển vùng</string>
+    <string name="pref_roaming_daily_limit_setting_cat_title">Giới hạn dữ liệu hàng ngày</string>
+    <string name="pref_roaming_daily_limit_setting">Đặt giới hạn dữ liệu hàng ngày khi chuyển vùng</string>
     <string name="dialog_roaming_apps_sorted_title">Sắp xếp theo</string>
     <string name="hints_install_apps_new">Chưa bao giờ dùng</string>
     <string name="hints_install_apps_today">Đã dùng hôm nay</string>
-    <string name="mian_page_primary_txt">Chuyển vùng quốc tế</string>
+    <string name="mian_page_primary_txt">Chuyển vùng dữ liệu</string>
     <string name="hints_input_roaming_daily_limit">Nhập giới hạn sử dụng dữ liệu</string>
     <string name="roaming_limit_notification_title">Đã đạt đến giới hạn dữ liệu chuyển vùng hàng ngày</string>
     <string name="roaming_limit_warning_notification_body">Chạm để xem sử dụng dữ liệu.</string>
@@ -541,7 +541,7 @@ Kiểm tra với nhà cung cấp để biết thêm thông tin."</string>
     <string name="network_operator_exception_summary">Không thể kích hoạt thẻ SIM. Đảm bảo rằng thẻ SIM của bạn đã được lắp đặt đúng và đã được nhà mạng kích hoạt.</string>
     <string name="network_blocked_connected_open_wifi">Đã kết nối tới mạng công cộng</string>
     <string name="network_connected_exception_title">Kiểm tra mạng</string>
-    <string name="protocol_exception_title">Chuẩn đoán giao thức mạng</string>
+    <string name="protocol_exception_title">Chẩn đoán giao thức mạng</string>
     <string name="protocol_loop_back_exception_summary">Kiểm tra vòng lặp trên máy thất bại. Để báo cáo vấn đề này với MIUI, truy cập ứng dụng Báo cáo Lỗi và gửi báo lỗi từ thiết bị của bạn.</string>
     <string name="ip_address_exception_summary">Không thể lấy địa chỉ IP. Nếu bạn gặp vấn đề này một lần nữa, hãy thử sử dụng một địa chỉ IP tĩnh.</string>
     <string name="local_ip_exception_summary">Không thể lấy địa chỉ IP. Để báo cáo vấn đề này với MIUI, truy cập ứng dụng Báo cáo Lỗi và gửi đi báo cáo lỗi thiết bị của bạn.</string>
@@ -589,53 +589,53 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Không thể bắt buộc đóng ứng dụng hệ thống.</string>
     <string name="network_speed_for_apps_close">Buộc đóng</string>
     <string name="network_speed_for_apps_others">Khác</string>
-    <string name="tc_diagnostic_title">Chuẩn đoán nhà mạng</string>
+    <string name="tc_diagnostic_title">Chẩn đoán nhà mạng</string>
     <string name="start_diagnostic_botton">Bắt đầu</string>
     <string name="updating_diagnostic_botton">Đang phân tích dữ liệu…</string>
     <string name="tc_diagnostic_onekey_repair_botton">Sửa</string>
     <string name="tc_diagnostic_repair_and_continue">Sửa và tiếp tục</string>
     <string name="tc_diagnostic_upload_button">Báo cáo</string>
-    <string name="tc_diagnostic_fragment_default">"Về chuẩn đoán
-1. Thiết bị này sẽ kết nối với mạng, gửi tin nhắn miễn phí, và chờ phản hồi của nhà mạng. Hoạt động này có thể mất đến 5 phút.
-2. Bạn có thể thoát khỏi trang này trong khi chuẩn đoán, nó sẽ được tiếp tục thực hiện trong nền."</string>
-    <string name="sim_location_diagnostic">Chuẩn đoán vị trí</string>
-    <string name="operator_diagnostic">Chuẩn đoán nhà mạng</string>
+    <string name="tc_diagnostic_fragment_default">"Giới thiệu chẩn đoán
+1. Thiết bị này sẽ kết nối với mạng nhà mạng, gửi một tin nhắn miễn phí, và chờ phản hồi. Điều này có thể mất đến 5 phút.
+2. Bạn có thể thoát khỏi trang này trong khi chẩn đoán, hệ thống sẽ tự động chẩn đoán trong nền."</string>
+    <string name="sim_location_diagnostic">Chẩn đoán vị trí</string>
+    <string name="operator_diagnostic">Chẩn đoán nhà mạng</string>
     <string name="brand_diagnostic">Chuẩn đoán thương hiệu nhà mạng</string>
     <string name="tc_diagnostic_status_updating">Đang kiểm tra…</string>
-    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Đúng&lt;/font>"</string>
+    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Chính xác&lt;/font>"</string>
     <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Lỗi&lt;/font>"</string>
-    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Không thể lấy thông tin&lt;/font>"</string>
+    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Không thể nhận thông tin&lt;/font>"</string>
     <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Không có kết nối mạng&lt;/font>"</string>
-    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Hết thời gian&lt;/font>"</string>
-    <string name="tc_diagnostic_status_error_brand">Không tìm thấy mạng lưới mạng</string>
-    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Phản hồi mạng lưới mạng&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Kết quả: Sai vị trí&lt;br/>&lt;br/>Đặt vị trí: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Vị trí thực tế: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Kết quả: Sai nhà mạng&lt;br/>&lt;br/>Đặt nhà mạng: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Nhà mạng thực tế: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Kết quả: Sai hãng nhà mạng&lt;br/>&lt;br/>Đặt hãng: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Hãng thực tế: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chuẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải tiến công cụ chuẩn đoán.&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Kết quả: mạng lưới mạng và hãng đã được thiết lập đúng. &lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh: &lt;br/>1. Số liệu thống kê nhà mạng có thể không đáng tin cậy ở giai đoạn đầu hoặc cuối của tháng.&lt;br/>2. Trợ lý mạng đã không được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải tiến công cụ chuẩn đoán.&lt;/font>"</string>
-    <string name="tc_diagnostic_notification_title">Chuẩn đoán nhà mạng</string>
-    <string name="tc_diagnostic_notification_summary">"Không thể điều chỉnh 5 lần liên tiếp. Nhấn để bắt đầu chuẩn đoán."</string>
-    <string name="tc_diagnostic_upload_success">Cảm ơn phản hồi của bạn!</string>
-    <string name="tc_diagnostic_upload_no_network">Cảm ơn phản hồi của bạn! Báo cáo của bạn sẽ được gửi khi bạn kết nối vào mạng.</string>
-    <string name="tc_diagnostic_location_error_notification_title">Sai vị trí</string>
-    <string name="tc_diagnostic_location_error_notification_summary">Nhấn để điều chỉnh vị trí</string>
-    <string name="tc_diagnostic_operator_error_notification_title">Sai nhà mạng</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Nhấn để thay đổi cài đặt nhà mạng</string>
-    <string name="tc_diagnostic_brand_error_notification_title">Sai loại mạng</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Nhấn để điều chỉnh loại mạng</string>
-    <string name="tc_diagnostic_all_error_notification_title">"Không thể hoàn tất chuẩn đoán"</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Nhấn để báo cáo vấn đề</string>
-    <string name="tc_diagnostic_success_notification_title">Mạng lưới mạng và hãng là chính xác</string>
-    <string name="tc_diagnostic_success_notification_summary">Báo cáo vấn đề này để giúp MIUI cải tiến công cụ chuẩn đoán</string>
+    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Hết giờ&lt;/font>"</string>
+    <string name="tc_diagnostic_status_error_brand">Không tìm thấy nhà cung cấp mạng</string>
+    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Phản hồi của nhà mạng&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Kết quả: Sai vị trí&lt;br/>&lt;br/>Cài đặt vị trí: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Vị trí thực: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng sai&lt;br/>&lt;br/>Cài đặt nhà mạng: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Nhà mạng thực: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Kết quả: Thương hiệu nhà mạng sai&lt;br/>&lt;br/>Cài đặt thương hiệu: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Thương hiệu thực: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chuẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chuẩn đoán&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Kết quả: Mạng nhà mạng và thương hiệu chính xác&lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh:&lt;br/>1. Số liệu thống kê nhà mạng có thể không chính xác vào đầu hoặc cuối tháng.&lt;br/>2. Trợ lý mạng chưa được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chuẩn đoán&lt;/font>"</string>
+    <string name="tc_diagnostic_notification_title">Chẩn đoán nhà mạng</string>
+    <string name="tc_diagnostic_notification_summary">Không thể điều chỉnh liên tục 5 lần. Chạm để bắt đầu chuẩn đoán.</string>
+    <string name="tc_diagnostic_upload_success">Cảm ơn phản hồi của bạn!</string>
+    <string name="tc_diagnostic_upload_no_network">Cảm ơn phản hồi của bạn! Báo cáo của bạn sẽ được gửi khi có kết nối mạng.</string>
+    <string name="tc_diagnostic_location_error_notification_title">Vị trí sai</string>
+    <string name="tc_diagnostic_location_error_notification_summary">Chạm để điều chỉnh vị trí</string>
+    <string name="tc_diagnostic_operator_error_notification_title">Nhà mạng sai</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">Chạm để thay đổi cài đặt nhà mạng</string>
+    <string name="tc_diagnostic_brand_error_notification_title">Loại mạng sai</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">Chạm để điều chỉnh loại mạng</string>
+    <string name="tc_diagnostic_all_error_notification_title">Không thể hoàn tất chuẩn đoán</string>
+    <string name="tc_diagnostic_all_error_notification_summary">Chạm để báo cáo vấn đề</string>
+    <string name="tc_diagnostic_success_notification_title">Nhà mạng và thương hiệu chính xác</string>
+    <string name="tc_diagnostic_success_notification_summary">Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chuẩn đoán</string>
     <string name="tc_diagnostic_repair_success_toast">Đã thay đổi thành công</string>
     <string name="tc_diagnostic_complete">Hoàn tất</string>
-    <string name="tc_diagnostic_notification_sumarry">Nhấn để xem kết quả</string>
-    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, đã sửa các vấn đề vị trí.&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, đã sửa các vấn đề vị trí và nhà mạng.&lt;/font>"</string>
-    <string name="diagnostic_attention_dialog_message">"Chuẩn đoán cho %1$s đang tiến hành. Vui lòng chờ cho đến khi hoàn tất và thử lại."</string>
-    <string name="correction_attention_dialog_message">Đang điều chỉnh các thiết lập… Vui lòng chờ cho đến khi hoàn tất và thử lại.</string>
-    <string name="text_button">Đã hiểu</string>
+    <string name="tc_diagnostic_notification_sumarry">Chạm để xem kết quả</string>
+    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, vấn đề vị trí đã được sửa.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, vấn đề vị trí và nhà mạng đã được sửa.&lt;/font>"</string>
+    <string name="diagnostic_attention_dialog_message">Đang tiến hành chuẩn đoán nhà mạng %1$s. Đợi đến khi quá trình kết thúc và thử lại.</string>
+    <string name="correction_attention_dialog_message">Đang điều chỉnh cài đặt. Hãy chờ quá trình kết thúc và thử lại.</string>
+    <string name="text_button">Tôi biết</string>
     <string name="power_center_title">Pin</string>
     <string name="power_center_consume_rank">Sử dụng pin</string>
     <string name="power_center_custom_title">Chế độ pin</string>
@@ -860,7 +860,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="battery_stats_charging_label">Đang sạc</string>
     <string name="battery_stats_screen_on_label">Màn hình</string>
     <string name="battery_stats_gps_on_label">GPS</string>
-    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
+    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
     <string name="battery_stats_wake_lock_label">Thức</string>
     <string name="battery_stats_phone_signal_label">Tín hiệu mạng di động</string>
     <string name="prompt_input_time_illegal">Không thể đặt thời gian này, hãy thay đổi và thử lại</string>
@@ -1122,24 +1122,24 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="manual_item_white_list_title">Danh sách ngoại lệ</string>
     <string name="manual_item_white_list_summary">Ngăn chặn các ứng dụng đã chọn được tối ưu hóa</string>
     <string name="pm_auto_start_by_system">Khởi chạy ứng dụng</string>
-    <string name="pm_auto_start_by_other_services">Hãy thử tắt các dịch vụ này</string>
+    <string name="pm_auto_start_by_other_services">Thử tắt các dịch vụ này</string>
     <string name="pm_auto_start_by_basic_services">Dịch vụ cơ bản</string>
     <string name="pm_auto_start_basic_services_lock">Khóa</string>
     <string name="pm_auto_start_basic_services_unlock">Mở khóa</string>
     <string name="pm_auto_start_proc_is_running">Đang chạy</string>
     <string name="empty_app">Không có ứng dụng nào</string>
-    <string name="pm_remember_choice">Nhớ lụa chọn này</string>
+    <string name="pm_remember_choice">Nhớ lựa chọn của tôi</string>
     <string name="install_title">Cài đặt qua USB</string>
     <string name="usb_install_desc">Cài đặt ứng dụng này qua USB?</string>
     <string name="continue_install">Cài đặt</string>
     <string name="reject_countdown">Từ chối (%d)</string>
-    <string name="reject_usb_install">Đã từ chối cài đặt các ứng dụng sau qua USB</string>
+    <string name="reject_usb_install">Đã từ chối cài đặt của ứng dụng bên dưới qua USB</string>
     <string name="pc_install_manager">Cài đặt qua USB</string>
     <string name="monitor_requests_from_pc">Quản lý cài đặt ứng dụng qua USB</string>
     <string name="app_install_intercept">Chặn cài đặt</string>
     <string name="pc_to_phone_install">Đã chặn cài đặt %s qua USB</string>
-    <string name="recently_reject_message_one">Đã từ chối yêu cầu cài đặt của %1$s </string>
-    <string name="recently_reject_message">Đã từ chối cài đặt của %1$s và %2$d ứng dụng khác</string>
+    <string name="recently_reject_message_one">Đã từ chối yêu cầu cài đặt của %1$s</string>
+    <string name="recently_reject_message">Từ chối cài đặt của %1$s và %2$d ứng dụng khác</string>
     <string name="delete_from_manual_item_white_list">Xóa khỏi danh sách ngoại lệ</string>
     <string name="manual_white_list_header">%d danh sách ngoại lệ</string>
     <string name="button_text_ignore">Bỏ qua</string>
@@ -1153,7 +1153,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="title_network_switch">Cho phép kết nối internet</string>
     <string name="summary_network_switch">Cho phép ứng dụng Bảo mật kết nối internet</string>
     <string name="title_power_optimizer">Tiết kiệm pin</string>
-    <string name="summary_power_optimizer">Giảm hiệu suất thiết bị</string>
+    <string name="summary_power_optimizer">Giảm hiệu suất thiết bị khi pin yếu</string>
     <string name="history_details_title">Chi tiết lịch sử</string>
     <string name="title_data_flow">Thiết lập cảnh báo sử dụng dữ liệu</string>
     <string name="summary_data_flow">Tránh vượt quá giới hạn dữ liệu hàng tháng</string>
@@ -1188,10 +1188,10 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="summary_virus_cloudscan">Tải lên tên và chi tiết ứng dụng và quét bằng cách sử dụng nhận dạng virus trực tuyến</string>
     <string name="title_cleaner_cloudscan">Tải lên tên thư mục</string>
     <string name="summary_cleaner_cloudscan">Tải lên và so sánh tên thư mục với cơ sở dữ liệu trực tuyến</string>
-    <string name="title_live_talk_purchase">Nạp tiền ngay</string>
-    <string name="summary_live_talk_purchase">Tiết kiệm 70% cước cuộc gọi cho bạn.</string>
+    <string name="title_live_talk_purchase">Bật Gói tùy chọn</string>
+    <string name="summary_live_talk_purchase">Tiết kiệm 70% chi phí cuộc gọi</string>
     <string name="title_xiaomi_roaming">Chuyển vùng Mi</string>
-    <string name="summary_xiaomi_roaming">0.01 tệ cho mỗi MB lưu lượng mạng quốc tế.</string>
+    <string name="summary_xiaomi_roaming">0.01 NDT/MB đối với lưu lượng mạng quốc tế.</string>
     <string name="toast_network_switch">Ứng dụng này có thể kết nối internet</string>
     <string name="toast_flow_notification">Đã bật thông báo sử dụng dữ liệu</string>
     <string name="toast_show_notification">Đã ghim trên thanh thông báo</string>
@@ -1244,7 +1244,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="preferred_app_entries_gallery">Thư viện</string>
     <string name="preferred_app_entries_music">Nhạc</string>
     <string name="preferred_app_entries_email">Email</string>
-    <string name="system_info_remind">Thêm khóa để ngăn chặn truy cập trái phép vào các ứng dụng của bạn</string>
+    <string name="system_info_remind">Thêm khóa để ngăn chặn truy cập trái phép vào ứng dụng của bạn</string>
     <string name="Setting_lock">Cài đặt</string>
     <string name="btn_jump">Bỏ qua</string>
     <string name="btn_lock">Thêm khóa</string>
@@ -1256,54 +1256,54 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="lockpattern_retry_button_text">Vẽ lại</string>
     <string name="lockpattern_continue_button_text">Tiếp theo</string>
     <string name="lockpattern_confirm_button_text">OK</string>
-    <string name="modifypassword">Đổi mật khẩu</string>
+    <string name="modifypassword">Thay đổi mật khẩu</string>
     <string name="showpattern">Hiển thị hình mở khóa</string>
-    <string name="suggest_app_tolock">Gợi ý</string>
+    <string name="suggest_app_tolock">Kiến nghị</string>
     <string name="modify_password_info">Hình mở khóa</string>
     <string name="forget_password_button_text"><u>Quên mật khẩu</u></string>
     <string name="lockpattern_need_to_unlock">Xác nhận hình mở khóa đã lưu</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Quá nhiều lần thử không thành công!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Vui lòng chờ %d giây và thử lại.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Chờ %d giây và thử lại.</string>
     <string name="lockpassword_confirm_your_pattern_header">Xác nhận hình mở khóa</string>
     <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
     <string name="lockscreen_glogin_submit_button">Đăng nhập</string>
-    <string name="toast_lockscreen_glogin_empty_password">Yêu cầu mật khẩu</string>
+    <string name="toast_lockscreen_glogin_empty_password">Cần nhập mật khẩu</string>
     <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
     <string name="passwordIncorrect">Tên đăng nhập hoặc mật khẩu không chính xác</string>
     <string name="help_label">Trợ giúp</string>
     <string name="access_control_need_to_unlock">"Mở khóa bằng dấu vân tay hoặc nhập mật khẩu"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Nhập mật khẩu mở khóa</string>
     <string name="access_control_need_password">"Đã thêm %s Khóa thành công"</string>
-    <string name="privacy_mode_dialog_title">Chế độ khách</string>
-    <string name="access_control_reset_by_account">Đăng nhập tài khoản Mi của bạn để đặt lại khóa ứng dụng</string>
-    <string name="lockpattern_settings_help_how_to_record">Làm sao để vẽ một hình mở khóa</string>
+    <string name="privacy_mode_dialog_title">Chế độ Khách</string>
+    <string name="access_control_reset_by_account">Đăng nhập vào Tài khoản Mi để đặt lại khóa ứng dụng</string>
+    <string name="lockpattern_settings_help_how_to_record">Vẽ hình mở khóa như thế nào</string>
     <string name="lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm</string>
-    <string name="lockpattern_recording_intro_header">Kết nối ít nhất 4 điểm để tạo một hình mở khóa</string>
+    <string name="lockpattern_recording_intro_header">Kết nối ít nhất 4 điểm để tạo hình mở khóa</string>
     <string name="lockpattern_pattern_entered_header">Đã thêm hình mở khóa</string>
     <string name="lockpattern_need_to_confirm">Vẽ lại hình để xác nhận</string>
-    <string name="lockpattern_need_to_unlock_wrong">Thử lại</string>
+    <string name="lockpattern_need_to_unlock_wrong">Hãy thử lại</string>
     <string name="lockpattern_recording_inprogress">Thả ngón tay ra khi hoàn tất hình mở khóa</string>
     <string name="lockpattern_pattern_confirmed_header">Hình mở khóa mới của bạn</string>
     <string name="lockpassword_confirm_your_password_header">Xác nhận mật khẩu</string>
     <string name="lock_settings_title">Khóa màn hình và mật khẩu</string>
-    <string name="access_control_recording_intro_header">Vẽ hình mở khóa để thêm khóa ứng dụng</string>
+    <string name="access_control_recording_intro_header">Vẽ hình để thêm khóa ứng dụng</string>
     <string name="forget_pattern"><u>Quên hình mở khóa?</u></string>
-    <string name="recommend_app">Ứng dụng đề nghị</string>
-    <string name="fingerprint_to_lock">Mở khóa bằng vân tay</string>
-    <string name="fingerprint_verification">Xác nhận dấu vân tay</string>
+    <string name="recommend_app">Ứng dụng được đề nghị</string>
+    <string name="fingerprint_to_lock">Mở khóa bằng dấu vân tay</string>
+    <string name="fingerprint_verification">Xác minh dấu vân tay</string>
     <string name="system_application">Ứng dụng hệ thống</string>
     <string name="third_application">Ứng dụng bên thứ ba</string>
     <string name="security_app_lock">Khóa ứng dụng</string>
     <string name="fingerprint_verification_message">Xác minh dấu vân tay hiện tại để bắt đầu sử dụng tính năng này.</string>
-    <string name="finger_remind_message">Khóa ứng dụng hỗ trợ việc mở khóa bằng dấu vân tay. Thêm dấu vân tay?</string>
-    <string name="fingerprint_not_remind">"Không hỏi lại"</string>
+    <string name="finger_remind_message">Khóa ứng dụng hỗ trợ mở khóa bằng vân tay. Thêm vân tay?</string>
+    <string name="fingerprint_not_remind">Không hỏi lại</string>
     <string name="fingerprint_verify_succeed">Xác minh thành công</string>
-    <string name="fingerprint_verify_failed">"Không thể xác minh"</string>
-    <string name="fingerprint_verify_try_agin">"Không thể quét dấu vân tay, hãy thử lại."</string>
+    <string name="fingerprint_verify_failed">Không thể xác minh</string>
+    <string name="fingerprint_verify_try_agin">Không thể quét, thử lại</string>
     <string name="cancal_to_setting_fingerprint">Hủy</string>
     <string name="go_to_setting_fingerprint">Vào Cài đặt</string>
-    <string name="fingerprint_remind_dialog_title">Mở khóa bằng vân tay</string>
-    <string name="confirm_fingerprint_msg">Đặt ngón tay bạn trên cảm biến dấu vân tay</string>
+    <string name="fingerprint_remind_dialog_title">Mở khóa vân tay</string>
+    <string name="confirm_fingerprint_msg">Hãy đặt ngón tay của bạn trên bộ đọc vân tay</string>
     <string name="fingerprint_identify_msg">Đang quét vân tay…</string>
-    <string name="fingerprint_not_identified_msg">Để mở khóa điện thoại, hãy nhập mật khẩu của bạn.</string>
+    <string name="fingerprint_not_identified_msg">Để mở khóa thiết bị, nhập mật khẩu của bạn.</string>
 </resources>
