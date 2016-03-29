@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="slideshow_time_entries">
-        <item>5 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>Không giới hạn</item>
-    </string-array>
     <string-array name="baby_sexy">
         <item>Trai</item>
         <item>Gái</item>
@@ -18,5 +11,14 @@
         <item>Bà nội</item>
         <item>Ông ngoại</item>
         <item>Bà ngoại</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Tôi</item>
+        <item>Con cái</item>
+        <item>Gia đình</item>
+        <item>Đồng nghiệp</item>
+        <item>Bạn học</item>
+        <item>Bạn bè</item>
+        <item>Không xác định</item>
     </string-array>
 </resources>
