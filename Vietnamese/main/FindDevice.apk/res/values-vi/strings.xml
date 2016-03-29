@@ -11,9 +11,11 @@
     <string name="find_device_error_network">Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
     <string name="find_device_error_server">Lỗi máy chủ</string>
     <string name="find_device_error_account_sys_timeout">Không thể kết nối đến Tài khoản Mi</string>
+    <string name="find_device_error_account_unknown_error">Lỗi tài khoản Mi (%s)</string>
     <string name="find_device_crash">Tìm thiết bị bị đóng đột ngột</string>
+    <string name="find_device_storage_corrupted">Dữ liệu tìm thiết bị đã bị hỏng. Thiết bị của bạn hiện không an toàn.</string>
     <string name="find_device_stop_noise">Bấm OK để im lặng</string>
-    <string name="find_device_noise_title">Tìm thiết bị đang phát ra âm thanh</string>
+    <string name="find_device_noise_title">Âm báo tìm thiết bị</string>
     <string name="find_device_success_title">Tìm thiết bị</string>
     <string name="find_device_notice_p1">Truy cập</string>
     <string name="find_device_notice_p2">i.mi.com</string>
@@ -42,6 +44,15 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="unlock_error_user_name">Tên người dùng không hợp lệ</string>
     <string name="unlock_error_interrupted">Gián đoạn</string>
     <string name="unlock_error_rpc">Lỗi RPC</string>
+    <string name="unlock_help_title">Trợ giúp mở khóa:</string>
+    <string name="unlock_help">"Duy trì kết nối vào mạng.
+Hãy chắc chắn bạn đã gắn một thẻ SIM đang hoạt động, và thiết bị của bạn phải được kết nối với một mạng Wi-Fi hiệu quả.
+
+Quên mật khẩu?
+Truy cập id.mi.com để thiết lập lại mật khẩu của bạn
+
+Các lý do khác
+Đăng nhập vào i.mi.com và thử mở khóa thiết bị của bạn từ đó."</string>
     <string name="device_lost">Thiết bị này bị đánh mất</string>
     <string name="default_lock_msg_words_with_phone">Xin chào! Tôi bị mất điện thoại. Bạn có thể liên lạc với tôi được không? Cám ơn!</string>
     <string name="default_lock_msg_words">Xin chào! Tôi bị mất điện thoại. Tôi sẽ liên lạc với bạn sau. Cảm ơn đã thông cảm!</string>
