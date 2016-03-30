@@ -35,7 +35,7 @@
     <string name="apply_title">Đang cập nhật (%s)</string>
     <string name="timer_title">Thiết bị sẽ khởi động lại sau %d giây.</string>
     <string name="progress_title_checking">Đang kiểm tra cập nhật…</string>
-    <string name="menu_title_download_current_rom">Tải xuống bản cập nhật</string>
+    <string name="menu_title_download_current_rom">Tải xuống ROM mới nhất</string>
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
     <string name="menu_title_recovery">Khởi động lại vào Recovery</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
