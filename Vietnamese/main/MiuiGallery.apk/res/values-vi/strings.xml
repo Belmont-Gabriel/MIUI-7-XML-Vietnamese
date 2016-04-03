@@ -482,7 +482,7 @@
     <string name="request_qr_code_failed">Yêu cầu mã QR thất bại</string>
     <string name="retry_to_request_qr_code">Thử lại</string>
     <string name="retry_to_create_album">Thử lại</string>
-    <string name="gallery_setting">Cài đặt</string>
+    <string name="gallery_setting">Thư viện</string>
     <string name="cloud_settings">Mi Cloud</string>
     <string name="backup_automatically_title">Sao lưu và đồng bộ tự động</string>
     <string name="backup_automatically_summary">Sao lưu ảnh và video từ tất cả thiết bị vào MiCloud. Bạn có thể duyệt, sắp xếp, chỉnh sửa, chia sẻ ảnh và video dễ dàng trên tất cả thiết bị.</string>
