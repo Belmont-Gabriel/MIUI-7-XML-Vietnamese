@@ -21,4 +21,11 @@
         <item>Bạn bè</item>
         <item>Không xác định</item>
     </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>Không giới hạn</item>
+    </string-array>
 </resources>
