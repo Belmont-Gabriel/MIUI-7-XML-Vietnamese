@@ -68,12 +68,12 @@
         <item>30 phút</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Rất nhỏ</item>
+        <item>Bé</item>
         <item>Nhỏ</item>
-        <item>Trung bình</item>
+        <item>Vừa</item>
         <item>Lớn</item>
-        <item>Rất lớn</item>
-        <item>Cực lớn</item>
+        <item>To</item>
+        <item>Đại</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Rất chậm</item>
@@ -131,10 +131,6 @@
         <item>30 ngày qua</item>
         <item>Đặt chu kỳ sử dụng…</item>
     </string-array>
-    <string-array name="sim_card_data_range">
-        <item>4 số cuối</item>
-        <item>4 số đầu</item>
-    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Tự động</item>
         <item>Chỉ 5 GHz</item>
@@ -165,15 +161,6 @@
         <item>Không chọn</item>
         <item>Thủ công</item>
         <item>Tự động định cấu hình proxy</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Tắt</item>
-        <item>Thông báo</item>
-        <item>Rung</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>Tiếng Trung (Giản Thể)</item>
-        <item>Tiếng Trung (Phồn Thể)</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Không</item>
@@ -209,11 +196,6 @@
         <item>Bộ nhớ trong của thiết bị</item>
         <item>Thẻ SD tháo lắp được</item>
         <item>Cho phép hệ thống quyết định</item>
-    </string-array>
-    <string-array name="app_ops_permissions">
-        <item>Được phép</item>
-        <item>Từ chối</item>
-        <item>Luôn hỏi</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Vị trí</item>
@@ -271,7 +253,7 @@
         <item>chiếu phương tiện</item>
         <item>kích hoạt VPN</item>
         <item>hình nền ghi</item>
-        <item>cơ cấu hỗ trợ</item>
+        <item>cấu trúc hỗ trợ</item>
         <item>ảnh chụp màn hình hỗ trợ</item>
     </string-array>
     <string-array name="app_ops_labels">
@@ -323,7 +305,7 @@
         <item>Chiếu phương tiện</item>
         <item>Kích hoạt VPN</item>
         <item>Hình nền ghi</item>
-        <item>Cơ cấu hỗ trợ</item>
+        <item>Cấu trúc hỗ trợ</item>
         <item>Ảnh chụp màn hình hỗ trợ</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
@@ -343,11 +325,11 @@
         <item>Chữ viết hoa nhỏ</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Rất nhỏ</item>
+        <item>Bé</item>
         <item>Nhỏ</item>
-        <item>Bình thường</item>
+        <item>Vừa</item>
         <item>Lớn</item>
-        <item>Rất lớn</item>
+        <item>Đại</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Mặc định</item>
@@ -358,7 +340,7 @@
         <item>Giảm</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Sử dụng mặc định của ứng dụng</item>
+        <item>Mặc định của ứng dụng</item>
         <item>Chữ trắng trên nền đen</item>
         <item>Chữ đen trên nền trắng</item>
         <item>Chữ vàng trên nền đen</item>
@@ -371,16 +353,6 @@
         <item>1M/lần tải nhật ký</item>
         <item>4M/lần tải nhật ký</item>
         <item>16M/lần tải nhật ký</item>
-    </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (gỡ lỗi)</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Sử dụng Dalvik</item>
-        <item>Sử dụng ART</item>
-        <item>Sử dụng bản dựng gỡ lỗi ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Không bao giờ kiểm tra</item>
@@ -497,16 +469,11 @@
         <item>Cực thấp</item>
         <item>\?</item>
     </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Tắt</item>
-        <item>Hạn chế gián đoạn</item>
-        <item>Không gián đoạn</item>
-    </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Bình thường</item>
         <item>Trung bình</item>
         <item>Thấp</item>
-        <item>Quan trọng</item>
+        <item>Cực thấp</item>
     </string-array>
     <string-array name="proc_stats_process_states">
         <item>Liên tục</item>
@@ -531,6 +498,14 @@
         <item>Tía</item>
         <item>Hồng</item>
         <item>Đỏ</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>Phương tiện</item>
+        <item>Hình ảnh</item>
+        <item>USB Ethernet</item>
+        <item>Âm thanh</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Ưu tiên Wi-Fi</item>
@@ -586,6 +561,10 @@
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI thập lục phân</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Phím Menu bên trái, phím Quay lại bên phải</item>
+        <item>Phím Quay lại bên trái, phím Menu bên phải</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Hiển thị nhiệm vụ gần đây</item>
@@ -703,13 +682,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Kết nối thủ công</item>
         <item>Luôn hỏi</item>
     </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 phút</item>
-        <item>15 phút</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>Không giới hạn</item>
-    </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>Kết nối tự động</item>
         <item>Kết nối thủ công</item>
@@ -785,6 +757,20 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Siêu nét (2K)</item>
         <item>Bình thường (720p)</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>Bé</item>
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>To</item>
+        <item>Đại</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>Màn hình khóa</item>
+        <item>Chế độ Trẻ em</item>
+        <item>Quản lý Tập tin</item>
+        <item>Khóa ứng dụng</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Hàng ngày</item>
         <item>Các ngày trong tuần</item>
@@ -795,6 +781,33 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Các ngày trong tuần</item>
         <item>Tùy chỉnh</item>
     </string-array>
+    <string-array name="miracast_policies">
+        <item>Giảm độ trễ</item>
+        <item>Chuẩn</item>
+        <item>Chất lượng tốt hơn</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>Không giới hạn</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Tắt</item>
+        <item>Thông báo</item>
+        <item>Rung</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (gỡ lỗi)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Sử dụng Dalvik</item>
+        <item>Sử dụng ART</item>
+        <item>Sử dụng bản dựng gỡ lỗi ART</item>
+    </string-array>
     <string-array name="install_non_market_app_entries">
         <item>Bật (kiến nghị)</item>
         <item>Không sử dụng (nguy hiểm)</item>
@@ -803,16 +816,29 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Bật</item>
         <item>Không sử dụng</item>
     </string-array>
+    <string-array name="sim_card_data_range">
+        <item>4 số cuối</item>
+        <item>4 số đầu</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Được phép</item>
+        <item>Từ chối</item>
+        <item>Luôn hỏi</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Tắt</item>
+        <item>Hạn chế gián đoạn</item>
+        <item>Không gián đoạn</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Tiếng Trung (Giản Thể)</item>
+        <item>Tiếng Trung (Phồn Thể)</item>
+    </string-array>
     <string-array name="pink_panel_led_color_entries">
         <item>Thạch anh tím</item>
         <item>Hồng ngọc</item>
         <item>Hoàng ngọc</item>
         <item>Ngọc lục bảo</item>
         <item>Ngọc hồng lựu</item>
-    </string-array>
-    <string-array name="miracast_policies">
-        <item>Giảm độ trễ</item>
-        <item>Chuẩn</item>
-        <item>Chất lượng tốt hơn</item>
     </string-array>
 </resources>

@@ -93,4 +93,12 @@
         <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
         <item quantity="one">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Luôn tắt cho %d ứng dụng</item>
+        <item quantity="one">Luôn tắt cho 1 ứng dụng</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Không bao giờ tắt cho %d ứng dụng</item>
+        <item quantity="one">Không bao giờ tắt cho 1 ứng dụng</item>
+    </plurals>
 </resources>
