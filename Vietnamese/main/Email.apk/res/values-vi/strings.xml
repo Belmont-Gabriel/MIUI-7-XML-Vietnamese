@@ -392,7 +392,6 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Đăng nhập vào Gmail</string>
     <string name="header_category_account">Tài khoản</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Phản hồi</string>
     <string name="header_label_general_preferences">Chung</string>
     <string name="help_and_info">Trợ giúp</string>
@@ -419,7 +418,6 @@
     <string name="invalid_recipient_title">Lỗi người nhận</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">Tìm kiếm hộp thư trên máy chủ</string>
     <string name="load_more">Tải thêm</string>
     <string name="loading_conversation">Đang tải…</string>
