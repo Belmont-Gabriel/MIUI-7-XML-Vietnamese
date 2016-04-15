@@ -3836,6 +3836,7 @@ Nếu bạn chọn không sử dụng quảng cáo được cá nhân hóa, số
     <string name="free_wifi_user_agreement">Khi bạn sử dụng WiWide để kết nối mạng, số điện thoại của bạn sẽ được dùng để xác minh danh tính.</string>
     <string name="free_wifi_user_agreement_allow">Cho phép</string>
     <string name="free_wifi_user_agreement_title">Cảnh báo riêng tư</string>
+    <string name="translation_contributors_title">MIUI Việt Nam</string>
     <string name="wifi_type_approval_title">Loại phê duyệt</string>
     <string name="wifi_type_approval_dialog_title">SỐ NTC.</string>
     <string name="status_sim">Tình trạng thẻ SIM</string>

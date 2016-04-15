@@ -14,11 +14,11 @@
         <item>Chuyển tiếp</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Rất nhỏ</item>
+        <item>Bé</item>
         <item>Nhỏ</item>
-        <item>Bình thường</item>
+        <item>Vừa</item>
         <item>Lớn</item>
-        <item>Rất lớn</item>
+        <item>Đại</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Đã xem gần đây</item>
@@ -47,6 +47,15 @@
         <item>Fax:</item>
         <item>Mã Bưu chính:</item>
     </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Từ chối:</item>
+        <item>Email từ chối</item>
+        <item>Gửi qua WPSMail</item>
+        <item>Gửi từ</item>
+        <item>Gửi với</item>
+        <item>Cảm ơn,</item>
+        <item>Trân trọng</item>
+    </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Cảm ơn,</item>
         <item>Trân trọng</item>
@@ -56,7 +65,7 @@
         <item>Gửi từ</item>
         <item>Từ</item>
         <item>Email này</item>
-        <item>Từ chối trách nhiệm</item>
-        <item>Miễn trừ Trách nhiệm Email</item>
+        <item>Từ chối</item>
+        <item>Email từ chối</item>
     </string-array>
 </resources>

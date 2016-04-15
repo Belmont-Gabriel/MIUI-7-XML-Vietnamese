@@ -48,10 +48,10 @@
     <string name="sync_on">Bật</string>
     <string name="sync_off">Tắt</string>
     <string name="mx_dspt">Tin nhắn Mi</string>
-    <string name="mx_voip_dspt">Mi Voice</string>
+    <string name="mx_voip_dspt">Cuộc gọi Mi</string>
     <string name="mx_sub_dspt_provision">Tin nhắn Mi</string>
     <string name="mx_sub_dspt_provision_with_voip">Gọi qua internet</string>
-    <string name="voip_choose_sim">Chọn số điện thoại để kích hoạt Mi Voice</string>
+    <string name="voip_choose_sim">Chọn số điện thoại để kích hoạt Cuộc gọi Mi</string>
     <string name="activate_number_change_dialog_message">Chọn số điện thoại để hiển thị cho các thiết bị khác khi bạn gọi bằng VoIP.</string>
     <string name="phone_number_may_required_dspt_provision">"Dịch vụ này có thể yêu cầu số điện thoại của bạn. "</string>
     <string name="phone_number_required_dspt_provision">"Dịch vụ này yêu cầu số điện thoại của bạn. "</string>
@@ -77,10 +77,10 @@
     <string name="find_device_dspt_provision_3">. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
     <string name="find_device_dspt_provision_4">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
     <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, hệ thống sẽ gửi tin nhắn SMS tự động để kích hoạt lại tính năng này.</string>
-    <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho người dùng MIUI khác mà không phải trả phí.
+    <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho thiết bị MIUI khác mà không phải trả phí khi kết nối Wi-Fi.
 
 Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt."</string>
-    <string name="mx_dspt_provision_with_voip">Gọi người dùng MIUI khác miễn phí bằng cách sử dụng kết nối internet. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư</string>
+    <string name="mx_dspt_provision_with_voip">Gọi thiết bị MIUI khác miễn phí bằng cách sử dụng kết nối internet. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư</string>
     <string name="mx_dspt_provision_with_voip2">Chính sách Riêng tư</string>
     <string name="mx_dspt_provision_privacy">"Tính năng này có thể yêu cầu số điện thoại của bạn. Nhà cung cấp có thể tính phí một tin nhắn SMS được sử dụng để kích hoạt.
 
@@ -159,7 +159,7 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="micloud_space_soundrecorder_detail">Quản lý ghi âm được lưu trữ trên thiết bị của bạn</string>
     <string name="micloud_space_full_influence"><u>Điều gì sẽ xảy ra khi tôi hết dung lượng lưu trữ?</u></string>
     <string name="micloud_storage_usage" formatted="false">Đã dùng %s/Tổng dung lượng %s</string>
-    <string name="micloud_storage_full">Lưu trữ Mi Cloud đã đầy</string>
+    <string name="micloud_storage_full">Mi Cloud đã đầy</string>
     <string name="micloud_title_dspt" formatted="false">"Tổng %s 
  đã dùng %s | còn lại %s"</string>
     <string name="micloud_title_dspt_remain">Còn lại %s</string>
@@ -408,6 +408,8 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="micloud_notif_content_battery_low">Pin quá yếu.</string>
     <string name="micloud_notif_title_sync_with_off">Đồng bộ với Mi Cloud</string>
     <string name="micloud_notif_content_sync_with_off">Chạm để đồng bộ thiết bị của bạn ngay.</string>
+    <string name="micloud_notif_title_clipboard_push">Đã sao chép nội dung vào bộ nhớ tạm</string>
+    <string name="micloud_notif_content_clipboard_push">Không thể dán ở bất cứ đâu.</string>
     <string name="micloud_find_device_guide_title">"Đăng nhập %s để định vị, khóa
 hoặc xóa thiết bị của bạn."</string>
     <string name="micloud_find_device_guide_content">"Khi bạn đổi thẻ SIM, một tin nhắn sẽ được gửi tự động
@@ -429,6 +431,14 @@ hoặc xóa thiết bị của bạn."</string>
     <string name="micloud_find_device_guide_noti_content">Bật</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Bật Tìm thiết bị để bảo vệ dữ liệu WeChat của bạn</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Bật Tìm thiết bị để bảo vệ dữ liệu Alipay của bạn</string>
+    <string name="activate_finddevice">Kết nối mạng để kích hoạt thiết bị</string>
+    <string name="account_related">Thiết bị này đã liên kết với Tài khoản Mi (%s). Kết nối mạng để xác minh thiết bị.</string>
+    <string name="connect_network">Kết nối Wi-Fi hoặc lắp thẻ SIM</string>
+    <string name="detect_sim_card">Tìm kiếm lại thẻ SIM</string>
+    <string name="connect_wlan">Kết nối Wi-Fi</string>
+    <string name="soundrecorder_sync_records">Đồng bộ với Mi Cloud</string>
+    <string name="soundrecorder_sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải xuống hoặc tải lên các bản ghi âm</string>
     <string name="cloud_backup_have_data">Tìm thấy sao lưu trên Mi Cloud</string>
     <string name="cloud_backup_select_recover">Chọn sao lưu từ Mi Cloud</string>
 </resources>

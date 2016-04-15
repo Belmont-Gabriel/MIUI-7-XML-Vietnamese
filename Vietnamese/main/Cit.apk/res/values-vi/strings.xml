@@ -85,7 +85,7 @@ Trước khi bạn hiệu chỉnh, hãy đặt thiết bị trên bề mặt ph�
     <string name="cit_headset_plug_detect_summary">Khi tai nghe được kết nối, dòng chữ \"Đã phát hiện tai nghe\" sẽ hiển thị bên dưới.</string>
     <string name="cit_headset_button_check_summary">Khi tai nghe được kết nối, nhấn các phím trên tai nghe từ xa (thường nằm trên dây). Dòng chữ tương ứng trên màn hình sẽ chuyển thành màu xanh lá cây.</string>
     <string name="cit_headset_pull_detect_summary">Khi tai nghe bị ngắt kết nối, dòng chữ \"Tai nghe đã bị ngắt kết nối\" sẽ hiển thị bên dưới</string>
-    <string name="cit_sim_check_summary">Xác nhận rằng trạng thái và thông tin thẻ SIM được hiển thị bên dưới là đúng</string>
+    <string name="cit_sim_check_summary">Hãy đảm bảo rằng thông tin thẻ SIM và trạng thái được hiển thị chính xác.</string>
     <string name="cit_reset_check_summary">Kiểm tra này sẽ khởi động lại thiết bị. Tất cả dữ liệu kiểm tra trước sẽ bị mất.</string>
     <string name="cit_audio_loopback_check_summary_first">"Kiểm tra phản hồi bộ thu micrô chính
 
@@ -252,6 +252,8 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_batterylight_blue">Xanh lam</string>
     <string name="cit_torch_on">Bật đèn flash</string>
     <string name="cit_torch_off">Tắt đèn flash</string>
+    <string name="cit_blue_torch_on">Bật đèn flash xanh</string>
+    <string name="cit_yellow_torch_on">Bật đèn flash vàng</string>
     <string name="cit_button_light_on">Bật đèn phím bấm</string>
     <string name="cit_button_light_off">Tắt đèn phím bấm</string>
     <string name="cit_notificationlight">Đèn thông báo</string>

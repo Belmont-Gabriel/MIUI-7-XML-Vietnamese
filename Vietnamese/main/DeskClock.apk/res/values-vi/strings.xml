@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="stat_repeat_none">Dùng 1 lần</string>
+    <string name="stat_repeat_everyday">Hàng ngày</string>
+    <string name="stat_repeat_legal_workday">Ngày làm việc</string>
+    <string name="stat_repeat_legal_off_day">Ngày nghỉ hợp pháp</string>
+    <string name="stat_repeat_weekdays">Thứ Hai đến thứ Sáu</string>
+    <string name="stat_repeat_weekends">Cuối tuần</string>
+    <string name="stat_repeat_self_define">Tùy chỉnh</string>
     <string name="slider_text">Trượt lên để yên lặng</string>
     <string name="snooze_confirm_cancel">Hủy báo lại</string>
     <string name="timer_alarm_cancel_pad">Chạm vào màn hình để tắt báo thức</string>
@@ -17,7 +24,6 @@
     <string name="delete_timer_item_title">Xóa nhiệm vụ hẹn giờ</string>
     <string name="delete_selected_timer_item">Xóa nhiệm vụ hẹn giờ đã chọn?</string>
     <string name="delete_timezone_title">Xóa múi giờ</string>
-    <string name="delelte_selected_timezone">Xóa múi giờ đã chọn?</string>
     <string name="timezone_exist_error_message">Bạn đã hiển thị múi giờ đó</string>
     <string name="alarm_disabled">Tắt</string>
     <string name="alarm_ascending_mode_title">Âm lượng tăng dần</string>
@@ -59,6 +65,8 @@
     <string name="legal_workday_invalidate">Dữ liệu đã hết hạn (Báo thức đổ chuông từ Thứ hai đến Thứ sáu)</string>
     <string name="legal_workday_invalidate_message">(Dữ liệu đã hết hạn. Cập nhật trong Cài đặt)</string>
     <string name="legal_workday_message">" (Tắt báo thức vào ngày nghỉ)"</string>
+    <string name="legal_off_day">Ngày nghỉ hợp pháp</string>
+    <string name="legal_off_day_message">" (Tắt báo thức vào ngày làm việc)"</string>
     <string name="default_alarm_alert">Đặt âm thanh báo thức mặc định</string>
     <string name="default_alarm_title">Nhạc chuông mặc định</string>
     <string name="alarm_alert">Nhạc chuông mặc định</string>
@@ -73,6 +81,8 @@
     <string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>
+    <string name="oneshot_alarm">Xóa sau khi đã báo thức</string>
+    <string name="full_wday_month_day_no_year">EEE, d MMMM</string>
     <string name="app_label">Đồng hồ</string>
     <string name="alarm_list_title">Báo thức</string>
     <string name="add_alarm">Thêm báo thức</string>
@@ -87,6 +97,7 @@
     <string name="alert">Nhạc chuông</string>
     <string name="time">Giờ</string>
     <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %d phút</string>
+    <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %d phút.</string>
     <string name="alarm_alert_snooze_set">Báo lại trong %d phút.</string>
     <string name="day">1 ngày</string>
     <string name="days">%s ngày</string>
@@ -122,4 +133,5 @@
     <string name="menu_edit_alarm">Chỉnh sửa báo thức</string>
     <string name="alarm_in_silent_mode_summary">Phát báo thức ngay cả khi điện thoại ở chế độ im lặng</string>
     <string name="auto_silence_summary">Báo thức sẽ im lặng sau %d phút</string>
+    <string name="delelte_selected_timezone">Xóa múi giờ đã chọn?</string>
 </resources>
