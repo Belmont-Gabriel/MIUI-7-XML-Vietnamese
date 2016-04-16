@@ -15,9 +15,9 @@
     </string-array>
     <string-array name="font_size_names">
         <item>Nhỏ</item>
-        <item>Thường</item>
+        <item>Vừa</item>
         <item>Lớn</item>
-        <item>Cực lớn</item>
+        <item>Đại</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Chạm để tạo ghi chú

@@ -52,4 +52,5 @@ Bạn phải đồng ý với Thỏa thuận Người dùng và Chính sách Ri�
     <string name="title_fingerprint">Thêm vân tay của bạn</string>
     <string name="desc_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, xác minh giao dịch Mi Pay, đăng nhập ứng dụng và dịch vụ.</string>
     <string name="next_fingerprint">Tiếp theo</string>
+    <string name="desc_international_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, hoặc đăng nhập ứng dụng và dịch vụ.</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bộ c.cụ SIM</string>
-    <string name="appI_name">Bộ công cụ SIM1</string>
-    <string name="appII_name">Bộ công cụ SIM2</string>
-    <string name="appIII_name">Bộ công cụ SIM3</string>
-    <string name="appIV_name">Bộ công cụ SIM4</string>
+    <string name="app_name">Công cụ SIM</string>
+    <string name="appI_name">Công cụ SIM 1</string>
+    <string name="appII_name">Công cụ SIM 2</string>
+    <string name="appIII_name">Công cụ SIM 3</string>
+    <string name="appIV_name">Công cụ SIM 4</string>
     <string name="lable_not_available">Chưa cài ứng dụng.</string>
     <string name="menu_end_session">Kết thúc phiên</string>
     <string name="help">Trợ giúp</string>
@@ -12,7 +12,7 @@
     <string name="service_name">Tên dịch vụ</string>
     <string name="stk_no_service">Không có dịch vụ nào</string>
     <string name="button_ok">OK</string>
-    <string name="button_cancel">Huỷ</string>
+    <string name="button_cancel">Hủy</string>
     <string name="button_yes">Có</string>
     <string name="button_no">Không</string>
     <string name="alphabet">Bảng chữ cái</string>
@@ -20,7 +20,7 @@
     <string name="default_call_setup_msg">Cuộc gọi đang diễn ra…</string>
     <string name="stk_app_state">Trạng thái ứng dụng</string>
     <string name="enable_app">Đã bật</string>
-    <string name="disable_app">Đã vô hiệu hoá</string>
+    <string name="disable_app">Đã tắt</string>
     <string name="lable_display_text">Hiển thị n.dung</string>
     <string name="lable_get_inkey">Chọn phím trong</string>
     <string name="lable_get_input">Chọn mục nhập</string>
@@ -68,5 +68,20 @@
     <string name="lable_busy_on_call">Điện thoại đang bận gọi, hãy kết thúc cuộc gọi trước</string>
     <string name="lable_on_flight_mode">Không thể khởi động Bộ công cụ SIM vì chế độ máy bay đang bật.</string>
     <string name="lable_sim_not_ready">Bộ công cụ SIM không có sẵn hoặc không hỗ trợ</string>
-    <string name="no_sim_card_inserted">Hãy lắp SIM để khởi động Bộ công cụ SIM.</string>
+    <string name="no_sim_card_inserted">Hãy lắp SIM để khởi động Công cụ SIM.</string>
+    <string name="app_name1">Công cụ SIM 1</string>
+    <string name="app_name2">Công cụ SIM 2</string>
+    <string name="app_name3">Công cụ SIM 3</string>
+    <string name="stk_dialog_title">Công cụ SIM</string>
+    <string name="default_tone_dialog_msg">Phát nhạc chuông</string>
+    <string name="default_open_channel_msg">Mở kênh?</string>
+    <string name="default_send_data_msg">Đang gửi dữ liệu</string>
+    <string name="default_receive_data_msg">Đang nhận dữ liệu</string>
+    <string name="default_close_channel_msg">Đã đóng kênh</string>
+    <string name="stk_dialog_accept">CÓ</string>
+    <string name="stk_dialog_reject">KHÔNG</string>
+    <string name="stk_intent_permission">Cho phép ý định Công cụ SIM</string>
+    <string name="sim_type_sim_name">Công cụ SIM</string>
+    <string name="sim_type_usim_name">Công cụ SIM</string>
+    <string name="sim_type_uim_name">Công cụ SIM</string>
 </resources>

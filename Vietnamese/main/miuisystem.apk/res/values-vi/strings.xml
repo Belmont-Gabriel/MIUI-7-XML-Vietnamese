@@ -117,4 +117,5 @@
     <string name="vip_sign">Chữ ký:</string>
     <string name="vip_not_login">Chưa đăng nhập</string>
     <string name="vip_level">Cấp %d</string>
+    <string name="vip_login">Chạm để đăng nhập</string>
 </resources>

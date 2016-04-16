@@ -3,7 +3,7 @@
     <string name="app_name">Lõi Bảo Mật MIUI.VN</string>
     <string name="hello_world">Việt hóa bởi ๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="menu_settings">Cài đặt</string>
-    <string name="title_activity_main">Hoạt động chính</string>
+    <string name="title_activity_main">MainActivity</string>
     <string name="Tencent">Tencent</string>
     <string name="AVL">AVL</string>
     <string name="Mi">Mi</string>

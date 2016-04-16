@@ -69,6 +69,7 @@
     <string name="mibi_button_reget">Gửi lại</string>
     <string name="mibi_giftcard_payment">Phiếu quà tặng</string>
     <string name="mibi_giftcard_payment_with_append">Áp dụng phiếu quà tặng</string>
+    <string name="mibi_partner_giftcard_payment_with_append">Áp dụng %1$s</string>
     <string name="mibi_payment_success_title">Thanh toán đã nhận</string>
     <string name="mibi_payment_success_label">Bạn đã trả %1$s Mi Credit</string>
     <string name="mibi_button_count_down_finish">OK (%1$s)</string>
@@ -85,6 +86,9 @@
     <string name="mibi_frozen">Đóng băng</string>
     <string name="mibi_mili_center">Mi Credit</string>
     <string name="mibi_memu_refresh">Làm mới</string>
+    <string name="mibi_frozen_prim">Tài khoản bị đóng băng</string>
+    <string name="mibi_frozen_sub">Phát hiện hoạt động bất thường</string>
+    <string name="mibi_is_what">Bạn có thể mua những gì với Mi Credit?</string>
     <string name="mibi_error_mili_summary">Không đủ tiền.</string>
     <string name="mibi_error_network_summary">Không thể kết nối vào mạng.</string>
     <string name="mibi_error_web_summary">Lỗi máy chủ</string>
@@ -109,6 +113,9 @@ Vui lòng kiểm tra ngày giờ trên máy và thử lại."</string>
     <string name="mibi_recharge_message_title">SMS</string>
     <string name="mibi_recharge_voucher_title">Thẻ Mi Credit</string>
     <string name="mibi_recharge_pcpay_title">Máy tính</string>
+    <string name="mibi_error_frozen_service_time">Thứ hai đến chủ nhật</string>
+    <string name="mibi_button_call_frozen_service">Hỗ trợ trực tuyến 24 giờ</string>
+    <string name="mibi_recharge_mibi_title">Mi Credit</string>
     <string name="mibi_recharge_novalid_method">Không có phương thức nạp tiền hợp lệ.</string>
     <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>
@@ -285,7 +292,7 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_button_next">Tiếp theo</string>
     <string name="mibi_scan_prompt_number">Quét mã thẻ trả trước %1$s</string>
     <string name="mibi_scan_prompt_password">Quét mật khẩu thẻ trả trước %1$s</string>
-    <string name="mibi_scan_prompt_voucher">Quét mật khảu Mi Credit</string>
+    <string name="mibi_scan_prompt_voucher">Quét mật khẩu Mi Credit</string>
     <string name="mibi_scan_prompt_retry">Hãy chắc chắn mã là chính xác</string>
     <string name="mibi_detail_recharge_title">Lịch sử nạp tiền</string>
     <string name="mibi_detail_recharge_order">Đơn nạp tiền số: </string>
