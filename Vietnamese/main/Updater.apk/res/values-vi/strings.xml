@@ -111,7 +111,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="auto_dialog_msg_check_again">"Bạn phải đồng ý với Chính sách Riêng tư đã được cập nhật của chúng tôi trước khi bạn có thể cập nhật hệ thống. "</string>
     <string name="auto_button_examine_immediately">Xem</string>
     <string name="auto_button_sure_cancel">Hủy</string>
-    <string name="auto_update_sum">Tải xuống bản cập nhật tự động khi kết nối Wi-Fi</string>
+    <string name="auto_update_sum">Tự động tải xuống bản cập nhật khi kết nối Wi-Fi và cài đặt vào ban đêm</string>
     <string name="updater_nonetwork">Không thể kết nối mạng</string>
     <string name="updater_nonetwork_clause">Không thể kết nối mạng</string>
     <string name="updater_nolog">Nhật ký cập nhật trống.</string>
@@ -154,11 +154,11 @@ http://zhushou.xiaomi.com"</string>
     <string name="notification_restart">Cập nhật lại</string>
     <string name="autosetmode">Cài đặt</string>
     <string name="on_checking">Đang kiểm tra…</string>
-    <string name="auto_update">Tự động tải xuống bản cập nhật</string>
+    <string name="auto_update">Cập nhật tự động</string>
     <string name="update_downfull_no_info_title">Không thể tải xuống bản cập nhật</string>
     <string name="update_downfull_no_info_sum">Chờ một hoặc hai phút và thử lại.</string>
-    <string name="set_auto_update_title">Tải xuống cập nhật tự động?</string>
-    <string name="set_auto_msg">Tải xuống cập nhật tự động khi kết nối Wi-Fi?</string>
+    <string name="set_auto_update_title">Cập nhật tự động?</string>
+    <string name="set_auto_msg">Cập nhật sẽ được tải xuống khi bạn kết nối Wi-Fi và cài đặt vào ban đêm khi bạn không sử dụng thiết bị.</string>
     <string name="open_now">Có</string>
     <string name="not_open">Không</string>
     <string name="title_toast_auto">Bản cập nhật sẽ tự động tải xuống</string>
@@ -232,7 +232,7 @@ Thử đăng nhập Tài khoản Mi lần nữa."</string>
     <string name="vote_error4">Bạn đã gửi phản hồi</string>
     <string name="vote_error5">"Lỗi
 Không thể gửi phản hồi"</string>
-    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Truy cập diễn đàn MIUI</a>" "</string>
+    <string name="miui_BBS">" "<a href="http://miui.vn/forum/">Truy cập diễn đàn MIUI Việt Nam</a>" "</string>
     <string name="pm_root_acquired_button">Quyền root</string>
     <string name="pm_root_acquired_rooting">Đang nhận quyền root %s</string>
     <string name="pm_root_acquired_notification_title">Đang nhận quyền root</string>

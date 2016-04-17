@@ -147,6 +147,8 @@
     <string name="passport_restart_register_title">Tạo Tài khoản Mi</string>
     <string name="passport_restart_register_prompt">Một tin nhắn xác minh khác có thể được yêu cầu để tạo Tài khoản Mi.</string>
     <string name="passport_wait_for_sms_prompt">Bắt đầu lại ngay? Tin nhắn xác minh có thể mất 10 phút để gửi khi điện thoại của bạn nằm trong vùng dịch vụ nhà mạng.</string>
+    <string name="passport_imei_permission_denied_title">Yêu cầu quyền truy cập IMEI</string>
+    <string name="passport_imei_permission_denied_message">Chúng tôi đang yêu cầu quyền truy cập IMEI của thiết bị. Tài khoản Mi sử dụng IMEI để nhận dạng thiết bị mà bạn đăng nhập/đăng ký, để giúp Tài khoản Mi an toàn.</string>
     <string name="app_name">Tài khoản Mi</string>
     <string name="account">Tài khoản</string>
     <string name="micloud_account_name">Tài khoản Mi</string>
@@ -201,6 +203,7 @@
     <string name="account_user_details">Thông tin cá nhân</string>
     <string name="account_none">Không</string>
     <string name="account_no_set">Không</string>
+    <string name="account_has_been_set">Thay đổi</string>
     <string name="account_none_user_name">Không</string>
     <string name="account_user_avatar">Ảnh đại diện</string>
     <string name="account_user_gender">Giới tính</string>
@@ -213,6 +216,17 @@
     <string name="account_error_longer_user_name">Tên không được vượt quá 20 ký tự</string>
     <string name="account_error_user_birthday">Ngày sinh bạn nhập không hợp lệ</string>
     <string name="account_limit_update_birthday">Hiện tại không thể cập nhật ngày sinh</string>
+    <string name="account_security_question">Câu hỏi bảo mật</string>
+    <string name="account_user_other_info">Thêm nguồn</string>
+    <string name="account_user_region">Khu vực</string>
+    <string name="account_user_location">Vị trí</string>
+    <string name="account_user_location_title">Chọn vị trí hiện tại</string>
+    <string name="account_user_education">Trình độ</string>
+    <string name="account_user_income">Thu nhập</string>
+    <string name="current_location_title">Vị trí hiện tại</string>
+    <string name="locating_current_location">Đang định vị</string>
+    <string name="location_service_not_working">Dịch vụ vị trí chưa hoạt động</string>
+    <string name="select_location_title">Chọn vị trí của bạn</string>
     <string name="account_user_using_weibo_avatar">Sử dụng ảnh đại diện Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Sử dụng ảnh đại diện QQ</string>
     <string name="account_user_using_facebook_avatar">Sử dụng ảnh đại diện Facebook</string>
@@ -227,6 +241,7 @@
     <string name="account_none_binded_info">Không</string>
     <string name="account_bind_secure_phone_title">Thêm số điện thoại</string>
     <string name="account_bind_secure_email_title">Thêm email</string>
+    <string name="update_phone_number_notice_message">Bạn cần xác minh danh tính trước khi bạn có thể cập nhật số điện thoại.</string>
     <string name="update_recovery_info_dialog_title">Cập nhật %s</string>
     <string name="update_recovery_info_dialog_message">Bạn cần xác minh danh tính trước khi bạn có thể cập nhật %s.</string>
     <string name="failed_dup_secure_phone_number">Số điện thoại này đã được liên kết với Tài khoản Mi khác</string>
@@ -261,6 +276,25 @@
     <string name="resend_email_success">Đã gửi lại email</string>
     <string name="resend_email_reach_limit_title">Không thể gửi email</string>
     <string name="resend_email_reach_limit_message">Quá nhiều email xác minh được yêu cầu. Hãy chắc chắn rằng email xác minh không nằm trong hộp thư Rác.</string>
+    <string name="update_email_address_dialog_title">Cập nhật Email</string>
+    <string name="update_email_address_dialog_message">Bạn cần xác minh danh tính trước khi bạn có thể cập nhật email.</string>
+    <string name="security_question_notice_title">Thêm số điện thoại</string>
+    <string name="security_question_notice_message">Thêm số điện thoại trước khi bạn đặt câu hỏi bảo mật để có thể đặt lại câu hỏi trong trường hợp bạn quên câu trả lời.</string>
+    <string name="ignore">Không phải bây giờ</string>
+    <string name="forward_to_bind">Thêm</string>
+    <string name="reset_security_question_title">Đặt lại câu hỏi bảo mật</string>
+    <string name="reset_security_question_message">Bạn cần xác minh danh tính trước khi thay đổi câu hỏi bảo mật</string>
+    <string name="set_security_question_title">Đặt câu hỏi bảo mật</string>
+    <string name="security_question_prompt">"Câu hỏi bảo mật được sử dụng khi bạn thay đổi hoặc đặt lại mật khẩu.
+Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
+    <string name="security_question">Chọn câu hỏi</string>
+    <string name="security_question_answer">Nhập câu trả lời</string>
+    <string name="submit_answers">Gửi</string>
+    <string name="error_duplicate_answers">Vì lí do an toàn, bạn không nên sử dụng câu trả lời trùng lặp</string>
+    <string name="error_incomplete_question_or_answer">Chọn 4 câu hỏi và trả lời</string>
+    <string name="error_shorter_answer_length">Câu trả lời chứa ít nhất 2 ký tự</string>
+    <string name="error_longer_answer_length">Câu trả lời chứa nhiều nhất 128 ký tự</string>
+    <string name="success">Hoàn tất</string>
     <string name="mili_center">Mi Credit</string>
     <string name="mipay_center">Mi Wallet</string>
     <string name="mi_pass">Mi Pass</string>
@@ -275,9 +309,11 @@
     <string name="micloud_space_info">%s trống</string>
     <string name="loading_micloud_sync_data">Vui lòng chờ…</string>
     <string name="account_vip_level">Tài khoản</string>
+    <string name="account_vip_achievements">Thành tựu</string>
     <string name="account_vip_task">Nhiệm vụ</string>
     <string name="vip_level_value">Cấp %d</string>
     <string name="authorize_title">Ủy quyền</string>
+    <string name="activity_not_found_notice">Không tìm thấy ứng dụng</string>
     <string name="my_device_title">Thiết bị hiện tại</string>
     <string name="device_list_title">Thiết bị của tôi</string>
     <string name="device_list__header">Thiết bị của tôi</string>
@@ -304,4 +340,8 @@
     <string name="get_device_list_failed">Không thể nhận thiết bị</string>
     <string name="delete_device_failed">Không thể xóa thiết bị</string>
     <string name="empty_device_list_notice">Không có thiết bị</string>
+    <string name="internet_statement_title">Yêu cầu kết nối</string>
+    <string name="internet_statement_message">Ứng dụng cần kết nối Internet để làm việc bình thường.</string>
+    <string name="agree_add_continue">Đồng ý</string>
+    <string name="exit">Thoát</string>
 </resources>

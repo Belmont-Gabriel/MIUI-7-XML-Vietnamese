@@ -7,44 +7,31 @@
         <item>Báo thức</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>0 phút</item>
-        <item>1 phút</item>
+        <item>Không nhắc nhở</item>
+        <item>Trước sự kiện</item>
         <item>5 phút</item>
         <item>10 phút</item>
         <item>15 phút</item>
-        <item>20 phút</item>
-        <item>25 phút</item>
         <item>30 phút</item>
-        <item>45 phút</item>
         <item>1 giờ</item>
-        <item>2 giờ</item>
-        <item>3 giờ</item>
-        <item>12 giờ</item>
-        <item>24 giờ</item>
+        <item>1 ngày</item>
         <item>2 ngày</item>
         <item>1 tuần</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Không</item>
-        <item>0 phút</item>
-        <item>1 phút</item>
+        <item>Không nhắc nhở</item>
+        <item>Trước sự kiện</item>
         <item>5 phút</item>
         <item>10 phút</item>
         <item>15 phút</item>
-        <item>20 phút</item>
-        <item>25 phút</item>
         <item>30 phút</item>
-        <item>45 phút</item>
         <item>1 giờ</item>
-        <item>2 giờ</item>
-        <item>3 giờ</item>
-        <item>12 giờ</item>
-        <item>24 giờ</item>
+        <item>1 ngày</item>
         <item>2 ngày</item>
         <item>1 tuần</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Ngôn ngữ mặc định</item>
+        <item>Theo địa phương</item>
         <item>Thứ bảy</item>
         <item>Chủ nhật</item>
         <item>Thứ hai</item>
@@ -194,7 +181,7 @@
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>Không nhắc nhở</item>
-        <item>0 phút</item>
+        <item>Trước sự kiện</item>
         <item>5 phút</item>
         <item>10 phút</item>
         <item>15 phút</item>
@@ -206,7 +193,7 @@
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>Không nhắc nhở</item>
-        <item>0 phút</item>
+        <item>Trước sự kiện</item>
         <item>5 phút</item>
         <item>10 phút</item>
         <item>15 phút</item>
@@ -275,7 +262,7 @@
         <item>Th 5</item>
         <item>Th 6</item>
         <item>Th 7</item>
-        <item>Cn</item>
+        <item>CN</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Thg 1</item>
@@ -292,11 +279,11 @@
         <item>Thg 12</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>lần thứ nhất</item>
-        <item>lần thứ 2</item>
-        <item>lần thứ 3</item>
-        <item>lần thứ 4</item>
-        <item>lần cuối</item>
+        <item>đầu tiên</item>
+        <item>thứ hai</item>
+        <item>thứ ba</item>
+        <item>thứ tư</item>
+        <item>cuối cùng</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Thứ hai - Thứ sáu</item>
@@ -307,5 +294,23 @@
         <item>Không bao giờ</item>
         <item>Thời gian</item>
         <item>Số lần</item>
+    </string-array>
+    <string-array name="online_reminder_minutes_labels">
+        <item>Trước sự kiện</item>
+        <item>5 phút trước</item>
+        <item>10 phút trước</item>
+        <item>15 phút trước</item>
+        <item>30 phút trước</item>
+        <item>1 giờ trước</item>
+        <item>1 ngày trước</item>
+        <item>2 ngày trước</item>
+        <item>1 tuần trước</item>
+    </string-array>
+    <string-array name="online_reminder_minutes_labels_allday">
+        <item>9:00SA hôm đó</item>
+        <item>9:00SA hôm qua</item>
+        <item>9:00SA - 2 ngày trước</item>
+        <item>9:00SA - 3 ngày trước</item>
+        <item>9:00SA - 1 tuần tước</item>
     </string-array>
 </resources>

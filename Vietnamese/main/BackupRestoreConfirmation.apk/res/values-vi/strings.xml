@@ -23,5 +23,5 @@ Nếu không phải bản thân bạn yêu cầu khôi phục, đừng cho phép
     <string name="toast_backup_ended">Đã hoàn thành sao lưu</string>
     <string name="toast_restore_started">Đang bắt đầu khôi phục…</string>
     <string name="toast_restore_ended">Đã kết thúc quá trình khôi phục</string>
-    <string name="toast_timeout">Thao tác hết thời gian chờ</string>
+    <string name="toast_timeout">Hết thời gian thao tác</string>
 </resources>
