@@ -23,7 +23,7 @@
     <string name="contactDetailUpdates">Cập nhật</string>
     <string name="searchHint">Tìm kiếm liên hệ</string>
     <string name="menu_search">Tìm kiếm</string>
-    <string name="menu_newContact">Liên hệ mới</string>
+    <string name="menu_newContact">Tạo liên hệ mới</string>
     <string name="menu_viewContact">Xem liên hệ</string>
     <string name="menu_callNumber">Gọi %s</string>
     <string name="menu_addStar">Yêu thích</string>
@@ -107,7 +107,7 @@
     <string name="menu_sendTextMessage">Gửi tin nhắn văn bản</string>
     <string name="recentCalls_callNumber">Gọi %s</string>
     <string name="recentCalls_editNumberBeforeCall">Sửa số trước khi gọi</string>
-    <string name="recentCalls_addToContact">Thêm vào liên hệ</string>
+    <string name="recentCalls_addToContact">Thêm vào liên hệ đã có</string>
     <string name="recentCalls_removeFromRecentList">Xóa khỏi nhật ký cuộc gọi</string>
     <string name="recentCalls_deleteAll">Xóa nhật ký cuộc gọi</string>
     <string name="recentCalls_trashVoicemail">Xóa thư thoại</string>
@@ -119,8 +119,8 @@
     <string name="clearFrequentsConfirmation_title">Xóa liên hệ thường xuyên?</string>
     <string name="clearFrequentsConfirmation">Xóa danh sách liên hệ thường xuyên trong Liên hệ và Điện thoại, và buộc ứng dụng email ghi nhớ địa chỉ yêu thích của bạn từ đầu.</string>
     <string name="clearFrequentsProgress_title">Đang xóa liên hệ thường xuyên…</string>
-    <string name="imei">IMEI</string>
-    <string name="meid">MEID</string>
+    <string name="imei">"IMEI: "</string>
+    <string name="meid">"MEID: "</string>
     <string name="voicemail">Thư thoại</string>
     <string name="unknown">Không xác định</string>
     <string name="private_num">Số cá nhân</string>
@@ -214,7 +214,7 @@
     <string name="description_image_button_zero">không</string>
     <string name="description_image_button_pound">Bảng Anh</string>
     <string name="description_voicemail_button">Thư thoại</string>
-    <string name="description_image_button_plus">Cộng</string>
+    <string name="description_image_button_plus">Dấu cộng</string>
     <string name="description_image_button_comma">Dấu phẩy</string>
     <string name="description_image_button_dial">Quay số</string>
     <string name="description_image_button_sim1_dial">Gọi bằng SIM 1</string>
@@ -231,7 +231,7 @@
     <string name="import_from_sdcard">Nhập từ thẻ nhớ</string>
     <string name="export_to_sdcard">Xuất ra thẻ nhớ</string>
     <string name="share_visible_contacts">Chia sẻ liên hệ</string>
-    <string name="import_one_vcard_string">Nhập một tập tin vCard</string>
+    <string name="import_one_vcard_string">Nhập 1 tập tin vCard</string>
     <string name="import_multiple_vcard_string">Nhập nhiều tập tin vCard</string>
     <string name="import_all_vcard_string">Nhập tất cả tập tin vCard</string>
     <string name="searching_vcard_message">Đang tìm dữ liệu vCard trên bộ nhớ…</string>
@@ -470,7 +470,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="hint_findContacts">Tìm liên hệ</string>
     <string name="non_phone_caption">Số điện thoại</string>
-    <string name="non_phone_add_to_contacts">Thêm vào liên hệ</string>
+    <string name="non_phone_add_to_contacts">Thêm vào liên hệ đã có</string>
     <string name="activity_title_confirm_add_detail">Thêm vào liên hệ</string>
     <string name="non_phone_close">Đóng</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -638,7 +638,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="miprofile_alertdialog_title">Nhập tên</string>
     <string name="miprofile_alertdialog_message">Hiển thị tên này khi chuyển đổi danh thiếp.</string>
     <string name="miprofile_alertdialog_edit">Nhập tên</string>
-    <string name="miprofile_switch_off_alertdialog_message">Bạn không thể chuyển đổi danh thiếp với người khác. Liên hệ của bạn sẽ không thể xem video hồ sơ của bạn.</string>
+    <string name="miprofile_switch_off_alertdialog_message">Bạn sẽ không thể trao đổi danh thiếp với người khác.</string>
     <string name="miprofile_bind_account_alertdialog_title">Thêm số điện thoại</string>
     <string name="miprofile_bind_account_alertdialog_message">Bạn cần phải thêm số điện thoại của thiết bị này đến Tài khoản Mi của bạn để sử dụng tính năng này.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Thêm số điện thoại</string>
@@ -751,8 +751,8 @@ Danh thiếp sẽ tắt"</string>
     <string name="callrecordview_menu_paste">Dán</string>
     <string name="callrecordview_menu_conference">Cuộc gọi hội nghị</string>
     <string name="openDialKeyboard">Bàn phím</string>
-    <string name="t9_search_guide_pinyin">Nhập \"2\" và \"8\" để tìm kiếm \"Ngô Bảo Châu\"</string>
-    <string name="t9_search_guide_zhuyin">Nhập \"2\" và \"8\" để tìm kiếm \"Ngô Bảo Châu\"</string>
+    <string name="t9_search_guide_pinyin">Nhập \"2\" và \"3\" để tìm \"๖ۣۜßεℓ™\"</string>
+    <string name="t9_search_guide_zhuyin">Nhập \"2\" và \"3\" để tìm \"๖ۣۜßεℓ™\"</string>
     <string name="date_time_set">Đặt</string>
     <string name="service_provider">Danh bạ web</string>
     <string name="zero_items_selected">Chọn mục</string>
@@ -829,6 +829,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="preference_import_export_title">Nhập/Xuất liên hệ</string>
     <string name="import_vcard_description">Nhập liên hệ từ bộ nhớ điện thoại</string>
     <string name="export_vcard_description">Xuất vCard sang bộ nhớ điện thoại</string>
+    <string name="import_vcard_dialog_message">Nhập vCard?</string>
     <string name="export_sim_contact_finish_msg">Đã chuyển: %1$d | Trùng lặp: %2$d | Còn lại: %3$d</string>
     <string name="pref_title_account_import">Nhập liên hệ</string>
     <string name="pref_title_import_from_account">Nhập đến Tài khoản Mi</string>
@@ -980,7 +981,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="smart_group_frequency_4">Quá 6 tháng</string>
     <string name="contact_detail_calllog_call_record_tips">Ghi âm cuộc gọi</string>
     <string name="contact_detail_calllog_call_note_tips">Ghi chú</string>
-    <string name="import_from_onekey_migrate">Nhập liên hệ bằng Chuyển</string>
+    <string name="import_from_onekey_migrate">Nhập bằng cách sử dụng Mi Mover</string>
     <string name="import_from_other_phone">Nhập từ điện thoại khác</string>
     <string name="device_brand_title">Chọn thương hiệu</string>
     <string name="device_version_title">Chọn mẫu</string>
@@ -1085,13 +1086,13 @@ Danh thiếp sẽ tắt"</string>
     <string name="sim_error_email_full">Không đủ dung lượng trên thẻ SIM</string>
     <string name="sim_error_anr_full">Không đủ dung lượng trên thẻ SIM</string>
     <string name="sim_error_password_error">Mật khẩu bạn nhập không chính xác</string>
-    <string name="voip_name">Mi Voice</string>
-    <string name="voip_contacts_entry">Mi Voice</string>
-    <string name="voip_shortcut_name">Mi Voice</string>
-    <string name="voip_contact_label">Mi Voice</string>
+    <string name="voip_name">Cuộc gọi Mi</string>
+    <string name="voip_contacts_entry">Cuộc gọi Mi</string>
+    <string name="voip_shortcut_name">Cuộc gọi Mi</string>
+    <string name="voip_contact_label">Cuộc gọi Mi</string>
     <string name="voip_loading_contact">Vui lòng chờ…</string>
     <string name="create_voip_shortcut_success">Lối tắt đã được tạo</string>
-    <string name="no_voip_contacts">Không có liên hệ Mi Voice</string>
+    <string name="no_voip_contacts">Không có liên hệ Cuộc gọi Mi nào</string>
     <string name="calls_voip_prompt">VOIP</string>
     <string name="yellowPageNavigationLabel">Danh bạ web</string>
     <string name="yellowPageNavigationIconLabel">Danh bạ web</string>
@@ -1116,7 +1117,12 @@ Danh thiếp sẽ tắt"</string>
     <string name="yellowpage_navigation_more_items_title">Thêm dịch vụ</string>
     <string name="imei_invalid">IMEI không hợp lệ</string>
     <string name="meid_invalid">MEID không hợp lệ</string>
+    <string name="mobile_equipment_identification">Nhận dạng Thiết bị Di động</string>
     <string name="firewall_setting">Danh sách chặn</string>
+    <string name="solar_calendar">Dương lịch</string>
+    <string name="lunar_calendar">Âm lịch</string>
+    <string name="lunar_leap">nhuận</string>
+    <string name="lunar_yue">tháng</string>
     <string name="menu_edit_mode">Chế độ chỉnh sửa</string>
     <string name="clip_dialog_title">Quay số sao chép?</string>
     <string name="edit_contact_photo">Chỉnh sửa ảnh liên hệ</string>
@@ -1126,11 +1132,11 @@ Danh thiếp sẽ tắt"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới…</string>
     <string name="pull_to_refresh_release_label">Thả để làm mới…</string>
     <string name="pull_to_refresh_refreshing_label">Đang tải…</string>
-    <string name="phone_call_type_voip">Mi Voice</string>
+    <string name="phone_call_type_voip">Cuộc gọi Mi</string>
     <string name="cloud_recommend_msg">Chạm để đồng bộ liên hệ với Mi Cloud.</string>
     <string name="unknow_phone_number_call_failed">Không thể gọi số không xác định</string>
     <string name="unknow_phone_number_mms_failed">Không thể gửi tin nhắn đến số không xác định</string>
-    <string name="voip_recommend_msg">Chạm để sử dụng Mi Voice</string>
+    <string name="voip_recommend_msg">Chạm để sử dụng Cuộc gọi Mi</string>
     <string name="cloud_state_sync_finished">Đã đồng bộ với Mi Cloud</string>
     <string name="cloud_state_syncing">Đã đồng bộ với Mi Cloud</string>
     <string name="cloud_state_loading">Vui lòng chờ…</string>
@@ -1138,8 +1144,11 @@ Danh thiếp sẽ tắt"</string>
     <string name="more_call_logs">Xem chi tiết lịch sử cuộc gọi tại i.mi.com</string>
     <string name="transfer_accounts">Chuyển tài khoản</string>
     <string name="phone_number_too_long_toast">Số quá dài</string>
-    <string name="dialer_menu_description">Chạm để mở menu trình quay số</string>
-    <string name="back_view_description">Chạm để quay lại</string>
-    <string name="voip_audio_description">Chạm để gửi tin nhắn thoại</string>
-    <string name="voip_video_description">Chạm để gửi tin nhắn video</string>
+    <string name="dialer_menu_description">Hiển thị trình quay số</string>
+    <string name="back_view_description">Quay lại</string>
+    <string name="voip_audio_description">Gọi VoIP</string>
+    <string name="voip_video_description">Gọi video VoIP</string>
+    <string name="menu_newContactButton">Thêm</string>
+    <string name="unable_get_device_id">Không thể lấy số IMEI</string>
+    <string name="missing_required_permission">Bạn đã tắt quyền yêu cầu.</string>
 </resources>

@@ -108,4 +108,7 @@
     <string name="confirm_restore_title">Khôi phục</string>
     <string name="confirm_restore_summary">Màn hình chính sẽ khởi động lại và ứng dụng sẽ tải xuống tự động khi kết nối Wi-Fi</string>
     <string name="confirm_restore">Khôi phục</string>
+    <string name="cloud_backup_have_data">Tìm thấy sao lưu trên Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Chọn sao lưu từ Mi Cloud</string>
+    <string name="backup_finished_notification_content">Sao lưu ứng dụng Màn hình chính, cài đặt hệ thống v.v…</string>
 </resources>
