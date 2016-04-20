@@ -44,15 +44,19 @@
     <string name="decoding_exception">Giải mã ngoại lệ</string>
     <string name="submit">Lưu</string>
     <string name="cancel">Hủy</string>
-    <string name="context_menu_remove_account">Xóa</string>
-    <string name="remove_account_dialog_button_remove">Xóa tài khoản</string>
-    <string name="remove_account_dialog_title">Xóa %1$s?</string>
-    <string name="remove_account_dialog_message">Xóa tài khoản này sẽ &lt;b>xóa khả năng của bạn&lt;/b> để tạo ra các mã, tuy nhiên, nó sẽ &lt;b>không&lt;/b> tắt xác thực 2 yếu tố. Điều này có thể ngăn cản bạn đăng nhập vào tài khoản của bạn. &lt;p> Trước khi xoá: &lt;ul> &lt;li>Tắt xác thực 2 yếu tố cho tài khoản này, hoặc&lt;/li> &lt;li>Đảm bảo bạn có một cơ chế thay thế để tạo mã.&lt;/li> &lt;/ul></string>
-    <string name="remove_Xiaomi_account_dialog_message">Xóa tài khoản này sẽ &lt;b>xóa khả năng của bạn&lt;/b> để tạo ra các mã, tuy nhiên, nó sẽ &lt;b>không&lt;/b> tắt xác thực 2 yếu tố. Điều này có thể ngăn cản bạn đăng nhập vào tài khoản của bạn. &lt;p> Trước khi xoá: &lt;ul> &lt;li>Tắt xác thực 2 yếu tố cho tài khoản này, hoặc&lt;/li> &lt;li>Đảm bảo bạn có một cơ chế thay thế để tạo mã.&lt;/li> &lt;/ul></string>
+    <string name="remove_account">Xóa tài khoản</string>
+    <string name="remove_account_dialog_title">Xóa tài khoản?</string>
+    <string name="remove_account_dialog_message">"Xóa tài khoản này sẽ loại bỏ khả năng tạo ra các mã của bạn. Điều này có thể ngăn cản bạn đăng nhập vào tài khoản của bạn.
+
+Trước khi xóa:
+—Tắt xác thực 2 bước cho tài khoản này, hoặc
+—Đảm bảo bạn có một cơ chế thay thế để tạo mã."</string>
+    <string name="remove_Xiaomi_account_dialog_message">Xóa tài khoản này sẽ &lt;b>loại bỏ khả năng&lt;/b> tạo ra các mã của bạn, tuy nhiên, nó sẽ &lt;b>không&lt;/b> tắt xác thực 2 yếu tố. Điều này có thể ngăn cản bạn đăng nhập vào tài khoản của bạn. &lt;p> Trước khi xoá: &lt;ul> &lt;li>Tắt xác thực 2 yếu tố cho tài khoản này, hoặc&lt;/li> &lt;li>Đảm bảo bạn có một cơ chế thay thế để tạo mã.&lt;/li> &lt;/ul></string>
     <string name="rename">Đổi tên</string>
     <string name="rename_message">Đổi tên %1$s</string>
     <string name="error_exists">Rất tiếc, tên này đã được dùng.</string>
     <string name="copy_to_clipboard">Sao chép vào khay nhớ tạm</string>
+    <string name="success_copy_to_clipboard">Đã được sao chép vào khay nhớ tạm</string>
     <string name="counter_pin">Lấy mã</string>
     <string name="empty_pin">_ _ _ _ _ _</string>
     <string name="ok">OK</string>
@@ -71,7 +75,7 @@
     <string name="welcome_page_details">"— Bảo vệ thông tin tài khoản của bạn không bị đánh cắp bởi những ứng dụng độc hại.
 — Ngăn ngừa mất hoặc bị đánh cắp thông tin trên thiết bị của bạn."</string>
     <string name="welcome_page_alert">&lt;font color=#fb3500>Lưu ý:&lt;/font> Vui lòng không xóa các mã thông báo, nếu không sẽ không được đăng nhập.</string>
-    <string name="acknowledge_button">Tiếp tục</string>
+    <string name="continue_btn">Tiếp tục</string>
     <string name="mycard_scan_barcode">Trình quét mã MiID</string>
     <string name="scan_barcode_info">Đặt và quét mã MiID bên trong kính ngắm này.</string>
     <string name="scan_barcode">Quét mã MiID</string>
@@ -115,7 +119,7 @@
     <string name="title_change_lockpattern">Thiết lập hình mở khóa</string>
     <string name="title_password">Mật khẩu</string>
     <string name="title_nopassword">Không yêu cầu cho các thanh toán nhỏ</string>
-    <string name="title_password_threshold">Giới hạn hàng ngày = %1$s￥</string>
+    <string name="title_password_threshold">Giới hạn hàng ngày = %1$s Tệ</string>
     <string name="title_nopassword_dialog">Giới hạn hàng ngày</string>
     <string name="progress_loading">Đang được xử lý…</string>
     <string name="login">Đăng nhập</string>
@@ -135,26 +139,29 @@
     <string name="title_updatepattern">Sửa hình mở khóa</string>
     <string name="title_forgetpattern">Quên hình mở khóa</string>
     <string name="resetbtn_patternforgotten">Thiết lập lại hình mở khóa</string>
-    <string name="authenticator_page_reactivation">Kích hoạt</string>
-    <string name="success_set_password">Thiết lập mật khẩu thành công</string>
+    <string name="authenticator_page_reactivation">Kích hoạt lại</string>
+    <string name="success_set_password">Tạo mật khẩu thành công</string>
     <string name="success_reset_password">Đặt lại mật khẩu thành công</string>
     <string name="correct_enter_password">Nhập đúng mật khẩu</string>
     <string name="correct_enter_update_password">Mật khẩu ban đầu được nhập chính xác</string>
-    <string name="title_patternforgotten">"Quên mật khẩu của bạn？
-bạn có thể："</string>
+    <string name="title_patternforgotten">"Quên mật khẩu của bạn?
+bạn có thể:"</string>
     <string name="tip1_patternforgotten">Gỡ bỏ cài đặt bảo mật, cài đặt lại và kích hoạt</string>
     <string name="tip2_patternforgotten">Nhấn vào nút bên dưới “Thiết lập lại ngay lập tức”, khôi phục lại dữ liệu tài khoản ban đầu, kích hoạt lại</string>
     <string name="details_patternforgotten">"Kích hoạt lại:
-Truy cập: account.xiaomi.com, và xác nhận kích hoạt."</string>
+Truy cập: account.xiaomi.com và nhấn Kích hoạt lại."</string>
     <string name="activation_page">Trang không hoạt động</string>
-    <string name="activation_page_info">Vui lòng đăng nhập account.xiaomi.com</string>
+    <string name="activation_page_info">Đăng nhập tài khoản Mi của bạn để kích hoạt Đăng nhập An toàn</string>
     <string name="activation_page_btn_txt">Kích hoạt</string>
+    <string name="authenticator_invalid_title">Tài khoản: %1$s mã bảo mật đã hết hạn.</string>
+    <string name="authenticator_invalid_tip">Bạn có thể tắt tính băng này bằng cách sử dụng trình duyệt máy tính hoặc kích hoạt Mã bảo mật Mi khác.</string>
+    <string name="acknowledge_btn">Tôi thừa nhận</string>
     <string name="timesync_preference_screen_title">Điều chỉnh thời gian cho các mã</string>
     <string name="timesync_preference_screen_summary">Đồng bộ đồng hồ nội bộ trình Xác thực với các máy chủ</string>
     <string name="timesync_sync_now_preference_title">Đồng bộ ngay</string>
     <string name="timesync_about_feature_preference_title">Thông tin về tính năng này</string>
     <string name="timesync_about_feature_screen_title">Thông tin về tính năng này</string>
-    <string name="timesync_about_feature_screen_details">"Nếu bạn nhấn &amp;quot;Đồng bộ ngay&amp;quot;, trình Xác thực sẽ cố gắng đồng bộ đồng hồ nội bộ của nó với các máy chủ của Google một lần. Cài đặt Ngày &amp; Giờ của thiết bị sẽ không thay đổi. &lt;p> Trình xác thực sẽ không truyền tải bất kỳ dữ liệu cá nhân hoặc thông tin tài khoản trong khi đồng bộ hóa đồng hồ nội bộ của nó với máy chủ Google. &lt;p> &lt;b>Tại sao điều này rất hữu ích?&lt;/b> &lt;p> Trình xác thực tạo mã xác minh 2 bước dựa trên 1) thời gian hiện tại, và 2) một số bí mật được biết đến với các ứng dụng và máy chủ. &lt;p> Nếu Trình xác thực và máy chủ không đồng ý về thời gian được, các mã mà ứng dụng tạo ra có thể không được chấp nhận khi bạn cố gắng đăng nhập. &lt;p> Theo mặc định, Trình xác thực sẽ sử dụng Ngày &amp; Giờ của thiết bị, và trong hầu hết các trường hợp, bạn sẽ có thể tạo ra mã hợp lệ bằng cách đảm bảo thời gian của bạn, ngày tháng, và thiết lập múi giờ được cấu hình đúng. Tuy nhiên, khi lỗi không phù hợp về thời gian xảy ra, chúng có thể khó để khắc phục sự cố (đặc biệt là nếu bạn sử dụng thời gian mạng được cung cấp hoặc múi giờ)."</string>
+    <string name="timesync_about_feature_screen_details">Nếu bạn nhấn &amp;quot;Đồng bộ ngay&amp;quot;, trình Xác thực sẽ cố gắng đồng bộ đồng hồ nội bộ của nó với các máy chủ của Google một lần. Cài đặt Ngày &amp; Giờ của thiết bị sẽ không thay đổi. &lt;p> Trình xác thực sẽ không truyền tải bất kỳ dữ liệu cá nhân hoặc thông tin tài khoản trong khi đồng bộ hóa đồng hồ nội bộ của nó với máy chủ Google. &lt;p> &lt;b>Tại sao điều này rất hữu ích?&lt;/b> &lt;p> Trình xác thực tạo mã xác minh 2 bước dựa trên 1) thời gian hiện tại, và 2) một số bí mật được biết đến với các ứng dụng và máy chủ. &lt;p> Nếu Trình xác thực và máy chủ không đồng ý về thời gian được, các mã mà ứng dụng tạo ra có thể không được chấp nhận khi bạn cố gắng đăng nhập. &lt;p> Theo mặc định, Trình xác thực sẽ sử dụng Ngày &amp; Giờ của thiết bị, và trong hầu hết các trường hợp, bạn sẽ có thể tạo ra mã hợp lệ bằng cách đảm bảo thời gian của bạn, ngày tháng, và thiết lập múi giờ được cấu hình đúng. Tuy nhiên, khi lỗi không phù hợp về thời gian xảy ra, chúng có thể khó để khắc phục sự cố (đặc biệt là nếu bạn sử dụng thời gian mạng được cung cấp hoặc múi giờ).</string>
     <string name="timesync_sync_now_screen_title">Đồng bộ ngay</string>
     <string name="timesync_sync_now_progress_dialog_title">Đồng bộ ngay</string>
     <string name="timesync_sync_now_progress_dialog_details">Đang kết nối tới máy chủ…</string>
@@ -163,7 +170,10 @@ Truy cập: account.xiaomi.com, và xác nhận kích hoạt."</string>
 
 Cài đặt Ngày &amp; Giờ trên thiết bị này sẽ không bị thay đổi."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_title">Thời gian đã chính xác</string>
-    <string name="timesync_sync_now_time_already_correct_dialog_details">"Đồng hồ nội bộ Trình xác thực đã không được điều chỉnh bởi vì nó dường như đã được đồng bộ với máy chủ."</string>
+    <string name="timesync_sync_now_time_already_correct_dialog_details">Đồng hồ nội bộ Trình xác thực đã không được điều chỉnh bởi vì nó dường như đã được đồng bộ với máy chủ.</string>
     <string name="timesync_sync_now_connectivity_error_dialog_title">Đồng bộ ngay</string>
-    <string name="timesync_sync_now_connectivity_error_dialog_details">"Lỗi kết nối với máy chủ. Vui lòng kiểm tra thiết lập mạng của bạn và thử lại."</string>
+    <string name="timesync_sync_now_connectivity_error_dialog_details">Lỗi kết nối với máy chủ. Vui lòng kiểm tra thiết lập mạng của bạn và thử lại.</string>
+    <string name="context_menu_remove_account">Xóa</string>
+    <string name="remove_account_dialog_button_remove">Xóa tài khoản</string>
+    <string name="acknowledge_button">Tiếp tục</string>
 </resources>
