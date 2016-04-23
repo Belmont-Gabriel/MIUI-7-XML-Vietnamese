@@ -61,6 +61,7 @@
     <string name="fingerprint_not_identified_msg">Để mở khóa thiết bị, nhập mật khẩu của bạn.</string>
     <string name="invalid_sim_pin_hint">PIN phải chứa từ 4-8 số</string>
     <string name="invalid_sim_puk_hint">PUK phải chứa ít nhất 8 ký tự</string>
-    <string name="input_password_after_boot_msg">Bạn phải nhập mật khẩu sau khi thiết bị khởi động lại.</string>
+    <string name="input_password_after_boot_msg">Để mở khóa thiết bị, nhập mật khẩu của bạn</string>
+    <string name="fingerprint_lockout_msg">Đợi một phút, sau đó thử mở khóa bằng vân tay lại</string>
     <string name="set_lock_wallpaper_failed">Không có hình nền mới</string>
 </resources>

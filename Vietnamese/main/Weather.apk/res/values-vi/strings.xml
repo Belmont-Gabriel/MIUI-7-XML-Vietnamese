@@ -48,7 +48,6 @@
     <string name="share_title">Chia sẻ thời tiết</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#Thời tiết MIUI#Hôm nay %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">Bây giờ</string>
     <string name="sunrise">Bình minh</string>
     <string name="sunset">Hoàng hôn</string>
@@ -76,26 +75,7 @@
     <string name="no_network_btn">Thử lại</string>
     <string name="share">Chia sẻ</string>
     <string name="open_browser">Mở trong trình duyệt</string>
-    <string name="empty">" "</string>
-    <string name="information_menu_title" />
     <string name="information_manager_wlan">Tải khi kết nối Wi-Fi</string>
     <string name="information_manager_information">Thông tin thời tiết</string>
-    <string name="aqi_quality_index_pure">AQI %1$s</string>
-    <string name="aqi_quality_index_good">AQI %1$s</string>
-    <string name="aqi_quality_index_moderate">AQI %1$s</string>
-    <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-    <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-    <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-    <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-    <string name="aqi_quality_index_break">AQI %1$s</string>
-    <string name="aqi_quality_index_pure_short_desc">%1$s</string>
-    <string name="aqi_quality_index_good_short_desc">%1$s</string>
-    <string name="aqi_quality_index_moderate_short_desc">%1$s</string>
-    <string name="aqi_quality_index_light_pollution_short_desc">%1$s</string>
-    <string name="aqi_quality_index_unhealthy_short_desc">%1$s</string>
-    <string name="aqi_quality_index_dangerous_short_desc">%1$s</string>
-    <string name="aqi_quality_index_hazardous_short_desc">%1$s</string>
-    <string name="aqi_quality_index_break_short_desc">%1$s</string>
-    <string name="aqi_short_desc">AQI %1$s</string>
-    <string name="view_indexes_wind_unit">km/h</string>
+    <string name="aqi_detail_title">Chỉ số Chất lượng Không khí</string>
 </resources>

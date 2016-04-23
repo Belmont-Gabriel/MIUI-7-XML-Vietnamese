@@ -84,6 +84,10 @@
         <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
         <item quantity="one">Phát hiện phiên bản mới cho %d ứng dụng.</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d ứng dụng tiềm ẩn nguy cơ rò rỉ thông tin cá nhân</item>
+        <item quantity="one">%d ứng dụng tiềm ẩn nguy cơ rò rỉ thông tin cá nhân</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái.</item>
         <item quantity="one">"Mật khẩu phải chứa ít nhất 1 chữ cái. "</item>

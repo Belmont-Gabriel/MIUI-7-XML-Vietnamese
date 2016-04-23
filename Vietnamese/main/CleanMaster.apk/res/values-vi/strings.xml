@@ -137,6 +137,9 @@
     <string name="hints_finish_quick_cleanup_title">Dọn dẹp %s rác</string>
     <string name="dialog_title_load_cleanup_engine_error">Lỗi</string>
     <string name="dialog_msg_load_cleanup_engine_error">Trình dọn dẹp bị lỗi.</string>
+    <string name="dialog_title_add_white_list_error">Chú ý</string>
+    <string name="dialog_msg_add_white_list_error">"Tập tin không được hỗ trợ để thêm vào danh sách ngoại lệ"</string>
+    <string name="dialog_ok_add_white_list_error">Hiểu rồi</string>
     <string name="ok">OK</string>
     <string name="cancel">Hủy</string>
     <string name="title_delete_large_file">Xóa tập tin lớn</string>
@@ -194,7 +197,7 @@
     <string name="button_text_select_pic">Chọn</string>
     <string name="button_text_unselect_pic">Bỏ chọn</string>
     <string name="button_text_delete_pic">Xóa</string>
-    <string name="hint_bar_select_image">Đã chọn %d</string>
+    <string name="hint_bar_select_image">%d ảnh đã chọn</string>
     <string name="hint_clean_select_similar_image">Đang xóa trùng lặp…</string>
     <string name="dialog_title_delete_image">Xóa các ảnh đã chọn</string>
     <string name="dialog_content_delete_image_confirm">Xóa %d ảnh?</string>

@@ -23,13 +23,6 @@
         <item>Cười điệu</item>
         <item>Không cảm xúc</item>
     </string-array>
-    <string-array name="prefEntries_ringtone_repeat">
-        <item>1 lần</item>
-        <item>2 lần</item>
-        <item>3 lần</item>
-        <item>5 lần</item>
-        <item>10 lần</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>Tên</item>
         <item>Biệt danh</item>
@@ -42,15 +35,7 @@
         <item>Trang Web</item>
         <item>Địa chỉ</item>
         <item>Ghi chú</item>
-        <item>Mối quan hệ</item>
-    </string-array>
-    <string-array name="entries_date_type">
-        <item>Đã nhận</item>
-        <item>Đã gửi</item>
-    </string-array>
-    <string-array name="entries_date_type_rightvalue">
-        <item>Đã nhận</item>
-        <item>Đã gửi</item>
+        <item>Quan hệ</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
@@ -93,5 +78,20 @@
         <item>Luôn luôn</item>
         <item>Chỉ khi im lặng</item>
         <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 lần</item>
+        <item>2 lần</item>
+        <item>3 lần</item>
+        <item>5 lần</item>
+        <item>10 lần</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Đã nhận</item>
+        <item>Đã gửi</item>
+    </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Đã nhận</item>
+        <item>Đã gửi</item>
     </string-array>
 </resources>

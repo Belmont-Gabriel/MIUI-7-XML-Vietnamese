@@ -91,7 +91,8 @@ Nếu bạn bật lại dữ liệu, bạn có thể bị nhà cung cấp tính 
     <string name="screen_pinning_negative">Không, cám ơn</string>
     <string name="accessibility_managed_profile">Cấu hình công việc</string>
     <string name="managed_profile_foreground_toast">Bạn đang sử dụng cấu hình công việc của bạn</string>
-    <string name="status_bar_date_format">EEE, d MMM</string>
+    <string name="status_bar_date_format">"EEEE
+d MMMM"</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
@@ -100,6 +101,8 @@ Trượt xuống để khóa"</string>
     <string name="description_direction_up">Kéo lên trên cho %s.</string>
     <string name="description_direction_left">Trượt sang trái để %s.</string>
     <string name="description_target_search">Tìm kiếm</string>
+    <string name="status_bar_date_format_12">"EEEE
+d MMMM"</string>
     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">Lưu trữ USB</string>
@@ -183,7 +186,7 @@ Trượt xuống để khóa"</string>
     <string name="status_bar_network_flow_content">"Hôm nay: %1$s   Còn lại: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt quá: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_purchase">"   Mua >"</string>
-    <string name="status_bar_network_flow_limit">"   Giới hạn hàng tháng: %1$s"</string>
+    <string name="status_bar_network_flow_limit">"   Giới hạn hàng tháng: %1$s   "</string>
     <string name="drive_mode_tip">Bạn đang ở chế độ Lái xe</string>
     <string name="no_notification_tips">Không có thông báo.</string>
     <string name="expanded_notification_manager">Quản lý thông báo</string>
@@ -193,6 +196,7 @@ Trượt xuống để khóa"</string>
     <string name="block_record_notification_title">Ẩn thông báo</string>
     <string name="block_record_notification_text">Ẩn thông báo từ %1$s.</string>
     <string name="block_record_notification_more_text">Ẩn thông báo từ %1$s &amp; %2$d ứng dụng.</string>
+    <string name="notification_hidden_text">Nội dung đã ẩn</string>
     <string name="notification_otg_mouse_in">Chuột đã kết nối</string>
     <string name="notification_otg_keyboard_in">Bàn phím đã kết nối</string>
     <string name="notification_otg_gamestick_in">Bộ điều khiển trò chơi đã kết nối</string>
@@ -218,11 +222,7 @@ Trượt xuống để khóa"</string>
     <string name="mdb_entering">Đang bắt đầu…</string>
     <string name="status_bar_recording_back">Quay trở lại Ghi âm</string>
     <string name="status_bar_recording_pause">Ghi âm đã tạm dừng</string>
-    <string name="headset_settings">Tai nghe đã kết nối</string>
-    <string name="headset_info">Nhấn để xem cài đặt</string>
-    <string name="headset_custom">Bỏ qua</string>
     <string name="usb_share_net_info">Dùng kết nối internet của máy tính</string>
-    <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
     <string name="battery_profiles">Cấu hình sử dụng pin</string>
     <string name="oldman_airplane_mode_text">chế độ máy bay</string>
     <string name="oldman_incall_text">đang gọi</string>
@@ -239,5 +239,11 @@ Trượt xuống để khóa"</string>
     <string name="vpn_text_long">Đã kết nối tới %s. Chạm để xem chi tiết.</string>
     <string name="screen_button_notification_title">Phím điều hướng đã bị tắt</string>
     <string name="screen_button_notification_text">Để bật, bấm đồng thời phím Trang chính và nút Nguồn.</string>
-    <string name="task_access_locked_app_msg">Nội dung ứng dụng đã được ẩn.</string>
+    <string name="task_access_locked_app_msg">Đã bật khóa ứng dụng</string>
+    <string name="account_info">Chưa đăng nhập</string>
+    <string name="notification_header_title">Thông báo</string>
+    <string name="headset_settings">Tai nghe đã kết nối</string>
+    <string name="headset_info">Nhấn để xem cài đặt</string>
+    <string name="headset_custom">Bỏ qua</string>
+    <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
 </resources>

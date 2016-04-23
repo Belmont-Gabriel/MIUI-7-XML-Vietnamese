@@ -72,14 +72,19 @@
         <item>Cảnh báo và tắt dữ liệu di động</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
-        <item>Được dùng nhiều nhất</item>
+        <item>Sử dụng nhiều nhất</item>
         <item>Tên</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
         <item>Không</item>
         <item>Thấp</item>
-        <item>Trung bình</item>
+        <item>Vừa</item>
         <item>Cao</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Luôn luôn</item>
+        <item>Chỉ trường hợp ngoại lệ</item>
+        <item>Không bao giờ</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Sau 1 phút</item>

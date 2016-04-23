@@ -1,64 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Không hiển thị khuôn mặt này?</item>
+        <item quantity="other">Không hiển thị những người này?</item>
+        <item quantity="one">Không hiển thị người này?</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s ảnh %2$s >></item>
+        <item quantity="other">%1$s ảnh của %2$s >></item>
+        <item quantity="one">%1$s ảnh của %2$s >></item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d năm</item>
+        <item quantity="one">%d year</item>
     </plurals>
     <plurals name="age_month">
         <item quantity="other">%d tháng</item>
+        <item quantity="one">%d tháng</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d ảnh của %2$s sẽ được thêm</item>
+        <item quantity="one">%1$d ảnh của %2$s sẽ được thêm</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d ảnh của %2$s sẽ được thêm</item>
+        <item quantity="one">%1$d ảnh của %2$s sẽ được thêm</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Đã chia sẻ đến %d người</item>
+        <item quantity="one">Đã chia sẻ đến %d người</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">Xóa %1$d ảnh %2$s?</item>
+        <item quantity="other">Xóa %1$d ảnh của %2$s?</item>
+        <item quantity="one">Xóa ảnh này của %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Xóa %1$d video %2$s?</item>
+        <item quantity="other">Xóa %1$d video của %2$s?</item>
+        <item quantity="one">Xóa video này của %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">Xóa %1$d mục %2$s?</item>
+        <item quantity="other">Xóa %1$d mục của %2$s?</item>
+        <item quantity="one">Xóa %1$d mục của %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(tổng %d mục)</item>
+        <item quantity="one">(tổng %d mục)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">%d ảnh</item>
+        <item quantity="one">%d ảnh</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d ảnh| %2$s</item>
+        <item quantity="other">%1$d ảnh | %2$s</item>
+        <item quantity="one">%1$d ảnh | %2$s</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d ảnh đang chờ sao lưu</item>
+        <item quantity="one">1 ảnh đang chờ sao lưu</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d video đang chờ sao lưu</item>
+        <item quantity="one">1 video đang chờ sao lưu</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d mục đang chờ sao lưu</item>
+        <item quantity="one">1 mục đang chờ sao lưu</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Đang sao lưu %1$d ảnh…</item>
+        <item quantity="one">Đang sao lưu ảnh…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Đang sao lưu %1$d video…</item>
+        <item quantity="one">Đang sao lưu video…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Đang sao lưu %1$d mục…</item>
+        <item quantity="one">Đang sao lưu 1 mục…</item>
     </plurals>
     <plurals name="confirm_delete_album">
         <item quantity="other">Xóa %1$s album (Tổng %2$s)?</item>

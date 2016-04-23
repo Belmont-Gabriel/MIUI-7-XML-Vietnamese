@@ -142,8 +142,8 @@
     <string name="title_date_type">Dấu thời gian</string>
     <string name="mx_msg">Tin nhắn Mi</string>
     <string name="mx_enable">Tin nhắn Mi</string>
-    <string name="mx_on_sim_1">Tin nhắn Mi SIM1</string>
-    <string name="mx_on_sim_2">Tin nhắn Mi SIM2</string>
+    <string name="mx_on_sim_1">Tin nhắn Mi SIM 1</string>
+    <string name="mx_on_sim_2">Tin nhắn Mi SIM 2</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="ex_type_mx">Tin nhắn Mi</string>
     <string name="mx_dspt">Gửi tin nhắn cho người dùng MIUI khác mà không phát sinh cước SMS</string>
@@ -162,8 +162,8 @@
     <string name="confirm_export_dialog_description">Cuộc trò chuyện trước với liên hệ này sẽ không còn được ẩn.</string>
     <string name="number_add_hint">Nhập số điện thoại</string>
     <string name="mx_recommend_msg">Chạm để bật tin nhắn Mi.</string>
-    <string name="sim_card1">SIM1</string>
-    <string name="sim_card2">SIM2</string>
+    <string name="sim_card1">SIM 1</string>
+    <string name="sim_card2">SIM 2</string>
     <string name="pref_forward_title">Chuyển tiếp</string>
     <string name="pref_title_fwd_sender_info">Chuyển tiếp thông tin người gửi</string>
     <string name="pref_title_card_format">Chế độ chia sẻ thẻ</string>
@@ -200,6 +200,7 @@
     <string name="msglist_more_refreshing">Đang làm mới…</string>
     <string name="msglist_no_more_to_refresh">Đã cập nhật</string>
     <string name="view_hms_details">Chi tiết</string>
+    <string name="view_hms_details_download">Tải xuống</string>
     <string name="xiaomi_service_number">Số dịch vụ</string>
     <string name="retrive_hms_tips">Đang lấy…</string>
     <string name="share_img">Chia sẻ</string>
@@ -230,8 +231,13 @@
     <string name="try_again">Thử lại</string>
     <string name="followed_accounts">Tài khoản đã theo dõi</string>
     <string name="mipub_message_block">Không nhận tin nhắn từ %s</string>
-    <string name="mipub_message_receive">Khôi phục lại tin nhắn từ %s</string>
-    <string name="mipub_message_block_already">Bạn đã thiết lập không nhận tin nhắn</string>
+    <string name="mipub_message_receive">Nhận tin nhắn từ %s</string>
+    <string name="mipub_message_block_already">Bạn đã chặn tin nhắn từ tài khoản này</string>
+    <string name="message_block_processing">Đang xử lý…</string>
+    <string name="message_block_reminder">Nhắc nhở</string>
+    <string name="message_block_confirmation">Chặn tin nhắn từ tài khoản này?</string>
     <string name="current_service_number">Số dịch vụ hiện tại</string>
     <string name="menu_more_service">Thêm</string>
+    <string name="low_memory">"Bộ nhớ thiết bị quá thấp"</string>
+    <string name="scan_result">Kết quả</string>
 </resources>
