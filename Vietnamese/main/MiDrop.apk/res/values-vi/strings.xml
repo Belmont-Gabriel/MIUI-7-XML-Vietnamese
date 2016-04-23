@@ -12,8 +12,8 @@
     <string name="Unregister">Chưa đăng ký</string>
     <string name="TestSender">Kiểm tra Người gửi</string>
     <string name="TestReceiver">Kiểm tra Người nhận</string>
-    <string name="TestP2pGo">Test P2pGroupOwner</string>
-    <string name="TestP2pGc">Test P2pGroupClient</string>
+    <string name="TestP2pGo">Kiểm tra P2pGroupOwner</string>
+    <string name="TestP2pGc">Kiểm tra P2pGroupClient</string>
     <string name="TestP2pLs">Kiểm tra P2pLegacyStation</string>
     <string name="TestBonjour">Kiểm tra Bonjour</string>
     <string name="transmission_click_send">Gửi</string>

@@ -130,7 +130,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="stable_build">Ổn định</string>
     <string name="unstable_build">Không ổn định</string>
     <string name="particular_build">Đặc biệt</string>
-    <string name="about_device">Thông tin điện thoại</string>
+    <string name="about_device">Thông tin thiết bị</string>
     <string name="emegency_build">"Phiên bản "</string>
     <string name="loading">Đang yêu cầu…</string>
     <string name="share_update">Chia sẻ thông tin cập nhật</string>

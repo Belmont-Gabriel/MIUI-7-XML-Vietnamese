@@ -1364,7 +1364,7 @@ Có người dùng khác trên thiết bị này.
     <string name="location_access_title">Truy cập vị trí</string>
     <string name="location_access_summary">Ứng dụng có thể nhận được thông tin vị trí của bạn</string>
     <string name="location_sources_heading">Nguồn thông tin vị trí</string>
-    <string name="about_settings">Giới thiệu về điện thoại</string>
+    <string name="about_settings">Thông tin thiết bị</string>
     <string name="about_settings_summary">Xem thông tin pháp lý, trạng thái, phiên bản phần mềm</string>
     <string name="legal_information">Thông tin pháp lý</string>
     <string name="contributors_title">MIUI Việt Nam</string>

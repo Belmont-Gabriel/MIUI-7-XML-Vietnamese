@@ -60,8 +60,20 @@
         <item>Tự động</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
+        <item>SIM</item>
         <item>NV</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Cả 3</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Cả 3</item>
     </string-array>
     <string-array name="livetalk_about_info_array">
         <item>- Hỗ trợ số điện thoại trong nước và quốc tế.</item>
