@@ -17,7 +17,6 @@
     <string name="respond_via_sms_canned_response_4">Giờ tôi ko thể nói chuyện. Gọi sau nhé?</string>
     <string name="respond_via_sms_setting_title">Trả lời nhanh</string>
     <string name="respond_via_sms_setting_title_2">Chỉnh sửa trả lời nhanh</string>
-    <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_edittext_dialog_title">Trả lời nhanh</string>
     <string name="respond_via_sms_confirmation_format">Đã gửi tin nhắn tới %s.</string>
     <string name="enable_account_preference_title">Tài khoản gọi</string>
@@ -47,5 +46,6 @@
     <string name="notification_missedCall_call_back_miui">Gọi</string>
     <string name="dial_vt_fail_prompt">"Mạng hiện tại không hỗ trợ VoLTE. Chuyển sang cuộc gọi thoại thông thường?"</string>
     <string name="dial_conference_fail_prompt">"Không thể gọi hội nghị trực tiếp vì mạng hiện tại không hỗ trợ VoLTE."</string>
+    <string name="can_not_dial_while_vt_prompt">"Không thể quay số khi đang gọi video"</string>
     <string name="voice_dial_out">Cuộc gọi thoại</string>
 </resources>

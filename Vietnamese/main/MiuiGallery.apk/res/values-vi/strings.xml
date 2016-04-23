@@ -511,7 +511,6 @@
     <string name="welcome_to_slim">Chào mừng đến với chức năng giảm nhỏ album</string>
     <string name="slim_introduce">Thay thế ảnh/video phân giải cao trên máy bằng phiên bản tối ưu sau khi sao lưu vào Mi Cloud. Các ảnh/video phân giải cao này vẫn được lưu trữ trên Mi Cloud. Điều này giúp tiết kiệm nhiều hơn 90% dung lượng (Yêu cầu đăng nhập tài khoản Xiaomi).</string>
     <string name="slim_introduce_with_specific_size">Thay thế ảnh/video phân giải cao trên máy bằng phiên bản tối ưu sau khi sao lưu vào Mi Cloud. Các ảnh/video phân giải cao này vẫn được lưu trữ trên Mi Cloud. Điều này giúp tiết kiệm %1$s (Yêu cầu đăng nhập tài khoản Xiaomi).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Sao lưu ảnh và video tự động(Yêu cầu tài khoản Xiaomi)</string>
     <string name="next">Tiếp theo</string>
     <string name="login_and_enable_service">Bắt đầu đăng nhập và sử dụng Mi Cloud</string>
