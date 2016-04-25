@@ -2,4 +2,4 @@
 	This is repository for MIUIAndroid MultiRom project.
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
-    [Belmont] - Leader of the Vietnam translation team for MIUI7
+    [Belmont] - Leader of the Vietnamese translation team for MIUI
